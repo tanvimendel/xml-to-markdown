@@ -1,7 +1,19 @@
 import xml.etree.ElementTree as ET
 
+def remove_unwanted_tags(root, tags_to_remove):
+    # Find all specified tags and remove them from their parent
+    for tag in tags_to_remove:
+        for element in root.findall(f'.//{tag}'):
+            parent = root.find(f".//{element.tag}/..")  # Find the parent of the element
+            if parent is not None:
+                parent.remove(element)
+
 def convert_to_markdown(xml_content):
     root = ET.fromstring(xml_content)
+
+    # Remove all <table-wrap> and <fig> elements
+    remove_unwanted_tags(root, tags_to_remove=['table-wrap', 'fig'])
+
     markdown_content = []
 
     # Extract article title
@@ -85,42 +97,22 @@ def convert_to_markdown(xml_content):
                 markdown_content.append(f"  - Principal Investigator: {pi_name}")
         markdown_content.append("")
 
-    # Extract copyright information
-    copyright_info = root.find('.//permissions/copyright-statement')
-    if copyright_info is not None:
-        markdown_content.append(f"**Copyright:** {extract_text(copyright_info)}\n")
-
     # Extract references
     references = root.findall('.//ref-list/ref')
     if references:
         markdown_content.append("## References\n")
         for ref in references:
             label = extract_text(ref.find('label'))
-            citation = ref.find('.//element-citation')
+            citation = ref.find('.//mixed-citation')
             if citation is not None:
-                authors = citation.findall('.//person-group[@person-group-type="author"]/name')
-                author_list = ', '.join([f"{extract_text(a.find('surname'))} {extract_text(a.find('given-names'))}" for a in authors])
-                article_title = extract_text(citation.find('article-title'))
-                source = extract_text(citation.find('source'))
-                year = extract_text(citation.find('year'))
-                volume = extract_text(citation.find('volume'))
-                fpage = extract_text(citation.find('fpage'))
-                lpage = extract_text(citation.find('lpage'))
-                doi = extract_text(citation.find('pub-id[@pub-id-type="doi"]'))
-                
-                ref_text = f"{label} {author_list}. {article_title}. *{source}*. {year};{volume}:{fpage}-{lpage}. DOI: {doi}"
-                markdown_content.append(ref_text)
-            else:
-                # Handle mixed-citation
-                mixed_citation = ref.find('mixed-citation')
-                if mixed_citation is not None:
-                    markdown_content.append(f"{label} {extract_text(mixed_citation)}")
+                citation_text = extract_citation(citation)
+                markdown_content.append(f"{label} {citation_text}")
         markdown_content.append("")
 
     return "\n".join(markdown_content)
 
 def process_sections(sections):
-    """Process section elements recursively to return their markdown representation."""
+    """Process section elements recursively to return their markdown representation, ignoring tables and figures."""
     content = []
     for sec in sections:
         title = sec.find('title')
@@ -134,6 +126,31 @@ def process_sections(sections):
             content.append(process_sections(subsections))
     return "\n".join(content)
 
+def extract_citation(citation_element):
+    """Extract and format the citation text from a mixed-citation element."""
+    person_group = citation_element.find('.//person-group')
+    authors = []
+    if person_group is not None:
+        for name in person_group.findall('name'):
+            surname = extract_text(name.find('surname'))
+            given_names = extract_text(name.find('given-names'))
+            authors.append(f"{surname} {given_names}")
+        if citation_element.find('etal') is not None:
+            authors.append('et al.')
+
+    article_title = extract_text(citation_element.find('article-title'))
+    source = extract_text(citation_element.find('source'))
+    year = extract_text(citation_element.find('year'))
+    volume = extract_text(citation_element.find('volume'))
+    issue = extract_text(citation_element.find('issue'))
+    fpage = extract_text(citation_element.find('fpage'))
+    lpage = extract_text(citation_element.find('lpage'))
+    doi = extract_text(citation_element.find('.//pub-id[@pub-id-type="doi"]'))
+    pmid = extract_text(citation_element.find('.//pub-id[@pub-id-type="pmid"]'))
+
+    citation_text = f"{', '.join(authors)}. {article_title}. *{source}*. {year};{volume}({issue}):{fpage}–{lpage}. DOI: {doi}, PMID: {pmid}"
+    return citation_text
+
 def extract_text(element):
     """Extract text content from an XML element, handling None gracefully."""
     if element is None:
@@ -145,14 +162,14 @@ def read_xml_file(file_path):
     with open(file_path, 'r', encoding='utf-8') as file:
         return file.read()
 
-def save_markdown_file(markdown_text, filename="outputMds/PMC11202987.md"):
+def save_markdown_file(markdown_text, filename="outputMds/PMC10099463.md"):
     """Save the generated markdown text to a file."""
     with open(filename, "w") as file:
         file.write(markdown_text)
 
 if __name__ == "__main__":
     # Read the XML content from a file
-    xml_content = read_xml_file("testXmls/PMC11202987.xml")
+    xml_content = read_xml_file("testXmls/PMC10099463.xml")
 
     # Convert XML to Markdown
     markdown_text = convert_to_markdown(xml_content)
