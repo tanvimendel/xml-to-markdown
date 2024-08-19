@@ -103,10 +103,10 @@ def convert_to_markdown(xml_content):
         markdown_content.append("## References\n")
         for ref in references:
             label = extract_text(ref.find('label'))
-            citation = ref.find('.//mixed-citation')
+            citation = ref.find('.//mixed-citation') or ref.find('.//element-citation')
             if citation is not None:
                 citation_text = extract_citation(citation)
-                markdown_content.append(f"{label} {citation_text}")
+                markdown_content.append(f"{label}. {citation_text}")
         markdown_content.append("")
 
     return "\n".join(markdown_content)
@@ -127,7 +127,7 @@ def process_sections(sections):
     return "\n".join(content)
 
 def extract_citation(citation_element):
-    """Extract and format the citation text from a mixed-citation element."""
+    """Extract and format the citation text from a mixed-citation or element-citation element."""
     person_group = citation_element.find('.//person-group')
     authors = []
     if person_group is not None:
@@ -142,13 +142,17 @@ def extract_citation(citation_element):
     source = extract_text(citation_element.find('source'))
     year = extract_text(citation_element.find('year'))
     volume = extract_text(citation_element.find('volume'))
-    issue = extract_text(citation_element.find('issue'))
     fpage = extract_text(citation_element.find('fpage'))
     lpage = extract_text(citation_element.find('lpage'))
     doi = extract_text(citation_element.find('.//pub-id[@pub-id-type="doi"]'))
     pmid = extract_text(citation_element.find('.//pub-id[@pub-id-type="pmid"]'))
 
-    citation_text = f"{', '.join(authors)}. {article_title}. *{source}*. {year};{volume}({issue}):{fpage}–{lpage}. DOI: {doi}, PMID: {pmid}"
+    citation_text = f"{', '.join(authors)}. {article_title}. *{source}*. {year};{volume}:{fpage}-{lpage}."
+    if doi:
+        citation_text += f" DOI: {doi}."
+    if pmid:
+        citation_text += f" PMID: {pmid}."
+
     return citation_text
 
 def extract_text(element):
@@ -162,14 +166,14 @@ def read_xml_file(file_path):
     with open(file_path, 'r', encoding='utf-8') as file:
         return file.read()
 
-def save_markdown_file(markdown_text, filename="outputMds/PMC10099463.md"):
+def save_markdown_file(markdown_text, filename="outputMds/PMC11207375.md"):
     """Save the generated markdown text to a file."""
     with open(filename, "w") as file:
         file.write(markdown_text)
 
 if __name__ == "__main__":
     # Read the XML content from a file
-    xml_content = read_xml_file("testXmls/PMC10099463.xml")
+    xml_content = read_xml_file("testXmls/PMC11207375.xml")
 
     # Convert XML to Markdown
     markdown_text = convert_to_markdown(xml_content)
