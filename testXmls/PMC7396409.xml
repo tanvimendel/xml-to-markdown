@@ -1,0 +1,1263 @@
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink"
+    article-type="research-article">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="nlm-ta">Prog Orthod</journal-id>
+            <journal-id journal-id-type="iso-abbrev">Prog Orthod</journal-id>
+            <journal-title-group>
+                <journal-title>Progress in Orthodontics</journal-title>
+            </journal-title-group>
+            <issn pub-type="ppub">1723-7785</issn>
+            <issn pub-type="epub">2196-1042</issn>
+            <publisher>
+                <publisher-name>Springer Berlin Heidelberg</publisher-name>
+                <publisher-loc>Berlin/Heidelberg</publisher-loc>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="pmid">32743673</article-id>
+            <article-id pub-id-type="pmc">PMC7396409</article-id>
+            <article-id pub-id-type="publisher-id">322</article-id>
+            <article-id pub-id-type="doi">10.1186/s40510-020-00322-8</article-id>
+            <article-categories>
+                <subj-group subj-group-type="heading">
+                    <subject>Research</subject>
+                </subj-group>
+            </article-categories>
+            <title-group>
+                <article-title>Prevalence of Body Dysmorphic Disorder among patients seeking
+                    orthodontic treatment</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author" corresp="yes">
+                    <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-4257-6361</contrib-id>
+                    <name>
+                        <surname>Sathyanarayana</surname>
+                        <given-names>Haritha Pottipalli</given-names>
+                    </name>
+                    <address>
+                        <email>haritha.ps@sriramachandra.edu.in</email>
+                    </address>
+                    <xref ref-type="aff" rid="Aff1">1</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Padmanabhan</surname>
+                        <given-names>Sridevi</given-names>
+                    </name>
+                    <address>
+                        <email>sridevipadu@gmail.com</email>
+                    </address>
+                    <xref ref-type="aff" rid="Aff1">1</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Balakrishnan</surname>
+                        <given-names>R.</given-names>
+                    </name>
+                    <address>
+                        <email>Drbalakrishnan16@gmail.com</email>
+                    </address>
+                    <xref ref-type="aff" rid="Aff2">2</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Chitharanjan</surname>
+                        <given-names>Arun B.</given-names>
+                    </name>
+                    <address>
+                        <email>arunchith@gmail.com</email>
+                    </address>
+                    <xref ref-type="aff" rid="Aff3">3</xref>
+                </contrib>
+                <aff id="Aff1"><label>1</label>Department of Orthodontics, Sri Ramachandra Dental
+                    College, Sri Ramachandra Institute of Higher Education and Research, Porur,
+                    Chennai, Tamil Nadu 600116 India </aff>
+                <aff id="Aff2"><label>2</label><institution-wrap>
+                        <institution-id institution-id-type="GRID">grid.459990.8</institution-id>
+                        <institution-id institution-id-type="ISNI">0000 0004 1804 0473</institution-id>
+                        <institution>Sri Ramachandra Medical Centre, </institution>
+                    </institution-wrap>Porur,
+                    Chennai, Tamil Nadu 600116 India </aff>
+                <aff id="Aff3"><label>3</label>Chennai, India </aff>
+            </contrib-group>
+            <pub-date pub-type="epub">
+                <day>3</day>
+                <month>8</month>
+                <year>2020</year>
+            </pub-date>
+            <pub-date pub-type="pmc-release">
+                <day>3</day>
+                <month>8</month>
+                <year>2020</year>
+            </pub-date>
+            <pub-date pub-type="collection">
+                <year>2020</year>
+            </pub-date>
+            <volume>21</volume>
+            <elocation-id>20</elocation-id>
+            <history>
+                <date date-type="received">
+                    <day>9</day>
+                    <month>6</month>
+                    <year>2019</year>
+                </date>
+                <date date-type="accepted">
+                    <day>24</day>
+                    <month>5</month>
+                    <year>2020</year>
+                </date>
+            </history>
+            <permissions>
+                <copyright-statement>&#x000a9; The Author(s) 2020</copyright-statement>
+                <license license-type="OpenAccess">
+                    <license-p><bold>Open Access</bold>This article is licensed under a Creative
+                        Commons Attribution 4.0 International License, which permits use, sharing,
+                        adaptation, distribution and reproduction in any medium or format, as long
+                        as you give appropriate credit to the original author(s) and the source,
+                        provide a link to the Creative Commons licence, and indicate if changes were
+                        made. The images or other third party material in this article are included
+                        in the article's Creative Commons licence, unless indicated otherwise in a
+                        credit line to the material. If material is not included in the article's
+                        Creative Commons licence and your intended use is not permitted by statutory
+                        regulation or exceeds the permitted use, you will need to obtain permission
+                        directly from the copyright holder. To view a copy of this licence, visit <ext-link
+                            ext-link-type="uri"
+                            xlink:href="http://creativecommons.org/licenses/by/4.0/">
+                        http://creativecommons.org/licenses/by/4.0/</ext-link>.</license-p>
+                </license>
+            </permissions>
+            <abstract id="Abs1">
+                <sec>
+                    <title>Background</title>
+                    <p id="Par1">Body Dysmorphic Disorder (BDD) is a psychiatric disorder with
+                        delusions about defects in appearance for which patients seek various
+                        treatments. Patients with BDD often seek cosmetic procedures, and
+                        orthodontic treatment is one among them. This is the first Indian study to
+                        determine the prevalence of BDD in an orthodontic outpatient department.</p>
+                </sec>
+                <sec>
+                    <title>Materials and method</title>
+                    <p id="Par2">A total of 1184 patients with varying degrees of malocclusion
+                        completed the BDD-YBOCS questionnaire, while an experienced orthodontist
+                        assessed the severity of malocclusion with a rating scale.</p>
+                </sec>
+                <sec>
+                    <title>Results</title>
+                    <p id="Par3">Sixty-two patients (5.2%) were screened positive for BDD. Most of
+                        the BDD-positive patients were single (<italic>p</italic> value of 0.02) and
+                        had multiple previous consultations for orthodontic treatment (<italic>p</italic>
+                        value of &#x0003c;&#x02009;0.00**) with a gender predilection toward males (<italic>
+                        p</italic> value of 0.00**), and age was not statistically significant with
+                        a <italic>p</italic> value of 0.3.</p>
+                </sec>
+                <sec>
+                    <title>Conclusion</title>
+                    <p id="Par4">From our study, the prevalence of BDD among orthodontic patients
+                        was 5.2%. The orthodontist should be aware of the high prevalence of BDD
+                        among orthodontic patients and identify the expectations of the patient at
+                        the time of history taking and refer the patient to a psychiatrist for
+                        diagnosis and appropriate management.</p>
+                </sec>
+            </abstract>
+            <kwd-group xml:lang="en">
+                <title>Keywords</title>
+                <kwd>Body Dysmorphic Disorder</kwd>
+                <kwd>Prevalence</kwd>
+                <kwd>Screening</kwd>
+                <kwd>Orthodontics</kwd>
+            </kwd-group>
+            <custom-meta-group>
+                <custom-meta>
+                    <meta-name>issue-copyright-statement</meta-name>
+                    <meta-value>&#x000a9; The Author(s) 2020</meta-value>
+                </custom-meta>
+            </custom-meta-group>
+        </article-meta>
+    </front>
+    <body>
+        <sec id="Sec1">
+            <title>Introduction</title>
+            <p id="Par5">There has been an increase in the number of patients who seek orthodontic
+                treatment to improve their appearance and quality of life because of the varied
+                treatment options available. Body image plays an important role for patients
+                requesting orthodontic treatment. Body Dysmorphic Disorder (BDD) previously known as
+                dysmorphophobia is also referred to as body dysmorphia or dysmorphic syndrome. BDD
+                was first described by Morselli as dysmorphophobia. In 1987, the American
+                Psychiatric Association recognized this disorder as &#x0201c;Body Dysmorphic
+                Disorder&#x0201d; in the Diagnostic and Statistical Manual of Mental Disorders IV
+                (DSM IV) [<xref ref-type="bibr" rid="CR1">1</xref>] and the International
+                Classification of Diseases-10 [<xref ref-type="bibr" rid="CR2">2</xref>] which is
+                described as a mental condition characterized as a distressing or impairing
+                preoccupation with an imagined or a slight defect in appearance.</p>
+            <p id="Par6">According to DSM-5, BDD is now classified under Obsessive-Compulsive and
+                related disorders requiring the presence of repetitive behaviors or mental acts in
+                response to appearance concerns [<xref ref-type="bibr" rid="CR3">3</xref>]. BDD was
+                earlier considered as a somatoform disorder in which the affected person was
+                excessively concerned about and preoccupied by a perceived defect in his or her
+                physical features (body image). BDD is currently described as an
+                Obsessive-Compulsive-related disorder since there is a pathological fear of ugliness
+                in some parts of the body although no defect is observed by others or, if any, is
+                thought to be slight [<xref ref-type="bibr" rid="CR4">4</xref>].</p>
+            <p id="Par7">The head and face seem to be the most concerned part of the body among BDD
+                patients which includes acne, wrinkles, scars, vascular markings, swelling, facial
+                asymmetry or disproportion, hair thinning, or excessive facial hair [<xref
+                    ref-type="bibr" rid="CR5">5</xref>, <xref ref-type="bibr" rid="CR6">6</xref>].
+                Apart from the above&#x000a0;mentioned concerns, BDD patients are also concerned
+                about the nose, eyes, eyelids, eyebrows, ears, cheeks, teeth, lips, mouth, and jaws.
+                Teeth whitening, jaw surgery, and braces were the major concerns for BDD patients to
+                visit the general dentists. Orthodontic concerns were rotations, spacing, upper and
+                lower midlines, and tooth size [<xref ref-type="bibr" rid="CR7">7</xref>].</p>
+            <p id="Par8">In patients who seek cosmetic therapy, BDD can be more prevalent and may
+                remain unrecognized. Most of the BDD patients who undergo regular dental or
+                orthodontic treatment are not satisfied with the results and seek other dentists and
+                orthodontists for the same concern repeatedly. The psychological assessment and
+                expectations of patients seeking orthodontic treatment is an important and therefore
+                critical part of the overall assessment. It allows us to understand the potential
+                problems at an initial stage before commencing the treatment.</p>
+            <p id="Par9">BDD is reported in 2% of the general population and between 6 and 15% of
+                dermatologic and cosmetic surgery patients in the USA [<xref ref-type="bibr"
+                    rid="CR8">8</xref>]. Only two studies have been published on the prevalence of
+                BDD among orthodontic patients. Hepburn and Cunningham conducted a study on 40 adult
+                orthodontic patients and found that 7.5% of orthodontic patients were screened
+                positive for BDD compared to 2.9% in a general public sample [<xref ref-type="bibr"
+                    rid="CR9">9</xref>]. The second study by Yassaei et al. evaluated 270 Iranian
+                orthodontic patients and reported that fifteen patients (5.5%) screened positive for
+                BDD [<xref ref-type="bibr" rid="CR10">10</xref>]. The prevalence of BDD in the
+                dermatological setting was 8&#x02013;15% [<xref ref-type="bibr" rid="CR11">11</xref>
+                , <xref ref-type="bibr" rid="CR12">12</xref>], and plastic surgery patients were
+                3&#x02013;53% [<xref ref-type="bibr" rid="CR13">13</xref>, <xref ref-type="bibr"
+                    rid="CR14">14</xref>]. As orthodontists are likely to encounter such patients in
+                their practice, it is mandatory to understand and be familiar with BDD so that these
+                patients could be referred to a psychiatrist for diagnosis and appropriate
+                management.</p>
+            <p id="Par10">Leone et al. [<xref ref-type="bibr" rid="CR15">15</xref>] reported the
+                diagnostic criteria as follows: (1) Preoccupation with an imagined defect in
+                appearance. If a slight physical anomaly is present, the person&#x02019;s concern is
+                excessive. (2) The preoccupation causes clinically significant distress or
+                impairment in social, occupational, or other important areas of functioning. (3) The
+                preoccupation is not better accounted for by another mental disorder. BDD is also
+                associated with significant occupational and social impairment and suicidal
+                tendencies [<xref ref-type="bibr" rid="CR16">16</xref>]. BDD is a poorly studied
+                condition among Asian populations, and to our knowledge, no data exist about the
+                prevalence of BDD among Indian orthodontic patients.</p>
+            <sec id="Sec2">
+                <title>Aim</title>
+                <p id="Par11">The following are the aims of the present study:\n<list
+                        list-type="order">
+                        <list-item>
+                            <p id="Par12">To screen and identify the patients who are seeking
+                    orthodontic treatment for BDD</p>
+                        </list-item>
+                        <list-item>
+                            <p id="Par13">To establish an association between demographic variables
+                    and BDD in the study population</p>
+                        </list-item>
+                    </list></p>
+            </sec>
+        </sec>
+        <sec id="Sec3">
+            <title>Materials and method</title>
+            <p id="Par14">This study was conducted in the Department of Orthodontics, Sri
+                Ramachandra Institute of Higher Education and Research, Chennai, India. The study
+                protocol was approved by the Institutional Ethics Committee (IEC-NI/12/MAR/27/15).
+                The sample size with the power of 80 was calculated, and 1184 patients who had been
+                referred to the Department of Orthodontics seeking orthodontic treatment
+                participated in the study. The inclusion criteria were that the patient had to be
+                over 18&#x02009;years of age and willing to participate in the study and fill out
+                the questionnaire. Patients with physical deformities, craniofacial syndromes, cleft
+                lip and/or palate, and skeletal malocclusion requiring orthognathic surgery were
+                excluded from the study. All the subjects were informed in detail about the
+                questionnaire and had consented to participate in the study. All new patients who
+                met the inclusion criteria received a self-report version of the BDD-YBOCS
+                questionnaire which has reliable validity and reproducibility [<xref ref-type="bibr"
+                    rid="CR17">17</xref>]. A modified self-report version of the BDD-YBOCS
+                questionnaire has 12 questions of which the first three were related to the
+                diagnostic criteria of BDD and the rest of the questions were focused on determining
+                the severity of symptoms [<xref ref-type="bibr" rid="CR18">18</xref>]. Diagnosis is
+                based on the score of a patient in the first three questions. A score of 3 is
+                suggestive of no BDD, while scores of 4&#x02013;5 indicate mild BDD, 6&#x02013;7
+                represent moderate BDD, and 8&#x02013;9 and 10&#x02013;11 pertain to severe and
+                extremely severe BDD, respectively [<xref ref-type="bibr" rid="CR19">19</xref>].
+                Age, gender, and marital status were added to the questionnaire. In addition, one
+                question regarding the history of previous orthodontic consultations from the
+                screening questionnaire for BDD in orthodontic patients suggested by Polo was
+                included in our questionnaire [<xref ref-type="bibr" rid="CR7">7</xref>]. Once the
+                questionnaire was filled, an experienced orthodontist rated the severity of
+                malocclusion in all the patients. The scale ranges from 1 to 4, where grade 1 is
+                very extremely minor malocclusion; grade 2 is described as mild tooth rotations,
+                mild inter-dental spacing, minimal misalignment of the midline, and other minor
+                tooth imperfections; grade 3 is moderate or borderline need; and grade 4 definitely
+                requires treatment.</p>
+            <p id="Par15">The rating accuracy of the orthodontist was assessed using 25 photographs
+                of patients with varying degrees of malocclusion, and the assessment was repeated
+                after a 2-week interval which showed an intra-class correlation coefficient of 0.7.</p>
+            <sec id="Sec4">
+                <title>Statistical analyses</title>
+                <p id="Par16">The data was analyzed using the Statistical Package for Social
+                    Sciences (SPSS) version 18 for Windows (SPSS, Inc., Chicago, IL, USA). The
+                    BDD-YBOCS questionnaire was used, and the patients were determined BDD-positive
+                    or BDD-negative. The mean age between BDD-positive and BDD-negative patients was
+                    compared using Student&#x02019;s <italic>t</italic> test while the Chi-square
+                    test was used for the nominal variables such as the gender, marital status, and
+                    history of previous orthodontic consultations. The statistical significance was
+                    considered to be <italic>p</italic> &#x02264; 0.05.</p>
+            </sec>
+        </sec>
+        <sec id="Sec5">
+            <title>Results</title>
+            <p id="Par17">From the 1184 patients, 62 patients (5.2%) of which 49 men and 13 women
+                were diagnosed with BDD. Five were severely affected (BDD-YBOCS score 8&#x02013;9),
+                19 were moderate (BDD-YBOCS score 6&#x02013;7), and 38 were mild (BDD-YBOCS score
+                4&#x02013;5) and is described in Table <xref rid="Tab1" ref-type="table">1</xref>.\n<table-wrap
+                    id="Tab1">
+                    <label>Table 1</label>
+                    <caption>
+                        <p>Results of the BDD-YBOCS questionnaire</p>
+                    </caption>
+                    <table frame="hsides" rules="groups">
+                        <thead>
+                            <tr>
+                                <th>No. of patients (1184)</th>
+                                <th>Percent</th>
+                                <th>BDD-YBOCS score</th>
+                                <th>Inference</th>
+                                <th>Concerned</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>1122</td>
+                                <td>94.8</td>
+                                <td>&#x02264;&#x02009;3</td>
+                                <td>No BDD</td>
+                                <td>&#x02013;</td>
+                            </tr>
+                            <tr>
+                                <td>38</td>
+                                <td>3.2</td>
+                                <td>4&#x02013;5</td>
+                                <td>Mild BDD</td>
+                                <td>Teeth</td>
+                            </tr>
+                            <tr>
+                                <td>19</td>
+                                <td>1.6</td>
+                                <td>6&#x02013;7</td>
+                                <td>Moderate BDD</td>
+                                <td>Teeth, hair</td>
+                            </tr>
+                            <tr>
+                                <td>5</td>
+                                <td>0.4</td>
+                                <td>8&#x02013;9</td>
+                                <td>Severe BDD</td>
+                                <td>Teeth, lips, nose, face</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </table-wrap></p>
+            <p id="Par18">Comparisons between BDD-positive and BDD-negative patients which is
+                described in Table <xref rid="Tab2" ref-type="table">2</xref> showed that BDD
+                patients in our sample were younger with a mean age of 20.4&#x02009;years than
+                non-BDD patients with a mean age of 24.3&#x02009;years but was not statistically
+                significant (<italic>p</italic> = 0.3); among the 62 patients with BDD, 49 of them
+                were males and 13 were females (<italic>p</italic> = 0.0003). Considering the
+                marital status, 46 patients were single and 16 were married (<italic>p</italic> =
+                0.02). Most of the 44 BDD patients had sought previous orthodontic consultations
+                before, and 18 patients reported for their first consultation (<italic>p</italic> =
+                0.000).\n<table-wrap id="Tab2">
+                    <label>Table 2</label>
+                    <caption>
+                        <p>Comparison of the questionnaire&#x02019;s items between BDD and non-BDD
+                patients</p>
+                    </caption>
+                    <table frame="hsides" rules="groups">
+                        <thead>
+                            <tr>
+                                <th colspan="2">Variables</th>
+                                <th><italic>N</italic> = 1184</th>
+                                <th>BDD-positive (62)</th>
+                                <th>BDD-negative (1122)</th>
+                                <th />
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td rowspan="2">Age</td>
+                                <td>Age</td>
+                                <td>23.4&#x02009;years</td>
+                                <td>20.4&#x02009;years</td>
+                                <td>24.3&#x02009;years</td>
+                                <td rowspan="2">0.3<sup>NS</sup></td>
+                            </tr>
+                            <tr>
+                                <td>Range</td>
+                                <td>18&#x02013;30&#x02009;years</td>
+                                <td>18&#x02013;25&#x02009;years</td>
+                                <td>18&#x02013;30&#x02009;years</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="2">Gender</td>
+                                <td>Male</td>
+                                <td>682 (58%)</td>
+                                <td>49 (79%)</td>
+                                <td>633 (56%)</td>
+                                <td>0.0003***</td>
+                            </tr>
+                            <tr>
+                                <td>Female</td>
+                                <td>502 (42%)</td>
+                                <td>13 (21%)</td>
+                                <td>489 (44%)</td>
+                                <td />
+                            </tr>
+                            <tr>
+                                <td rowspan="2">Marital status</td>
+                                <td>Single</td>
+                                <td>699 (59%)</td>
+                                <td>46 (74%)</td>
+                                <td>653 (58%)</td>
+                                <td rowspan="2">0.02*</td>
+                            </tr>
+                            <tr>
+                                <td>Married</td>
+                                <td>485 (41%)</td>
+                                <td>16 (32%)</td>
+                                <td>469 (41%)</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="2">Prior orthodontic consultation</td>
+                                <td>No previous orthodontic consultation</td>
+                                <td>1050 (89%)</td>
+                                <td>18 (29%)</td>
+                                <td>1032 (92%)</td>
+                                <td rowspan="2">&#x0003c;&#x02009;0.0**</td>
+                            </tr>
+                            <tr>
+                                <td>Previous orthodontic consultation</td>
+                                <td>134 (11%)</td>
+                                <td>44 (71%)</td>
+                                <td>90 (8%)</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                    <table-wrap-foot>
+                        <p><italic>NS</italic> Not Significant</p>
+                        <p>*<italic>p</italic> value &#x0003c;&#x02009;0.05</p>
+                        <p>**<italic>p</italic> &#x02264; 0.01</p>
+                        <p>***<italic>p</italic> &#x02264; 0.001</p>
+                    </table-wrap-foot>
+                </table-wrap></p>
+            <p id="Par19">Characteristics of the malocclusion in BDD-positive patients are described
+                in Table <xref rid="Tab3" ref-type="table">3</xref>. Of the 62 BDD-positive
+                patients, 29 patients (47%) had minor tooth rotations, 17 patients (27%) had very
+                mild spacing, nine patients (15%) had mild midline discrepancy, two patients (3%)
+                had minimal tooth size imperfections, and five patients (8%) had other minimal tooth
+                irregularities.\n<table-wrap id="Tab3">
+                    <label>Table 3</label>
+                    <caption>
+                        <p>Orthodontic concerns in BDD patients</p>
+                    </caption>
+                    <table frame="hsides" rules="groups">
+                        <thead>
+                            <tr>
+                                <th>Diagnoses</th>
+                                <th colspan="2">BDD patients (<italic>n</italic> = 62)</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>Tooth rotations</td>
+                                <td>29</td>
+                                <td>47%</td>
+                            </tr>
+                            <tr>
+                                <td>Very mild spacing</td>
+                                <td>17</td>
+                                <td>27%</td>
+                            </tr>
+                            <tr>
+                                <td>Mild midline discrepancy</td>
+                                <td>9</td>
+                                <td>15%</td>
+                            </tr>
+                            <tr>
+                                <td>Tooth size imperfections</td>
+                                <td>2</td>
+                                <td>3%</td>
+                            </tr>
+                            <tr>
+                                <td>Other minimal irregularities</td>
+                                <td>5</td>
+                                <td>8%</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </table-wrap></p>
+        </sec>
+        <sec id="Sec6">
+            <title>Discussion</title>
+            <p id="Par20">This is the first Indian study to assess the prevalence of BDD among
+                patients seeking orthodontic treatment. In our study, 62 patients (5.2%) among 1184
+                patients were screened positive for BDD. Among the patients who screened positive
+                for BDD, the focus of concerns in 38 patients was on the teeth and 19 patients on
+                the teeth and hair, and the preoccupations in the other five patients included
+                teeth, lips, nose, and pigmentation on the face. In our study, BDD-positive patients
+                were concerned about very mild rotations, spacing, midline discrepancy, and tooth
+                size discrepancies which did not require orthodontic treatment. The age group of our
+                patients included in the study was over 18&#x02009;years since symptoms of BDD
+                usually begin during adolescence [<xref ref-type="bibr" rid="CR20">20</xref>]. In
+                our study, BDD patients were younger than non-BDD patients, but it was not
+                statistically significant. This finding was in contrary to the findings of Uzun et
+                al. [<xref ref-type="bibr" rid="CR21">21</xref>] but similar to the findings of
+                Yassaei et al. [<xref ref-type="bibr" rid="CR10">10</xref>], Vulink et al. [<xref
+                    ref-type="bibr" rid="CR22">22</xref>], and Philips et al. [<xref ref-type="bibr"
+                    rid="CR23">23</xref>] in which BDD was more prevalent in the younger age group.</p>
+            <p id="Par21">A gender preference toward males was seen in our study which also accords
+                with some earlier findings [<xref ref-type="bibr" rid="CR22">22</xref>] and is in
+                contrast with others [<xref ref-type="bibr" rid="CR10">10</xref>, <xref
+                    ref-type="bibr" rid="CR23">23</xref>]. Philips et al. concluded that there was a
+                gender ratio of 1.27 for women to men in the community and 1.64 among students
+                whereas there was an equal gender distribution in psychiatric service. According to
+                the American Society of Plastic Surgeons in 2014, the gender ratio is reversed in
+                general cosmetic surgery and in rhinoplasty settings with more prevalence among men.
+                Considering the above statistics, our study showed more prevalence among men [<xref
+                    ref-type="bibr" rid="CR24">24</xref>, <xref ref-type="bibr" rid="CR25">25</xref>
+                ].</p>
+            <p id="Par22">In our study, the majority of the BDD patients were single which
+                correlates with the findings of Hepburn and Cunningham [<xref ref-type="bibr"
+                    rid="CR9">9</xref>]. One question suggested by Polo was added which was not the
+                repetition of BDD-YBOCS questions and had the following answer: yes or no [<xref
+                    ref-type="bibr" rid="CR7">7</xref>]. Our BDD patients had multiple previous
+                orthodontic consultations which were in accordance with the study of Yassaei et al.
+                [<xref ref-type="bibr" rid="CR10">10</xref>]. Hepburn and Cunningham conducted an
+                interview-based study and concluded that BDD was diagnosed in 2 patients (2.86%)
+                among 70 members of the general public and 3 patients (7.5%) among 40 adult
+                orthodontic patients [<xref ref-type="bibr" rid="CR9">9</xref>]. Vulink et al.
+                concluded that the prevalence of BDD in a maxillofacial outpatient setup presenting
+                for orthognathic surgery for a period of 6&#x02009;months was 17% [<xref
+                    ref-type="bibr" rid="CR23">23</xref>]. The prevalence of BDD among Indian
+                orthodontic patients seems to be less than other populations. Differences in the
+                ethnicity of study population, inclusion and exclusion criteria, self-report
+                questionnaire, or an interview with a psychiatrist could play an important role in
+                varied results. A questionnaire is one of the most convenient and proven ways to
+                screen and identify patients who may suffer from BDD. In order to correctly diagnose
+                BDD, a series of questions are asked to the patient to determine if they are
+                consumed with distress about a seemingly small or unnoticeable flaw. In accordance
+                with previous studies, the head and face seem to be the common areas of concern
+                among BDD patients [<xref ref-type="bibr" rid="CR5">5</xref>, <xref ref-type="bibr"
+                    rid="CR6">6</xref>]. However, all patients were assessed by a senior
+                orthodontist as having mild malocclusions, which was more likely to be accepted by
+                most people, or no obvious malocclusion was present.</p>
+            <p id="Par23">BDD affects the quality of life and is associated with depression and
+                Obsessive-Compulsive disorder. It is important to understand the expectations and
+                also to know whether a patient has previously received the treatment. It is
+                essential to elicit the age at which the concerns started and its impact on their
+                lives. During history taking and clinical examination, additional time should be
+                spent on each patient assessing their need for treatment, and questions to identify
+                patients with BDD should also be included. The questionnaire can serve as a tool in
+                screening patients who might be a suspect of BDD. Orthodontists should refer the
+                patients who are suspicious with a slight defect insisting on treatment or an
+                imagined defect to a psychiatrist before initiating orthodontic treatment. A
+                psychiatrist plays an important role in helping us to identify these patients as
+                well as treating them with pharmacotherapy and behavioral therapy.</p>
+        </sec>
+        <sec id="Sec7">
+            <title>Conclusion</title>
+            <p id="Par24">The following conclusions were drawn from our study:\n<list
+                    list-type="order">
+                    <list-item>
+                        <p id="Par25">This study suggests that BDD occurs in adult orthodontic
+                patients, and its prevalence was 5.2% in our sample of 1184 patients. The teeth and
+                face seem to be the most common areas of concern.</p>
+                    </list-item>
+                    <list-item>
+                        <p id="Par26">BDD-positive patients in our study population were mostly
+                males, single, younger, and had previous orthodontic consultations than BDD-negative
+                patients.</p>
+                    </list-item>
+                    <list-item>
+                        <p id="Par27">Orthodontists should be aware of its features and include a
+                few questions during history taking to help identify potentially high-risk patients.</p>
+                    </list-item>
+                </list></p>
+        </sec>
+        <sec sec-type="supplementary-material">
+            <title>Supplementary information</title>
+            <sec id="Sec8">
+                <p>\n<supplementary-material content-type="local-data" id="MOESM1">
+                        <media xlink:href="40510_2020_322_MOESM1_ESM.docx">
+                            <caption>
+                                <p><bold>Additional file 1.</bold> Questionnaire.</p>
+                            </caption>
+                        </media>
+                    </supplementary-material>
+                    \n</p>
+            </sec>
+        </sec>
+    </body>
+    <back>
+        <fn-group>
+            <fn>
+                <p>
+                    <bold>Publisher&#x02019;s Note</bold>
+                </p>
+                <p>Springer Nature remains neutral with regard to jurisdictional claims in published
+                    maps and institutional affiliations.</p>
+            </fn>
+        </fn-group>
+        <sec>
+            <title>Supplementary information</title>
+            <p><bold>Supplementary information</bold> accompanies this paper at
+                10.1186/s40510-020-00322-8.</p>
+        </sec>
+        <ack>
+            <title>Acknowledgements</title>
+            <p>I would like to thank Dr. Katharine A. Phillips, M.D., and Dr. Eric Hollander, M.D.,
+                for giving us permission to use the modified version of the Yale-Brown
+                Obsessive-Compulsive Scale.</p>
+        </ack>
+        <notes notes-type="author-contribution">
+            <title>Authors&#x02019; contributions</title>
+            <p>PSH: study design, carrying out the study, statistical analysis, write up. SP: study
+                design, analysis of the statistical data, and proofreading. RB: study design,
+                analysis of the statistical data, and proofreading. ABC: study design, analysis of
+                the statistical data, and proofreading. The authors read and approved the final
+                manuscript.</p>
+        </notes>
+        <notes notes-type="funding-information">
+            <title>Funding</title>
+            <p>No funding was received.</p>
+        </notes>
+        <notes notes-type="data-availability">
+            <title>Availability of data and materials</title>
+            <p>From the corresponding author</p>
+        </notes>
+        <notes id="FPar1">
+            <title>Ethics approval and consent to participate</title>
+            <p id="Par28">Ethical approval was obtained, IEC-NI/12/MAR/27/15.</p>
+        </notes>
+        <notes id="FPar2">
+            <title>Consent for publication</title>
+            <p id="Par29">Not applicable</p>
+        </notes>
+        <notes id="FPar3" notes-type="COI-statement">
+            <title>Competing interests</title>
+            <p id="Par30">No competing interests</p>
+        </notes>
+        <ref-list id="Bib1">
+            <title>References</title>
+            <ref id="CR1">
+                <label>1.</label>
+                <element-citation publication-type="book">
+                    <person-group person-group-type="author">
+                        <collab>American Psychiatric Association</collab>
+                    </person-group>
+                    <source>Diagnostic and statistical manual of mental disorders. Fourth Edition
+                        Text Revision</source>
+                    <year>2000</year>
+                    <publisher-loc>Washington, DC</publisher-loc>
+                    <publisher-name>American Psychiatric Association</publisher-name>
+                    <fpage>507</fpage>
+                    <lpage>510</lpage>
+                </element-citation>
+            </ref>
+            <ref id="CR2">
+                <label>2.</label>
+                <element-citation publication-type="book">
+                    <person-group person-group-type="author">
+                        <collab>World Health Organization</collab>
+                    </person-group>
+                    <source>The ICD-10 Classification of Mental and Behavioural Disorders</source>
+                    <year>1992</year>
+                    <publisher-loc>Geneva</publisher-loc>
+                    <publisher-name>World Health Organization</publisher-name>
+                </element-citation>
+            </ref>
+            <ref id="CR3">
+                <label>3.</label>
+                <element-citation publication-type="book">
+                    <person-group person-group-type="author">
+                        <collab>American Psychiatric Association</collab>
+                    </person-group>
+                    <source>Diagnostic and statistical manual of mental disorders</source>
+                    <year>2013</year>
+                    <edition>5</edition>
+                    <publisher-loc>Washington, DC</publisher-loc>
+                    <publisher-name>American Psychiatric Association</publisher-name>
+                </element-citation>
+            </ref>
+            <ref id="CR4">
+                <label>4.</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Ahluwalia</surname>
+                            <given-names>R</given-names>
+                        </name>
+                        <name>
+                            <surname>Bhatia</surname>
+                            <given-names>NK</given-names>
+                        </name>
+                        <name>
+                            <surname>Kumar</surname>
+                            <given-names>PS</given-names>
+                        </name>
+                        <name>
+                            <surname>Kaur</surname>
+                            <given-names>P</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Body dysmorphic disorder: diagnosis, clinical aspects and
+                        treatment strategies</article-title>
+                    <source>Indian J Dent Res</source>
+                    <year>2017</year>
+                    <volume>28</volume>
+                    <fpage>193</fpage>
+                    <lpage>197</lpage>
+                    <pub-id pub-id-type="doi">10.4103/ijdr.IJDR_669_15</pub-id>
+                    <pub-id pub-id-type="pmid">28611331</pub-id>
+                </element-citation>
+            </ref>
+            <ref id="CR5">
+                <label>5.</label>
+                <element-citation publication-type="book">
+                    <person-group person-group-type="author">
+                        <collab>American Psychiatric Association</collab>
+                    </person-group>
+                    <source>Diagnostic and statistical management of mental disorders</source>
+                    <year>1994</year>
+                    <edition>4</edition>
+                    <publisher-loc>Washington, DC</publisher-loc>
+                    <publisher-name>American Psychiatric Publishing</publisher-name>
+                    <fpage>464</fpage>
+                    <lpage>469</lpage>
+                </element-citation>
+            </ref>
+            <ref id="CR6">
+                <label>6.</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Phillips</surname>
+                            <given-names>KA</given-names>
+                        </name>
+                        <name>
+                            <surname>Dufresne</surname>
+                            <given-names>RG</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Body dysmorphic disorder. A guide for dermatologists and cosmetic
+                        surgeons</article-title>
+                    <source>Am J Clin Dermatol</source>
+                    <year>2000</year>
+                    <volume>1</volume>
+                    <fpage>235</fpage>
+                    <lpage>243</lpage>
+                    <pub-id pub-id-type="doi">10.2165/00128071-200001040-00005</pub-id>
+                    <pub-id pub-id-type="pmid">11702368</pub-id>
+                </element-citation>
+            </ref>
+            <ref id="CR7">
+                <label>7.</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Polo</surname>
+                            <given-names>M</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Body dysmorphic disorder: a screening guide for orthodontists</article-title>
+                    <source>Am J Orthod Dentofacial Orthop</source>
+                    <year>2011</year>
+                    <volume>139</volume>
+                    <issue>2</issue>
+                    <fpage>170</fpage>
+                    <lpage>173</lpage>
+                    <pub-id pub-id-type="doi">10.1016/j.ajodo.2010.09.025</pub-id>
+                    <pub-id pub-id-type="pmid">21300244</pub-id>
+                </element-citation>
+            </ref>
+            <ref id="CR8">
+                <label>8.</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Wilson</surname>
+                            <given-names>JB</given-names>
+                        </name>
+                        <name>
+                            <surname>Arpey</surname>
+                            <given-names>CJ</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Body dysmorphic disorder: suggestions for detection and treatment
+                        in a surgical dermatology practice</article-title>
+                    <source>Dermatol Surg</source>
+                    <year>2004</year>
+                    <volume>30</volume>
+                    <fpage>1391</fpage>
+                    <lpage>1399</lpage>
+                    <pub-id pub-id-type="pmid">15522020</pub-id>
+                </element-citation>
+            </ref>
+            <ref id="CR9">
+                <label>9.</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Hepburn</surname>
+                            <given-names>S</given-names>
+                        </name>
+                        <name>
+                            <surname>Cunningham</surname>
+                            <given-names>S</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Body dysmorphic disorder in adult orthodontic patients</article-title>
+                    <source>Am J Orthod Dentofacial Orthop</source>
+                    <year>2006</year>
+                    <volume>130</volume>
+                    <fpage>569</fpage>
+                    <lpage>574</lpage>
+                    <pub-id pub-id-type="doi">10.1016/j.ajodo.2005.06.022</pub-id>
+                    <pub-id pub-id-type="pmid">17110253</pub-id>
+                </element-citation>
+            </ref>
+            <ref id="CR10">
+                <label>10.</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Yassaei</surname>
+                            <given-names>S</given-names>
+                        </name>
+                        <name>
+                            <surname>Goldani Moghadam</surname>
+                            <given-names>M</given-names>
+                        </name>
+                        <name>
+                            <surname>Aghili</surname>
+                            <given-names>H</given-names>
+                        </name>
+                        <name>
+                            <surname>Tabatabaei</surname>
+                            <given-names>SM</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Body dysmorphic disorder in Iranian orthodontic patients</article-title>
+                    <source>Acta Med Iran</source>
+                    <year>2014</year>
+                    <volume>52</volume>
+                    <fpage>454</fpage>
+                    <lpage>457</lpage>
+                    <pub-id pub-id-type="pmid">25130153</pub-id>
+                </element-citation>
+            </ref>
+            <ref id="CR11">
+                <label>11.</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Dufresne</surname>
+                            <given-names>RG</given-names>
+                        </name>
+                        <name>
+                            <surname>Phillips</surname>
+                            <given-names>KA</given-names>
+                        </name>
+                        <name>
+                            <surname>Vittorio</surname>
+                            <given-names>CC</given-names>
+                        </name>
+                        <name>
+                            <surname>Wilkel</surname>
+                            <given-names>CS</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>A screening questionnaire for body dysmorphic disorder in a
+                        cosmetic dermatologic surgery practice</article-title>
+                    <source>Dermatol Surg</source>
+                    <year>2001</year>
+                    <volume>27</volume>
+                    <fpage>457</fpage>
+                    <lpage>462</lpage>
+                    <pub-id pub-id-type="pmid">11359494</pub-id>
+                </element-citation>
+            </ref>
+            <ref id="CR12">
+                <label>12.</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Phillips</surname>
+                            <given-names>KA</given-names>
+                        </name>
+                        <name>
+                            <surname>Dufresne</surname>
+                            <given-names>RG</given-names>
+                            <suffix>Jr</suffix>
+                        </name>
+                        <name>
+                            <surname>Wilkel</surname>
+                            <given-names>CS</given-names>
+                        </name>
+                        <name>
+                            <surname>Vittorio</surname>
+                            <given-names>CC</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Rate of body dysmorphic disorder in dermatology patients</article-title>
+                    <source>J Am Acad Dermatol</source>
+                    <year>2000</year>
+                    <volume>42</volume>
+                    <fpage>436</fpage>
+                    <lpage>441</lpage>
+                    <pub-id pub-id-type="doi">10.1016/S0190-9622(00)90215-9</pub-id>
+                    <pub-id pub-id-type="pmid">10688713</pub-id>
+                </element-citation>
+            </ref>
+            <ref id="CR13">
+                <label>13.</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Aouizerate</surname>
+                            <given-names>B</given-names>
+                        </name>
+                        <name>
+                            <surname>Pujol</surname>
+                            <given-names>H</given-names>
+                        </name>
+                        <name>
+                            <surname>Grabot</surname>
+                            <given-names>D</given-names>
+                        </name>
+                        <name>
+                            <surname>Faytout</surname>
+                            <given-names>M</given-names>
+                        </name>
+                        <name>
+                            <surname>Suire</surname>
+                            <given-names>K</given-names>
+                        </name>
+                        <name>
+                            <surname>Braud</surname>
+                            <given-names>C</given-names>
+                        </name>
+                        <etal />
+                    </person-group>
+                    <article-title>Body dysmorphic disorder in a sample of cosmetic surgery
+                        applicants</article-title>
+                    <source>Eur Psychiatry</source>
+                    <year>2003</year>
+                    <volume>18</volume>
+                    <fpage>365</fpage>
+                    <lpage>368</lpage>
+                    <pub-id pub-id-type="doi">10.1016/j.eurpsy.2003.02.001</pub-id>
+                    <pub-id pub-id-type="pmid">14643566</pub-id>
+                </element-citation>
+            </ref>
+            <ref id="CR14">
+                <label>14.</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Vindigni</surname>
+                            <given-names>V</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>The importance of recognizing body dysmorphic disorder in
+                        cosmetic surgery patients: do our patients need a preoperative psychiatric
+                        evaluation?</article-title>
+                    <source>Eur J Plast Surg</source>
+                    <year>2002</year>
+                    <volume>25</volume>
+                    <fpage>305</fpage>
+                    <lpage>308</lpage>
+                    <pub-id pub-id-type="doi">10.1007/s00238-002-0408-2</pub-id>
+                </element-citation>
+            </ref>
+            <ref id="CR15">
+                <label>15.</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Leone</surname>
+                            <given-names>JE</given-names>
+                        </name>
+                        <name>
+                            <surname>Sedory</surname>
+                            <given-names>EJ</given-names>
+                        </name>
+                        <name>
+                            <surname>Gray</surname>
+                            <given-names>KA</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Recognition and treatment of muscle dysmorphia and related body
+                        image disorders</article-title>
+                    <source>J Athl Train</source>
+                    <year>2005</year>
+                    <volume>40</volume>
+                    <fpage>352</fpage>
+                    <lpage>359</lpage>
+                    <pub-id pub-id-type="pmid">16404458</pub-id>
+                </element-citation>
+            </ref>
+            <ref id="CR16">
+                <label>16.</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Phillips</surname>
+                            <given-names>KA</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Body dysmorphic disorder and depression: theoretical
+                        considerations and treatment strategies</article-title>
+                    <source>Psychiatr Q</source>
+                    <year>1999</year>
+                    <volume>70</volume>
+                    <fpage>313</fpage>
+                    <lpage>331</lpage>
+                    <pub-id pub-id-type="doi">10.1023/A:1022090200057</pub-id>
+                    <pub-id pub-id-type="pmid">10587987</pub-id>
+                </element-citation>
+            </ref>
+            <ref id="CR17">
+                <label>17.</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Phillips</surname>
+                            <given-names>KA</given-names>
+                        </name>
+                        <name>
+                            <surname>Hollander</surname>
+                            <given-names>E</given-names>
+                        </name>
+                        <name>
+                            <surname>Rasmussen</surname>
+                            <given-names>SA</given-names>
+                        </name>
+                        <etal />
+                    </person-group>
+                    <article-title>A severity rating scale for body dysmorphic disorder:
+                        development, reliability, and validity of a modified version of the
+                        Yale-Brown obsessive compulsive scale</article-title>
+                    <source>Psychopharmacol Bull</source>
+                    <year>1997</year>
+                    <volume>33</volume>
+                    <issue>1</issue>
+                    <fpage>17</fpage>
+                    <lpage>22</lpage>
+                    <pub-id pub-id-type="pmid">9133747</pub-id>
+                </element-citation>
+            </ref>
+            <ref id="CR18">
+                <label>18.</label>
+                <element-citation publication-type="book">
+                    <person-group person-group-type="editor">
+                        <name>
+                            <surname>Phillips</surname>
+                            <given-names>KA</given-names>
+                        </name>
+                    </person-group>
+                    <source>Understanding body dysmorphic disorder; an essential guide</source>
+                    <year>2009</year>
+                    <edition>1</edition>
+                    <publisher-loc>New York</publisher-loc>
+                    <publisher-name>Oxford University Press</publisher-name>
+                </element-citation>
+            </ref>
+            <ref id="CR19">
+                <label>19.</label>
+                <element-citation publication-type="book">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Philips</surname>
+                            <given-names>KA</given-names>
+                        </name>
+                    </person-group>
+                    <source>The broken mirror: understanding and treating BDD</source>
+                    <year>1996</year>
+                    <publisher-loc>New York</publisher-loc>
+                    <publisher-name>Oxford University Press</publisher-name>
+                </element-citation>
+            </ref>
+            <ref id="CR20">
+                <label>20.</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Phillips</surname>
+                            <given-names>KA</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Body dysmorphic disorder: clinical aspects and treatment
+                        strategies</article-title>
+                    <source>Bull Menninger Clin</source>
+                    <year>1998</year>
+                    <volume>62</volume>
+                    <issue>4 Suppl A</issue>
+                    <fpage>A33</fpage>
+                    <lpage>A48</lpage>
+                    <pub-id pub-id-type="pmid">9810776</pub-id>
+                </element-citation>
+            </ref>
+            <ref id="CR21">
+                <label>21.</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Uzun</surname>
+                            <given-names>O</given-names>
+                        </name>
+                        <name>
+                            <surname>Basoglu</surname>
+                            <given-names>C</given-names>
+                        </name>
+                        <name>
+                            <surname>Akar</surname>
+                            <given-names>A</given-names>
+                        </name>
+                        <etal />
+                    </person-group>
+                    <article-title>Body dysmorphic disorder in patients with acne</article-title>
+                    <source>Compr Psychiatry</source>
+                    <year>2003</year>
+                    <volume>44</volume>
+                    <issue>5</issue>
+                    <fpage>415</fpage>
+                    <lpage>419</lpage>
+                    <pub-id pub-id-type="doi">10.1016/S0010-440X(03)00102-0</pub-id>
+                    <pub-id pub-id-type="pmid">14505303</pub-id>
+                </element-citation>
+            </ref>
+            <ref id="CR22">
+                <label>22.</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Vulink</surname>
+                            <given-names>NCC</given-names>
+                        </name>
+                        <name>
+                            <surname>Rosenberg</surname>
+                            <given-names>A</given-names>
+                        </name>
+                        <name>
+                            <surname>Plooij</surname>
+                            <given-names>JM</given-names>
+                        </name>
+                        <name>
+                            <surname>Koole</surname>
+                            <given-names>R</given-names>
+                        </name>
+                        <name>
+                            <surname>Berg&#x000e9;</surname>
+                            <given-names>SJ</given-names>
+                        </name>
+                        <name>
+                            <surname>Denys</surname>
+                            <given-names>D</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Body dysmorphic disorder screening in maxillofacial outpatients
+                        presenting for orthognathic surgery</article-title>
+                    <source>Int. J. Oral Maxillofac. Surg.</source>
+                    <year>2008</year>
+                    <volume>37</volume>
+                    <fpage>985</fpage>
+                    <lpage>991</lpage>
+                    <pub-id pub-id-type="doi">10.1016/j.ijom.2008.06.005</pub-id>
+                    <pub-id pub-id-type="pmid">18640822</pub-id>
+                </element-citation>
+            </ref>
+            <ref id="CR23">
+                <label>23.</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Phillips</surname>
+                            <given-names>KA</given-names>
+                        </name>
+                        <name>
+                            <surname>Menard</surname>
+                            <given-names>W</given-names>
+                        </name>
+                        <name>
+                            <surname>Fay</surname>
+                            <given-names>C</given-names>
+                        </name>
+                        <etal />
+                    </person-group>
+                    <article-title>Demographic characteristics phenomenology, comorbidity, and
+                        family history in 200 individuals with body dysmorphic disorder</article-title>
+                    <source>Psychosomatics</source>
+                    <year>2005</year>
+                    <volume>46</volume>
+                    <issue>4</issue>
+                    <fpage>317</fpage>
+                    <lpage>325</lpage>
+                    <pub-id pub-id-type="doi">10.1176/appi.psy.46.4.317</pub-id>
+                    <pub-id pub-id-type="pmid">16000674</pub-id>
+                </element-citation>
+            </ref>
+            <ref id="CR24">
+                <label>24.</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Phillips</surname>
+                            <given-names>KA</given-names>
+                        </name>
+                        <name>
+                            <surname>Didie</surname>
+                            <given-names>ER</given-names>
+                        </name>
+                        <name>
+                            <surname>Menard</surname>
+                            <given-names>W</given-names>
+                        </name>
+                        <name>
+                            <surname>Pagano</surname>
+                            <given-names>ME</given-names>
+                        </name>
+                        <name>
+                            <surname>Fay</surname>
+                            <given-names>C</given-names>
+                        </name>
+                        <name>
+                            <surname>Weisberg</surname>
+                            <given-names>RB</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Clinical features of body dysmorphic disorder in adolescents and
+                        adults</article-title>
+                    <source>Psychiatry Research</source>
+                    <year>2006</year>
+                    <volume>141</volume>
+                    <issue>3</issue>
+                    <fpage>305</fpage>
+                    <lpage>314</lpage>
+                    <pub-id pub-id-type="doi">10.1016/j.psychres.2005.09.014</pub-id>
+                    <pub-id pub-id-type="pmid">16499973</pub-id>
+                </element-citation>
+            </ref>
+            <ref id="CR25">
+                <label>25.</label>
+                <element-citation publication-type="book">
+                    <person-group person-group-type="author">
+                        <collab>American Society of Plastic Surgeons</collab>
+                    </person-group>
+                    <source>Plastic surgery statistics report. ASPS National Clearinghouse of
+                        Plastic Surgery Procedural Statistics</source>
+                    <year>2014</year>
+                </element-citation>
+            </ref>
+        </ref-list>
+    </back>
+</article>

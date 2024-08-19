@@ -1,0 +1,1355 @@
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink"
+    dtd-version="1.3" id="ajr12946" xml:lang="en" article-type="research-article">
+    <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml"
+        tagset-family="jats">
+        <restricted-by>pmc</restricted-by>
+    </processing-meta>
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="nlm-ta">Aust J Rural Health</journal-id>
+            <journal-id journal-id-type="iso-abbrev">Aust J Rural Health</journal-id>
+            <journal-id journal-id-type="doi">10.1111/(ISSN)1440-1584</journal-id>
+            <journal-id journal-id-type="publisher-id">AJR</journal-id>
+            <journal-title-group>
+                <journal-title>The Australian Journal of Rural Health</journal-title>
+            </journal-title-group>
+            <issn pub-type="ppub">1038-5282</issn>
+            <issn pub-type="epub">1440-1584</issn>
+            <publisher>
+                <publisher-name>John Wiley and Sons Inc.</publisher-name>
+                <publisher-loc>Hoboken</publisher-loc>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="pmid">36448590</article-id>
+            <article-id pub-id-type="pmc">PMC10099463</article-id>
+            <article-id pub-id-type="doi">10.1111/ajr.12946</article-id>
+            <article-id pub-id-type="publisher-id">AJR12946</article-id>
+            <article-id pub-id-type="other">AJRH-02-2022-0036.R1</article-id>
+            <article-categories>
+                <subj-group subj-group-type="overline">
+                    <subject>Original Research</subject>
+                </subj-group>
+                <subj-group subj-group-type="heading">
+                    <subject>Special Issue: Co Design</subject>
+                    <subj-group subj-group-type="heading">
+                        <subject>Original Research</subject>
+                    </subj-group>
+                </subj-group>
+            </article-categories>
+            <title-group>
+                <article-title>Indicators for effective visiting primary care services: A case study</article-title>
+                <alt-title alt-title-type="left-running-head">Healy et al.</alt-title>
+            </title-group>
+            <contrib-group>
+                <contrib id="ajr12946-cr-0001" contrib-type="author" corresp="yes">
+                    <name>
+                        <surname>Healy</surname>
+                        <given-names>Laura J.</given-names>
+                    </name>
+                    <degrees>PhD</degrees>
+                    <contrib-id contrib-id-type="orcid" authenticated="false">
+                        https://orcid.org/0000-0002-5831-7815</contrib-id>
+                    <xref rid="ajr12946-aff-0001" ref-type="aff">\n<sup>1</sup>\n</xref>
+                    <address>
+                        <email>laurahealy.tnp@outlook.com</email>
+                    </address>
+                </contrib>
+                <contrib id="ajr12946-cr-0002" contrib-type="author">
+                    <name>
+                        <surname>Beccaria</surname>
+                        <given-names>Gavin</given-names>
+                    </name>
+                    <degrees>DPsych</degrees>
+                    <contrib-id contrib-id-type="orcid" authenticated="false">
+                        https://orcid.org/0000-0002-4341-804X</contrib-id>
+                    <xref rid="ajr12946-aff-0001" ref-type="aff">\n<sup>1</sup>\n</xref>
+                </contrib>
+                <contrib id="ajr12946-cr-0003" contrib-type="author">
+                    <name>
+                        <surname>McIlveen</surname>
+                        <given-names>Peter</given-names>
+                    </name>
+                    <degrees>PhD</degrees>
+                    <contrib-id contrib-id-type="orcid" authenticated="false">
+                        https://orcid.org/0000-0002-1864-9516</contrib-id>
+                    <xref rid="ajr12946-aff-0002" ref-type="aff">\n<sup>2</sup>\n</xref>
+                </contrib>
+            </contrib-group>
+            <aff id="ajr12946-aff-0001">\n<label>\n<sup>1</sup>\n</label>\n<named-content
+                    content-type="organisation-division">School of Psychology and Counselling,
+                Faculty of Health, Engineering and Sciences</named-content>\n<institution>University
+                of Southern Queensland</institution>\n<city>Toowoomba</city>\n<named-content
+                    content-type="country-part">Queensland</named-content>\n<country country="AU">
+                Australia</country>\n</aff>
+            <aff id="ajr12946-aff-0002">\n<label>\n<sup>2</sup>\n</label>\n<named-content
+                    content-type="organisation-division">School of Education, Faculty of Business
+                Education Law &#x00026; Arts</named-content>\n<institution>University of Southern
+                Queensland</institution>\n<city>Toowoomba</city>\n<named-content
+                    content-type="country-part">Queensland</named-content>\n<country country="AU">
+                Australia</country>\n</aff>
+            <author-notes>
+                <corresp id="correspondenceTo">\n<label>*</label>\n<bold>Correspondence</bold>\n<break />\nLaura
+                    J. Healy, School of Psychology and Counselling, University of Southern
+                    Queensland, West Street, Darling Heights, Toowoomba, Qld 4350, Australia.<break />
+                    \nEmail: <email>laurahealy.tnp@outlook.com</email>\n<break />\n</corresp>
+            </author-notes>
+            <pub-date pub-type="epub">
+                <day>30</day>
+                <month>11</month>
+                <year>2022</year>
+            </pub-date>
+            <pub-date pub-type="ppub">
+                <month>12</month>
+                <year>2022</year>
+            </pub-date>
+            <volume>30</volume>
+            <issue seq="80">6</issue>
+            <issue-id pub-id-type="doi">10.1111/ajr.v30.6</issue-id>
+            <issue-title content-type="special-issue-title">CO DESIGN</issue-title>
+            <fpage>760</fpage>
+            <lpage>771</lpage>
+            <history>\n<date date-type="rev-recd">
+                    <day>19</day>
+                    <month>9</month>
+                    <year>2022</year>
+                </date>\n<date date-type="received">
+                    <day>01</day>
+                    <month>3</month>
+                    <year>2022</year>
+                </date>\n<date date-type="accepted">
+                    <day>26</day>
+                    <month>10</month>
+                    <year>2022</year>
+                </date>\n</history>
+            <permissions><!--Copyright &#x000a9; 2022 National Rural Health Alliance Ltd.-->
+                <copyright-statement content-type="article-copyright">&#x000a9; 2022 The Authors. <italic
+                        toggle="yes">Australian Journal of Rural Health</italic> published by John
+                    Wiley &#x00026; Sons Australia, Ltd on behalf of National Rural Health Alliance
+                    Ltd.</copyright-statement>
+                <license>
+                    <ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/"
+                        specific-use="textmining" content-type="ccbynclicense">
+                        https://creativecommons.org/licenses/by-nc/4.0/</ali:license_ref>
+                    <license-p>This is an open access article under the terms of the <ext-link
+                            ext-link-type="uri"
+                            xlink:href="https://creativecommons.org/licenses/by-nc/4.0/">
+                        http://creativecommons.org/licenses/by-nc/4.0/</ext-link> License, which
+                        permits use, distribution and reproduction in any medium, provided the
+                        original work is properly cited and is not used for commercial purposes.</license-p>
+                </license>
+            </permissions>
+            <self-uri content-type="pdf" xlink:href="file:AJR-30-760.pdf" />
+            <abstract>
+                <title>Abstract</title>
+                <sec id="ajr12946-sec-0001">
+                    <title>Objective</title>
+                    <p>The objective of this study was to assess the clinical utility of a model of
+                        seven principles for effective visiting primary care services and to
+                        determine how it could be conceptualised as a tool for evaluation.</p>
+                </sec>
+                <sec id="ajr12946-sec-0002">
+                    <title>Setting</title>
+                    <p>The research was undertaken in the context of visiting primary care services
+                        with an agency, Outback Futures, selected as a case study.</p>
+                </sec>
+                <sec id="ajr12946-sec-0003">
+                    <title>Participants</title>
+                    <p>Three executive staff with Outback Futures participated in the research.</p>
+                </sec>
+                <sec id="ajr12946-sec-0004">
+                    <title>Design</title>
+                    <p>The case study design involved data collection by four group interviews
+                        conducted between July and November 2021. The interview data were analysed
+                        using thematic analysis.</p>
+                </sec>
+                <sec id="ajr12946-sec-0005">
+                    <title>Results</title>
+                    <p>This case study is additional evidence for the clinical utility of the model
+                        of seven principles. The results reinforce the importance of a
+                        community&#x02010;focussed approach to assess the impact of visiting service
+                        organisations on rural and remote communities. A comprehensive approach to
+                        evaluation is required to justify the investments made and safeguard the
+                        health and well&#x02010;being of rural and remote residents. A
+                        self&#x02010;assessment protocol has been established from the model for use
+                        by visiting services. Furthermore, three themes were drawn from the data: <italic
+                            toggle="no">relationship is fundamental, the importance of
+                        co&#x02010;design</italic>, and <italic toggle="no">being effective as a
+                        visiting service is challenging</italic>.</p>
+                </sec>
+                <sec id="ajr12946-sec-0006">
+                    <title>Conclusion</title>
+                    <p>The model is appropriate for the case study organisation, and has clinical
+                        utility and implications for other visiting services. A
+                        self&#x02010;assessment protocol has been developed. Future research should
+                        apply the model and protocol self&#x02010;assessment tool in an effort to
+                        construct a consistent and credible approach to evaluation of visiting
+                        primary care services.</p>
+                </sec>
+            </abstract>
+            <kwd-group kwd-group-type="author-generated">
+                <kwd id="ajr12946-kwd-0001">evaluation</kwd>
+                <kwd id="ajr12946-kwd-0002">health</kwd>
+                <kwd id="ajr12946-kwd-0003">outreach</kwd>
+                <kwd id="ajr12946-kwd-0004">remote</kwd>
+                <kwd id="ajr12946-kwd-0005">rural</kwd>
+            </kwd-group>
+            <funding-group>
+                <award-group id="funding-0001">
+                    <funding-source>Outback Futures</funding-source>
+                    <award-id>Contributor to USQ Postgraduate Research Scholarsh</award-id>
+                </award-group>
+                <award-group id="funding-0002">
+                    <funding-source>
+                        <institution-wrap>
+                            <institution>University of Southern Queensland\n</institution>
+                            <institution-id institution-id-type="doi">10.13039/501100001795</institution-id>
+                        </institution-wrap>
+                    </funding-source>
+                    <award-id>Postgraduate Research Scholarship</award-id>
+                </award-group>
+            </funding-group>
+            <counts>
+                <fig-count count="3" />
+                <table-count count="2" />
+                <page-count count="12" />
+                <word-count count="6512" />
+            </counts>
+            <custom-meta-group>
+                <custom-meta>
+                    <meta-name>source-schema-version-number</meta-name>
+                    <meta-value>2.0</meta-value>
+                </custom-meta>
+                <custom-meta>
+                    <meta-name>cover-date</meta-name>
+                    <meta-value>December 2022</meta-value>
+                </custom-meta>
+                <custom-meta>
+                    <meta-name>details-of-publishers-convertor</meta-name>
+                    <meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.2.7 mode:remove_FC
+                        converted:13.04.2023</meta-value>
+                </custom-meta>
+            </custom-meta-group>
+        </article-meta>
+        <notes>
+            <p content-type="self-citation">\n<mixed-citation publication-type="journal"
+                    id="AJR12946-cit-2001">\n<string-name>\n<surname>Healy</surname>\n<given-names>
+                LJ</given-names>\n</string-name>, <string-name>\n<surname>Beccaria</surname>\n<given-names>
+                G</given-names>\n</string-name>, <string-name>\n<surname>McIlveen</surname>\n<given-names>
+                P</given-names>\n</string-name>. <article-title>Indicators for effective visiting
+                primary care services: A case study</article-title>. <source>Aust J Rural Health</source>
+                . <year>2022</year>;<volume>30</volume>:<fpage>760</fpage>&#x02013;<lpage>771</lpage>.
+                doi: <pub-id pub-id-type="doi">10.1111/ajr.12946</pub-id>\n<pub-id
+                        pub-id-type="pmid">36448590</pub-id></mixed-citation>\n</p>
+        </notes>
+    </front>
+    <body id="ajr12946-body-0001">
+        <p>\n<boxed-text position="anchor" content-type="box" id="ajr12946-blkfxd-0001">
+                <sec id="ajr12946-sec-0008">
+                    <title>What is already known on this subject:</title>
+                    <p>\n<list list-type="bullet" id="ajr12946-list-0001">
+                            <list-item id="ajr12946-li-0001">
+                                <p>There is limited literature describing different visiting service
+            models and inconsistencies in the assessment and reporting of visiting primary care
+            services</p>
+                            </list-item>
+                            <list-item id="ajr12946-li-0002">
+                                <p>A model of seven principles for effective visiting services has
+            been proposed and revised to include Justification, Partnership, Scope, Scheduling,
+            Continuity, Review and Feasibility</p>
+                            </list-item>
+                        </list>
+            \n</p>
+                </sec>
+                <sec id="ajr12946-sec-0009">
+                    <title>What this paper adds:</title>
+                    <p>\n<list list-type="bullet" id="ajr12946-list-0002">
+                            <list-item id="ajr12946-li-0003">
+                                <p>This study confirms the clinical utility of the revised model of
+            seven principles for effective visiting services through the case of Outback Futures</p>
+                            </list-item>
+                            <list-item id="ajr12946-li-0004">
+                                <p>The findings include the model conceptualised as a
+            self&#x02010;assessment protocol to be used by visiting primary care organisations</p>
+                            </list-item>
+                            <list-item id="ajr12946-li-0005">
+                                <p>The findings of this study emphasise the importance of the
+            approach and posture adopted by visiting primary care services. To be effective,
+            visiting service providers must prioritise their relationship with community members and
+            invest in co&#x02010;design to effectively adapt their service to local needs</p>
+                            </list-item>
+                        </list>
+            \n</p>
+                </sec>
+            </boxed-text>\n</p>
+        <sec id="ajr12946-sec-0010">
+            <label>1</label>
+            <title>INTRODUCTION</title>
+            <p>Visiting primary care services operate to reduce disparities in access and outcome
+                for residents of rural and remote areas.<xref rid="ajr12946-bib-0001"
+                    ref-type="bibr">\n<sup>1</sup>\n</xref>, <xref rid="ajr12946-bib-0002"
+                    ref-type="bibr">\n<sup>2</sup>\n</xref> There is great variation in the type of
+                visiting primary care services in operation, including differences in the type of
+                practitioners involved, the organisation's model of service delivery, and the focus
+                of interventions (e.g., well&#x02010;being, diabetes, specific injuries or
+                illnesses, generalised primary care).<xref rid="ajr12946-bib-0003" ref-type="bibr">
+                \n<sup>3</sup>\n</xref> Furthermore, literature pertaining to visiting primary care
+                services is sparse and inconsistent, particularly that which describes assessment of
+                impact or evaluation.<xref rid="ajr12946-bib-0002" ref-type="bibr">\n<sup>2</sup>\n</xref>
+                , <xref rid="ajr12946-bib-0003" ref-type="bibr">\n<sup>3</sup>\n</xref>, <xref
+                    rid="ajr12946-bib-0004" ref-type="bibr">\n<sup>4</sup>\n</xref> The lack of
+                research and models for service evaluation have implications for residents of rural
+                and remote areas.</p>
+            <p>Health services based in communities, whether they be metropolitan or rural in
+                location, ideally target their services toward the needs of their respective
+                communities. Models for evaluation of the impact of visiting primary care services
+                should account for the contextual nuances of rural and remote communities. The model
+                of seven principles for effective visiting services<xref rid="ajr12946-bib-0002"
+                    ref-type="bibr">\n<sup>2</sup>\n</xref> has potential utility for evaluating
+                services. That model was recently revised<xref rid="ajr12946-bib-0002"
+                    ref-type="bibr">\n<sup>2</sup>\n</xref>, <xref rid="ajr12946-bib-0005"
+                    ref-type="bibr">\n<sup>5</sup>\n</xref> to enhance its credibility. The revised
+                model based on a Delphi study is depicted in Figure&#x000a0;<xref
+                    rid="ajr12946-fig-0001" ref-type="fig">1</xref>.</p>
+            <fig position="float" fig-type="FIGURE" id="ajr12946-fig-0001">
+                <label>FIGURE 1</label>
+                <caption>
+                    <p>The revised model of seven principles for effective visiting services
+                        published in Volume 29, Issue 5 of the AJRH<xref rid="ajr12946-bib-0005"
+                            ref-type="bibr">\n<sup>5</sup>\n</xref>\n</p>
+                </caption>
+                <graphic xlink:href="AJR-30-760-g003" position="anchor" id="jats-graphic-1" />
+            </fig>
+            <p>Comprehensive definitions of each principle are published elsewhere<xref
+                    rid="ajr12946-bib-0005" ref-type="bibr">\n<sup>5</sup>\n</xref>; therefore,
+                concise summaries are provided for the current study. <italic toggle="yes">
+                Feasibility</italic> refers to the funding and expected sustainability of the
+                visiting service to continue operating in the select rural and remote region. <italic
+                    toggle="yes">Justification</italic> requires visiting service organisations
+                answer the question, &#x0201c;on what grounds are you justified to deliver services
+                in X location at Y time?&#x0201d; Example responses could include the health and
+                demographic data from residents in the area and statistics of services available on
+                the ground. <italic toggle="yes">Partnership</italic> refers to how well a visiting
+                service collaborates and integrates with the communities it services. The process of
+                forming a healthy and robust partnership should occur prior to the organisation
+                establishing itself in a new region with community consultation as a priority. <italic
+                    toggle="yes">Scope</italic> describes the capacity and specificity of services
+                provided by the visiting service and their relation to the needs identified as a
+                priority by, and for, the community. <italic toggle="yes">Scheduling</italic> refers
+                to the frequency and duration of visits to a community. <italic toggle="yes">
+                Continuity</italic> relates to the consistency and reliability of the visiting
+                service. <italic toggle="yes">Review</italic> involves an iterative discussion of
+                the effectiveness and appropriateness of clinical and non&#x02010;clinical aspects
+                of the client and community interaction. Review is likely to combine two components:
+                a needs analysis of the community and an evaluation of the service provided.<xref
+                    rid="ajr12946-bib-0005" ref-type="bibr">\n<sup>5</sup>\n</xref> The revised
+                model provides visiting services a framework for evaluation; however, it is in need
+                of critical appraisal by stakeholders in the field. The objective of the present
+                study is to assess the clinical utility of the revised model and to determine how it
+                can be conceptualised into a tool for evaluation used by visiting service
+                organisations.</p>
+            <p>Case study<xref rid="ajr12946-bib-0006" ref-type="bibr">\n<sup>6</sup>\n</xref> was
+                selected as the method to appraise the model and a visiting primary care
+                organisation, Outback Futures (OF), was chosen as the case. Outback Futures is a
+                not&#x02010;for&#x02010;profit allied health service based in a capital city,
+                Brisbane, Australia. Its team of psychologists, counsellors, speech pathologists,
+                occupational therapists and social workers travel to remote and very remote areas of
+                Queensland to deliver face&#x02010;to&#x02010;face services. In between visits,
+                clinicians meet with clients for regular sessions conducted by telehealth. Outback
+                Futures work with clients across the lifespan in a range of formats including
+                individual therapy, professional development, and community presentations.</p>
+            <p>The research questions guiding the case study were: What is the clinical utility of
+                the revised model of seven principles for effective visiting services in the case of
+                Outback Futures? And, can the model be conceptualised as a tool for evaluation used
+                by visiting primary care services?</p>
+        </sec>
+        <sec id="ajr12946-sec-0011">
+            <label>2</label>
+            <title>STUDY DESIGN</title>
+            <sec id="ajr12946-sec-0012">
+                <label>2.1</label>
+                <title>Research team and reflexivity</title>
+                <p>All authors are psychologists registered with the Australian Health Practitioners
+                    Registration Authority. The first author receives research funding from the case
+                    organisation, Outback Futures, and is interested in improving access to
+                    evidence&#x02010;based health care services in rural and remote areas. The
+                    second and third authors have extensive experience in rural service delivery
+                    having worked as FIFO practitioners and have continued research and development
+                    in aspects of health and well&#x02010;being in regional, rural and remote
+                    communities. The first author's pre&#x02010;existing relationship with the
+                    organisation and potential for bias were managed through weekly supervision with
+                    the second and third authors.</p>
+            </sec>
+            <sec id="ajr12946-sec-0013">
+                <label>2.2</label>
+                <title>Theoretical framework, orientation and theory</title>
+                <p>The research deployed Merriam's<xref rid="ajr12946-bib-0006" ref-type="bibr">\n<sup>
+                    6</sup>\n</xref> approach to case study design which is grounded in
+                    constructivism with its epistemology being that knowledge and meaning are
+                    constructed by people through interactions with one another using language and
+                    symbols. The method is designed to explore how people make sense of their
+                    experiences and the world around them.<xref rid="ajr12946-bib-0007"
+                        ref-type="bibr">\n<sup>7</sup>\n</xref> Merriam's<xref
+                        rid="ajr12946-bib-0006" ref-type="bibr">\n<sup>6</sup>\n</xref> approach
+                    describes a case as a single entity with boundaries defining both the features
+                    of the case, and features that are outside the boundaries of the case.<xref
+                        rid="ajr12946-bib-0006" ref-type="bibr">\n<sup>6</sup>\n</xref> The first
+                    two steps of Merriam's approach are a review of relevant literature and
+                    construction of a theoretical framework to guide the enquiry.<xref
+                        rid="ajr12946-bib-0007" ref-type="bibr">\n<sup>7</sup>\n</xref> A recent
+                    review of the literature pertaining to visiting primary care services was
+                    conducted, written up separately, and used to inform the approach of the present
+                    study.<xref rid="ajr12946-bib-0003" ref-type="bibr">\n<sup>3</sup>\n</xref> The
+                    key findings from that review include concern for the quantity and standard of
+                    research pertaining to visiting primary care services. The review's conclusions
+                    implore researchers to increase the quality and transparency of studies
+                    conducted to enhance the literature and more accurately inform future research,
+                    clinical practice, sponsorship and health policy.<xref rid="ajr12946-bib-0003"
+                        ref-type="bibr">\n<sup>3</sup>\n</xref> The theoretical framework adopted
+                    for the presented study was the revised model of seven principles for effective
+                    visiting services.<xref rid="ajr12946-bib-0002" ref-type="bibr">\n<sup>2</sup>\n</xref>
+                    , <xref rid="ajr12946-bib-0005" ref-type="bibr">\n<sup>5</sup>\n</xref> The
+                    research problem identified for the present study was the disconnection between
+                    theory and practice in the assessment and evaluation of visiting primary care
+                    services.</p>
+            </sec>
+            <sec id="ajr12946-sec-0014">
+                <label>2.3</label>
+                <title>Participant selection</title>
+                <p>Purposive sampling was used and involved a sample from which the most can be
+                    learned to understand and gain insight about the case.<xref
+                        rid="ajr12946-bib-0006" ref-type="bibr">\n<sup>6</sup>\n</xref> Outback
+                    Futures is a small organisation with nine full&#x02010;time equivalent (FTE)
+                    clinical staff and 15 FTE non&#x02010;clinical staff, including administration
+                    and executive staff. Three staff members from the organisation's executive team
+                    were selected as appropriate participants to provide insights into both the
+                    clinical delivery of services and the current context in the areas they service.
+                    Due to the small size of the organisation, no further demographic details are
+                    provided to preserve participants' anonymity.</p>
+            </sec>
+            <sec id="ajr12946-sec-0015">
+                <label>2.4</label>
+                <title>Data collection</title>
+                <p>Group interviews are an accepted method in social science and
+                    health&#x02010;related research to collect in&#x02010;depth data and to inform
+                    the development of measures, surveys and questionnaires.<xref
+                        rid="ajr12946-bib-0008" ref-type="bibr">\n<sup>8</sup>\n</xref> In the
+                    current study, data were collected in four 1&#x02010;h group interviews with all
+                    three participants. The first interview was conducted in person and
+                    voice&#x02010;recorded for transcription purposes. The remaining three
+                    interviews were conducted over videoconference (Zoom) due to COVID&#x02010;19
+                    lockdown, and the video was recorded. The number of group interviews was
+                    determined collaboratively with participants at the time of data collection.
+                    Following the fourth interview, sufficient data had been collected in response
+                    to each research question, for each of the seven principles of the framework in
+                    question (Table&#x000a0;<xref rid="ajr12946-tbl-0001" ref-type="table">1</xref>
+                    ).</p>
+                <table-wrap position="float" id="ajr12946-tbl-0001" content-type="TABLE">
+                    <label>TABLE 1</label>
+                    <caption>
+                        <p>Semi&#x02010;structured interview questions</p>
+                    </caption>
+                    <table frame="hsides" rules="groups">
+                        <col align="left" span="1" />
+                        <col align="left" span="1" />
+                        <thead valign="bottom">
+                            <tr style="border-bottom:solid 1px #000000">
+                                <th align="left" valign="bottom" rowspan="1" colspan="1">Group
+                                    interview questions</th>
+                                <th align="left" valign="bottom" rowspan="1" colspan="1">Group
+                                    interview number</th>
+                            </tr>
+                        </thead>
+                        <tbody valign="top">
+                            <tr>
+                                <td align="left" valign="top" rowspan="1" colspan="1">Describe what
+                                    each of the principles means in practice for Outback Futures</td>
+                                <td align="left" valign="top" rowspan="1" colspan="1">1 and 2</td>
+                            </tr>
+                            <tr>
+                                <td align="left" valign="top" rowspan="1" colspan="1">From Outback
+                                    Futures' perspective and your experience as a visiting service,
+                                    how important do you believe each principle to be?\n<list
+                                        list-type="order" id="ajr12946-list-0003">
+                                        <list-item id="ajr12946-li-0006">
+                                            <p>Not at all important</p>
+                                        </list-item>
+                                        <list-item id="ajr12946-li-0007">
+                                            <p>Low importance</p>
+                                        </list-item>
+                                        <list-item id="ajr12946-li-0008">
+                                            <p>Slightly important</p>
+                                        </list-item>
+                                        <list-item id="ajr12946-li-0009">
+                                            <p>Neutral</p>
+                                        </list-item>
+                                        <list-item id="ajr12946-li-0010">
+                                            <p>Moderately important</p>
+                                        </list-item>
+                                        <list-item id="ajr12946-li-0011">
+                                            <p>Very important</p>
+                                        </list-item>
+                                        <list-item id="ajr12946-li-0012">
+                                            <p>Extremely important</p>
+                                        </list-item>
+                                    </list>
+                                    \n</td>
+                                <td align="left" valign="top" rowspan="1" colspan="1">1 and 2</td>
+                            </tr>
+                            <tr>
+                                <td align="left" valign="top" rowspan="1" colspan="1">How do you
+                                    propose to apply each principle to Outback Futures?</td>
+                                <td align="left" valign="top" rowspan="1" colspan="1">3 and 4</td>
+                            </tr>
+                            <tr>
+                                <td align="left" valign="top" rowspan="1" colspan="1">Additional
+                                    question added after session two: Identify key indicators for
+                                    assessment of each principle</td>
+                                <td align="left" valign="top" rowspan="1" colspan="1">3 and 4</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </table-wrap>
+                <p>A semi&#x02010;structured interview schedule was developed from the theoretical
+                    framework and research questions (Table&#x000a0;<xref rid="ajr12946-tbl-0001"
+                        ref-type="table">1</xref>).</p>
+                <p>Participants were asked to describe what each of the principles meant in practice
+                    for the case organisation, and asked to rate how <italic toggle="yes">important</italic>
+                    they believed each principle to be on a 7&#x02010;point Likert scale from
+                    1&#x000a0;=&#x000a0;<italic toggle="yes">not at all important</italic> to
+                    7&#x000a0;=&#x000a0;<italic toggle="yes">extremely important</italic>.</p>
+                <p>The interview schedule was extended to include the concept of a
+                    self&#x02010;assessment framework following data collected from the first
+                    interview. As such, participants were asked to identify relevant indicators for
+                    assessment of each principle in the third and fourth interviews.</p>
+                <p>A fifth meeting was scheduled to present provisional findings to the participants
+                    and allow them an opportunity to clarify or amend. The provisional findings were
+                    endorsed with minor amendments to wording of indicators suggested.</p>
+            </sec>
+            <sec id="ajr12946-sec-0016">
+                <label>2.5</label>
+                <title>Data coding</title>
+                <p>The six phases of thematic analysis were used to analyse the data collected.<xref
+                        rid="ajr12946-bib-0009" ref-type="bibr">\n<sup>9</sup>\n</xref> The first
+                    author became familiar with the data through the process of transcribing each
+                    interview, as well as listening to the recordings to generate initial codes.
+                    Following this, seven preliminary themes were identified. The transcripts were
+                    again reviewed and quotations relating to any of the preliminary themes were
+                    extracted. The first author reviewed the preliminary themes in supervision with
+                    the second and third authors. The preliminary themes were further condensed into
+                    three potential themes. The potential themes were then reviewed and assessed for
+                    quality, boundaries, specificity, evidence in the dataset and relationship to
+                    other potential themes. Following review and further supervision, three themes
+                    were defined and named.</p>
+            </sec>
+            <sec id="ajr12946-sec-0017">
+                <label>2.6</label>
+                <title>Ethics approval</title>
+                <p>This project was approved by the University of Southern Queensland Human Research
+                    Ethics Committee (H20REA024).</p>
+            </sec>
+        </sec>
+        <sec id="ajr12946-sec-0018">
+            <label>3</label>
+            <title>ANALYSIS</title>
+            <sec id="ajr12946-sec-0019">
+                <label>3.1</label>
+                <title>Data analysis</title>
+                <p>Recordings of the group interviews were transcribed by the first author and
+                    analysed using Braun and Clarke's<xref rid="ajr12946-bib-0009" ref-type="bibr">
+                    \n<sup>9</sup>\n</xref> six&#x02010;phase approach to thematic analysis. The six
+                    phases include: 1. Familiarising yourself with the data, 2. Generating initial
+                    codes, 3. Searching for themes, 4. Reviewing potential themes, 5. Defining and
+                    naming themes, and 6. Producing the report.<xref rid="ajr12946-bib-0009"
+                        ref-type="bibr">\n<sup>9</sup>\n</xref> The second and third authors
+                    provided regular supervision throughout the analysis. Data analysis began
+                    throughout the data collection process to inform further interviews, as
+                    recommended by Braun and Clarke.<xref rid="ajr12946-bib-0009" ref-type="bibr">\n<sup>
+                    9</sup>\n</xref>\n</p>
+            </sec>
+        </sec>
+        <sec id="ajr12946-sec-0020">
+            <label>4</label>
+            <title>FINDINGS</title>
+            <p>The findings are organised into subsections. The research questions are addressed
+                first by summarising the participants' perspectives regarding the seven principles'
+                clinical utility and potential for application and an evaluation tool. Then the
+                findings of thematic analysis are reported as three themes of importance for the
+                delivery of visiting primary care services to rural and remote regions.<xref
+                    rid="ajr12946-bib-0009" ref-type="bibr">\n<sup>9</sup>\n</xref>\n</p>
+            <sec id="ajr12946-sec-0021">
+                <label>4.1</label>
+                <title>Clinical utility</title>
+                <p>The participants were unanimous in their endorsement of the revised model of
+                    seven principles for effective visiting services<xref rid="ajr12946-bib-0005"
+                        ref-type="bibr">\n<sup>5</sup>\n</xref> (the model). The model's
+                    comprehensive approach fit with their organisation.<disp-quote
+                        content-type="quotation" id="ajr12946-blkfxd-0002">
+                        <p>I think all seven [principles] are really critical&#x02026; We can be
+                    measuring clinical outputs and they can be good, but that doesn't mean that
+                    we're making any overall change in the whole of community. Our model is about
+                    whole of community transformation. <named-content content-type="attribution">(Participant
+                    #1)</named-content>\n</p>
+                    </disp-quote>\n</p>
+                <p>Furthermore, the participants reported that each of the seven revised principles
+                    held clinical utility for the specific case of Outback Futures, rating them all
+                    as either <italic toggle="yes">very</italic> or <italic toggle="yes">extremely
+                    important</italic> (ratings 6 and 7). Two amendments were suggested to the
+                    definitions of principles Partnership and Review. Regarding Partnership, the
+                    participant's reported that it is important for visiting services to consult
+                    with community prior to establishing themselves, however, they indicated that
+                    the process of forming a healthy and robust partnership involves time and
+                    consistency. In the case of Outback Futures, the development of rapport with
+                    rural and remote communities occurs over a period of at least 2&#x02009;years.
+                    The second suggested amendment was for the definition of Review where the
+                    participants requested the inclusion of a strengths analysis of the community,
+                    as well as the previously defined needs analysis, to reframe the approach where
+                    appropriate.</p>
+                <p>The participant's emphasised their perspective that OF is different from other
+                    visiting services.<disp-quote content-type="quotation" id="ajr12946-blkfxd-0003">
+                        <p>I think one of the challenging things is that if you're looking at
+                    general visiting services, it's actually quite different to Outback
+                    Futures&#x02026; We're one of the few, organisations who offers service
+                    provision but is actually focussed on whole of community change&#x02026; A
+                    standard visiting service isn't focussed on community engagement and community
+                    mapping, they don't have time for that, they don't have funds for that. <named-content
+                                content-type="attribution">(Participant #1)</named-content>\n</p>
+                    </disp-quote>
+                    \n</p>
+                <p>The participants reported that they believed that OF is different from other
+                    visiting services because of their long&#x02010;term commitment to community
+                    well&#x02010;being. This commitment influences their funding decisions through
+                    the diversity of funders, and their workforce structure.<disp-quote
+                        content-type="quotation" id="ajr12946-blkfxd-0004">
+                        <p>The advantage of our workforce model&#x02026;is the fact that we recruit
+                    to a region, so that even when we are not in a community physically, our
+                    headspace is in that community&#x02026; It just means we're more accessible
+                    and&#x02026; there's much greater consistency and reliability in that. <named-content
+                                content-type="attribution">(Participant #1)</named-content>\n</p>
+                    </disp-quote>
+                    \n</p>
+                <p>Therefore, while the current study demonstrates clinical utility for the model
+                    with the case, the results cannot be completely generalised to all visiting
+                    services.</p>
+            </sec>
+            <sec id="ajr12946-sec-0022">
+                <label>4.2</label>
+                <title>Application to evaluation</title>
+                <p>During the second interview it was proposed for the model to be transformed into
+                    a self&#x02010;assessment, accreditation tool. This suggestion was met with
+                    support from participants.<disp-quote content-type="quotation"
+                        id="ajr12946-blkfxd-0005">
+                        <p>I think it makes sense from the perspective that there's some consistency
+                    like across frameworks that are commonly used in Australia. To me it would be
+                    speaking the language of funders potentially as well, like Government bodies
+                    that would relate to that [the tool] and that can be helpful. <named-content
+                                content-type="attribution">(Participant #1)</named-content>\n</p>
+                    </disp-quote>
+                    \n<disp-quote content-type="quotation" id="ajr12946-blkfxd-0006">
+                        <p>I agree with [Participant #2], I think at the moment there could be some
+                    real value in trying to get some consistency&#x02026;whilst it looks daunting at
+                    one level, I think there could be some real value in it because I think
+                    ultimately, if it's evidence based and it's got some research behind it, it
+                    could actually um provide some validation for what we're doing and why we're
+                    doing it. <named-content content-type="attribution">(Participant #1)</named-content>
+                    \n</p>
+                    </disp-quote>\n</p>
+                <p>The third and fourth interviews were structured to have participants brainstorm
+                    potential indicators for the accreditation tool. Each indicator was designed to
+                    capture an organisation's consideration of, and adherence to, each principle of
+                    the model. Preliminary indicators were proposed in the discussion of the group
+                    interviews. These were consolidated and refined by the research team and
+                    re&#x02010;presented to the participants for review in a follow&#x02010;up
+                    meeting. The participants expressed support for the preliminary indicators and
+                    suggested minor amendments in wording. The final indicators are presented in
+                    Table&#x000a0;<xref rid="ajr12946-tbl-0002" ref-type="table">2</xref>.</p>
+                <table-wrap position="float" id="ajr12946-tbl-0002" content-type="TABLE">
+                    <label>TABLE 2</label>
+                    <caption>
+                        <p>Indicators for self&#x02010;assessment from the model of seven principles
+                            for effective visiting services</p>
+                    </caption>
+                    <table frame="hsides" rules="groups">
+                        <col align="left" span="1" />
+                        <col align="left" span="1" />
+                        <thead valign="bottom">
+                            <tr style="border-bottom:solid 1px #000000">
+                                <th align="left" valign="bottom" rowspan="1" colspan="1">Principles</th>
+                                <th align="left" valign="bottom" rowspan="1" colspan="1">Indicators
+                                    for self&#x02010;assessment</th>
+                            </tr>
+                        </thead>
+                        <tbody valign="top">
+                            <tr>
+                                <td align="left" valign="top" rowspan="1" colspan="1">Feasibility</td>
+                                <td align="left" valign="top" rowspan="1" colspan="1">\n<p>The
+                                    visiting service has:</p>\n<p>1.1 Broad engagement with a
+                                    variety of community stakeholders to ensure responsive and
+                                    appropriate service delivery.</p>\n<p>1.2 A long&#x02010;term
+                                    commitment to communities serviced.</p>\n<p>1.3 Transparency of
+                                    finances and justification of costs.</p>\n<p>1.4 A diversity of
+                                    funding sources for increased sustainability and flexibility of
+                                    scope.</p>\n</td>
+                            </tr>
+                            <tr>
+                                <td align="left" valign="top" rowspan="1" colspan="1">Justification</td>
+                                <td align="left" valign="top" rowspan="1" colspan="1">\n<p>The
+                                    visiting service has:</p>\n<p>2.1 An active and ongoing
+                                    invitation from communities.</p>\n<p>2.2 Evidence of
+                                    co&#x02010;design and collaboration with community.</p>\n<p>2.3
+                                    Produced a gap analysis of each community through the assessment
+                                    of health needs and services available.</p>\n<p>2.4 Evidence of
+                                    regular monitoring for the purpose of updating the
+                                    aforementioned gap analysis.</p>\n<p>2.5 Met their identified
+                                    service aims in each community.</p>\n</td>
+                            </tr>
+                            <tr>
+                                <td align="left" valign="top" rowspan="1" colspan="1">Partnership</td>
+                                <td align="left" valign="top" rowspan="1" colspan="1">\n<p>The
+                                    visiting service has:</p>\n<p>3.1 Support evident in community
+                                    testimonials.</p>\n<p>3.2 Support evident in the source of
+                                    referrals.</p>\n<p>3.3 Evidence of active engagement with
+                                    health, community services and other organisations.</p>\n<p>3.4
+                                    Evidence of active partnerships with health, community services
+                                    and other organisations.</p>\n<p>3.5 Evidence of liaison with
+                                    multiple sectors (i.e., education, business, health, local
+                                    council, etc.).</p>\n</td>
+                            </tr>
+                            <tr>
+                                <td align="left" valign="top" rowspan="1" colspan="1">Scope</td>
+                                <td align="left" valign="top" rowspan="1" colspan="1">\n<p>The
+                                    visiting service:</p>\n<p>4.1 Has a clearly defined scope of
+                                    practice at all levels of the organisation.</p>\n<p>4.2
+                                    Consistently applies the scope of practice with different
+                                    practitioners.</p>\n<p>4.3 Collects data to monitor how the
+                                    organisation's scope is effectively fit to each community.</p>\n<p>4.4
+                                    Has the capacity to absorb and manage limiting factors to
+                                    preserve the scope of the organisation (e.g., funding
+                                    limitations and reporting requirements).</p>\n<p>4.5 Has
+                                    flexibility and breadth embedded into the scope to respond
+                                    appropriately to the specific needs of individual communities
+                                    serviced.</p>\n</td>
+                            </tr>
+                            <tr>
+                                <td align="left" valign="top" rowspan="1" colspan="1">Scheduling</td>
+                                <td align="left" valign="top" rowspan="1" colspan="1">\n<p>The
+                                    visiting service:</p>\n<p>5.1 Has sufficient regular visits to
+                                    each community to maintain authentic connection and trust.</p>\n<p>5.2
+                                    Can provide evidence of co&#x02010;design with the community in
+                                    the development of schedule.</p>\n<p>5.3 Prioritises
+                                    multidisciplinary care through its schedule.</p>\n<p>5.4
+                                    Incorporates both primary and secondary interventions in its
+                                    schedule.</p>\n<p>5.5 Plans their visits to a schedule that is
+                                    responsive and appropriate to the needs of the community.</p>\n</td>
+                            </tr>
+                            <tr>
+                                <td align="left" valign="top" rowspan="1" colspan="1">Continuity</td>
+                                <td align="left" valign="top" rowspan="1" colspan="1">\n<p>The
+                                    visiting service organisation:</p>\n<p>6.1 Can demonstrate
+                                    continuity in each community through data recorded (i.e., staff
+                                    retention, length of time in a region and consistency of staff
+                                    to each community).</p>\n<p>6.2 Recruits to ensure consistency
+                                    of specific personnel to each community.</p>\n<p>6.3 Shows
+                                    evidence of an adaptable workforce structure that prioritises
+                                    continuity.</p>\n<p>6.4 Has structures and systems established
+                                    to maintain continuity with the community between
+                                    face&#x02010;to&#x02010;face visits (i.e., telehealth,
+                                    resourcing locals).</p>\n</td>
+                            </tr>
+                            <tr>
+                                <td align="left" valign="top" rowspan="1" colspan="1">Review</td>
+                                <td align="left" valign="top" rowspan="1" colspan="1">\n<p>The
+                                    visiting service conducts:</p>\n<p>7.1 Regular assessment of the
+                                    effectiveness of clinical services through reliable,
+                                    client&#x02010;centred measures.</p>\n<p>7.2 Regular assessment
+                                    of the effectiveness of the organisation's community
+                                    co&#x02010;design and partnership with the community.</p>\n<p>7.3
+                                    Annual review of community well&#x02010;being at a whole of
+                                    community level.</p>\n<p>7.4 Assessments for evidence of change
+                                    in the community following prolonged intervention from the
+                                    visiting service.</p>\n</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </table-wrap>
+                <p>Throughout the data collection process, four of the seven principles were
+                    identified by the participants as mandatory indicating that they were of
+                    particular importance, and the remaining principles were classified instead as
+                    necessary. Upon review, the participants requested the removal of the mandatory
+                    categories. &#x0201c;I feel like maybe you've ended up with seven categories
+                    that actually as wholes they're all pretty important&#x0201d; (Participant #2).
+                    &#x0201c;That was my feeling yesterday when I read through this, I was a bit
+                    concerned about only having four of them as mandatory, the others all felt
+                    really important&#x0201d; (Participant #1). The mandatory categories have since
+                    been removed.</p>
+                <p>As an outcome of the current study, the self&#x02010;assessment tool has been
+                    established and produced into a document for use by visiting service
+                    organisations. A preview of the output is captured in Figure&#x000a0;<xref
+                        rid="ajr12946-fig-0002" ref-type="fig">2</xref> with the full text available
+                    upon request. To use the self&#x02010;assessment measure, visiting service
+                    organisations can use each indicator (four or five per principle) and rate their
+                    performance on a 6&#x02010;point Likert scale presented in Figure&#x000a0;<xref
+                        rid="ajr12946-fig-0003" ref-type="fig">3</xref>. Totals can be calculated
+                    for each Principle to determine if the organisation <italic toggle="yes">requires
+                    significant work</italic> on a principle or has rated as <italic toggle="yes">solid
+                    work with areas to improve</italic>, or <italic toggle="yes">strength with some
+                    areas to improve</italic>. Organisations are required to provide evidence
+                    including specific examples to justify their decision. Graphic designers were
+                    used to construct the business&#x02010;use document informing both cosmetic and
+                    functional features. Of note is the &#x0201c;Smart PDF&#x0201d; features that
+                    have been incorporated to allow users to fill the form out electronically. These
+                    features make regular review more achievable and allow organisations to capture
+                    changes over time.</p>
+                <fig position="float" fig-type="FIGURE" id="ajr12946-fig-0002">
+                    <label>FIGURE 2</label>
+                    <caption>
+                        <p>Preview of the self&#x02010;assessment protocol business&#x02010;use
+                            document</p>
+                    </caption>
+                    <graphic xlink:href="AJR-30-760-g001" position="anchor" id="jats-graphic-3" />
+                </fig>
+                <fig position="float" fig-type="FIGURE" id="ajr12946-fig-0003">
+                    <label>FIGURE 3</label>
+                    <caption>
+                        <p>Scale used to rate performance on each indicator of the
+                            self&#x02010;assessment protocol</p>
+                    </caption>
+                    <graphic xlink:href="AJR-30-760-g002" position="anchor" id="jats-graphic-5" />
+                </fig>
+            </sec>
+            <sec id="ajr12946-sec-0023">
+                <label>4.3</label>
+                <title>Notable themes</title>
+                <sec id="ajr12946-sec-0024">
+                    <label>4.3.1</label>
+                    <title>Relationship is fundamental</title>
+                    <p>The participants spoke frequently about the relationship between the visiting
+                        service and the community. The participants reported high frequency of staff
+                        turnover and inconsistency of services to the remote and very remote regions
+                        that OF visits. As a result of turnover and inconsistency, community members
+                        are sceptical of visiting services, their commitment and sustainability.<disp-quote
+                            content-type="quotation" id="ajr12946-blkfxd-0007">
+                            <p>I remember when [community member] sat down and said &#x0201c;oh no,
+                        not another one, we have had so many of you guys and I can never keep
+                        up.&#x0201d; Then 2&#x02009;years later he was saying &#x0201c;&#x02026; you
+                        guys are the most consistent service providers we've got&#x0201d;&#x02026;
+                        The reality is that when you've got schools with five principals in
+                        1&#x02009;year, and organisations where roles are vacant for 2&#x02009;years
+                        at a time, then they are filled for 6&#x02010;month and then they are vacant
+                        for another 2&#x02009;years, if you are persistent, it doesn't take long to
+                        show people. <named-content content-type="attribution">(Participant #1)</named-content>
+                        \n</p>
+                        </disp-quote>\n</p>
+                    <p>The participants also spoke of rural and remote communities feeling
+                        invalidated by visiting services that make assumptions of their context and
+                        needs. The participants provided examples of how they develop and maintain a
+                        relationship with communities.<disp-quote content-type="quotation"
+                            id="ajr12946-blkfxd-0008">
+                            <p>One of the things that we try and drum into our team is that we're
+                        not the city experts&#x02026; We don't come with all the answers. We are
+                        here to listen and learn and work with the local context and I think because
+                        there is that mindset very strong in the bush of &#x0201c;oh look here's
+                        someone else from Brisbane that's come out to show us the latest
+                        you&#x02010;beaut thing and they'll be gone before we know it and nothing
+                        will change&#x0201d;&#x02026; it's kind of the posture you go with and the
+                        way you carry as opposed to just turning up as the latest person with the
+                        silver bullet. <named-content content-type="attribution">(Participant #3)</named-content>
+                        \n</p>
+                        </disp-quote>\n</p>
+                    <p>As well as the approach of the visiting service, the participants reported
+                        the continuity of staff and continuity of brand, demonstration of
+                        consistency, and direct efforts to connect with local stakeholders as
+                        factors that influence the development of relationship. As an outcome of
+                        these strategies, the participants reported that once the relationship has
+                        been established and the organisation has demonstrated consistency and
+                        commitment to the community, the service is able to tailor the frequency of
+                        visits without impacting the strength of relationship. Further, the
+                        participants reported that a team approach with an existing relationship
+                        allows for the movement of staff when required (e.g., maternity leave,
+                        promotion to managerial role, or a reallocation to new region) without
+                        impact to client's access to services.</p>
+                </sec>
+                <sec id="ajr12946-sec-0025">
+                    <label>4.3.2</label>
+                    <title>Importance of <styled-content style="fixed-case" toggle="no">
+                        co&#x02010;design</styled-content>\n</title>
+                    <p>In the case of Outback Futures, co&#x02010;design is fundamental to their
+                        model of service. The participants explained that the organisation operated
+                        purely on an invitation&#x02010;only basis.<disp-quote
+                            content-type="quotation" id="ajr12946-blkfxd-0009">
+                            <p>We won't go into a region unless there's been some level of
+                        invitation from the community, and that invitation then leads us to do a
+                        whole series of community engagement processes to ensure we are actually
+                        welcome and that we are doing what they want us to be doing. <named-content
+                                    content-type="attribution">(Participant #1)</named-content>\n</p>
+                        </disp-quote>
+                        \n</p>
+                    <p>Once invited to work in a community, OF prioritises partnership through
+                        co&#x02010;design.<disp-quote content-type="quotation"
+                            id="ajr12946-blkfxd-0010">
+                            <p>Hopefully we carry that posture of humility or partnership or working
+                        alongside and listening so that&#x02026; we are designing stuff together. We
+                        use that word &#x02018;co&#x02010;design&#x02019; a lot. We genuinely try to
+                        collaborate and do all of that stuff that's good partnership work. <named-content
+                                    content-type="attribution">(Participant #3)</named-content>\n</p>
+                        </disp-quote>
+                        \n<disp-quote content-type="quotation" id="ajr12946-blkfxd-0011">
+                            <p>I think the coming together of our expertise with the community's
+                        expertise is what actually helped identify the priority because sometimes we
+                        go, &#x0201c;oh it's obviously going to be around&#x02026;&#x0201d; whatever
+                        &#x0201c;mental health, education or working&#x0201d; they're going,
+                        &#x0201c;oh well it's obviously going to be this, because we know our
+                        community&#x0201d; but both of those groups actually have blind
+                        spots&#x02026; it's really only as you put them together, and they wrestle
+                        together that you actually figure out what the priority is. It's actually a
+                        genuine co&#x02010;creation of stuff and having the breadth of voices [from
+                        the community] is part of the important bit of that&#x02026; you can get a
+                        bit of a biased view dependant on who you listen to. <named-content
+                                    content-type="attribution">(Participant #3)</named-content>\n</p>
+                        </disp-quote>
+                        \n</p>
+                    <p>The participants indicated that to be effective in co&#x02010;design requires
+                        flexibility from the visiting service. Specifically for the case,
+                        flexibility in funding sources, scope of practice, and in the structure of
+                        their workforce with non&#x02010;clinical, community&#x02010;focussed roles.<disp-quote
+                            content-type="quotation" id="ajr12946-blkfxd-0012">
+                            <p>I think the diversity of our funding comes back in again because, if
+                        you are just funded by Government, then it's only the procured services that
+                        are going to be funded and that's going to determine how much you've got to
+                        invest time, and money, and resources and into engagement, or into
+                        co&#x02010;design, or into listening. The fact that we have diversity in our
+                        funding means that we have more flexibility to invest in the less
+                        service&#x02010;orientated aspect of our model. Like the listening and the
+                        co&#x02010;design. <named-content content-type="attribution">(Participant
+                        #1)</named-content>\n</p>
+                        </disp-quote>\n<disp-quote
+                            content-type="quotation" id="ajr12946-blkfxd-0013">
+                            <p>They [rural communities] don't realise that, OT once a year is
+                        inadequate, until they experience OT once a week. I think it's evolving, and
+                        the scope needs to be flexible and needs to evolve. <named-content
+                                    content-type="attribution">(Participant #1)</named-content>\n</p>
+                        </disp-quote>
+                        \n<disp-quote content-type="quotation" id="ajr12946-blkfxd-0014">
+                            <p>Our regional leads and our regional coordinators are
+                        actually&#x02026; they're thinking about the community, they're thinking
+                        about connection, they're thinking about our presence there&#x02026; So,
+                        when you elevate it above just pure service delivery and you embed people in
+                        the team who constantly have an eye and an ear for what's going on in the
+                        community and our reputation there, and our presence there, and our impact
+                        there, then um that's important for continuity too because it sort of
+                        carries&#x02026; an overarching understanding of the community that holds
+                        that team and its presence in the community together. <named-content
+                                    content-type="attribution">(Participant #3)</named-content>\n</p>
+                        </disp-quote>
+                        \n</p>
+                    <p>Co&#x02010;design between visiting services and rural and remote communities
+                        is essential but does not come without challenges.</p>
+                </sec>
+                <sec id="ajr12946-sec-0026">
+                    <label>4.3.3</label>
+                    <title>Being effective as a visiting service is challenging</title>
+                    <p>The participants consistently indicated that being an effective visiting
+                        service is really challenging. This theme is the broadest of all three
+                        themes produces and is related to the previous two separately. Establishing
+                        an effective relationship is difficult due to the existing stigma in rural
+                        and remote communities and hesitancy to trust visiting services generally.
+                        Co&#x02010;design is challenging due to mismatched expectations for what the
+                        service will provide, logistical challenges of partnership, and scheduling,
+                        as well as the difficulty sourcing a well&#x02010;rounded, unbiased
+                        community opinion rather than an individual viewpoint. Further, both
+                        developing a reliable relationship and engaging in co&#x02010;design require
+                        time and resources that are often not incorporated into funding grants.
+                        Outback Futures is a not&#x02010;for&#x02010;profit organisation and
+                        currently operates a no&#x02010;fee for service to reduce barriers to
+                        engagement. A challenge for the organisation now, having worked in some
+                        communities for 5&#x02009;years, is to introduce a fee to enhance the
+                        likelihood of long&#x02010;term community engagement with healthcare, beyond
+                        visits from OF.<disp-quote content-type="quotation"
+                            id="ajr12946-blkfxd-0015">
+                            <p>Part of our challenge at the moment is looking at how do we build
+                        that in as part of the model? So that communities are actually valuing what
+                        they're getting, because if whoever&#x02010; whether it's Government, or
+                        Outback Futures, or another agency give them [clients] free service for
+                        5&#x02009;years and later on they're forced to pay for it, if they don't
+                        value it enough, they won't be prepared to. <named-content
+                                    content-type="attribution">(Participant #1)</named-content>\n</p>
+                        </disp-quote>
+                        \n</p>
+                    <p>The participants stated that OF is determined to make a long&#x02010;term
+                        impact on community well&#x02010;being which involves challenges
+                        particularly related to funding.<disp-quote content-type="quotation"
+                            id="ajr12946-blkfxd-0016">
+                            <p>&#x02026;You have never really got a long&#x02010;term funding
+                        commitment, you've got a long&#x02010;term service commitment. So, it does
+                        make feasibility really difficult but the organisation has committed to just
+                        keep trying to fill those buckets [of different funding]. <named-content
+                                    content-type="attribution">(Participant #2)</named-content>\n</p>
+                        </disp-quote>
+                        \n</p>
+                    <p>Another prominent challenge reported by the participants was the high rates
+                        of workforce turnover in rural and remote communities, and implications this
+                        has for the organisation's justification, partnership and scope.<disp-quote
+                            content-type="quotation" id="ajr12946-blkfxd-0017">
+                            <p>I think that one of the hard things is that because there's so much
+                        turnover&#x02026; keeping on top of who's there, and also keeping on top of
+                        exactly what they're doing because part of the justification of what we're
+                        doing is because other services aren't doing it. But sometimes they are,
+                        sometimes they aren't, because sometimes they can get a speech [speech
+                        pathologist] and sometimes they can't, and that can really change with the
+                        wind. Sometimes we are doubling up [with other services] and sometimes
+                        there's gaping holes. <named-content content-type="attribution">(Participant
+                        #2)</named-content>\n</p>
+                        </disp-quote>\n<disp-quote
+                            content-type="quotation" id="ajr12946-blkfxd-0018">
+                            <p>Other fly&#x02010;in&#x02010;fly&#x02010;out services or even other
+                        services that are on the ground but are servicing 15 schools between Alpha
+                        and Birdsville or are servicing seven Central West Shires. The reality is,
+                        their head is only in the community that they're in, when they're there
+                        physically. Because they're in Winton this week, they're in Boolia next
+                        week, they're in Barcoo the next week, actually our capacity to collaborate
+                        with them, at any point, is very difficult. <named-content
+                                    content-type="attribution">(Participant #1)</named-content>\n</p>
+                        </disp-quote>
+                        \n</p>
+                    <p>Within the organisation, the participants reported there are also logistical
+                        challenges related to scheduling clinics, coordinating with community and
+                        part&#x02010;time staff. Finally, review and evaluation of visiting services
+                        is largely uncharted territory.<disp-quote content-type="quotation"
+                            id="ajr12946-blkfxd-0019">
+                            <p>I think any sort of impact stuff is really challenging. Even if at a
+                        clinical level it's very hard to get practitioners to use outcome measures
+                        well, to select outcome measures that are actually meaningful&#x02026; it's
+                        just hard to get a good read of communities in general. What sort of tools
+                        can we use to help us to get to know the full breadth of the community
+                        better? Read it better and sort of have an ongoing iterative process around
+                        that evaluation so that we're being constantly informed by how that
+                        community's feeling and doing. <named-content content-type="attribution">(Participant
+                        #2)</named-content>\n</p>
+                        </disp-quote>\n</p>
+                </sec>
+            </sec>
+        </sec>
+        <sec sec-type="discussion" id="ajr12946-sec-0027">
+            <label>5</label>
+            <title>DISCUSSION</title>
+            <p>The current research provides evidence for the clinical utility of the revised model
+                of seven principles for effective visiting services (the model).<xref
+                    rid="ajr12946-bib-0002" ref-type="bibr">\n<sup>2</sup>\n</xref>, <xref
+                    rid="ajr12946-bib-0005" ref-type="bibr">\n<sup>5</sup>\n</xref> A pragmatic
+                outcome of the current research is a self&#x02010;assessment tool for the case
+                organisation to use as a tool for evaluation. This is an innovative contribution to
+                the literature relating to visiting primary care services, also informing the area
+                of clinical practice.</p>
+            <p>In the case of Outback Futures, the model received unanimous endorsement by the case
+                study's participants. The participants reported that the comprehensive approach
+                aligned well with their target of improving whole of community wellbeing.<xref
+                    rid="ajr12946-bib-0010" ref-type="bibr">\n<sup>10</sup>\n</xref> The
+                participants requested minor amendments to the existing published definitions of the
+                principles Partnership and Review. Further, the participants reported that the case
+                of Outback Futures is not representative of typical visiting services. This belief
+                may have risen from the discrepancy between different community's expectations and
+                OF's success with relationships and co&#x02010;design. One of the many advantages of
+                the OF's model is their availability to both community members and other service
+                providers. By recruiting to a region, their staff are more available to meet with,
+                and discuss matters relating to that region, even when not on the ground in person.
+                Further, the multimodal approach with both face&#x02010;to&#x02010;face and
+                telehealth interventions also contributes to the continuity of the service. Due to
+                the perceived difference between OF and other visiting services, future research is
+                required to determine the suitability of the model of seven principles to other
+                visiting primary care organisations.</p>
+            <p>Currently, no guidelines, standard procedures or recommendations exist to direct the
+                evidence&#x02010;based evaluation of visiting primary care services. The product of
+                the present study is the first known attempt to establish a tool for evaluation to
+                be used by visiting services. Following the support collected for the model, the
+                case of Outback Futures was used to inform the development of the
+                self&#x02010;assessment tool presented in Table&#x000a0;<xref
+                    rid="ajr12946-tbl-0002" ref-type="table">2</xref>. While currently this measure
+                is specific to the case, it provides a prototype that could be replicated and
+                modified by other services. Due to the variation in visiting primary care services,
+                a framework centred on the model provides a consistent solution to be adaptably
+                applied to different organisations.</p>
+            <p>Three themes were identified from the data collected, and illustrated different
+                components of effective visiting service delivery from the perspective of the case.</p>
+            <sec id="ajr12946-sec-0028">
+                <label>5.1</label>
+                <title>Relationship</title>
+                <p>The participants explained how the relationship between the visiting service and
+                    community is fundamental to the effectiveness of the organisation. They reported
+                    that the health workforce in the areas OF visit have high rates of staff
+                    turnover and difficulties in the attraction and retention of staff which aligns
+                    with evidence relating to workforce challenges in rural and remote areas.<xref
+                        rid="ajr12946-bib-0004" ref-type="bibr">\n<sup>4</sup>\n</xref>, <xref
+                        rid="ajr12946-bib-0011" ref-type="bibr">\n<sup>11</sup>\n</xref>, <xref
+                        rid="ajr12946-bib-0012" ref-type="bibr">\n<sup>12</sup>\n</xref> These
+                    findings from the case organisation are further support for the revised model,
+                    particularly the principles of partnership and scheduling which emphasise
+                    collaboration with communities serviced.<xref rid="ajr12946-bib-0005"
+                        ref-type="bibr">\n<sup>5</sup>\n</xref> In addition to existing literature,
+                    the present study implores visiting services to prioritise their relationship
+                    with community members by adopting a stance of humility to listen and learn the
+                    local context, and demonstrating reliability through continuity of staff and
+                    continuity of visits.</p>
+            </sec>
+            <sec id="ajr12946-sec-0029">
+                <label>5.2</label>
+                <title>Co&#x02010;design</title>
+                <p>The development of a robust relationship can be further enhanced through
+                    collaborative co&#x02010;design. This finding aligns with the conclusions of The
+                    Orange Declaration on Rural and Remote Mental Health.<xref
+                        rid="ajr12946-bib-0010" ref-type="bibr">\n<sup>10</sup>\n</xref> The Orange
+                    Declaration is a publication that described ten problems related to current
+                    models of mental health and well&#x02010;being in rural areas, and proposed ten
+                    solutions. In relation to the present research, the Orange Declaration outlined
+                    the problem of urban assumptions and their influence through top&#x02010;down
+                    service models, as well as the discrepancy between service provision and
+                    population need in rural locations. Solutions proposed by the Orange Declaration
+                    include service models tailored to the context of individual communities, and
+                    co&#x02010;designed, bottom&#x02010;up processes to generate appropriate
+                    solutions.<xref rid="ajr12946-bib-0010" ref-type="bibr">\n<sup>10</sup>\n</xref>
+                    The process of co&#x02010;design encourages an increase in capacity,
+                    empowerment, resilience and connection as individuals are asked to provide their
+                    perspective as experts of their own community and culture.<xref
+                        rid="ajr12946-bib-0010" ref-type="bibr">\n<sup>10</sup>\n</xref>, <xref
+                        rid="ajr12946-bib-0013" ref-type="bibr">\n<sup>13</sup>\n</xref> For
+                    co&#x02010;design to be effective, visiting services must have flexibility to
+                    tailor their service to the needs and plans discussed. For Outback Futures, this
+                    flexibility is found in the diversity of their funding sources that allows them
+                    to continue to prioritise community engagement and co&#x02010;design beyond
+                    specific grants allocated only to the delivery of services. Co&#x02010;design is
+                    a vital component of the effectiveness of Outback Futures as a visiting service.</p>
+            </sec>
+            <sec id="ajr12946-sec-0030">
+                <label>5.3</label>
+                <title>Challenge</title>
+                <p>From the perspective of the case, being effective as a visiting service
+                    organisation is challenging. It is challenging because of the stigma that has
+                    developed around visiting services and work required to build trust and rapport.
+                    It is challenging because being genuine and committed to co&#x02010;design
+                    requires time, resources and flexibility. It is challenging because the
+                    literature related to visiting services is sparse and inconsistent and because
+                    OF feels different from the typical mould of visiting services. It is
+                    challenging because OF's commitment to communities extend beyond what they can
+                    grasp in funding, and because valued components of their service are not often
+                    included in funding grants (i.e., co&#x02010;design). Further challenges include
+                    the turnover of workforce in rural and remote areas<xref rid="ajr12946-bib-0004"
+                        ref-type="bibr">\n<sup>4</sup>\n</xref>, <xref rid="ajr12946-bib-0011"
+                        ref-type="bibr">\n<sup>11</sup>\n</xref>, <xref rid="ajr12946-bib-0012"
+                        ref-type="bibr">\n<sup>12</sup>\n</xref> and the impact this has on the
+                    organisation's justification, partnership and scope; internal team logistics
+                    scheduling clinics and responding to need. It is challenging to review the
+                    service in an evidence&#x02010;based and meaningful way. The challenges reported
+                    have not been published in literature relating to visiting services, and could
+                    serve as an explanation for the state of the literature, being sparse and
+                    inconsistent. This clinical experience is a valuable contribution to the
+                    research literature.</p>
+            </sec>
+            <sec id="ajr12946-sec-0031">
+                <label>5.4</label>
+                <title>Conclusions and recommendations</title>
+                <p>This case study provides support for the clinical utility of the revised model of
+                    seven principles for effective visiting services, and includes a prototype
+                    self&#x02010;assessment tool. The themes identified indicate that the posture
+                    adopted by visiting services in rural and remote communities is critical to
+                    their effectiveness. It is recommended that visiting services invest sincerely
+                    in their relationship with each community, prioritise co&#x02010;design, and
+                    adapt their service to the unique needs of the individual communities. The case
+                    acknowledges the challenges this involves but indicates the output is of great
+                    value to rural and remote residents. A limitation to the application of the
+                    prototype self&#x02010;assessment tool is its development with reference to a
+                    single case. The case study represents a valuable contribution to the
+                    literature; however, further research is required to assess both the clinical
+                    utility of the revised model and the applicability of the prototype
+                    self&#x02010;assessment tool to other visiting service organisations. The
+                    self&#x02010;assessment tool should remain as a prototype until further
+                    assessment has been conducted.</p>
+            </sec>
+        </sec>
+        <sec id="ajr12946-sec-0035">
+            <title>AUTHOR CONTRIBUTIONS</title>
+            <p>LJH: conceptualization; data curation; formal analysis; methodology; project
+                administration; visualization; writing &#x02013; original draft; writing &#x02013;
+                review and editing. GB: conceptualization; methodology; supervision; writing
+                &#x02013; review and editing. PM: conceptualization; methodology; supervision;
+                writing &#x02013; review and editing.</p>
+        </sec>
+        <sec id="ajr12946-sec-0033">
+            <title>FUNDING INFORMATION</title>
+            <p>This research has been supported by funding from Outback Futures and the University
+                of Southern Queensland through the Postgraduate Research Scholarship.</p>
+        </sec>
+        <sec sec-type="COI-statement" id="ajr12946-sec-0034">
+            <title>CONFLICT OF INTEREST</title>
+            <p>LH has worked for Outback Futures since 2013 in varying roles. One of the three
+                participants was an existing connection of LH. Regular supervision from GB and PM
+                was maintained throughout the research to ensure that any biases from LH were
+                identified and eliminated.</p>
+        </sec>
+        <sec id="ajr12946-sec-0100">
+            <title>ETHICAL APPROVAL</title>
+            <p>This project was approved by the University of Southern Queensland Human Research
+                Ethics Committee (H20REA024).</p>
+        </sec>
+    </body>
+    <back>
+        <ack id="ajr12946-sec-0032">
+            <title>ACKNOWLEDGEMENTS</title>
+            <p>The research team would like to formally acknowledge the generous contribution of
+                each participant. Further, we would also like to thank the graphic design team that
+                transformed the self&#x02010;assessment protocol from a concept into a professional,
+                user friendly tool. Finally, we greatly appreciate the financial assistance of the
+                USQ Postgraduate Research Scholarship made possible by Outback Futures and the
+                generosity of the Tim Fairfax Family Foundation. Open access publishing facilitated
+                by University of Southern Queensland, as part of the Wiley&#x02010;University of
+                Southern Queensland agreement via the Council of Australian University Librarians.</p>
+        </ack>
+        <ref-list content-type="cited-references" id="ajr12946-bibl-0001">
+            <title>REFERENCES</title>
+            <ref id="ajr12946-bib-0001">
+                <label>1</label>
+                <mixed-citation publication-type="book" id="ajr12946-cit-0001">\n<string-name>\n<surname>de
+                    Roodenbeke</surname>\n<given-names>E</given-names>\n</string-name>, <string-name>
+                    \n<surname>Lucas</surname>\n<given-names>S</given-names>\n</string-name>, <string-name>
+                    \n<surname>Rouzaut</surname>\n<given-names>A</given-names>\n</string-name>, <string-name>
+                    \n<surname>Bana</surname>\n<given-names>F</given-names>\n</string-name>. <source>Outreach
+                    services as a strategy to increase access to health workers in remote and rural
+                    areas</source>. <publisher-loc>Geneva</publisher-loc>: <publisher-name>World
+                    Health Organization</publisher-name>; <year>2011</year>.</mixed-citation>
+            </ref>
+            <ref id="ajr12946-bib-0002">
+                <label>2</label>
+                <mixed-citation publication-type="journal" id="ajr12946-cit-0002">\n<string-name>\n<surname>
+                    Carey</surname>\n<given-names>TA</given-names>\n</string-name>, <string-name>\n<surname>
+                    Sirett</surname>\n<given-names>D</given-names>\n</string-name>, <string-name>\n<surname>
+                    Wakerman</surname>\n<given-names>J</given-names>\n</string-name>, <string-name>
+                    \n<surname>Russell</surname>\n<given-names>D</given-names>\n</string-name>, <string-name>
+                    \n<surname>Humphreys</surname>\n<given-names>JS</given-names>\n</string-name>. <article-title>What
+                    principles should guide visiting primary health care services in rural and
+                    remote communities? Lessons from a systematic review</article-title>. <source>Aust
+                    J Rural Health</source>. <year>2018</year>;<volume>26</volume>(<issue>3</issue>
+                    ):<fpage>146</fpage>&#x02013;<lpage>56</lpage>.<pub-id pub-id-type="pmid">
+                    29845693</pub-id></mixed-citation>
+            </ref>
+            <ref id="ajr12946-bib-0003">
+                <label>3</label>
+                <mixed-citation publication-type="miscellaneous" id="ajr12946-cit-0003">\n<string-name>
+                    \n<surname>Healy</surname>\n<given-names>LJ</given-names>\n</string-name>, <string-name>
+                    \n<surname>Beccaria</surname>\n<given-names>G</given-names>\n</string-name>, <string-name>
+                    \n<surname>Daken</surname>\n<given-names>K</given-names>\n</string-name>, <string-name>
+                    \n<surname>McIlveen</surname>\n<given-names>P.</given-names>\n</string-name>\n<article-title>Visiting
+                    primary care services: A systematic quantitative literature review</article-title>.
+                    [submitted for publication]. In press <year>2022</year>.</mixed-citation>
+            </ref>
+            <ref id="ajr12946-bib-0004">
+                <label>4</label>
+                <mixed-citation publication-type="journal" id="ajr12946-cit-0004">\n<string-name>\n<surname>
+                    Carey</surname>\n<given-names>TA</given-names>\n</string-name>, <string-name>\n<surname>
+                    Sirett</surname>\n<given-names>D</given-names>\n</string-name>, <string-name>\n<surname>
+                    Russell</surname>\n<given-names>D</given-names>\n</string-name>, <string-name>\n<surname>
+                    Humphreys</surname>\n<given-names>JS</given-names>\n</string-name>, <string-name>
+                    \n<surname>Wakerman</surname>\n<given-names>J</given-names>\n</string-name>. <article-title>What
+                    is the overall impact or effectiveness of visiting primary health care services
+                    in rural and remote communities in high&#x02010;income countries? A systematic
+                    review</article-title>. <source>BMC Health Serv Res</source>. <year>2018</year>;<volume>
+                    18</volume>(<issue>1</issue>):<fpage>476</fpage>.<pub-id pub-id-type="pmid">
+                    29921271</pub-id></mixed-citation>
+            </ref>
+            <ref id="ajr12946-bib-0005">
+                <label>5</label>
+                <mixed-citation publication-type="journal" id="ajr12946-cit-0005">\n<string-name>\n<surname>
+                    Healy</surname>\n<given-names>LJ</given-names>\n</string-name>, <string-name>\n<surname>
+                    Beccaria</surname>\n<given-names>G</given-names>\n</string-name>, <string-name>
+                    \n<surname>McIlveen</surname>\n<given-names>P</given-names>\n</string-name>. <article-title>Revised
+                    model for evaluating visiting health care services in rural and remote settings</article-title>
+                    . <source>Aust J Rural Health</source>. <year>2021</year>;<volume>29</volume>(<issue>
+                    5</issue>):<fpage>779</fpage>&#x02013;<lpage>88</lpage>.<pub-id
+                        pub-id-type="pmid">34490938</pub-id></mixed-citation>
+            </ref>
+            <ref id="ajr12946-bib-0006">
+                <label>6</label>
+                <mixed-citation publication-type="book" id="ajr12946-cit-0006">\n<string-name>\n<surname>
+                    Merriam</surname>\n<given-names>SB</given-names>\n</string-name>. <source>Qualitative
+                    research and case study applications in education</source>. <publisher-loc>San
+                    Francisco, CA</publisher-loc>: <publisher-name>Jossey&#x02010;Bass</publisher-name>
+                    ; <year>1998</year>.</mixed-citation>
+            </ref>
+            <ref id="ajr12946-bib-0007">
+                <label>7</label>
+                <mixed-citation publication-type="journal" id="ajr12946-cit-0007">\n<string-name>\n<surname>
+                    Yazan</surname>\n<given-names>B</given-names>\n</string-name>. <article-title>Three
+                    approaches to case study methods in education: yin, Merriam, and stake</article-title>
+                    . <source>Qual Rep</source>. <year>2015</year>;<volume>20</volume>(<issue>2</issue>
+                    ):<fpage>134</fpage>&#x02013;<lpage>52</lpage>.</mixed-citation>
+            </ref>
+            <ref id="ajr12946-bib-0008">
+                <label>8</label>
+                <mixed-citation publication-type="book" id="ajr12946-cit-0008">\n<string-name>\n<surname>
+                    Barbour</surname>\n<given-names>RS</given-names>\n</string-name>. <part-title>Focus
+                    groups</part-title>. In: <person-group person-group-type="editor">\n<string-name>
+                    \n<surname>Bourgeault</surname>\n<given-names>I</given-names>\n</string-name>\n</person-group>
+                    , <person-group person-group-type="editor">\n<string-name>\n<surname>Dingwall</surname>
+                    \n<given-names>R</given-names>\n</string-name>\n</person-group>, <person-group
+                        person-group-type="editor">\n<string-name>\n<surname>de Vries</surname>\n<given-names>
+                    R</given-names>\n</string-name>\n</person-group>, editors. <source>The SAGE
+                    handbook of qualitative methods in Health Research</source>. <publisher-loc>
+                    London</publisher-loc>: <publisher-name>SAGE</publisher-name>; <year>2010</year>.
+                    p. <fpage>327</fpage>&#x02013;<lpage>51</lpage>.</mixed-citation>
+            </ref>
+            <ref id="ajr12946-bib-0009">
+                <label>9</label>
+                <mixed-citation publication-type="book" id="ajr12946-cit-0009">\n<string-name>\n<surname>
+                    Braun</surname>\n<given-names>V</given-names>\n</string-name>, <string-name>\n<surname>
+                    Clarke</surname>\n<given-names>V</given-names>\n</string-name>. <source>Thematic
+                    analysis. APA handbook of research methods in psychology, Vol 2: research
+                    designs: quantitative, qualitative, neuropsychological, and biological</source>. <publisher-loc>Washington,
+                    DC</publisher-loc>: <publisher-name>American Psychological Association</publisher-name>
+                    ; <year>2012</year>. p. <fpage>57</fpage>&#x02013;<lpage>71</lpage>.</mixed-citation>
+            </ref>
+            <ref id="ajr12946-bib-0010">
+                <label>10</label>
+                <mixed-citation publication-type="journal" id="ajr12946-cit-0010">\n<string-name>\n<surname>
+                    Perkins</surname>\n<given-names>D</given-names>\n</string-name>, <string-name>\n<surname>
+                    Farmer</surname>\n<given-names>J</given-names>\n</string-name>, <string-name>\n<surname>
+                    Salvador&#x02010;Carulla</surname>\n<given-names>L</given-names>\n</string-name>
+                    , <string-name>\n<surname>Dalton</surname>\n<given-names>H</given-names>\n</string-name>
+                    , <string-name>\n<surname>Luscombe</surname>\n<given-names>G</given-names>\n</string-name>
+                    . <article-title>The Orange declaration on rural and remote mental health</article-title>
+                    . <source>Aust J Rural Health</source>. <year>2019</year>;<volume>27</volume>(<issue>
+                    5</issue>):<fpage>374</fpage>&#x02013;<lpage>9</lpage>.<pub-id
+                        pub-id-type="pmid">31515882</pub-id></mixed-citation>
+            </ref>
+            <ref id="ajr12946-bib-0011">
+                <label>11</label>
+                <mixed-citation publication-type="miscellaneous" id="ajr12946-cit-0011">\n<collab
+                        collab-type="authors">World Health Organization</collab>\n. <article-title>Increasing
+                    access to heath workers in remote and rural areas through improved retention
+                    2010</article-title>. Available from: <ext-link
+                        xlink:href="https://apps.who.int/iris/bitstream/handle/10665/44369/?sequence=1"
+                        ext-link-type="uri">
+                    https://apps.who.int/iris/bitstream/handle/10665/44369/?sequence=1</ext-link>\n</mixed-citation>
+            </ref>
+            <ref id="ajr12946-bib-0012">
+                <label>12</label>
+                <mixed-citation publication-type="journal" id="ajr12946-cit-0012">\n<string-name>\n<surname>Jackson
+                    Pulver</surname>\n<given-names>L</given-names>\n</string-name>, <string-name>\n<surname>
+                    Fitzpatrick</surname>\n<given-names>S</given-names>\n</string-name>, <string-name>
+                    \n<surname>Ritchie</surname>\n<given-names>J</given-names>\n</string-name>, <string-name>
+                    \n<surname>Norrie</surname>\n<given-names>M</given-names>\n</string-name>. <article-title>Filling
+                    the Gap: an evaluation of a voluntary dental program within an Aboriginal and
+                    Torres Strait Islander and Torres Strait islander community controlled primary
+                    health service</article-title>. <source>Aborig Isl Health Work J</source>. <year>
+                    2010</year>;<volume>34</volume>(<issue>4</issue>):<fpage>3</fpage>&#x02013;<lpage>
+                    7</lpage>.</mixed-citation>
+            </ref>
+            <ref id="ajr12946-bib-0013">
+                <label>13</label>
+                <mixed-citation publication-type="journal" id="ajr12946-cit-0013">\n<string-name>\n<surname>
+                    Steen</surname>\n<given-names>M</given-names>\n</string-name>, <string-name>\n<surname>
+                    Manschot</surname>\n<given-names>M</given-names>\n</string-name>, <string-name>
+                    \n<surname>De Koning</surname>\n<given-names>N</given-names>\n</string-name>. <article-title>Benefits
+                    of co&#x02010;design in service design projects</article-title>. <source>Int J
+                    Des</source>. <year>2011</year>;<volume>5</volume>(<issue>2</issue>):<fpage>53</fpage>
+                    &#x02013;<lpage>60</lpage>.</mixed-citation>
+            </ref>
+        </ref-list>
+    </back>
+</article>

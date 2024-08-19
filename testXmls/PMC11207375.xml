@@ -1,0 +1,1766 @@
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink"
+    dtd-version="1.3" xml:lang="en" article-type="research-article">
+    <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml"
+        tagset-family="jats">
+        <restricted-by>pmc</restricted-by>
+    </processing-meta>
+    <front><journal-meta>
+            <journal-id journal-id-type="nlm-ta">Pharmacy (Basel)</journal-id>
+            <journal-id journal-id-type="iso-abbrev">Pharmacy (Basel)</journal-id>
+            <journal-id journal-id-type="publisher-id">pharmacy</journal-id>
+            <journal-title-group>
+                <journal-title>Pharmacy</journal-title>
+            </journal-title-group>
+            <issn pub-type="epub">2226-4787</issn>
+            <publisher>
+                <publisher-name>MDPI</publisher-name>
+            </publisher>
+        </journal-meta>
+        \n<article-meta><article-id pub-id-type="pmid">38921967</article-id><article-id
+                pub-id-type="pmc">PMC11207375</article-id>\n<article-id pub-id-type="doi">
+        10.3390/pharmacy12030091</article-id><article-id pub-id-type="publisher-id">
+        pharmacy-12-00091</article-id><article-categories>
+                <subj-group subj-group-type="heading">
+                    <subject>Article</subject>
+                </subj-group>
+            </article-categories><title-group>
+                <article-title>Using Team-Based Learning to Teach Pharmacology within the Medical
+        Curriculum</article-title>
+            </title-group><contrib-group>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Luitjes</surname>
+                        <given-names>Nora L. D.</given-names>
+                    </name>
+                    <xref rid="af1-pharmacy-12-00091" ref-type="aff">1</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                    <contrib-id contrib-id-type="orcid" authenticated="true">
+        https://orcid.org/0000-0002-9543-5079</contrib-id>
+                    <name>
+                        <surname>van der Velden</surname>
+                        <given-names>Gisela J.</given-names>
+                    </name>
+                    <role vocab="credit" vocab-identifier="https://credit.niso.org/"
+                        vocab-term="Conceptualization"
+                        vocab-term-identifier="https://credit.niso.org/contributor-roles/conceptualization/">
+        Conceptualization</role>
+                    <role vocab="credit" vocab-identifier="https://credit.niso.org/"
+                        vocab-term="Writing &#x02013; review &#x00026; editing"
+                        vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-review-editing/">Writing
+        &#x02013; review &#x00026; editing</role>
+                    <role vocab="credit" vocab-identifier="https://credit.niso.org/"
+                        vocab-term="Supervision"
+                        vocab-term-identifier="https://credit.niso.org/contributor-roles/supervision/">
+        Supervision</role>
+                    <xref rid="af2-pharmacy-12-00091" ref-type="aff">2</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Pandit</surname>
+                        <given-names>Rahul</given-names>
+                    </name>
+                    <role vocab="credit" vocab-identifier="https://credit.niso.org/"
+                        vocab-term="Conceptualization"
+                        vocab-term-identifier="https://credit.niso.org/contributor-roles/conceptualization/">
+        Conceptualization</role>
+                    <role vocab="credit" vocab-identifier="https://credit.niso.org/"
+                        vocab-term="Methodology"
+                        vocab-term-identifier="https://credit.niso.org/contributor-roles/methodology/">
+        Methodology</role>
+                    <role vocab="credit" vocab-identifier="https://credit.niso.org/"
+                        vocab-term="Investigation"
+                        vocab-term-identifier="https://credit.niso.org/contributor-roles/investigation/">
+        Investigation</role>
+                    <role vocab="credit" vocab-identifier="https://credit.niso.org/"
+                        vocab-term="Resources"
+                        vocab-term-identifier="https://credit.niso.org/contributor-roles/resources/">
+        Resources</role>
+                    <role vocab="credit" vocab-identifier="https://credit.niso.org/"
+                        vocab-term="Writing &#x02013; review &#x00026; editing"
+                        vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-review-editing/">Writing
+        &#x02013; review &#x00026; editing</role>
+                    <role vocab="credit" vocab-identifier="https://credit.niso.org/"
+                        vocab-term="Supervision"
+                        vocab-term-identifier="https://credit.niso.org/contributor-roles/supervision/">
+        Supervision</role>
+                    <xref rid="af1-pharmacy-12-00091" ref-type="aff">1</xref>
+                    <xref rid="c1-pharmacy-12-00091" ref-type="corresp">*</xref>
+                </contrib>
+            </contrib-group><contrib-group>
+                <contrib contrib-type="editor">
+                    <name>
+                        <surname>Mestres</surname>
+                        <given-names>Conxita</given-names>
+                    </name>
+                    <role>Academic Editor</role>
+                </contrib>
+            </contrib-group><aff
+                id="af1-pharmacy-12-00091"><label>1</label>Department of Translational Neuroscience,
+        Brain Center Rudolf Magnus, University Medical Center Utrecht, Utrecht University, 3584 CG
+        Utrecht, The Netherlands; <email>n.l.d.luitjes@students.uu.nl</email></aff><aff
+                id="af2-pharmacy-12-00091"><label>2</label>Education Center, University Medical
+        Center Utrecht, Utrecht University, 3584 CX Utrecht, The Netherlands; <email>
+        g.j.vandervelden-2@umcutrecht.nl</email></aff><author-notes>
+                <corresp id="c1-pharmacy-12-00091"><label>*</label>Correspondence: <email>
+        r.pandit@umcutrecht.nl</email></corresp>
+            </author-notes><pub-date pub-type="epub">
+                <day>12</day>
+                <month>6</month>
+                <year>2024</year>
+            </pub-date><pub-date pub-type="collection">
+                <month>6</month>
+                <year>2024</year>
+            </pub-date><volume>12</volume><issue>3</issue><elocation-id>
+        91</elocation-id><history>
+                <date date-type="received">
+                    <day>29</day>
+                    <month>4</month>
+                    <year>2024</year>
+                </date>
+                <date date-type="rev-recd">
+                    <day>31</day>
+                    <month>5</month>
+                    <year>2024</year>
+                </date>
+                <date date-type="accepted">
+                    <day>07</day>
+                    <month>6</month>
+                    <year>2024</year>
+                </date>
+            </history><permissions>
+                <copyright-statement>&#x000a9; 2024 by the authors.</copyright-statement>
+                <copyright-year>2024</copyright-year>
+                <license>
+                    <ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/"
+                        specific-use="textmining" content-type="ccbylicense">
+        https://creativecommons.org/licenses/by/4.0/</ali:license_ref>
+                    <license-p>Licensee MDPI, Basel, Switzerland. This article is an open access
+        article distributed under the terms and conditions of the Creative Commons Attribution (CC
+        BY) license (<ext-link ext-link-type="uri"
+                            xlink:href="https://creativecommons.org/licenses/by/4.0/">
+        https://creativecommons.org/licenses/by/4.0/</ext-link>).</license-p>
+                </license>
+            </permissions><abstract>
+                <p>The primary goal of pharmacology teaching is to prepare medical students to
+        prescribe medications both safely and efficiently. At the Utrecht University Medical School,
+        pharmacology is integrated into the three-year bachelor&#x02019;s curriculum, primarily
+        through large group sessions with limited interaction. A recent evaluation highlighted
+        students&#x02019; appreciation for pharmacology teaching, but students admitted to attending
+        these teaching moments unprepared, resulting in passive learning. To address this,
+        team-based learning (TBL) was implemented to facilitate learning through interaction,
+        critical thinking, problem solving and reflection through six steps, from superficial to
+        deeper cognitive learning. This study, conducted over two academic years, assessed
+        students&#x02019; perception and performance regarding TBL. Analysis of a digital
+        questionnaire using a 5-point Likert scale showed high student satisfaction with TBL as a
+        teaching methodology. However, confidence in pharmacology knowledge following TBL was
+        moderate. TBL attendees outperformed non-attendees in pharmacology-related exam questions,
+        indicating that TBL has a positive impact on student performance. We conclude that TBL is an
+        engaging and effective method for pharmacology education, positively influencing student
+        learning and performance. This method could be broadly applied for teaching pharmacology
+        within the medical curriculum or other biomedical programs.</p>
+            </abstract><kwd-group>
+                <kwd>team-based learning</kwd>
+                <kwd>active learning</kwd>
+                <kwd>pharmacology education</kwd>
+                <kwd>student performance</kwd>
+                <kwd>learning effectiveness</kwd>
+            </kwd-group><funding-group>
+                <award-group>
+                    <funding-source>Utrecht University</funding-source>
+                </award-group>
+                <funding-statement>Part of the study has been financed by the Scholarship of
+        Teaching and Learning grant (SoTL) awarded by Utrecht University. No grant number has been
+        allotted for this grant.</funding-statement>
+            </funding-group></article-meta></front>
+    <body>
+        <sec sec-type="intro" id="sec1-pharmacy-12-00091">
+            <title>1. Introduction</title>
+            <p>The primary goal of pharmacology teaching within the undergraduate medical curriculum
+                is to prepare medical students to prescribe medications both safely and efficiently.
+                Failure to achieve this goal can lead to medication errors, thereby increasing
+                patient morbidity and mortality rates [<xref rid="B1-pharmacy-12-00091"
+                    ref-type="bibr">1</xref>]. It is in fact known that inadequacies in the
+                undergraduate curriculum can lead to medication errors [<xref
+                    rid="B2-pharmacy-12-00091" ref-type="bibr">2</xref>]. Students are known to
+                struggle with pharmacology, as the subject requires integration of knowledge from
+                various other disciplines such as physiology and pathophysiology [<xref
+                    rid="B3-pharmacy-12-00091" ref-type="bibr">3</xref>]. As every patient requires
+                a different approach, understanding the deeper concepts of pharmacology is essential
+                for addressing clinical problems, especially when there are no protocols for
+                specific situations.</p>
+            <p>To ensure optimal training of medical students, the Utrecht University Medical School
+                in The Netherlands has integrated pharmacology learning throughout various thematic
+                courses within the three-year bachelor&#x02019;s curriculum (pharmacology
+                longitudinal thread). In these courses, Pharmacology is taught together with other
+                subjects such as physiology, anatomy, biochemistry and pathology [<xref
+                    rid="B4-pharmacy-12-00091" ref-type="bibr">4</xref>]. The majority of the
+                teaching hours devoted to pharmacology are, however, taught in large groups
+                (&#x0003e;100 students) with limited teacher&#x02013;student and
+                student&#x02013;student interaction. In a recent evaluation of the curriculum,
+                students expressed their appreciation for pharmacology education, but students admit
+                to attending these classes unprepared, resulting in passive learning [<xref
+                    rid="B4-pharmacy-12-00091" ref-type="bibr">4</xref>]. Although lectures can be
+                an excellent way to explain difficult concepts, they can also give a false notion of
+                grasping the subject matter [<xref rid="B5-pharmacy-12-00091" ref-type="bibr">5</xref>].
+                This can be potentially harmful within the medical context. Although prescribing
+                guidelines are accessible and commonly used by physicians, such guidelines do not
+                necessarily include all clinical scenarios, thereby requiring physicians to possess
+                the knowledge and skills to make exceptions or compare diverse clinical protocols
+                when prescribing medications. Translating this to medical education, it is important
+                that students gain a deeper understanding of pharmacological concepts and can apply
+                them in a variety of situations.</p>
+            <p>Interestingly, even though students following active learning may feel they learn
+                less, their performance is often better [<xref rid="B5-pharmacy-12-00091"
+                    ref-type="bibr">5</xref>]. The replacement of passive acceptance and repetition
+                of knowledge with active engagement, not only with peers but also with the subject
+                matter itself, improves students&#x02019; performance in exams [<xref
+                    rid="B6-pharmacy-12-00091" ref-type="bibr">6</xref>,<xref
+                    rid="B7-pharmacy-12-00091" ref-type="bibr">7</xref>].</p>
+            <sec id="sec1dot1-pharmacy-12-00091">
+                <title>1.1. The Concept and Biology of Active Learning</title>
+                <p>According to Kyriacou and Marshall (1989), active learning is &#x0201c;a quality
+                    of the pupils&#x02019; mental experience in which there is active intellectual
+                    involvement in the learning experience characterized by increased
+                    insight&#x0201d; [<xref rid="B6-pharmacy-12-00091" ref-type="bibr">6</xref>].
+                    The process of memorizing learning material relies on the learning,
+                    consolidation, and reconsolidation of knowledge [<xref
+                        rid="B8-pharmacy-12-00091" ref-type="bibr">8</xref>]. When new knowledge is
+                    introduced, the protein synthesis involved in the biochemical storage of memory
+                    is rather unstable. During the process of memory consolidation, a memory
+                    converts into a more stable and resilient form and will transfer from the
+                    hippocampus to the neocortex [<xref rid="B9-pharmacy-12-00091" ref-type="bibr">9</xref>].
+                    Additionally, memory reconsolidation involves actively recalling previously
+                    consolidated knowledge, resulting in highly stable and easily retrievable
+                    information [<xref rid="B10-pharmacy-12-00091" ref-type="bibr">10</xref>]. To
+                    achieve successful learning outcomes, students need to actively engage in both
+                    cognitive and metacognitive processes [<xref rid="B8-pharmacy-12-00091"
+                        ref-type="bibr">8</xref>].</p>
+            </sec>
+            <sec id="sec1dot2-pharmacy-12-00091">
+                <title>1.2. Team-Based Learning as a Form of Active Learning in Medical Education</title>
+                <p>There are numerous pedagogical strategies to provoke active learning, of which
+                    team-based learning (TBL) is one [<xref rid="B11-pharmacy-12-00091"
+                        ref-type="bibr">11</xref>,<xref rid="B12-pharmacy-12-00091" ref-type="bibr">
+                    12</xref>]. TBL was developed by Professor Michaelson in 1979 as a means to
+                    improve teaching for larger class sizes [<xref rid="B11-pharmacy-12-00091"
+                        ref-type="bibr">11</xref>]. Since then, TBL has been used worldwide in
+                    multiple disciplines, mostly in health sciences [<xref
+                        rid="B8-pharmacy-12-00091" ref-type="bibr">8</xref>,<xref
+                        rid="B11-pharmacy-12-00091" ref-type="bibr">11</xref>], and it contributes
+                    to critical thinking and effective collaboration [<xref
+                        rid="B13-pharmacy-12-00091" ref-type="bibr">13</xref>,<xref
+                        rid="B14-pharmacy-12-00091" ref-type="bibr">14</xref>,<xref
+                        rid="B15-pharmacy-12-00091" ref-type="bibr">15</xref>]. TBL provides
+                    students with individual work, collaborative teamwork, and immediate feedback to
+                    actively assess their conceptual understanding. These activities are conducted
+                    by students in small groups, with one instructor with expertise in the content
+                    overseeing the entire class [<xref rid="B11-pharmacy-12-00091" ref-type="bibr">
+                    11</xref>]. Learning through TBL is an active process and based on the
+                    reconstruction of knowledge. To experience knowledge, students must actively
+                    apply the knowledge in an authentic problem [<xref rid="B16-pharmacy-12-00091"
+                        ref-type="bibr">16</xref>,<xref rid="B17-pharmacy-12-00091" ref-type="bibr">
+                    17</xref>]. TBL is based on six steps from superficial cognitive learning to
+                    deeper cognitive learning, following the six categories of Bloom&#x02019;s
+                    taxonomy: knowledge, comprehension, application, analysis, synthesis and
+                    evaluation [<xref rid="B18-pharmacy-12-00091" ref-type="bibr">18</xref>].
+                    Briefly, in the first step of TBL, students complete a preparatory assignment.
+                    This step is followed by the individual readiness assurance test (iRAT), which
+                    consists of a set of multiple-choice questions to test individual knowledge.
+                    Following this, students answer the same set of questions but as a team, via the
+                    team-readiness assurance test (tRAT). In the fourth step, the instructor
+                    clarifies any topics students find challenging. In the fifth step, teams solve
+                    an authentic clinical problem as a group. Finally, in the last step, students
+                    reflect and evaluate their learning experience [<xref
+                        rid="B11-pharmacy-12-00091" ref-type="bibr">11</xref>].</p>
+                <p>The TBL-approach is based on the constructivist learning theory, which emphasizes
+                    the importance of experiential learning to achieve long-term integration of new
+                    knowledge [<xref rid="B13-pharmacy-12-00091" ref-type="bibr">13</xref>]. The
+                    constructivist learning theory is based on four principles. First, the
+                    student&#x02019;s learning is the primary focus. To optimize this process, the
+                    learning environment should provide the student with adequate challenges to
+                    stimulate the student&#x02019;s knowledge uptake [<xref
+                        rid="B17-pharmacy-12-00091" ref-type="bibr">17</xref>]. Second, students are
+                    encouraged to actively interact with the study material through problem solving
+                    cases. As a result, students can apply their knowledge to get a deeper
+                    understanding of the subject matter as it encourages the reconsolidation of
+                    knowledge, which is essential for long-term retention [<xref
+                        rid="B8-pharmacy-12-00091" ref-type="bibr">8</xref>]. Third, teamwork is an
+                    essential component of the TBL-approach as this collaborative learning
+                    stimulates new experiences with knowledge, leading to new insights. Lastly,
+                    reflection plays a crucial role in the TBL approach. This reflection includes
+                    both strengths and weaknesses of their learning experiences which can be applied
+                    or improved in future learning processes [<xref rid="B13-pharmacy-12-00091"
+                        ref-type="bibr">13</xref>,<xref rid="B16-pharmacy-12-00091" ref-type="bibr">
+                    16</xref>].</p>
+                <p>There are many elements in TBL which could contribute to its success, but there
+                    is no unanimous consensus in the elements of TBL that are considered crucial.
+                    Some authors underpin the importance of carefully formed and managed teams,
+                    frequent and timely feedback, problem solving, and student peer evaluation [<xref
+                        rid="B12-pharmacy-12-00091" ref-type="bibr">12</xref>]. Others have
+                    identified competitiveness between the groups as an important factor [<xref
+                        rid="B19-pharmacy-12-00091" ref-type="bibr">19</xref>]. However, these
+                    recommendations are based on the experiences of teachers, and explicit research
+                    has not been conducted to understand the individual importance of the various
+                    components of TBL. The educational literature, however, shows that several
+                    elements of TBL, such as formative assessment, immediate feedback and teamwork,
+                    could be contributing factors [<xref rid="B20-pharmacy-12-00091" ref-type="bibr">
+                    20</xref>].</p>
+            </sec>
+            <sec id="sec1dot3-pharmacy-12-00091">
+                <title>1.3. Understanding Team-Based Learning in Our Context</title>
+                <p>Based on literature, TBL could be a valuable addition to the teaching of
+                    pharmacology within our medical curriculum. As teaching is contextual [<xref
+                        rid="B21-pharmacy-12-00091" ref-type="bibr">21</xref>], educational
+                    practices successfully implemented at one institution do not necessarily have to
+                    be equally successful in other institutions. Institutional differences in the
+                    use of TBL can be attributed to social and cultural influences, and student
+                    openness to teaching methods [<xref rid="B22-pharmacy-12-00091" ref-type="bibr">
+                    22</xref>]. Changing the entire pharmacology curriculum to incorporate TBL is
+                    time-consuming and costly. Therefore, it is important to first understand the
+                    strengths, weaknesses and effectiveness of TBL within our educational context.</p>
+                <p>The goal of the current study is to understand the effectiveness of TBL as an
+                    educational tool for teaching pharmacology to first-year medical students at
+                    Utrecht University Medical School. In the current study, a modified TBL approach
+                    was used to teach cardiovascular pharmacology, where the six stages of TBL were
+                    applied. First, we investigated how students perceived the various components of
+                    TBL as a teaching/learning methodology. As preference for a teaching method does
+                    not have to necessarily translate to improved performance [<xref
+                        rid="B5-pharmacy-12-00091" ref-type="bibr">5</xref>], as a second goal, we
+                    investigated the effects of TBL on student performance in the final exam of the
+                    course.</p>
+            </sec>
+        </sec>
+        <sec id="sec2-pharmacy-12-00091">
+            <title>2. Materials and Methods</title>
+            <sec id="sec2dot1-pharmacy-12-00091">
+                <title>2.1. Study Setting</title>
+                <p>The study was conducted during the academic years 2021&#x02013;2022 and
+                    2022&#x02013;2023 at Utrecht University Medical School. The medical program at
+                    Utrecht University is structured into a three-year bachelor&#x02019;s and a
+                    subsequent three-year master&#x02019;s degree program. TBL was implemented
+                    within a first-year bachelor&#x02019;s course focused on cardiovascular
+                    diseases. The course is offered at the end of the academic year.</p>
+                <p>The course on cardiovascular diseases comprised five weeks, during which students
+                    were exposed to various groups of cardiovascular diseases, their characteristics
+                    and their treatment. Pharmacological aspects within this course were divided
+                    into lectures (no prior preparation was required), self-study (independent
+                    preparation with books and guiding questions), and a TBL session (see <xref
+                        rid="sec2dot3-pharmacy-12-00091" ref-type="sec">Section 2.3</xref>.
+                    Procedure for more details). <xref rid="pharmacy-12-00091-f001" ref-type="fig">Figure
+                    1</xref> provides a detailed structure of the course.</p>
+                <p>For all students, passing the course on cardiovascular diseases is obligatory to
+                    proceed to the second year of the bachelor&#x02019;s degree in medicine. The
+                    course consists of plenary lectures (&#x000b1;300 students), interactive
+                    lectures (48&#x02013;150 students), practical studies, and small-group teaching
+                    (25 students). While attendance for all lectures, whether plenary or
+                    interactive, is optional, students are required to participate in at least 80%
+                    of the small-group teaching sessions. TBL was originally designed for large
+                    groups [<xref rid="B11-pharmacy-12-00091" ref-type="bibr">11</xref>]; however,
+                    in our experience, larger group sizes result in lower levels of interaction
+                    between the students and between the instructor and students. To ensure
+                    sufficient interaction during the TBL session, a group size with a maximum of 48
+                    students was chosen. A single instructor (2021&#x02013;2022) and two instructors
+                    (2022&#x02013;2023) were involved in teaching all TBL sessions on cardiovascular
+                    pharmacology. The TBL session was offered in the format of an interactive
+                    lecture and was likewise considered optional for attendance.</p>
+            </sec>
+            <sec id="sec2dot2-pharmacy-12-00091">
+                <title>2.2. Study Population</title>
+                <p>During the academic years of 2021&#x02013;2022 (<italic toggle="yes">n</italic> =
+                    348) and 2022&#x02013;2023 (<italic toggle="yes">n</italic> = 338), a total of
+                    686 medical students were enrolled in the first-year course on cardiovascular
+                    diseases at Utrecht University Medical School and subsequently completed the
+                    final exam at the end of week 5 (<xref rid="pharmacy-12-00091-f001"
+                        ref-type="fig">Figure 1</xref>). As all students had the possibility to
+                    follow the TBL session, two distinct groups were formed for data collection: TBL
+                    attendees (<italic toggle="yes">n</italic> = 196) and non-TBL attendees (<italic
+                        toggle="yes">n</italic> = 490). In 2021&#x02013;2022, 84 students (31.8% of
+                    the cohort) opted to follow TBL education, and in 2022&#x02013;2023 there were
+                    112 students (33.1% of the cohort). The TBL session was non-obligatory (see <xref
+                        rid="sec2dot4-pharmacy-12-00091" ref-type="sec">Section 2.4</xref>.,
+                    Statistical Analysis, for more details), and all students received the same
+                    number of credits if they met the attendance criteria for the course and passed
+                    the final exam.</p>
+            </sec>
+            <sec id="sec2dot3-pharmacy-12-00091">
+                <title>2.3. Procedure</title>
+                <p>Within the framework of the course, the TBL session comprised a structured
+                    sequence of six steps followed by step seven, the final exam [<xref
+                        rid="B11-pharmacy-12-00091" ref-type="bibr">11</xref>,<xref
+                        rid="B12-pharmacy-12-00091" ref-type="bibr">12</xref>], (<xref
+                        rid="pharmacy-12-00091-f002" ref-type="fig">Figure 2</xref>). Educational
+                    tips published previously were used to develop the teaching materials. In <xref
+                        rid="sec4dot1-pharmacy-12-00091" ref-type="sec">Section 4.1</xref>.
+                    Limitations, the strengths and weaknesses of the study approach are discussed in
+                    detail. Except for step 1 of TBL (participation) and step 7 (final exam), all
+                    other steps of the study procedure were completed during the TBL session lasting
+                    1 h 45 min.</p>
+                <p>The TBL steps were as follows:<list list-type="order">
+                        <list-item>
+                            <p>Preparation: Two preparatory lectures delved into the pharmacological
+                    aspects of antianginal, antithrombotic, and antiarrhythmic drugs. Additionally,
+                    as preparation for TBL following these lectures, a preparatory study assignment
+                    was provided on heart failure medications. All educational activities were
+                    optional, with attendance prior to the TBL session left unrecorded. The
+                    preparatory study assignments were accessible for all students and included
+                    readings. The non-TBL group also had access to the same reading materials, and
+                    the slides of the TBL session were shared following the classes.</p>
+                        </list-item>
+                        <list-item>
+                            <p>Individual readiness assurance test (iRAT): PScribe, an electronic
+                    prescribing system was used for the iRAT. The iRAT consisted of seven questions
+                    covering all pharmacological topics of the course. Individual scores were
+                    recorded, which additionally served to note participation (attendance). The iRAT
+                    questions were closed-ended and were a mix of single and multiple correct
+                    answers for 2021&#x02013;2022 and single correct answers for 2022&#x02013;2023.
+                    For questions with multiple correct answers, a part of the full score was
+                    awarded for partially correct answers. Questions were at the level of
+                    understanding, applying or analyzing, according to Bloom&#x02019;s taxonomy.</p>
+                        </list-item>
+                        <list-item>
+                            <p>Team readiness assurance test (tRAT): For the tRAT, students in
+                    groups discussed the same questions as during the iRAT and had to come to an
+                    agreement on the correct answers to the questions. This step differed from the
+                    traditional tRAT, as teams were not predefined, the tRAT scores were not
+                    formally registered, and the element of competition was not used in our setting.
+                    The reasons for the latter are two: we wanted to favor a low threshold for
+                    initiating discussion and engagement, and we also wanted to minimize
+                    administrative burden.</p>
+                        </list-item>
+                        <list-item>
+                            <p>Instructor clarification: topics considered complex by students were
+                    discussed with the entire class and clarified by the instructor.</p>
+                        </list-item>
+                        <list-item>
+                            <p>Team application: Students engaged in a collaborative problem-solving
+                    exercise involving a clinical case. For this, students were shown a patient
+                    video, followed by a set of questions, which students had to answer in groups.</p>
+                        </list-item>
+                        <list-item>
+                            <p>Feedback questionnaire: With the help of the online audience response
+                    system Wooclap, feedback on the TBL session on cardiovascular pharmacology was
+                    gathered through an anonymous digital questionnaire immediately at the end of
+                    the TBL session. The questionnaire comprised eight statements where students had
+                    to express their level of (dis)agreement on a 5-point Likert scale (1 = strongly
+                    disagree, 2 = disagree, 3 = neutral, 4 = agree and 5 = strongly agree). These
+                    statements were divided into two categories: (1) students&#x02019; own
+                    perception on knowledge and (2) feedback on using TBL as a learning method.
+                    Participation in the questionnaire via Wooclap was voluntary. There was no
+                    incentive provided to participate.</p>
+                        </list-item>
+                        <list-item>
+                            <p>Final exam: All students (TBL attendees and non-TBL attendees) took
+                    the final exam for the course on cardiovascular diseases via the digital
+                    examination platform Testvision. In the final exam, the content on
+                    cardiovascular pharmacology was assessed through seven questions in
+                    2021&#x02013;2022 and eight questions in 2022&#x02013;2023. Closed-ended
+                    questions with single or multiple correct answers were used for this purpose.
+                    Similar to the iRAT, for questions with multiple correct answers, partially
+                    correct answers were rewarded with a part of the full score. Additionally, here,
+                    questions were at the level of understanding, applying or analyzing, according
+                    to Bloom&#x02019;s taxonomy.</p>
+                        </list-item>
+                    </list></p>
+            </sec>
+            <sec id="sec2dot4-pharmacy-12-00091">
+                <title>2.4. Statistical Analysis</title>
+                <p>Based on the research objectives, different approaches were undertaken to analyze
+                    the data. To understand students&#x02019; perception of TBL as a learning
+                    method, data from the online Wooclap questionnaire were analyzed. The 5-point
+                    Likert scale data were used as ordinal variables, and the mean and median were
+                    determined. To evaluate the efficacy of TBL as a teaching methodology, three
+                    sets of pre-defined comparisons were performed. Initially, the
+                    Kolmogorov&#x02013;Smirnov test was applied to check for normality of
+                    distribution, showing that the numerical variables exhibited differing
+                    distribution patterns. The statistical approach per research question was as
+                    follows:<list list-type="order">
+                        <list-item>
+                            <p>The impact of TBL on students&#x02019; understanding of the subject
+                    matter was investigated by comparing final exam scores between TBL attendees and
+                    non-attendees, using the Mann&#x02013;Whitney U test. Median scores are reported
+                    in percentages of correct answers.</p>
+                        </list-item>
+                        <list-item>
+                            <p>The TBL attendees&#x02019; individual performance in the final exam
+                    was examined by comparing their iRAT scores and final exam scores using the
+                    Mann&#x02013;Whitney U test. Median scores are reported in percentages of
+                    correct answers.</p>
+                        </list-item>
+                        <list-item>
+                            <p>The correlation between iRAT scores and exam scores, to understand
+                    whether the performance in the former correlated with performance in the latter,
+                    was explored using Spearman&#x02019;s correlation coefficient.</p>
+                        </list-item>
+                        <list-item>
+                            <p>The difficulty index of the individual questions (<italic
+                                    toggle="yes">p</italic>-value) of both the iRAT and the final
+                    examination was analyzed to understand whether a possible disparity in the level
+                    of difficulty could explain the differences in student performance. The <italic
+                                    toggle="yes">p</italic>-value for questions for one correct
+                    answer indicates the proportion of students who correctly answered the question.
+                    For questions with multiple possible answers or open-ended questions, the <italic
+                                    toggle="yes">p</italic>-value indicates the proportion of the
+                    points obtained by students for a particular question [<xref
+                                    rid="B23-pharmacy-12-00091" ref-type="bibr">23</xref>]. In both
+                    cases, <italic toggle="yes">p</italic>-values range from 0 to 1, with easier
+                    items resulting in higher <italic toggle="yes">p</italic>-values. Differences
+                    between the <italic toggle="yes">p</italic>-values (iRAT vs. final exam) were
+                    tested using the Mann&#x02013;Whitney U test.</p>
+                        </list-item>
+                    </list></p>
+                <p>The threshold for statistical significance was determined as a <italic
+                        toggle="yes">p</italic>-value lower than 0.05. Statistical analyses were
+                    conducted using IBM SPSS Statistics Version 29.0, and graphical representations
+                    were generated using GraphPad Prism Version 10.1.1.</p>
+            </sec>
+            <sec id="sec2dot5-pharmacy-12-00091">
+                <title>2.5. Ethical Approval</title>
+                <p>Ethical approval for this study was obtained from the Dutch Association for
+                    Medical Education Ethical Review Board (NVMO: 2022.6.2). Permission was provided
+                    to use iRAT scores from the online platform Pscribe and individual student
+                    scores only on pharmacology questions of the final exam and to anonymously
+                    obtain feedback on the TBL session. For this reason, no data were collected on
+                    the student characteristics (e.g., age, number of times repeating the course) as
+                    this would infringe upon the privacy of the students, and access to this
+                    sensitive information was not needed for the goal of the study. Data that were
+                    non-anonymous were first coded and subsequently analyzed.</p>
+            </sec>
+        </sec>
+        <sec sec-type="results" id="sec3-pharmacy-12-00091">
+            <title>3. Results</title>
+            <sec id="sec3dot1-pharmacy-12-00091">
+                <title>3.1. Student Perception Regarding Team-Based Learning</title>
+                <p>In 2021&#x02013;2022 and 2022&#x02013;2023, a total of 196 students who attended
+                    the TBL sessions were invited to participate in the questionnaire, of whom 143
+                    (73%) filled it in. All participants completed the entire questionnaire. The
+                    Cronbach&#x02019;s alpha value for the entire questionnaire confirmed that the
+                    questionnaire reached high reliability (8 items; Cronbach &#x003b1; = 0.821).</p>
+                <p>The findings of the questionnaire are summarized in <xref
+                        rid="pharmacy-12-00091-t001" ref-type="table">Table 1</xref>. In general,
+                    students highly valued both the organization and the content of the TBL session.
+                    Additionally, students were highly positive about two essential elements of TBL:
+                    collaborating with peers to solve problems and using formative assessment.
+                    Similarly, the use of a patient video as a part of the clinical case study was
+                    appreciated by students. Interestingly, although students had the feeling that
+                    the TBL session helped them in achieving the learning goals, students did not
+                    feel confident about their knowledge. The statement &#x02018;I think I have
+                    sufficient knowledge on this subject.&#x02019;, scored the lowest, with a mean
+                    of 3.2 on the 5-point Likert scale.</p>
+            </sec>
+            <sec id="sec3dot2-pharmacy-12-00091">
+                <title>3.2. Student Performance with Team-Based Learning versus No Team-Based
+                    Learning</title>
+                <p>In 2021&#x02013;2022 and 2022&#x02013;2023, the average median score on the
+                    pharmacology-related final exam questions for TBL attendees (median (IQR) =
+                    77.14 (67.64&#x02013;83.29) and 78.22 (65.39&#x02013;88.22), respectively) was
+                    higher compared to non-attendees (median (IQR) = 62.43 (50.54&#x02013;73.79) and
+                    66.61 (54.50&#x02013;79.19), respectively). These differences were statistically
+                    significant (U = 6452.50, <italic toggle="yes">p</italic> &#x0003c; 0.001 for
+                    2021&#x02013;2022; U = 8445.00, <italic toggle="yes">p</italic> &#x0003c; 0.001
+                    for 2022&#x02013;2023). TBL attendees had significantly higher mean ranks
+                    (2021&#x02013;2022: 229.68; 2022&#x02013;2023: 207.10) compared to non-attendees
+                    (2021&#x02013;2022: 156.94; 2022&#x02013;2023: 150.87) (<xref
+                        rid="pharmacy-12-00091-f003" ref-type="fig">Figure 3</xref>a).</p>
+            </sec>
+            <sec id="sec3dot3-pharmacy-12-00091">
+                <title>3.3. The iRAT Scores versus the Final Exam Scores</title>
+                <p>In 2021&#x02013;2022 and 2022&#x02013;2023, the median score on the
+                    pharmacology-related final exam questions (median (IQR) = 77.14
+                    (67.64&#x02013;83.29) and 78.22 (65.39&#x02013;88.22), respectively) was higher
+                    compared to the average iRAT score (median (IQR) = 40.25 (24.05&#x02013;54.73)
+                    and 42.86 (28.57&#x02013;57.14), respectively). Significant improvement in exam
+                    performance over the course was evident among the TBL attendees (U = 696.00; <italic
+                        toggle="yes">p</italic> &#x0003c; 0.001 for 2021&#x02013;2022; U = 2024.00; <italic
+                        toggle="yes">p</italic> &#x0003c; 0.001 for 2022&#x02013;2023). The
+                    pharmacology-related final exam questions had significantly higher mean ranks
+                    (2021&#x02013;2022: 118.21; 2022&#x02013;2023: 150.43) compared to the iRAT
+                    scores (2021&#x02013;2022: 50.79; 2022&#x02013;2023: 74.57) (<xref
+                        rid="pharmacy-12-00091-f003" ref-type="fig">Figure 3</xref>b).</p>
+            </sec>
+            <sec id="sec3dot4-pharmacy-12-00091">
+                <title>3.4. The Relationship between Individual Results during the iRAT and the
+                    Final Exam</title>
+                <p>A Spearman&#x02019;s rank-order correlation was performed to determine the
+                    relationship between individual results during the iRAT and the final exam. A
+                    disparity in performance between TBL attendees and non-TBL attendees underscores
+                    the significance of TBL in facilitating knowledge application and
+                    problem-solving skills essential for success in pharmacology examinations. For
+                    both academic years, the correlations were found to not be significant
+                    (2021&#x02013;2022 (rs(82) = 0.089, <italic toggle="yes">p</italic> = 0.423) and
+                    2022&#x02013;2023 (rs(110) = 0.005, <italic toggle="yes">p</italic> = 0.956).</p>
+            </sec>
+            <sec id="sec3dot5-pharmacy-12-00091">
+                <title>3.5. The Difficulty Index (p-Value) of the iRAT and Final Examination
+                    Questions</title>
+                <p>In 2021&#x02013;2022 and 2022&#x02013;2023, the average <italic toggle="yes">p</italic>-values
+                    of the iRAT (median (IQR) = 0.42 (0.24&#x02013;0.53) and 0.43
+                    (0.30&#x02013;0.55), respectively) were lower compared to the final examination
+                    (median (IQR) = 0.63 (0.58&#x02013;0.77) and 0.70 (0.49&#x02013;0.74),
+                    respectively). These differences were statistically significant (U = 7.00, <italic
+                        toggle="yes">p</italic> = 0.025 for 2021&#x02013;2022; U = 10.00, <italic
+                        toggle="yes">p</italic> = 0.021 for 2022&#x02013;2023). The iRAT questions
+                    had significantly lower mean ranks (2021&#x02013;2022: 5.00; 2022&#x02013;2023:
+                    5.75) compared to the final examination questions (2021&#x02013;2022: 10.00;
+                    2022&#x02013;2023: 11.25).</p>
+            </sec>
+        </sec>
+        <sec sec-type="discussion" id="sec4-pharmacy-12-00091">
+            <title>4. Discussion</title>
+            <p>Student perceptions of TBL indicate overall appreciation for TBL as a teaching
+                methodology. Students appreciate the structured format, the organizational quality,
+                and the informative content of the TBL session. Furthermore, students express that
+                the TBL session aided in achieving the learning objectives and contributed to their
+                pharmacological knowledge. However, it is noteworthy that students express only
+                moderate confidence in their pharmacological knowledge after participating in the
+                TBL session, as indicated by the mean score of 3.2 on the 5-point Likert scale. This
+                observation is not surprising, given the complexity of clinical problems discussed
+                during the TBL session, which might give students the perception that their
+                knowledge is insufficient. This implies that although students may find TBL engaging
+                and beneficial, additional efforts might be necessary to increase their confidence
+                in independently applying pharmacological concepts. In future, score assessments and
+                open-ended questions could enrich the feedback received, although increasing the
+                length of the questionnaire could lead to lower responses [<xref
+                    rid="B23-pharmacy-12-00091" ref-type="bibr">23</xref>].</p>
+            <p>Interestingly, despite the moderate confidence levels, TBL had a significantly
+                positive impact on student performance on the pharmacology-related final exam
+                questions. TBL attendees outperformed non-attendees, with notable differences in
+                final exam scores. This underscores the efficacy of TBL in enhancing
+                students&#x02019; comprehension and retention of pharmacological concepts. Moreover,
+                the study revealed a substantial academic advantage associated with participation in
+                TBL. Not only did students who followed TBL perform better in the final exam
+                compared to students who did not follow TBL, the individual performance within the
+                TBL group also improved. The mean final exam scores on the pharmacology-related
+                questions were significantly higher than the mean iRAT scores. These results are
+                consistent across both academic years 2021&#x02013;2022 and 2022&#x02013;2023,
+                indicating a consistent effect of TBL and suggesting that TBL increases
+                students&#x02019; uptake of pharmacology knowledge. Interestingly, although the
+                difficulty index of the questions of the final exam was lower compared to the iRAT,
+                non-TBL attendees still scored lower than TBL attendees.</p>
+            <p>It is striking that student performance in the iRAT was moderate to low (around 40%),
+                implying that students have below-average initial knowledge. The higher difficulty
+                index and the poor performance of students in the iRAT could be explained by the
+                fact that the iRAT was a formative assessment. It is known that formative exams
+                often result in low scores as passing these exams is not obligatory, a phenomenon
+                also observed in our students [<xref rid="B24-pharmacy-12-00091" ref-type="bibr">24</xref>].
+                Despite this, the iRAT signals possible knowledge gaps and stimulates
+                problem-solving skills. In line with this, it is important to mention that the
+                placement of the TBL session prior to the exam could have resulted in an added
+                advantage of revisiting and revising topics before the final exam.</p>
+            <p>No statistically significant correlation was found between the iRAT scores and the
+                pharmacology-related questions on the final exam. The considerable disparity in
+                performance between TBL attendees and non-TBL attendees highlights the value of TBL
+                in facilitating knowledge application and problem-solving skills essential for
+                success in pharmacology examinations. Nevertheless, it is noteworthy to highlight
+                that not all students scored higher on the pharmacology-related final exam question
+                than on the iRAT. Given that the iRAT score did not directly impact the academic
+                outcome of the student, one plausible explanation for the diminished performance on
+                the final exam could be attributed to examination-related stress leading to
+                suboptimal academic performance [<xref rid="B25-pharmacy-12-00091" ref-type="bibr">
+                25</xref>].</p>
+            <sec id="sec4dot1-pharmacy-12-00091">
+                <title>4.1. Implications of Results for Pharmacology Educators</title>
+                <p>TBL as an active learning methodology: This work aims to encourage educators to
+                    implement TBL as an engaging and effective teaching strategy that could be
+                    implemented for teaching pharmacology. The findings in this study support the
+                    substantial value of TBL as an effective means of stimulating active learning in
+                    pharmacology education. This aligns with earlier studies in other medical
+                    contexts in which TBL was used to teach pharmacology, providing additional
+                    evidence of its effectiveness [<xref rid="B26-pharmacy-12-00091" ref-type="bibr">
+                    26</xref>,<xref rid="B27-pharmacy-12-00091" ref-type="bibr">27</xref>,<xref
+                        rid="B28-pharmacy-12-00091" ref-type="bibr">28</xref>]. TBL sessions can
+                    serve two purposes: firstly, they provide students with a &#x02018;reality
+                    check&#x02019; or immediate feedback on their level of knowledge and the depth
+                    one requires to solve presented clinical problems. This is also reflected in the
+                    evaluation of the TBL session, where students indicated a low level of
+                    confidence on the subject matter, possibly stimulating them to study more for
+                    the exam. Secondly, discussing the iRAT questions and clinical problems during
+                    the TBL session promotes deeper understanding of the subject material, preparing
+                    students for solving complex clinical problems. Students who did not attend the
+                    TBL session missed this opportunity. Although these students had access to the
+                    materials, they did miss the interaction and the in-depth discussion, both
+                    crucial elements of in-depth learning.</p>
+                <p>Placement of TBL sessions within the curriculum: TBL, as it incorporates elements
+                    such as formative testing, feedback and solving authentic clinical problems,
+                    could be an ideal educational tool for revising topics prior to exams. These
+                    elements of TBL could help students to discover their knowledge deficits and to
+                    optimally prepare themselves to solve clinical cases. This could be especially
+                    helpful in institutions where frequent and standard TBL sessions cannot be
+                    arranged due to varying restrictions.</p>
+                <p>Modifications in TBL approach might be essential to fit educational different
+                    contexts. Modifications in TBL needed to fit the educational context should be
+                    evidence-driven. Several elements of TBL have been considered important, such as
+                    carefully formed and managed teams, timely feedback, problem solving, and a
+                    competitive element [<xref rid="B20-pharmacy-12-00091" ref-type="bibr">20</xref>].
+                    However, due to limitations in organizational structure, availability of
+                    learning spaces, and financial constraints, modifications in the TBL sessions
+                    may be needed to fit the educational setting. In the current setting, students
+                    had full autonomy in forming groups, and the competitive element of TBL was not
+                    incorporated. The rationale behind this is based on the self-determination
+                    theory. Students were allowed to choose their groups to promote a sense of
+                    autonomy, and a sense of relatedness was promoted by creating a safe
+                    (non-competitive) space where students could practice and make mistakes [<xref
+                        rid="B29-pharmacy-12-00091" ref-type="bibr">29</xref>]. Promoting
+                    competitiveness could negatively affect student motivation [<xref
+                        rid="B29-pharmacy-12-00091" ref-type="bibr">29</xref>] but also negatively
+                    impacts equity [<xref rid="B30-pharmacy-12-00091" ref-type="bibr">30</xref>].
+                    The decision to deviate from the classic TBL structure also has a pragmatic
+                    reason, as none of the students of the course were obliged to attend all
+                    classes. Therefore, prior formation of the groups was not convenient as students
+                    might not attend the TBL session. Additionally, it would also lead to extra
+                    administrative work for the teachers. Our results demonstrate that despite
+                    modifying these elements of TBL, it still had a positive impact on student
+                    performance.</p>
+                <p>The current TBL session, including the iRAT and final exam, was conducted and
+                    documented digitally using various online teaching platforms. However, TBL
+                    sessions could also be conducted without digital teaching platforms. Elements of
+                    TBL such as promoting peer discussion [<xref rid="B31-pharmacy-12-00091"
+                        ref-type="bibr">31</xref>], solving authentic problems, activating knowledge
+                    through questions, and formative assessments [<xref rid="B32-pharmacy-12-00091"
+                        ref-type="bibr">32</xref>] are known to positively affect learning, even
+                    outside the TBL context. This could explain the positive effects of TBL in our
+                    cohort. Adjusting TBL to fit the educational context can make integration of the
+                    TBL method more feasible. However, such adjustments should be guided by
+                    educational scholarship, especially prior to large-scale roll-out. Based on our
+                    experience, using a variety of active teaching methodologies, TBL being one of
+                    them, usually helps to break the monotony for students and teachers.</p>
+            </sec>
+            <sec id="sec4dot2-pharmacy-12-00091">
+                <title>4.2. Future Directions</title>
+                <p>Further study is required to investigate the impact of integrating TBL on
+                    students&#x02019; learning strategies. It is essential to evaluate the immediate
+                    learning outcomes but also the long-term approach to learning adopted by
+                    students after the introduction of TBL. Furthermore, additional research should
+                    be directed to extending the influence of TBL on long-term knowledge retention
+                    and academic performance. This could give insights into sustained knowledge
+                    retention over time and thereby the enduring impact of TBL. Furthermore, it
+                    would be interesting to interview students on the benefits of TBL compared to
+                    passive teaching methods. Unfortunately, we could not do this, as students were
+                    already overwhelmed by the sheer number of evaluations (survey fatigue) [<xref
+                        rid="B33-pharmacy-12-00091" ref-type="bibr">33</xref>] they were exposed to
+                    and we had to choose low-threshold, to-the-point questions. Increasing the
+                    length of the questionnaire could have led to fewer responses [<xref
+                        rid="B23-pharmacy-12-00091" ref-type="bibr">23</xref>].</p>
+            </sec>
+            <sec id="sec4dot3-pharmacy-12-00091">
+                <title>4.3. Strengths and Limitations of the Study</title>
+                <p>Strengths: Herein, we show the importance of adjusting established teaching
+                    methodologies by identifying and including the crucial underlying educational
+                    principles to fit into individual curricula. Often, excellent teaching
+                    methodologies cannot be implemented due to rigid frameworks and logistic
+                    reasons. Our study shows that by understanding the underlying educational
+                    principles (in this case formative testing, feedback, and problem-solving
+                    skills), educators can introduce innovative teaching methods into their
+                    curricula with positive outcomes. The barriers to incorporating TBL could be
+                    additional workload for teachers, i.e., converting existing lessons into a TBL
+                    format, logistic reasons, and student non-acceptance of the teaching method.
+                    Especially for the latter, initial resistance could be expected if students are
+                    exposed to traditional teaching methods requiring minimal interaction with
+                    teachers or students. Similarly, students might not be open to the prior
+                    preparation that TBL requires. It is known that students feel that they have a
+                    better grasp of the subject matter when following passive learning methods than
+                    when exposed to active learning [<xref rid="B5-pharmacy-12-00091"
+                        ref-type="bibr">5</xref>]. Unsurprisingly, however, the performance of
+                    students participating in active learning is better. If students understand the
+                    benefits of TBL, participation and involvement could be improved, leading to
+                    better performance. In this light, adapting teaching methodologies to fit
+                    existing curricula is needed. Initially, this could be experienced as
+                    time-consuming. Nevertheless, it will benefit students in the long run.</p>
+                <p>Limitations: It is important to acknowledge certain limitations of this study.
+                    The current study was conducted in a naturalistic setting, meaning the TBL
+                    teaching form was implemented within the existing curriculum. Although this is a
+                    strength on the one hand, as our findings are of immediate relevance for our
+                    educational setting, the results are limited by a non-randomized sample of
+                    learners. This raises the possibility of existing differences between both
+                    groups. For example, TBL students may have been more motivated or may have been
+                    less confident in their pharmacology knowledge compared to non-attendees.
+                    However, randomization was not possible in our setting due to the nature of
+                    lessons being non-obligatory. For this reason, the study setting was kept as
+                    natural as possible, resulting in groups based on their attendance of the TBL
+                    session. Second, academic confidence can be influenced by experience but also by
+                    societal factors within or around the academic setting [<xref
+                        rid="B34-pharmacy-12-00091" ref-type="bibr">34</xref>]. This study did not
+                    correct for possible differences in individual student characteristics. Third,
+                    self-assessed perceptions of knowledge, often used as a tool to guide student
+                    learning, can be influenced by various individual factors, possibly resulting in
+                    self-reporting bias. However, within medical education, self-assessment is
+                    considered a credible method for educational program evaluations [<xref
+                        rid="B35-pharmacy-12-00091" ref-type="bibr">35</xref>]. Finally, while the
+                    study design allowed for comparisons between TBL attendees and non-attendees,
+                    factors such as prior pharmacological knowledge and individual study habits may
+                    have influenced outcomes. The results must be viewed with these limitations in
+                    mind.</p>
+            </sec>
+        </sec>
+        <sec sec-type="conclusions" id="sec5-pharmacy-12-00091">
+            <title>5. Conclusions</title>
+            <p>The current findings identify TBL as an engaging and effective instructional approach
+                for teaching pharmacology, promoting active learning and practical application of
+                knowledge. The current study emphasizes the importance of adapting teaching
+                methodologies to suit a given educational context, with modifications guided by an
+                evidence-based approach. By integrating TBL&#x02019;s interactive and collaborative
+                elements, educators can enhance student engagement and deepen their understanding of
+                pharmacological concepts. Consequently, TBL could be incorporated into the existing
+                pharmacology teaching method, promising enriched learning experiences and improved
+                academic outcomes. This aligns with the goal of active learning and equipping
+                students with the skills necessary for safe and efficient medication prescribing.</p>
+        </sec>
+    </body>
+    <back>
+        <fn-group>
+            <fn>
+                <p><bold>Disclaimer/Publisher&#x02019;s Note:</bold> The statements, opinions and
+                    data contained in all publications are solely those of the individual author(s)
+                    and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the
+                    editor(s) disclaim responsibility for any injury to people or property resulting
+                    from any ideas, methods, instructions or products referred to in the content.</p>
+            </fn>
+        </fn-group>
+        <notes>
+            <title>Author Contributions</title>
+            <p>Conceptualization, N.L.D.L., G.J.v.d.V. and R.P.; methodology, R.P.; formal analysis,
+                N.L.D.L.; investigation, R.P.; resources, R.P.; writing&#x02014;original draft
+                preparation, N.L.D.L.; writing&#x02014;review and editing, R.P. and G.J.v.d.V.;
+                visualization, N.L.D.L.; supervision, R.P. and G.J.v.d.V. All authors have read and
+                agreed to the published version of the manuscript.</p>
+        </notes>
+        <notes>
+            <title>Institutional Review Board Statement</title>
+            <p>The study was approved by the Dutch Association for Medical Education Ethical Review
+                Board (NVMO: 2022.6.2).</p>
+        </notes>
+        <notes>
+            <title>Informed Consent Statement</title>
+            <p>Not applicable.</p>
+        </notes>
+        <notes notes-type="data-availability">
+            <title>Data Availability Statement</title>
+            <p>The research data are not publicly available, but could be available from the
+                corresponding author on reasonable request, provided prior permission is granted by
+                UMC Utrecht.</p>
+        </notes>
+        <notes notes-type="COI-statement">
+            <title>Conflicts of Interest</title>
+            <p>The authors declare no conflicts of interest.</p>
+        </notes>
+        <ref-list>
+            <title>References</title>
+            <ref id="B1-pharmacy-12-00091">
+                <label>1.</label>
+                <element-citation publication-type="journal"><person-group
+                        person-group-type="author">\n<name>
+                            <surname>Wittich</surname>
+                            <given-names>C.M.</given-names>
+                        </name>\n<name>
+                            <surname>Burkle</surname>
+                            <given-names>C.M.</given-names>
+                        </name>\n<name>
+                            <surname>Lanier</surname>
+                            <given-names>W.</given-names>
+                        </name>\n</person-group><article-title>Medication
+                    Errors: An Overview for Clinicians</article-title><source>Mayo Clin. Proc.</source><year>
+                    2014</year><volume>89</volume><fpage>1116</fpage><lpage>1125</lpage><pub-id
+                        pub-id-type="doi">10.1016/j.mayocp.2014.05.007</pub-id><pub-id
+                        pub-id-type="pmid">24981217</pub-id>\n</element-citation>
+            </ref>
+            <ref id="B2-pharmacy-12-00091">
+                <label>2.</label>
+                <element-citation publication-type="webpage">
+                    <person-group person-group-type="author">\n<name>
+                            <surname>Dornan</surname>
+                            <given-names>T.</given-names>
+                        </name>\n<name>
+                            <surname>Ashcroft</surname>
+                            <given-names>D.</given-names>
+                        </name>\n<name>
+                            <surname>Heathfield</surname>
+                            <given-names>H.</given-names>
+                        </name>\n<name>
+                            <surname>Lewis</surname>
+                            <given-names>P.</given-names>
+                        </name>\n<name>
+                            <surname>Miles</surname>
+                            <given-names>J.</given-names>
+                        </name>\n<name>
+                            <surname>Taylor</surname>
+                            <given-names>D.</given-names>
+                        </name>\n<name>
+                            <surname>Tully</surname>
+                            <given-names>M.</given-names>
+                        </name>\n<name>
+                            <surname>Wass</surname>
+                            <given-names>V.</given-names>
+                        </name>\n</person-group>
+                    <article-title>An in Depth Investigation into Causes of Prescribing Errors by
+                        Foundation Trainees in Relation to Their Medical Education. EQUIP Study</article-title>
+                    <comment>Available online: <ext-link
+                            xlink:href="https://www.gmc-uk.org/-/media/documents/FINAL_Report_prevalence_and_causes_of_prescribing_errors.pdf_28935150.pdf"
+                            ext-link-type="uri">
+                        https://www.gmc-uk.org/-/media/documents/FINAL_Report_prevalence_and_causes_of_prescribing_errors.pdf_28935150.pdf</ext-link></comment>
+                    <date-in-citation content-type="access-date" iso-8601-date="2023-09-01">(accessed
+                        on 1 September 2023)</date-in-citation>
+                </element-citation>
+            </ref>
+            <ref id="B3-pharmacy-12-00091">
+                <label>3.</label>
+                <element-citation publication-type="journal"><person-group
+                        person-group-type="author">\n<name>
+                            <surname>McHugh</surname>
+                            <given-names>D.</given-names>
+                        </name>\n<name>
+                            <surname>Yanik</surname>
+                            <given-names>A.J.</given-names>
+                        </name>\n<name>
+                            <surname>Mancini</surname>
+                            <given-names>M.R.</given-names>
+                        </name>\n</person-group><article-title>An
+                    innovative pharmacology curriculum for medical students: Promoting higher order
+                    cognition, learner-centered coaching, and constructive feedback through a social
+                    pedagogy framework</article-title><source>BMC Med. Educ.</source><year>2021</year><volume>
+                    21</volume><elocation-id>90</elocation-id><pub-id pub-id-type="doi">
+                    10.1186/s12909-021-02516-y</pub-id><pub-id pub-id-type="pmid">33546690</pub-id>
+                    \n</element-citation>
+            </ref>
+            <ref id="B4-pharmacy-12-00091">
+                <label>4.</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">\n<name>
+                            <surname>Pandit</surname>
+                            <given-names>R.</given-names>
+                        </name>\n<name>
+                            <surname>Poleij</surname>
+                            <given-names>M.C.S.</given-names>
+                        </name>\n<name>
+                            <surname>Gerrits</surname>
+                            <given-names>M.A.F.M.</given-names>
+                        </name>\n</person-group>
+                    <article-title>Student Perception of Knowledge and Skills in Pharmacology and
+                        Pharmacotherapy in a Bachelor&#x02019;s Medical Curriculum</article-title>
+                    <source>Int. Med. Educ.</source>
+                    <year>2023</year>
+                    <volume>2</volume>
+                    <fpage>206</fpage>
+                    <lpage>218</lpage>
+                    <pub-id pub-id-type="doi">10.3390/ime2030020</pub-id>
+                </element-citation>
+            </ref>
+            <ref id="B5-pharmacy-12-00091">
+                <label>5.</label>
+                <element-citation publication-type="journal"><person-group
+                        person-group-type="author">\n<name>
+                            <surname>Deslauriers</surname>
+                            <given-names>L.</given-names>
+                        </name>\n<name>
+                            <surname>McCarty</surname>
+                            <given-names>L.S.</given-names>
+                        </name>\n<name>
+                            <surname>Miller</surname>
+                            <given-names>K.</given-names>
+                        </name>\n<name>
+                            <surname>Callaghan</surname>
+                            <given-names>K.</given-names>
+                        </name>\n<name>
+                            <surname>Kestin</surname>
+                            <given-names>G.</given-names>
+                        </name>\n</person-group><article-title>Measuring
+                    actual learning versus feeling of learning in response to being actively engaged
+                    in the classroom</article-title><source>Proc. Natl. Acad. Sci. USA</source><year>
+                    2019</year><volume>116</volume><fpage>19251</fpage><lpage>19257</lpage><pub-id
+                        pub-id-type="doi">10.1073/pnas.1821936116</pub-id><pub-id pub-id-type="pmid">
+                    31484770</pub-id>\n</element-citation>
+            </ref>
+            <ref id="B6-pharmacy-12-00091">
+                <label>6.</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">\n<name>
+                            <surname>Anthony</surname>
+                            <given-names>G.</given-names>
+                        </name>\n</person-group>
+                    <article-title>Active learning in a constructivist framework</article-title>
+                    <source>Educ. Stud. Math.</source>
+                    <year>1996</year>
+                    <volume>31</volume>
+                    <fpage>349</fpage>
+                    <lpage>369</lpage>
+                    <pub-id pub-id-type="doi">10.1007/BF00369153</pub-id>
+                </element-citation>
+            </ref>
+            <ref id="B7-pharmacy-12-00091">
+                <label>7.</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">\n<name>
+                            <surname>Doolittle</surname>
+                            <given-names>P.</given-names>
+                        </name>\n<name>
+                            <surname>Doolittle</surname>
+                            <given-names>P.</given-names>
+                        </name>\n<name>
+                            <surname>Wojdak</surname>
+                            <given-names>K.</given-names>
+                        </name>\n<name>
+                            <surname>Wojdak</surname>
+                            <given-names>K.</given-names>
+                        </name>\n<name>
+                            <surname>Walters</surname>
+                            <given-names>A.</given-names>
+                        </name>\n<name>
+                            <surname>Walters</surname>
+                            <given-names>A.</given-names>
+                        </name>\n</person-group>
+                    <article-title>Defining Active Learning: A Restricted Systemic Review</article-title>
+                    <source>Teach. Learn. Inq.</source>
+                    <year>2023</year>
+                    <volume>11</volume>
+                    <pub-id pub-id-type="doi">10.20343/teachlearninqu.11.25</pub-id>
+                </element-citation>
+            </ref>
+            <ref id="B8-pharmacy-12-00091">
+                <label>8.</label>
+                <element-citation publication-type="journal"><person-group
+                        person-group-type="author">\n<name>
+                            <surname>Schmidt</surname>
+                            <given-names>H.G.</given-names>
+                        </name>\n<name>
+                            <surname>Rotgans</surname>
+                            <given-names>J.I.</given-names>
+                        </name>\n<name>
+                            <surname>Rajalingam</surname>
+                            <given-names>P.</given-names>
+                        </name>\n<name>
+                            <surname>Low-Beer</surname>
+                            <given-names>N.</given-names>
+                        </name>\n</person-group><article-title>A
+                    Psychological Foundation for Team-Based Learning: Knowledge Reconsolidation</article-title><source>Acad.
+                    Med.</source><year>2019</year><volume>94</volume><fpage>1878</fpage><lpage>1883</lpage><pub-id
+                        pub-id-type="doi">10.1097/ACM.0000000000002810</pub-id><pub-id
+                        pub-id-type="pmid">31149922</pub-id>\n</element-citation>
+            </ref>
+            <ref id="B9-pharmacy-12-00091">
+                <label>9.</label>
+                <element-citation publication-type="journal"><person-group
+                        person-group-type="author">\n<name>
+                            <surname>Squire</surname>
+                            <given-names>L.R.</given-names>
+                        </name>\n<name>
+                            <surname>Genzel</surname>
+                            <given-names>L.</given-names>
+                        </name>\n<name>
+                            <surname>Wixted</surname>
+                            <given-names>J.T.</given-names>
+                        </name>\n<name>
+                            <surname>Morris</surname>
+                            <given-names>R.G.</given-names>
+                        </name>\n</person-group><article-title>Memory
+                    Consolidation</article-title><source>Cold Spring Harb. Perspect. Biol.</source><year>
+                    2015</year><volume>7</volume><elocation-id>a021766</elocation-id><pub-id
+                        pub-id-type="doi">10.1101/cshperspect.a021766</pub-id><pub-id
+                        pub-id-type="pmid">26238360</pub-id>\n</element-citation>
+            </ref>
+            <ref id="B10-pharmacy-12-00091">
+                <label>10.</label>
+                <element-citation publication-type="journal"><person-group
+                        person-group-type="author">\n<name>
+                            <surname>Alberini</surname>
+                            <given-names>C.M.</given-names>
+                        </name>\n<name>
+                            <surname>LeDoux</surname>
+                            <given-names>J.E.</given-names>
+                        </name>\n</person-group><article-title>Memory
+                    reconsolidation</article-title><source>Curr. Biol.</source><year>2013</year><volume>
+                    23</volume><fpage>R746</fpage><lpage>R750</lpage><pub-id pub-id-type="doi">
+                    10.1016/j.cub.2013.06.046</pub-id><pub-id pub-id-type="pmid">24028957</pub-id>\n</element-citation>
+            </ref>
+            <ref id="B11-pharmacy-12-00091">
+                <label>11.</label>
+                <element-citation publication-type="journal"><person-group
+                        person-group-type="author">\n<name>
+                            <surname>Parmelee</surname>
+                            <given-names>D.</given-names>
+                        </name>\n<name>
+                            <surname>Michaelsen</surname>
+                            <given-names>L.K.</given-names>
+                        </name>\n<name>
+                            <surname>Cook</surname>
+                            <given-names>S.</given-names>
+                        </name>\n<name>
+                            <surname>Hudes</surname>
+                            <given-names>P.D.</given-names>
+                        </name>\n</person-group><article-title>Team-based
+                    learning: A practical guide: AMEE Guide No. 65</article-title><source>Med.
+                    Teach.</source><year>2012</year><volume>34</volume><fpage>e275</fpage><lpage>
+                    e287</lpage><pub-id pub-id-type="doi">10.3109/0142159X.2012.651179</pub-id><pub-id
+                        pub-id-type="pmid">22471941</pub-id>\n</element-citation>
+            </ref>
+            <ref id="B12-pharmacy-12-00091">
+                <label>12.</label>
+                <element-citation publication-type="journal"><person-group
+                        person-group-type="author">\n<name>
+                            <surname>Burgess</surname>
+                            <given-names>A.</given-names>
+                        </name>\n<name>
+                            <surname>van Diggele</surname>
+                            <given-names>C.</given-names>
+                        </name>\n<name>
+                            <surname>Roberts</surname>
+                            <given-names>C.</given-names>
+                        </name>\n<name>
+                            <surname>Mellis</surname>
+                            <given-names>C.</given-names>
+                        </name>\n</person-group><article-title>Team-based
+                    learning: Design, facilitation and participation</article-title><source>BMC Med.
+                    Educ.</source><year>2020</year><volume>20</volume><issue>(Suppl. 2)</issue><elocation-id>
+                    461</elocation-id><pub-id pub-id-type="doi">10.1186/s12909-020-02287-y</pub-id><pub-id
+                        pub-id-type="pmid">33272267</pub-id>\n</element-citation>
+            </ref>
+            <ref id="B13-pharmacy-12-00091">
+                <label>13.</label>
+                <element-citation publication-type="journal"><person-group
+                        person-group-type="author">\n<name>
+                            <surname>Hrynchak</surname>
+                            <given-names>P.</given-names>
+                        </name>\n<name>
+                            <surname>Batty</surname>
+                            <given-names>H.</given-names>
+                        </name>\n</person-group><article-title>The
+                    educational theory basis of team-based learning</article-title><source>Med.
+                    Teach.</source><year>2012</year><volume>34</volume><fpage>796</fpage><lpage>801</lpage><pub-id
+                        pub-id-type="doi">10.3109/0142159X.2012.687120</pub-id><pub-id
+                        pub-id-type="pmid">22646301</pub-id>\n</element-citation>
+            </ref>
+            <ref id="B14-pharmacy-12-00091">
+                <label>14.</label>
+                <element-citation publication-type="journal"><person-group
+                        person-group-type="author">\n<name>
+                            <surname>Kim</surname>
+                            <given-names>D.-H.</given-names>
+                        </name>\n<name>
+                            <surname>Lee</surname>
+                            <given-names>J.-H.</given-names>
+                        </name>\n<name>
+                            <surname>Kim</surname>
+                            <given-names>S.A.</given-names>
+                        </name>\n</person-group><article-title>The
+                    pharmacology course for preclinical students using team-based learning</article-title><source>Korean
+                    J. Med. Educ.</source><year>2020</year><volume>32</volume><fpage>35</fpage><lpage>
+                    46</lpage><pub-id pub-id-type="doi">10.3946/kjme.2020.151</pub-id><pub-id
+                        pub-id-type="pmid">32130849</pub-id>\n</element-citation>
+            </ref>
+            <ref id="B15-pharmacy-12-00091">
+                <label>15.</label>
+                <element-citation publication-type="journal"><person-group
+                        person-group-type="author">\n<name>
+                            <surname>Alberti</surname>
+                            <given-names>S.</given-names>
+                        </name>\n<name>
+                            <surname>Motta</surname>
+                            <given-names>P.</given-names>
+                        </name>\n<name>
+                            <surname>Ferri</surname>
+                            <given-names>P.</given-names>
+                        </name>\n<name>
+                            <surname>Bonetti</surname>
+                            <given-names>L.</given-names>
+                        </name>\n</person-group><article-title>The
+                    effectiveness of team-based learning in nursing education: A systematic review</article-title><source>Nurse
+                    Educ. Today</source><year>2021</year><volume>97</volume><fpage>104721</fpage><pub-id
+                        pub-id-type="doi">10.1016/j.nedt.2020.104721</pub-id><pub-id
+                        pub-id-type="pmid">33385942</pub-id>\n</element-citation>
+            </ref>
+            <ref id="B16-pharmacy-12-00091">
+                <label>16.</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">\n<name>
+                            <surname>Alanazi</surname>
+                            <given-names>A.</given-names>
+                        </name>\n</person-group>
+                    <article-title>A Critical Review of Constructivist Theory and the Emergence of
+                        Constructionism</article-title>
+                    <source>Am. Res. J. Humanit. Soc. Sci.</source>
+                    <year>2016</year>
+                    <volume>2</volume>
+                    <fpage>1</fpage>
+                    <lpage>8</lpage>
+                    <pub-id pub-id-type="doi">10.21694/2378-7031.16018</pub-id>
+                </element-citation>
+            </ref>
+            <ref id="B17-pharmacy-12-00091">
+                <label>17.</label>
+                <element-citation publication-type="confproc">
+                    <person-group person-group-type="author">\n<name>
+                            <surname>Hein</surname>
+                            <given-names>G.E.</given-names>
+                        </name>\n</person-group>
+                    <article-title>Constructivist Learning Theory</article-title>
+                    <source>Proceedings of the CECA (International Committee of Museum Educators)
+                        Conference</source>
+                    <conf-loc>Jerusalem, Israel</conf-loc>
+                    <conf-date>15&#x02013;22 October 1991</conf-date>
+                </element-citation>
+            </ref>
+            <ref id="B18-pharmacy-12-00091">
+                <label>18.</label>
+                <element-citation publication-type="journal"><person-group
+                        person-group-type="author">\n<name>
+                            <surname>Adams</surname>
+                            <given-names>N.E.</given-names>
+                        </name>\n</person-group><article-title>Bloom&#x02019;s
+                    taxonomy of cognitive learning objectives</article-title><source>J. Med. Libr.
+                    Assoc.</source><year>2015</year><volume>103</volume><fpage>152</fpage><lpage>153</lpage><pub-id
+                        pub-id-type="doi">10.3163/1536-5050.103.3.010</pub-id><pub-id
+                        pub-id-type="pmid">26213509</pub-id>\n</element-citation>
+            </ref>
+            <ref id="B19-pharmacy-12-00091">
+                <label>19.</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">\n<name>
+                            <surname>Kori&#x00165;&#x000e1;kov&#x000e1;</surname>
+                            <given-names>E.</given-names>
+                        </name>\n<name>
+                            <surname>Jivram</surname>
+                            <given-names>T.</given-names>
+                        </name>\n<name>
+                            <surname>G&#x000ee;lc&#x00103;-Blanariu</surname>
+                            <given-names>G.-E.</given-names>
+                        </name>\n<name>
+                            <surname>Churov&#x000e1;</surname>
+                            <given-names>V.</given-names>
+                        </name>\n<name>
+                            <surname>Poulton</surname>
+                            <given-names>E.</given-names>
+                        </name>\n<name>
+                            <surname>Ciureanu</surname>
+                            <given-names>A.I.</given-names>
+                        </name>\n<name>
+                            <surname>Louis</surname>
+                            <given-names>C.</given-names>
+                        </name>\n<name>
+                            <surname>&#x00218;tef&#x00103;nescu</surname>
+                            <given-names>G.</given-names>
+                        </name>\n<name>
+                            <surname>Schwarz</surname>
+                            <given-names>D.</given-names>
+                        </name>\n</person-group>
+                    <article-title>Comparison of problem-based and team-based learning strategies: A
+                        multi-institutional investigation</article-title>
+                    <source>Front. Educ.</source>
+                    <year>2023</year>
+                    <volume>8</volume>
+                    <fpage>1301269</fpage>
+                    <pub-id pub-id-type="doi">10.3389/feduc.2023.1301269</pub-id>
+                </element-citation>
+            </ref>
+            <ref id="B20-pharmacy-12-00091">
+                <label>20.</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">\n<name>
+                            <surname>Michaelsen</surname>
+                            <given-names>L.K.</given-names>
+                        </name>\n<name>
+                            <surname>Davidson</surname>
+                            <given-names>N.</given-names>
+                        </name>\n<name>
+                            <surname>Major</surname>
+                            <given-names>C.H.</given-names>
+                        </name>\n</person-group>
+                    <article-title>Team-based learning practices and principles in comparison with
+                        cooperative learning and problem-based learning</article-title>
+                    <source>J. Excell Coll. Teach.</source>
+                    <year>2014</year>
+                    <volume>25</volume>
+                    <fpage>57</fpage>
+                    <lpage>84</lpage>
+                </element-citation>
+            </ref>
+            <ref id="B21-pharmacy-12-00091">
+                <label>21.</label>
+                <element-citation publication-type="journal"><person-group
+                        person-group-type="author">\n<name>
+                            <surname>Koens</surname>
+                            <given-names>F.</given-names>
+                        </name>\n<name>
+                            <surname>Mann</surname>
+                            <given-names>K.V.</given-names>
+                        </name>\n<name>
+                            <surname>Custers</surname>
+                            <given-names>E.J.F.M.</given-names>
+                        </name>\n<name>
+                            <surname>Cate</surname>
+                            <given-names>O.T.J.T.</given-names>
+                        </name>\n</person-group><article-title>Analysing
+                    the concept of context in medical education</article-title><source>Med. Educ.</source><year>
+                    2005</year><volume>39</volume><fpage>1243</fpage><lpage>1249</lpage><pub-id
+                        pub-id-type="doi">10.1111/j.1365-2929.2005.02338.x</pub-id><pub-id
+                        pub-id-type="pmid">16313584</pub-id>\n</element-citation>
+            </ref>
+            <ref id="B22-pharmacy-12-00091">
+                <label>22.</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">\n<name>
+                            <surname>Beneroso</surname>
+                            <given-names>D.</given-names>
+                        </name>\n<name>
+                            <surname>Erans</surname>
+                            <given-names>M.</given-names>
+                        </name>\n</person-group>
+                    <article-title>Team-based learning: An ethnicity-focused study on the
+                        perceptions of teamwork abilities of engineering students</article-title>
+                    <source>Eur. J. Eng. Educ.</source>
+                    <year>2021</year>
+                    <volume>46</volume>
+                    <fpage>678</fpage>
+                    <lpage>689</lpage>
+                    <pub-id pub-id-type="doi">10.1080/03043797.2020.1865879</pub-id>
+                </element-citation>
+            </ref>
+            <ref id="B23-pharmacy-12-00091">
+                <label>23.</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">\n<name>
+                            <surname>Roszkowski</surname>
+                            <given-names>M.J.</given-names>
+                        </name>\n<name>
+                            <surname>Bean</surname>
+                            <given-names>A.G.</given-names>
+                        </name>\n</person-group>
+                    <article-title>Believe it or not! longer questionnaires have lower response
+                        rates</article-title>
+                    <source>J. Bus. Psychol.</source>
+                    <year>1990</year>
+                    <volume>4</volume>
+                    <fpage>495</fpage>
+                    <lpage>509</lpage>
+                    <pub-id pub-id-type="doi">10.1007/BF01013611</pub-id>
+                </element-citation>
+            </ref>
+            <ref id="B24-pharmacy-12-00091">
+                <label>24.</label>
+                <element-citation publication-type="book">
+                    <person-group person-group-type="author">\n<name>
+                            <surname>Swanwick</surname>
+                            <given-names>T.</given-names>
+                        </name>\n</person-group>
+                    <article-title>Understanding Medical Education</article-title>
+                    <source>Understanding Medical Education: Evidence, Theory, and Practice</source>
+                    <person-group person-group-type="editor">\n<name>
+                            <surname>Forrest</surname>
+                            <given-names>K.</given-names>
+                        </name>\n<name>
+                            <surname>O&#x02019;Brien</surname>
+                            <given-names>B.C.</given-names>
+                        </name>\n</person-group>
+                    <publisher-name>Wiley</publisher-name>
+                    <publisher-loc>New York, NY, USA</publisher-loc>
+                    <year>2018</year>
+                    <pub-id pub-id-type="doi">10.1002/9781119373780</pub-id>
+                </element-citation>
+            </ref>
+            <ref id="B25-pharmacy-12-00091">
+                <label>25.</label>
+                <element-citation publication-type="journal"><person-group
+                        person-group-type="author">\n<name>
+                            <surname>Linn</surname>
+                            <given-names>B.S.</given-names>
+                        </name>\n<name>
+                            <surname>Zeppa</surname>
+                            <given-names>R.</given-names>
+                        </name>\n</person-group><article-title>Stress
+                    in junior medical students: Relationship to personality and performance</article-title><source>J.
+                    Med. Educ.</source><year>1984</year><volume>59</volume><fpage>7</fpage><lpage>12</lpage><pub-id
+                        pub-id-type="doi">10.1097/00001888-198401000-00002</pub-id><pub-id
+                        pub-id-type="pmid">6690704</pub-id>\n</element-citation>
+            </ref>
+            <ref id="B26-pharmacy-12-00091">
+                <label>26.</label>
+                <element-citation publication-type="journal"><person-group
+                        person-group-type="author">\n<name>
+                            <surname>El-Banna</surname>
+                            <given-names>M.M.</given-names>
+                        </name>\n<name>
+                            <surname>Whitlow</surname>
+                            <given-names>M.</given-names>
+                        </name>\n<name>
+                            <surname>McNelis</surname>
+                            <given-names>A.M.</given-names>
+                        </name>\n</person-group><article-title>Improving
+                    Pharmacology Standardized Test and Final Examination Scores Through Team-Based
+                    Learning</article-title><source>Nurse Educ.</source><year>2020</year><volume>45</volume><fpage>
+                    47</fpage><lpage>49</lpage><pub-id pub-id-type="doi">
+                    10.1097/NNE.0000000000000671</pub-id><pub-id pub-id-type="pmid">30950919</pub-id>
+                    \n</element-citation>
+            </ref>
+            <ref id="B27-pharmacy-12-00091">
+                <label>27.</label>
+                <element-citation publication-type="journal"><person-group
+                        person-group-type="author">\n<name>
+                            <surname>Zgheib</surname>
+                            <given-names>N.K.</given-names>
+                        </name>\n<name>
+                            <surname>Simaan</surname>
+                            <given-names>J.A.</given-names>
+                        </name>\n<name>
+                            <surname>Sabra</surname>
+                            <given-names>R.</given-names>
+                        </name>\n</person-group><article-title>Using
+                    team-based learning to teach pharmacology to second year medical students
+                    improves student performance</article-title><source>Med. Teach.</source><year>
+                    2010</year><volume>32</volume><fpage>130</fpage><lpage>135</lpage><pub-id
+                        pub-id-type="doi">10.3109/01421590903548521</pub-id><pub-id
+                        pub-id-type="pmid">20163228</pub-id>\n</element-citation>
+            </ref>
+            <ref id="B28-pharmacy-12-00091">
+                <label>28.</label>
+                <element-citation publication-type="journal"><person-group
+                        person-group-type="author">\n<name>
+                            <surname>Sterpu</surname>
+                            <given-names>I.</given-names>
+                        </name>\n<name>
+                            <surname>Herling</surname>
+                            <given-names>L.</given-names>
+                        </name>\n<name>
+                            <surname>Nordquist</surname>
+                            <given-names>J.</given-names>
+                        </name>\n<name>
+                            <surname>Rotgans</surname>
+                            <given-names>J.</given-names>
+                        </name>\n<name>
+                            <surname>Acharya</surname>
+                            <given-names>G.</given-names>
+                        </name>\n</person-group><article-title>Team-based
+                    learning (TBL) in clinical disciplines for undergraduate medical
+                    students&#x02014;A scoping review</article-title><source>BMC Med. Educ.</source><year>
+                    2024</year><volume>24</volume><elocation-id>18</elocation-id><pub-id
+                        pub-id-type="doi">10.1186/s12909-023-04975-x</pub-id><pub-id
+                        pub-id-type="pmid">38172844</pub-id>\n</element-citation>
+            </ref>
+            <ref id="B29-pharmacy-12-00091">
+                <label>29.</label>
+                <element-citation publication-type="journal"><person-group
+                        person-group-type="author">\n<name>
+                            <surname>Cook</surname>
+                            <given-names>D.A.</given-names>
+                        </name>\n<name>
+                            <surname>Artino</surname>
+                            <given-names>A.R.</given-names>
+                        </name>\n</person-group><article-title>Motivation
+                    to learn: An overview of contemporary theories</article-title><source>Med. Educ.</source><year>
+                    2016</year><volume>50</volume><fpage>997</fpage><lpage>1014</lpage><pub-id
+                        pub-id-type="doi">10.1111/medu.13074</pub-id><pub-id pub-id-type="pmid">
+                    27628718</pub-id>\n</element-citation>
+            </ref>
+            <ref id="B30-pharmacy-12-00091">
+                <label>30.</label>
+                <element-citation publication-type="journal"><person-group
+                        person-group-type="author">\n<name>
+                            <surname>Green</surname>
+                            <given-names>M.</given-names>
+                        </name>\n<name>
+                            <surname>Malcolm</surname>
+                            <given-names>C.</given-names>
+                        </name>\n</person-group><article-title>Degrees
+                    of change: The promise of anti-racist assessment</article-title><source>Front.
+                    Sociol.</source><year>2023</year><volume>8</volume><fpage>972036</fpage><pub-id
+                        pub-id-type="doi">10.3389/fsoc.2023.972036</pub-id><pub-id
+                        pub-id-type="pmid">37868089</pub-id>\n</element-citation>
+            </ref>
+            <ref id="B31-pharmacy-12-00091">
+                <label>31.</label>
+                <element-citation publication-type="journal"><person-group
+                        person-group-type="author">\n<name>
+                            <surname>Smith</surname>
+                            <given-names>M.K.</given-names>
+                        </name>\n<name>
+                            <surname>Wood</surname>
+                            <given-names>W.B.</given-names>
+                        </name>\n<name>
+                            <surname>Adams</surname>
+                            <given-names>W.K.</given-names>
+                        </name>\n<name>
+                            <surname>Wieman</surname>
+                            <given-names>C.</given-names>
+                        </name>\n<name>
+                            <surname>Knight</surname>
+                            <given-names>J.K.</given-names>
+                        </name>\n<name>
+                            <surname>Guild</surname>
+                            <given-names>N.</given-names>
+                        </name>\n<name>
+                            <surname>Su</surname>
+                            <given-names>T.T.</given-names>
+                        </name>\n</person-group><article-title>Why
+                    Peer Discussion Improves Student Performance on In-Class Concept Questions</article-title><source>
+                    Science</source><year>2009</year><volume>323</volume><fpage>122</fpage><lpage>
+                    124</lpage><pub-id pub-id-type="doi">10.1126/science.1165919</pub-id><pub-id
+                        pub-id-type="pmid">19119232</pub-id>\n</element-citation>
+            </ref>
+            <ref id="B32-pharmacy-12-00091">
+                <label>32.</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">\n<name>
+                            <surname>EChang</surname>
+                            <given-names>E.K.</given-names>
+                        </name>\n<name>
+                            <surname>Wimmers</surname>
+                            <given-names>P.F.</given-names>
+                        </name>\n</person-group>
+                    <article-title>Effect of Repeated/Spaced Formative Assessments on Medical School
+                        Final Exam Performance</article-title>
+                    <source>Health Prof. Educ.</source>
+                    <year>2017</year>
+                    <volume>3</volume>
+                    <fpage>32</fpage>
+                    <lpage>37</lpage>
+                    <pub-id pub-id-type="doi">10.1016/j.hpe.2016.08.001</pub-id>
+                </element-citation>
+            </ref>
+            <ref id="B33-pharmacy-12-00091">
+                <label>33.</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">\n<name>
+                            <surname>Porter</surname>
+                            <given-names>S.R.</given-names>
+                        </name>\n<name>
+                            <surname>Whitcomb</surname>
+                            <given-names>M.E.</given-names>
+                        </name>\n<name>
+                            <surname>Weitzer</surname>
+                            <given-names>W.H.</given-names>
+                        </name>\n</person-group>
+                    <article-title>Multiple surveys of students and survey fatigue</article-title>
+                    <source>New Dir. Institutional Res.</source>
+                    <year>2004</year>
+                    <volume>2004</volume>
+                    <fpage>63</fpage>
+                    <lpage>73</lpage>
+                    <pub-id pub-id-type="doi">10.1002/ir.101</pub-id>
+                </element-citation>
+            </ref>
+            <ref id="B34-pharmacy-12-00091">
+                <label>34.</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">\n<name>
+                            <surname>Sander</surname>
+                            <given-names>P.</given-names>
+                        </name>\n<name>
+                            <surname>Sanders</surname>
+                            <given-names>L.</given-names>
+                        </name>\n</person-group>
+                    <article-title>Understanding academic confidence</article-title>
+                    <source>Psychol. Teach. Rev.</source>
+                    <year>2006</year>
+                    <volume>12</volume>
+                    <fpage>29</fpage>
+                    <lpage>42</lpage>
+                    <pub-id pub-id-type="doi">10.53841/bpsptr.2006.12.1.29</pub-id>
+                </element-citation>
+            </ref>
+            <ref id="B35-pharmacy-12-00091">
+                <label>35.</label>
+                <element-citation publication-type="journal"><person-group
+                        person-group-type="author">\n<name>
+                            <surname>Peterson</surname>
+                            <given-names>L.N.</given-names>
+                        </name>\n<name>
+                            <surname>Eva</surname>
+                            <given-names>K.W.</given-names>
+                        </name>\n<name>
+                            <surname>Rusticus</surname>
+                            <given-names>S.A.</given-names>
+                        </name>\n<name>
+                            <surname>Lovato</surname>
+                            <given-names>C.Y.</given-names>
+                        </name>\n</person-group><article-title>The
+                    Readiness for Clerkship Survey</article-title><source>Acad. Med.</source><year>
+                    2012</year><volume>87</volume><fpage>1355</fpage><lpage>1360</lpage><pub-id
+                        pub-id-type="doi">10.1097/ACM.0b013e3182676c76</pub-id><pub-id
+                        pub-id-type="pmid">22914522</pub-id>\n</element-citation>
+            </ref>
+        </ref-list>
+    </back>
+    <floats-group>
+        <fig position="float" id="pharmacy-12-00091-f001">
+            <label>Figure 1</label>
+            <caption>
+                <p>Schematic representation of the 5-week course on cardiovascular diseases during
+                    which cardiovascular pharmacology was taught. The content, topics in
+                    pharmacotherapy, and planning are indicated per week. Educational activities and
+                    materials were accessible to all students. * TBL = the TBL session, which was
+                    attended by a part of the cohort, based on which the two groups (TBL attendees
+                    and the non-TBL attendees) were formed.</p>
+            </caption>
+            <graphic xlink:href="pharmacy-12-00091-g001" position="float" />
+        </fig>
+        <fig position="float" id="pharmacy-12-00091-f002">
+            <label>Figure 2</label>
+            <caption>
+                <p>Schematic representation of the various components of the study including the
+                    elements of TBL. The grey boxes indicate teaching elements not a part of the TBL
+                    session. The blue boxes indicate the steps undertaken during TBL session. Time
+                    points for data collection are indicated in white circles. iRAT = individual
+                    readiness assurance test; tRAT = team readiness assurance test.</p>
+            </caption>
+            <graphic xlink:href="pharmacy-12-00091-g002" position="float" />
+        </fig>
+        <fig position="float" id="pharmacy-12-00091-f003">
+            <label>Figure 3</label>
+            <caption>
+                <p>(<bold>a</bold>) Student performance in final exam for TBL attendees and non-TBL
+                    attendees in 2021&#x02013;2022 and 2022&#x02013;2023. Values are median (IQR).
+                    *** = <italic toggle="yes">p</italic> &#x0003c; 0.001. (<bold>b</bold>) Student
+                    performance in iRAT and final exam for TBL attendees in 2021&#x02013;2022 and
+                    2022&#x02013;2023. Values are median (IQR). *** = <italic toggle="yes">p</italic>
+                    &#x0003c; 0.001.</p>
+            </caption>
+            <graphic xlink:href="pharmacy-12-00091-g003" position="float" />
+        </fig>
+        <table-wrap position="float" id="pharmacy-12-00091-t001">
+            <object-id pub-id-type="pii">pharmacy-12-00091-t001_Table 1</object-id>
+            <label>Table 1</label>
+            <caption>
+                <p>Student perceptions of team-based learning. Frequencies for each Likert scale
+                    option, mean (ME), and median (MD), are provided for each statement. Likert
+                    scale key: SD: strongly disagree; D: disagree; N: neutral; A: agree; SA:
+                    strongly agree.</p>
+            </caption>
+            <table frame="hsides" rules="groups">
+                <thead>
+                    <tr>
+                        <th align="center" valign="middle"
+                            style="border-top:solid thin;border-bottom:solid thin" rowspan="1"
+                            colspan="1">\n</th>
+                        <th align="center" valign="middle"
+                            style="border-top:solid thin;border-bottom:solid thin" rowspan="1"
+                            colspan="1">\n</th>
+                        <th align="center" valign="middle"
+                            style="border-top:solid thin;border-bottom:solid thin" rowspan="1"
+                            colspan="1">SD<break />(1)</th>
+                        <th align="center" valign="middle"
+                            style="border-top:solid thin;border-bottom:solid thin" rowspan="1"
+                            colspan="1">D<break />(2)</th>
+                        <th align="center" valign="middle"
+                            style="border-top:solid thin;border-bottom:solid thin" rowspan="1"
+                            colspan="1">N<break />(3)</th>
+                        <th align="center" valign="middle"
+                            style="border-top:solid thin;border-bottom:solid thin" rowspan="1"
+                            colspan="1">A<break />(4)</th>
+                        <th align="center" valign="middle"
+                            style="border-top:solid thin;border-bottom:solid thin" rowspan="1"
+                            colspan="1">SA<break />(5)</th>
+                        <th align="center" valign="middle"
+                            style="border-top:solid thin;border-bottom:solid thin" rowspan="1"
+                            colspan="1">ME</th>
+                        <th align="center" valign="middle"
+                            style="border-top:solid thin;border-bottom:solid thin" rowspan="1"
+                            colspan="1">MD</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">1</td>
+                        <td align="left" valign="middle" rowspan="1" colspan="1">The TBL session has
+                            aided in achieving the learning objectives.</td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">0</td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">4</td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">15</td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">72</td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">52</td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">4.2</td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">4</td>
+                    </tr>
+                    <tr>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">2</td>
+                        <td align="left" valign="middle" rowspan="1" colspan="1">The structure of
+                            the TBL session was good.</td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">0</td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">3</td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">19</td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">62</td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">59</td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">4.2</td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">4</td>
+                    </tr>
+                    <tr>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">3</td>
+                        <td align="left" valign="middle" rowspan="1" colspan="1">The organization
+                            (planning, supervision, etc.) of the TBL session was good.</td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">0</td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">0</td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">16</td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">60</td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">67</td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">4.4</td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">4</td>
+                    </tr>
+                    <tr>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">4</td>
+                        <td align="left" valign="middle" rowspan="1" colspan="1">The content of the
+                            TBL session was informative.</td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">0</td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">2</td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">4</td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">61</td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">76</td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">4.5</td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">5</td>
+                    </tr>
+                    <tr>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">5</td>
+                        <td align="left" valign="middle" rowspan="1" colspan="1">I think I have
+                            sufficient knowledge on this subject.</td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">7</td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">26</td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">54</td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">46</td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">10</td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">3.2</td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">3</td>
+                    </tr>
+                    <tr>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">6</td>
+                        <td align="left" valign="middle" rowspan="1" colspan="1">I learnt a lot from
+                            the collaboration during the TBL session.</td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">1</td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">14</td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">42</td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">59</td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">27</td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">3.7</td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">4</td>
+                    </tr>
+                    <tr>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">7</td>
+                        <td align="left" valign="middle" rowspan="1" colspan="1">I learnt a lot from
+                            the practice questions.</td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">0</td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">3</td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">18</td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">51</td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">71</td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">4.3</td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">4</td>
+                    </tr>
+                    <tr>
+                        <td align="center" valign="middle" style="border-bottom:solid thin"
+                            rowspan="1" colspan="1">8</td>
+                        <td align="left" valign="middle" style="border-bottom:solid thin"
+                            rowspan="1" colspan="1">The patient&#x02019;s story has contributed to
+                            learning about the application of medicines in real life.</td>
+                        <td align="center" valign="middle" style="border-bottom:solid thin"
+                            rowspan="1" colspan="1">2</td>
+                        <td align="center" valign="middle" style="border-bottom:solid thin"
+                            rowspan="1" colspan="1">15</td>
+                        <td align="center" valign="middle" style="border-bottom:solid thin"
+                            rowspan="1" colspan="1">45</td>
+                        <td align="center" valign="middle" style="border-bottom:solid thin"
+                            rowspan="1" colspan="1">57</td>
+                        <td align="center" valign="middle" style="border-bottom:solid thin"
+                            rowspan="1" colspan="1">25</td>
+                        <td align="center" valign="middle" style="border-bottom:solid thin"
+                            rowspan="1" colspan="1">3.6</td>
+                        <td align="center" valign="middle" style="border-bottom:solid thin"
+                            rowspan="1" colspan="1">4</td>
+                    </tr>
+                </tbody>
+            </table>
+        </table-wrap>
+    </floats-group>
+</article>

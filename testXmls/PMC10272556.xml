@@ -1,0 +1,2732 @@
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink"
+    dtd-version="1.3" xml:lang="en" article-type="research-article">
+    <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml"
+        tagset-family="jats">
+        <restricted-by>pmc</restricted-by>
+    </processing-meta>
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="nlm-ta">Front Glob Womens Health</journal-id>
+            <journal-id journal-id-type="iso-abbrev">Front Glob Womens Health</journal-id>
+            <journal-id journal-id-type="publisher-id">Front. Glob. Womens Health</journal-id>
+            <journal-title-group>
+                <journal-title>Frontiers in Global Women's Health</journal-title>
+            </journal-title-group>
+            <issn pub-type="epub">2673-5059</issn>
+            <publisher>
+                <publisher-name>Frontiers Media S.A.</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="pmc">PMC10272556</article-id>
+            <article-id pub-id-type="doi">10.3389/fgwh.2023.1084302</article-id>
+            <article-categories>
+                <subj-group subj-group-type="heading">
+                    <subject>Global Women's Health</subject>
+                    <subj-group>
+                        <subject>Original Research</subject>
+                    </subj-group>
+                </subj-group>
+            </article-categories>
+            <title-group>
+                <article-title>Understanding the impact of an AI-enabled conversational agent mobile
+                    app on users&#x02019; mental health and wellbeing with a self-reported maternal
+                    event: a mixed method real-world data mHealth study</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author" corresp="yes">
+                    <name>
+                        <surname>Inkster</surname>
+                        <given-names>Becky</given-names>
+                    </name>
+                    <xref rid="aff1" ref-type="aff">\n<sup>1</sup>\n</xref>
+                    <xref rid="aff2" ref-type="aff">\n<sup>2</sup>\n</xref>
+                    <xref rid="cor1" ref-type="corresp">*</xref>
+                    <uri xlink:href="https://loop.frontiersin.org/people/1014343/overview" />
+                </contrib>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Kadaba</surname>
+                        <given-names>Madhura</given-names>
+                    </name>
+                    <xref rid="aff2" ref-type="aff">\n<sup>2</sup>\n</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Subramanian</surname>
+                        <given-names>Vinod</given-names>
+                    </name>
+                    <xref rid="aff2" ref-type="aff">\n<sup>2</sup>\n</xref>
+                    <uri xlink:href="https://loop.frontiersin.org/people/2200280/overview" />
+                </contrib>
+            </contrib-group>
+            <aff id="aff1"><label>
+                    <sup>1</sup>
+                </label><institution>Department of Psychiatry,
+                University of Cambridge, Cambridge</institution>, <country>United Kingdom</country></aff>
+            <aff id="aff2"><label>
+                    <sup>2</sup>
+                </label><institution>Wysa Inc.</institution>, <country>Boston,
+                MA, United States</country></aff>
+            <author-notes>
+                <fn fn-type="edited-by">
+                    <p><bold>Edited by:</bold> Farhad Fatehi, The University of Queensland,
+                        Australia</p>
+                </fn>
+                <fn fn-type="edited-by">
+                    <p><bold>Reviewed by:</bold> Saeideh Valizadeh-Haghi, Shahid Beheshti University
+                        of Medical Sciences, Iran Hamed Mehdizadeh, Mazandaran University of Medical
+                        Sciences, Iran</p>
+                </fn>
+                <corresp id="cor1"><label>*</label><bold>Correspondence:</bold> Becky Inkster <email>
+                    becky@beckyinkster.com</email></corresp>
+            </author-notes>
+            <pub-date pub-type="epub">
+                <day>02</day>
+                <month>6</month>
+                <year>2023</year>
+            </pub-date>
+            <pub-date pub-type="collection">
+                <year>2023</year>
+            </pub-date>
+            <volume>4</volume>
+            <elocation-id>1084302</elocation-id>
+            <history>
+                <date date-type="received">
+                    <day>30</day>
+                    <month>10</month>
+                    <year>2022</year>
+                </date>
+                <date date-type="accepted">
+                    <day>12</day>
+                    <month>5</month>
+                    <year>2023</year>
+                </date>
+            </history>
+            <permissions>
+                <copyright-statement>&#x000a9; 2023 Inkster, Kadaba and Subramanian.</copyright-statement>
+                <copyright-year>2023</copyright-year>
+                <copyright-holder>Inkster, Kadaba and Subramanian</copyright-holder>
+                <license>
+                    <ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/"
+                        specific-use="textmining" content-type="ccbylicense">
+                        https://creativecommons.org/licenses/by/4.0/</ali:license_ref>
+                    <license-p>This is an open-access article distributed under the terms of the <ext-link
+                            ext-link-type="uri"
+                            xlink:href="https://creativecommons.org/licenses/by/4.0/">Creative
+                        Commons Attribution License (CC BY)</ext-link>. The use, distribution or
+                        reproduction in other forums is permitted, provided the original author(s)
+                        and the copyright owner(s) are credited and that the original publication in
+                        this journal is cited, in accordance with accepted academic practice. No
+                        use, distribution or reproduction is permitted which does not comply with
+                        these terms.</license-p>
+                </license>
+            </permissions>
+            <abstract>
+                <sec>
+                    <title>Background</title>
+                    <p>Maternal mental health care is variable and with limited accessibility.
+                        Artificial intelligence (AI) conversational agents (CAs) could potentially
+                        play an important role in supporting maternal mental health and wellbeing.
+                        Our study examined data from real-world users who self-reported a maternal
+                        event while engaging with a digital mental health and wellbeing AI-enabled
+                        CA app (Wysa) for emotional support. The study evaluated app effectiveness
+                        by comparing changes in self-reported depressive symptoms between a higher
+                        engaged group of users and a lower engaged group of users and derived
+                        qualitative insights into the behaviors exhibited among higher engaged
+                        maternal event users based on their conversations with the AI CA.</p>
+                </sec>
+                <sec>
+                    <title>Methods</title>
+                    <p>Real-world anonymised data from users who reported going through a maternal
+                        event during their conversation with the app was analyzed. For the first
+                        objective, users who completed two PHQ-9 self-reported assessments (<italic>
+                        n</italic>&#x02009;=&#x02009;51) were grouped as either higher engaged users
+                        (<italic>n</italic>&#x02009;=&#x02009;28) or lower engaged users (<italic>n</italic>&#x02009;=&#x02009;23)
+                        based on their number of active session-days with the CA between two
+                        screenings. A non-parametric Mann&#x02013;Whitney test (M&#x02013;W) and
+                        non-parametric Common Language effect size was used to evaluate group
+                        differences in self-reported depressive symptoms. For the second objective,
+                        a Braun and Clarke thematic analysis was used to identify engagement
+                        behavior with the CA for the top quartile of higher engaged users (<italic>n</italic>&#x02009;=&#x02009;10
+                        of 51). Feedback on the app and demographic information was also explored.</p>
+                </sec>
+                <sec>
+                    <title>Results</title>
+                    <p>Results revealed a significant reduction in self-reported depressive symptoms
+                        among the higher engaged user group compared to lower engaged user group
+                        (M&#x02013;W <italic>p&#x02009;</italic>=&#x02009;.004) with a high effect
+                        size (CL&#x02009;=&#x02009;0.736). Furthermore, the top themes that emerged
+                        from the qualitative analysis revealed users expressed concerns, hopes, need
+                        for support, reframing their thoughts and expressing their victories and
+                        gratitude.</p>
+                </sec>
+                <sec>
+                    <title>Conclusion</title>
+                    <p>These findings provide preliminary evidence of the effectiveness and
+                        engagement and comfort of using this AI-based emotionally intelligent mobile
+                        app to support mental health and wellbeing across a range of maternal events
+                        and experiences.</p>
+                </sec>
+            </abstract>
+            <kwd-group>
+                <kwd>maternal mental health and wellbeing</kwd>
+                <kwd>artificial intelligence</kwd>
+                <kwd>psychotherapy</kwd>
+                <kwd>depression</kwd>
+                <kwd>conversational agent (CA)</kwd>
+                <kwd>chatbot</kwd>
+            </kwd-group>
+            <funding-group>
+                <award-group>
+                    <funding-source id="cn001">Wysa</funding-source>
+                </award-group>
+            </funding-group>
+            <counts>
+                <fig-count count="2" />
+                <table-count count="5" />
+                <equation-count count="0" />
+                <ref-count count="69" />
+                <page-count count="0" />
+                <word-count count="0" />
+            </counts>
+            <custom-meta-group>
+                <custom-meta>
+                    <meta-name>section-at-acceptance</meta-name>
+                    <meta-value>Women's Mental Health</meta-value>
+                </custom-meta>
+            </custom-meta-group>
+        </article-meta>
+    </front>
+    <body>
+        <sec sec-type="intro" id="s1">
+            <title>Introduction</title>
+            <p>Parenthood is a transition that can pose significant challenges to mental and
+                physical health across the maternal spectrum, including pre-conception, antenatal
+                period, and during or after giving birth (<xref rid="B1" ref-type="bibr">1</xref>
+                &#x02013;<xref rid="B10" ref-type="bibr">10</xref>).</p>
+            <p>Perinatal mental health disorders are common (<xref rid="B11" ref-type="bibr">11</xref>).
+                In the United Kingdom (UK), perinatal mental health problems can affect
+                10%&#x02013;20% of women either during pregnancy or within one year of giving birth
+                (<xref rid="B12" ref-type="bibr">12</xref>). According to the American Pregnancy
+                Association and Postpartum Support International, approximately 70%&#x02013;80% of
+                new mothers experience negative feelings after giving birth (<xref rid="B13"
+                    ref-type="bibr">13</xref>). For certain demographic groups this is higher, for
+                example, up to 60% for adolescent mothers with a low income (<xref rid="B14"
+                    ref-type="bibr">14</xref>, <xref rid="B15" ref-type="bibr">15</xref>).
+                Depression during pregnancy and the postpartum period is associated with multiple
+                poor outcomes for parental well-being and childhood development (<xref rid="B7"
+                    ref-type="bibr">7</xref>, <xref rid="B16" ref-type="bibr">16</xref>&#x02013;<xref
+                    rid="B18" ref-type="bibr">18</xref>).</p>
+            <p>Maternal mental health is a global public health and economic challenge (<xref
+                    rid="B19" ref-type="bibr">19</xref>&#x02013;<xref rid="B22" ref-type="bibr">22</xref>).
+                The estimated accumulated national economic cost of perinatal depression and anxiety
+                in the UK is &#x000a3;6.6 billion (<xref rid="B11" ref-type="bibr">11</xref>). While
+                treatments for maternal mental health care exist, research suggests that
+                implementation can be challenging and variable (<xref rid="B23" ref-type="bibr">23</xref>
+                ).</p>
+            <p>Technology could play a significant role in addressing barriers to care for maternal
+                mental health (<xref rid="B24" ref-type="bibr">24</xref>, <xref rid="B25"
+                    ref-type="bibr">25</xref>). The acceptability, feasibility and effectiveness of
+                perinatal depression digital interventions have been evaluated in various pilot
+                studies, randomized controlled trials (RCTs) and systematic reviews (<xref rid="B26"
+                    ref-type="bibr">26</xref>&#x02013;<xref rid="B36" ref-type="bibr">36</xref>).
+                While maternal mental health digital technology could help improve accessibility,
+                offer timely psychosocial support, as well as potentially improve the quality of
+                information being collected, much more research is needed in this area to carefully
+                examine its potential benefits vs. its limitations (<xref rid="B37" ref-type="bibr">
+                37</xref>). A study that published recommendations based on user feedback to inform
+                future development of digital maternal mental health support included the proposal
+                of adding an Artificial Intelligence (AI) chatbot (<xref rid="B38" ref-type="bibr">
+                38</xref>). Using dialogue-led personalized tools, AI-based Conversational agents
+                (CAs; chatbots) could potentially facilitate effective and safe guided conversations
+                and collect information beyond limited survey questions and self-guided sessions.</p>
+            <p>AI systems using CA have already been developed to provide medical information to
+                support child physical health for new mothers (<xref rid="B39" ref-type="bibr">39</xref>
+                &#x02013;<xref rid="B41" ref-type="bibr">41</xref>). In more recent years, proposals
+                have emerged on how AI could play a distinctive digital role in supporting maternal
+                mental health and wellbeing (<xref rid="B42" ref-type="bibr">42</xref>). A clinical
+                trial that randomized women during their birth hospitalization to either
+                &#x0201c;chatbot plus treatment as usual&#x0201d; or &#x0201c;treatment as
+                usual&#x0201d; (TAU) reported that many participants used the chatbot at least once
+                every 2 weeks and that most users reported medium or high satisfaction with the CA
+                AI system (<xref rid="B43" ref-type="bibr">43</xref>). The authors also reported
+                that most participants reported medium or high degrees of therapeutic alliance and
+                acceptability (<xref rid="B43" ref-type="bibr">43</xref>). Related to these
+                findings, an additional RCT publication evaluated the effectiveness of the automated
+                CA on changes in symptoms of anxiety and depression. The authors reported that at
+                the 6-week postpartum follow-up there were no statistically significant group
+                differences between the &#x0201c;chatbot use&#x0201d; or &#x0201c;TAU&#x0201d; (<xref
+                    rid="B44" ref-type="bibr">44</xref>). A later related publication reported that
+                the CA intervention group (&#x0201c;WB001+ TAU&#x0201d;) had a significant reduction
+                in depression scores as compared to a TAU-only control group 6-week postpartum after
+                birth hospitalization (<xref rid="B45" ref-type="bibr">45</xref>).</p>
+            <p>A pre-pilot development and usability study examining an AI system involving a cohort
+                of enrolled Kenyan pregnant women and new mothers reported that most women submitted
+                at least three mood ratings, sent at least one message to the AI system and that
+                approximately a third of women engaged beyond registration (<xref rid="B46"
+                    ref-type="bibr">46</xref>). Most AI users reported a positive attitude and
+                having trust in using the AI system and that life changes were attributed to using
+                it and reported an estimate that using the alpha version of the AI system may have
+                improved mood (<xref rid="B46" ref-type="bibr">46</xref>).</p>
+            <p>A different approach using a supervised machine learning CA for perinatal mental
+                healthcare was proposed by authors that could be an effective approach for
+                monitoring the mental health status of perinatal women in real time while collecting
+                user health data. The authors analyzed the 31 characteristics of 223 samples and
+                trained a supervised machine learning model to determine the anxiety, depression,
+                and hypomania index of perinatal women (<xref rid="B47" ref-type="bibr">47</xref>).</p>
+            <p>While this literature shows some degree of initial promise, much more research is
+                required to determine how CA AI systems can safely support maternal mental health
+                and hence the motivation to perform our study as a contribution toward furthering
+                the understanding AI's potential role in maternal mental health.</p>
+            <p>In our study, we examine the use of an AI-based emotionally intelligent mobile app
+                (&#x0201c;Wysa&#x0201d;) aimed at building mental resilience and promoting mental
+                well-being using a text-based CA. Previous studies evaluating Wysa have shown
+                significant reductions in depressive symptoms (<xref rid="B48" ref-type="bibr">48</xref>
+                &#x02013;<xref rid="B50" ref-type="bibr">50</xref>). The conversation-based tools
+                and techniques encourage users to manage their anxiety, energy, focus, sleep,
+                relaxation, loss, worries, conflicts, and other concerns. Wysa responds to emotions
+                that a user expresses and recommends evidence-based self-help tools and techniques
+                such as Cognitive Behavioural Therapy (CBT), Acceptance and Commitment Therapy
+                (ACT), Dialectical Behaviour Therapy (DBT), motivational interviewing, positive
+                behavior support, behavioral reinforcement, mindfulness, and guided micro actions
+                that encourage users to build emotional resilience skills.</p>
+            <p>Our study has two objectives: (1) To examine the effectiveness of Wysa by comparing
+                changes in self-reported depressive symptoms between higher vs. lower engaged groups
+                (<italic>n</italic>&#x02009;=&#x02009;51) involving users that self-reported a
+                maternal event, and (2) To perform a qualitative analysis to understand the themes
+                being raised for a subset of user messages provided by higher engaged users (<italic>
+                n</italic>&#x02009;=&#x02009;10). This study also discusses <italic>post hoc</italic>
+                observations, clinical implications, and other research implications derived from
+                our study.</p>
+        </sec>
+        <sec sec-type="methods" id="s2">
+            <title>Methods</title>
+            <sec id="s2a">
+                <title>Study design and participants</title>
+                <p>The study duration occurred between February and September, 2019 (pre-pandemic).
+                    The participants were initially selected from a pool of real-world users (<italic>
+                    N</italic>&#x02009;=&#x02009;380,500 users) who used the Wysa app during the
+                    study period and who submitted any of the maternal event keywords during their
+                    conversation with the CA (<italic>n</italic>&#x02009;=&#x02009;5,373).
+                    Individuals reported at least once about an ongoing maternal event in response
+                    to one of these messages: (1) &#x0201c;Tell me about any recent major changes or
+                    events in your life. It could be something stressful or even a good change like
+                    moving home or getting a new job.&#x0201d;, (2) &#x0201c;Take a few deep
+                    breaths. Tell me the first thought on your mind?&#x0201d;, (3)
+                    &#x0201c;I&#x02019;m here for you. What exactly happened?&#x0201d; (4)
+                    &#x0201c;Okay let's talk about that. Go on&#x0201d;, (5) &#x0201c;I understand.
+                    Is there more?&#x0201d;. Multiple example screenshots of the Wysa app that match
+                    the time period of this study can be found in <xref rid="s10" ref-type="sec">Supplementary
+                    Material S1</xref>.</p>
+                <p>A subgroup of <italic>N</italic>&#x02009;=&#x02009;2,037 users (2,037 out of
+                    5,373 active users mentioned above) were then grouped into four maternal event
+                    categories: Pre-pregnancy, Pregnancy, Perinatal, and Postpartum, which are
+                    defined in <xref rid="T1" ref-type="table">Table&#x000a0;1</xref>. This
+                    categorization was used by the researcher for the thematic qualitative analysis
+                    (testing Objective 2) to assist in making observations that were categorised
+                    into the different maternal event stages (pre-pregnancy and pre-conception,
+                    pregnancy, perinatal, postpartum). Furthermore, eligibility (inclusion and
+                    exclusion) criteria was applied to determine user enrolment into the study,
+                    which is listed in <xref rid="T2" ref-type="table">Table&#x000a0;2</xref> and <xref
+                        rid="s10" ref-type="sec">Supplementary Multimedia Appendix A</xref>, the
+                    latter of which shows the sampling method used for this study.</p>
+                <table-wrap position="float" id="T1">
+                    <label>Table 1</label>
+                    <caption>
+                        <p>Users were grouped into the following categories based on their
+                            self-reported maternal events.</p>
+                    </caption>
+                    <table frame="hsides" rules="groups">
+                        <colgroup span="1">
+                            <col align="left" span="1" />
+                            <col align="left" span="1" />
+                        </colgroup>
+                        <thead>
+                            <tr>
+                                <th valign="top" align="left" rowspan="1" colspan="1">Maternal event
+                                    categories</th>
+                                <th valign="top" align="center" rowspan="1" colspan="1">Description</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td valign="top" align="left" rowspan="1" colspan="1">Pre-Pregnancy
+                                    or Pre-Conception</td>
+                                <td valign="top" align="left" rowspan="1" colspan="1">Period prior
+                                    to conceiving or pregnancy</td>
+                            </tr>
+                            <tr>
+                                <td valign="top" align="left" rowspan="1" colspan="1">Pregnancy</td>
+                                <td valign="top" align="left" rowspan="1" colspan="1">Period up-to
+                                    22 weeks of pregnancy</td>
+                            </tr>
+                            <tr>
+                                <td valign="top" align="left" rowspan="1" colspan="1">Perinatal</td>
+                                <td valign="top" align="left" rowspan="1" colspan="1">Period from 22
+                                    weeks of pregnancy until first month of childbirth</td>
+                            </tr>
+                            <tr>
+                                <td valign="top" align="left" rowspan="1" colspan="1">Postpartum</td>
+                                <td valign="top" align="left" rowspan="1" colspan="1">Period
+                                    &#x0003e;1 month to &#x02264;1 year post childbirth</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </table-wrap>
+                <table-wrap position="float" id="T2">
+                    <label>Table 2</label>
+                    <caption>
+                        <p>The following inclusion and exclusion criteria were defined to determine
+                            participant eligibility.</p>
+                    </caption>
+                    <table frame="hsides" rules="groups">
+                        <colgroup span="1">
+                            <col align="left" span="1" />
+                            <col align="left" span="1" />
+                        </colgroup>
+                        <thead>
+                            <tr>
+                                <th valign="top" align="left" rowspan="1" colspan="1">Inclusion
+                                    criteria</th>
+                                <th valign="top" align="center" rowspan="1" colspan="1">Exclusion
+                                    criteria</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td valign="top" align="left" rowspan="1" colspan="1">\n<list
+                                        list-type="simple">
+                                        <list-item>
+                                            <label>&#x02022;</label>
+                                            <p>Self-reported maternal event</p>
+                                        </list-item>
+                                        <list-item>
+                                            <label>&#x02022;</label>
+                                            <p>Female users</p>
+                                        </list-item>
+                                        <list-item>
+                                            <label>&#x02022;</label>
+                                            <p>Android and iOS smartphone users</p>
+                                        </list-item>
+                                        <list-item>
+                                            <label>&#x02022;</label>
+                                            <p>Wysa app usage during study period (start-and-end
+                                    dates inclusive)</p>
+                                        </list-item>
+                                    </list></td>
+                                <td valign="top" align="left" rowspan="1" colspan="1">\n<list
+                                        list-type="simple">
+                                        <list-item>
+                                            <label>&#x02022;</label>
+                                            <p>Users who were tagged as male</p>
+                                        </list-item>
+                                        <list-item>
+                                            <label>&#x02022;</label>
+                                            <p>Users who were tagged as gender ambiguous</p>
+                                        </list-item>
+                                        <list-item>
+                                            <label>&#x02022;</label>
+                                            <p>Users who talked about maternal-event of a third
+                                    party</p>
+                                        </list-item>
+                                        <list-item>
+                                            <label>&#x02022;</label>
+                                            <p>Users whose records indicated more than one year
+                                    after child birth</p>
+                                        </list-item>
+                                    </list></td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </table-wrap>
+                <p>A final sample of <italic>n</italic>&#x02009;=&#x02009;10 users were included in
+                    the qualitative analysis. The selection method used a non-probability-based
+                    sampling to select 10 users who had an engagement density of greater than 75%.
+                    Furthermore, after additional eligibility screening was applied based on the
+                    criteria of completing the mental health self-reported depressive symptoms
+                    assessment questionnaire at two time points (defined below in the Data Analysis
+                    Section &#x0201c;Effectiveness Analysis&#x0201d; section) a final sample size of <italic>
+                    n</italic>&#x02009;=&#x02009;51 users were included in the Effectiveness
+                    Analysis (testing Objective 1 using a statistical analysis approach).</p>
+            </sec>
+            <sec id="s2b">
+                <title>Instruments (measures)</title>
+                <p>The Patient Health Questionnaire 9 (PHQ-9) was used to measure self-reported
+                    depressive symptoms at baseline and follow-up. This validated self-report
+                    questionnaire (<xref rid="B51" ref-type="bibr">51</xref>) consists of nine
+                    DSM-IV criteria (i.e., questions) and the participant answers (i.e., scores)
+                    each of those on a scale from 0 to 3 (&#x0201c;0&#x0201d;&#x02009;=&#x02009;not
+                    at all, &#x0201c;1&#x0201d;&#x02009;=&#x02009;several days,
+                    &#x0201c;2&#x0201d;&#x02009;=&#x02009;more than half the days,
+                    &#x0201c;3&#x0201d;&#x02009;=&#x02009;nearly every day), whereby the severity of
+                    depression is measured on the final score aggregated across the questions and
+                    range from 0 to 27 points. It is interpreted using these cut-off points: Scoring
+                    between 0 and 4 points indicates minimal depression, 5 and 9 points indicates
+                    mild depression, 10 and 14 points indicates moderate depression, 15 and 19
+                    points indicates moderately severe depression, and 20 or more points indicates
+                    severe depression. The PHQ-9 assessments were voluntary, and users were notified
+                    once every two weeks.</p>
+            </sec>
+            <sec id="s2c">
+                <title>Data collection</title>
+                <p>The app repository was queried for a predefined set of maternal event keywords (<xref
+                        rid="T3" ref-type="table">Table&#x000a0;3</xref>).</p>
+                <table-wrap position="float" id="T3">
+                    <label>Table 3</label>
+                    <caption>
+                        <p>The following inclusion and exclusion criteria for maternal event
+                            keywords were used to query the app repository for relevant user records
+                            event keywords.</p>
+                    </caption>
+                    <table frame="hsides" rules="groups">
+                        <colgroup span="1">
+                            <col align="left" span="1" />
+                            <col align="left" span="1" />
+                        </colgroup>
+                        <thead>
+                            <tr>
+                                <th valign="top" align="left" rowspan="1" colspan="1">Keywords
+                                    included</th>
+                                <th valign="top" align="center" rowspan="1" colspan="1">Keywords
+                                    excluded</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td valign="top" align="left" rowspan="1" colspan="1">*partum* OR
+                                    ppd OR preg* OR natal OR *birth OR miscar* OR delivery OR
+                                    matern* OR patern* OR birthing OR parturition OR ivf OR *fertil*
+                                    OR doula OR epidur* OR &#x0201c;water break&#x0201d; OR
+                                    &#x0201c;water broke&#x0201d; OR abort* OR &#x0201c;mid
+                                    wife&#x0201d; OR midwife</td>
+                                <td valign="top" align="left" rowspan="1" colspan="1">*baby* OR
+                                    child* OR labor OR labor OR mum OR mom OR mother* OR *born</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </table-wrap>
+                <p>Certain keywords were excluded that were considered to induce many false
+                    positives within the data (e.g., &#x0201c;born&#x0201d; outside of a
+                    maternal-related context, such as &#x0201c;I wish I was never born&#x0201d;).
+                    Messages (&#x0201c;user records&#x0201d;) with included keywords were extracted
+                    along with the user's app engagement information. The user records were cleared
+                    for any inadvertently submitted Personal Identifiable Information (PII) using
+                    Wysa's proprietary PII detection and redaction algorithm. The de-identified user
+                    records were tagged manually for the maternal event categories. The user records
+                    were also tagged for gender: &#x0201c;Female&#x0201d;, or &#x0201c;Male&#x0201d;
+                    or &#x0201c;No Tag Available&#x0201d; when gender-related information was not
+                    available.</p>
+            </sec>
+            <sec id="s2d">
+                <title>Data analysis</title>
+                <p>A mixed-methods quantitative and qualitative approach was used to evaluate our
+                    two study objectives on efficacy and engagement, respectively.</p>
+            </sec>
+            <sec id="s2e">
+                <title>Effectiveness analysis (objective 1)</title>
+                <p>The Patient Health Questionnaire (PHQ-9) was used to measure self-reported
+                    depressive symptoms at two time points. The sample size was comprised of 51
+                    users who completed the PHQ-9 at least two weeks apart but not more than 5 weeks
+                    apart, and scored more than 3 in the PHQ-2 (the first 2 questions of the PHQ-9)
+                    (<xref rid="B51" ref-type="bibr">51</xref>). The self-reported PHQ-2 cut-off was
+                    set at &#x0003e;3 (minimum of 4, maximum of 6). The Self-Reported PHQ-9 was set
+                    at greater or equal to 5 (minimum of 5, maximum of 27, overall PHQ-9 score of
+                    27; see Instruments measures section for more context).</p>
+                <p>Two comparison groups were identified: (1) a higher engaged user group (<italic>n<sub>
+                    h</sub></italic><sub>&#x02009;</sub>=&#x02009;28) and (2) a lower engaged user
+                    group (<italic>n<sub>l</sub></italic><sub>&#x02009;</sub>=&#x02009;23), based on
+                    the number of &#x0201c;session-days&#x0201d; (the days the users engaged with
+                    the CA between the two PHQ-9 screening days).</p>
+                <p>&#x0201c;Engagement density&#x0201d; is a normalized measure calculated for each
+                    user defined as the number of active session-days with the CA in-between the two
+                    PHQ-9 assessments divided by the available days between the two screenings.
+                    Users whose engagement density was &#x02265;0.4 were grouped as &#x0201c;higher
+                    engaged group&#x0201d; and those with engagement density &#x0003c;0.4 were
+                    grouped as &#x0201c;lower engaged group&#x0201d;. A 40% engagement density
+                    translated to 14 active days of AI-enabled CA sessions over a 35-day period.</p>
+                <p>The average change in depressive symptoms (first PHQ-9 assessment score minus the
+                    second PHQ-9 assessment score) was compared between the higher vs. lower
+                    engagement groups. A two-tailed, 5% significance Mann&#x02013;Whitney test was
+                    used to test the statistical significance of the difference in average change of
+                    symptoms between the two groups. The effect size was measured using the
+                    nonparametric common language effect size (CL) (<xref rid="B52" ref-type="bibr">
+                    52</xref>, <xref rid="B53" ref-type="bibr">53</xref>).</p>
+                <p>We further examined the data related to objective 1 to assess the clinically
+                    meaningful impact from the quantitative results using the categories defined by
+                    the PHQ-9 to discuss the clinical implications.</p>
+                <p>Furthermore, a <italic>post hoc</italic> analysis was performed to explore
+                    changes in the severity thresholds between the two comparison groups across
+                    increasing PHQ-9 severity (at &#x02265;10, 15 and 20 intervals). Depressive
+                    symptom reductions were measured for statistical significance (M&#x02013;W test)
+                    and effect size (CL) but not considered as actually significant due to the
+                    exploratory, <italic>post hoc</italic> nature and lack of correction for
+                    multiple testing.</p>
+            </sec>
+            <sec id="s2f">
+                <title>Engagement analysis (objective 2)</title>
+                <p>A qualitative analysis examined behaviors exhibited by a subset of higher engaged
+                    users with maternal events based on their conversations with Wysa. A Braun and
+                    Clarke thematic analysis (<xref rid="B54" ref-type="bibr">54</xref>, <xref
+                        rid="B55" ref-type="bibr">55</xref>) was performed on free-text responses
+                    from users (<italic>n</italic>&#x02009;=&#x02009;10) who had an engagement
+                    density of greater than 75% based on their conversations (i.e., an anonymized
+                    sample of 216 free-text conversational snippets) with the AI CA. The main themes
+                    and subthemes, derived from the coding and analysis, helped understand users'
+                    expectations, experience and engagement. Prevalence of a theme was measured
+                    based on number of instances and number of responding users.</p>
+            </sec>
+            <sec id="s2g">
+                <title>Ethics</title>
+                <p>Wysa is publicly available as a mobile application (android and iOS). The
+                    Conversational Agent (CA) is freely available and has been designed to
+                    prioritize safety, privacy and security-by-design. No user registration is
+                    required and no Personal Identifiable Information (PII) is asked for during app
+                    use. This provides users a private, anonymous space encouraging them to manage
+                    their mental well-being in a self-help context (56). All content and tools
+                    within the app are reviewed and validated by the Wysa clinical and safety teams.
+                    As the study involved analyzing real-world data from an anonymous nonclinical
+                    population, it was exempt from registration in a public trial registry
+                    (according to OHRP guidelines). Users voluntarily downloaded the app after
+                    having consented to the app Terms of Service and Privacy Policy (<xref rid="B57"
+                        ref-type="bibr">57</xref>, <xref rid="B58" ref-type="bibr">58</xref>). For
+                    ethical and privacy reasons, the authors did not have access to all the user
+                    messages. Only minimal and limited conversation data at specific chat endpoints
+                    were used. The dataset was anonymised by redacting any inadvertent identifiers.
+                    User data was adequately secured according to the organization's privacy,
+                    security and safety policies. The organization's compliance and privacy officer
+                    is author VS who audited the study dataset for safety, privacy and security
+                    compliance prior to research use.</p>
+            </sec>
+        </sec>
+        <sec sec-type="results" id="s3">
+            <title>Results</title>
+            <sec id="s3a">
+                <title>Effectiveness analysis (objective 1)</title>
+                <p>The effectiveness statistical analysis was performed to test for group level
+                    differences in depressive symptom scoring between high vs. low engagement group
+                    of users. The statistical analysis revealed that the high engaged user group
+                    showed a significant depressive symptom reduction compared with the lower
+                    engaged user group (<italic>p</italic>&#x02009;=&#x02009;.004) [<xref rid="F1"
+                        ref-type="fig">Figure&#x000a0;1</xref>, also refer to <xref rid="T4"
+                        ref-type="table">Table&#x000a0;4</xref> for more information including a
+                    breakdown of PHQ-9 score averages and standard deviations (SD) for each group
+                    pre and post timepoints]. The effect size was high (large) (0.736) (also see <xref
+                        rid="T4" ref-type="table">Table&#x000a0;4</xref>), which is roughly
+                    equivalent to a high Cohen d (0.89) (<xref rid="B52" ref-type="bibr">52</xref>, <xref
+                        rid="B53" ref-type="bibr">53</xref>). There was no statistical difference in
+                    average PHQ-9 baseline scores between the higher and lower engaged groups. The
+                    high engagement group at baseline had a PHQ-9 minimum of 6 and a maximum of 24
+                    and at follow-up had a PHQ-9 minimum of 6 and a maximum of 27. The low
+                    engagement group at baseline had a PHQ-9 minimum of 9 and a maximum of 24 and at
+                    follow-up had a PHQ-9 minimum of 9 and a maximum of 27.</p>
+                <fig position="float" id="F1">
+                    <label>Figure 1</label>
+                    <caption>
+                        <p>Bar plot illustrating a significant reduction in symptoms of
+                            self-reported depressive symptoms amongst the higher engaged user group
+                            compared to the lower engaged user group.</p>
+                    </caption>
+                    <graphic xlink:href="fgwh-04-1084302-g001" position="float" />
+                </fig>
+                <table-wrap position="float" id="T4">
+                    <label>Table 4</label>
+                    <caption>
+                        <p>The high engaged user group showed a significant reduction in depressive
+                            symptoms compared with the lower engaged users group (<italic>p</italic>
+                            &#x02009;=&#x02009;0.004).</p>
+                    </caption>
+                    <table frame="hsides" rules="groups">
+                        <colgroup span="1">
+                            <col align="left" span="1" />
+                            <col align="center" span="1" />
+                            <col align="center" span="1" />
+                            <col align="center" span="1" />
+                            <col align="center" span="1" />
+                            <col align="center" span="1" />
+                            <col align="center" span="1" />
+                        </colgroup>
+                        <thead>
+                            <tr>
+                                <th valign="top" align="left" rowspan="1" colspan="1">Users with
+                                    self-reported PHQ-2<xref rid="table-fn1" ref-type="table-fn">
+                                        <sup>a</sup>
+                                    </xref>&#x02009;&#x0003e;&#x02009;3
+                                    &#x00026; PHQ-9&#x02009;&#x0003e;&#x02009;5</th>
+                                <th valign="top" align="center" rowspan="1" colspan="1">Number of
+                                    users (<italic>N</italic>)</th>
+                                <th valign="top" align="center" rowspan="1" colspan="1">First PHQ 9
+                                    score (SD)</th>
+                                <th valign="top" align="center" rowspan="1" colspan="1">Second PHQ 9
+                                    score (SD)</th>
+                                <th valign="top" align="center" rowspan="1" colspan="1">Mean
+                                    difference</th>
+                                <th valign="top" align="center" rowspan="1" colspan="1">
+                                    Mann&#x02013;Whitney <italic>U</italic> (<italic>p</italic>
+                                    value<xref rid="table-fn3" ref-type="table-fn">
+                                        <sup>c</sup>
+                                    </xref>)</th>
+                                <th valign="top" align="center" rowspan="1" colspan="1">Effect size
+                                    (CL)<xref rid="table-fn2" ref-type="table-fn">
+                                        <sup>b</sup>
+                                    </xref></th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td valign="top" align="left" rowspan="1" colspan="1">Higher engaged
+                                    users (<italic>n<sub>h</sub></italic>)</td>
+                                <td valign="top" align="center" rowspan="1" colspan="1">28</td>
+                                <td valign="top" align="center" rowspan="1" colspan="1">15.8 (6.0)</td>
+                                <td valign="top" align="center" rowspan="1" colspan="1">13.8 (5.4)</td>
+                                <td valign="top" align="center" rowspan="1" colspan="1">2.00</td>
+                                <td valign="top" align="center" rowspan="1" colspan="1">170 (0.004)</td>
+                                <td valign="top" align="center" rowspan="1" colspan="1">0.736</td>
+                            </tr>
+                            <tr>
+                                <td valign="top" align="left" rowspan="1" colspan="1">Lower engaged
+                                    users (<italic>n<sub>l</sub></italic>)</td>
+                                <td valign="top" align="center" rowspan="1" colspan="1">23</td>
+                                <td valign="top" align="center" rowspan="1" colspan="1">16.2 (4.2)</td>
+                                <td valign="top" align="center" rowspan="1" colspan="1">17.7 (4.6)</td>
+                                <td valign="top" align="center" rowspan="1" colspan="1">
+                                    &#x02212;1.50</td>
+                                <td valign="top" align="center" rowspan="1" colspan="1">&#x02013;</td>
+                                <td valign="top" align="center" rowspan="1" colspan="1">&#x02013;</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                    <table-wrap-foot>
+                        <fn id="table-fn1">
+                            <label>\n<sup>a</sup>\n</label>
+                            <p>PHQ-2, Patient Health Questionnaire-2.</p>
+                        </fn>
+                        <fn id="table-fn2">
+                            <label>\n<sup>b</sup>\n</label>
+                            <p>CL, common language effect size.</p>
+                        </fn>
+                        <fn id="table-fn3">
+                            <label>\n<sup>c</sup>\n</label>
+                            <p>95% significance.</p>
+                        </fn>
+                    </table-wrap-foot>
+                </table-wrap>
+                <p>The decrease in PHQ-9 score for the higher engagement group was indicative of a
+                    shift in clinical improvement from &#x0201c;moderately severe&#x0201d;
+                    depression at baseline into the &#x0201c;moderate depression&#x0201d; category
+                    at follow-up (refer to Methods Section about PHQ-9 scoring assessment
+                    procedures). There was no clinical shift between scoring categories for the
+                    lower engagement group and at both time points the lower engagement group
+                    average PHQ-9 scores remained within the &#x0201c;moderately severe
+                    depression&#x0201d; range.</p>
+            </sec>
+            <sec id="s3b">
+                <title><italic>Post hoc</italic> quantitative analysis</title>
+                <p>As a <italic>post hoc</italic> analysis, we explored depressive symptom
+                    reductions between the groups across increasing PHQ-9 severity. Significant
+                    reductions were found among higher engaged users compared to lower engaged users
+                    as the severity increased in that the effect was stronger for higher PHQ-9
+                    scoring category thresholds indicating the effect was stronger for more severe
+                    depression. Depressive symptom reductions were seen with large effect sizes
+                    (0.735&#x02013;0.883) at PHQ-9 &#x02265; 10, 15 and 20 intervals as can be seen
+                    in <xref rid="F2" ref-type="fig">Figure&#x000a0;2</xref>.</p>
+                <fig position="float" id="F2">
+                    <label>Figure 2</label>
+                    <caption>
+                        <p><italic>Post hoc</italic> analysis showing significant reductions in
+                            depressive symptoms among higher engaged users compared to lower engaged
+                            users across multiple PHQ-9 severity cut-off thresholds.</p>
+                    </caption>
+                    <graphic xlink:href="fgwh-04-1084302-g002" position="float" />
+                </fig>
+            </sec>
+            <sec id="s3c">
+                <title>Engagement analysis (objective 2)</title>
+                <p>We report results derived from qualitative insights into the behaviors exhibited
+                    among higher engaged maternal event users (<italic>n</italic>&#x02009;=&#x02009;10;
+                    engagement density &#x0003c;75%) based on their conversations (an anonymized
+                    sample of 216 free-text conversational snippets) with the AI CA. Five main
+                    behavioral themes emerged: (1) Concern, (2) Support, (3) Reframe, (4) Hope, and
+                    (5) Victory. More detailed information about these themes is reported in <xref
+                        rid="T5" ref-type="table">Table&#x000a0;5</xref>. For the thematic maps of
+                    themes and sub-themes, and user messages, please refer to <xref rid="s10"
+                        ref-type="sec">Supplementary Multimedia Appendix B</xref>. In brief, some
+                    users used the app to explore and express their feelings or concerns, or were
+                    more critical of themselves or others, or actively and repeatedly used sleep,
+                    relaxation and anxiety related tools or techniques to manage their emotional
+                    states, or users completed CBT and reframed their negative thoughts as they
+                    shared their small victories and gratitudes during their self-created
+                    personalized self-help journey. Notably, none of the users sought help from the
+                    CA about their maternal health related matters. This was not an identified theme
+                    or sub-theme.</p>
+                <table-wrap position="float" id="T5">
+                    <label>Table 5</label>
+                    <caption>
+                        <p>Five main behavioral themes emerged from the qualitative analyses of
+                            free-text responses from higher engagement AI users.</p>
+                    </caption>
+                    <table frame="hsides" rules="groups">
+                        <colgroup span="1">
+                            <col align="left" span="1" />
+                            <col align="left" span="1" />
+                        </colgroup>
+                        <thead>
+                            <tr>
+                                <th valign="top" align="left" rowspan="1" colspan="1">Themes</th>
+                                <th valign="top" align="center" rowspan="1" colspan="1">Subthemes</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td valign="top" align="left" rowspan="1" colspan="1">
+                                    &#x0201c;Concern&#x0201d;</td>
+                                <td valign="top" align="left" rowspan="1" colspan="1">This theme
+                                    brings out the user&#x02019;s emotional state as they share
+                                    their issues, worries, negative thoughts and emotions. Users
+                                    mentioned multiple life stressors, for example, expressing fear
+                                    about an underlying health condition or fear of getting pregnant
+                                    or generally fearful of things going around them. Users were
+                                    often found to be self-critical and expressed an underlying
+                                    anguish or frustration over their relationship, work-life
+                                    challenges or their emotional situation.</td>
+                            </tr>
+                            <tr>
+                                <td valign="top" align="left" rowspan="1" colspan="1">
+                                    &#x0201c;Support&#x0201d;</td>
+                                <td valign="top" align="left" rowspan="1" colspan="1">This theme
+                                    captures instances where users came looking for well-being
+                                    support. It also included those who expressed their frustration
+                                    for the lack of support available outside and how they
+                                    appreciated the CA for the support provided. User messages
+                                    highlighted a continuous search to find support mechanisms, to
+                                    seek love and understanding, to seek help for managing emotions
+                                    and leading their day-to-day life.</td>
+                            </tr>
+                            <tr>
+                                <td valign="top" align="left" rowspan="1" colspan="1">
+                                    &#x0201c;Reframe&#x0201d;</td>
+                                <td valign="top" align="left" rowspan="1" colspan="1">The most used
+                                    CBT technique was reframing thoughts. Reframing helps the user
+                                    to use CBT techniques to consider their thoughts from a
+                                    different perspective and then to replay it to reinforce it.
+                                    Users also identified and expressed possible solutions that they
+                                    could work on to manage their issues. Some users used the CA to
+                                    frame messages that they wanted to convey and to confront their
+                                    relationship challenges.</td>
+                            </tr>
+                            <tr>
+                                <td valign="top" align="left" rowspan="1" colspan="1">
+                                    &#x0201c;Hope&#x0201d;</td>
+                                <td valign="top" align="left" rowspan="1" colspan="1">Users found
+                                    comfort in sharing their hopes and intentions about their
+                                    well-being. They expressed hope to achieve some of their
+                                    objectives. In the process they expressed goals for themselves
+                                    and also that involved others.</td>
+                            </tr>
+                            <tr>
+                                <td valign="top" align="left" rowspan="1" colspan="1">
+                                    &#x0201c;Victory&#x0201d;</td>
+                                <td valign="top" align="left" rowspan="1" colspan="1">Users
+                                    motivated themselves to take control and action. They also
+                                    shared their sense of achievement and positive activities. Users
+                                    expressed their gratitude about key events, for tasks
+                                    undertaken, about those close to them, about their well-being
+                                    and including objects/tools.</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </table-wrap>
+            </sec>
+            <sec id="s3d">
+                <title>Additional qualitative observations</title>
+                <p>These users also provided feedback on sessions within the app with overall
+                    sessions seeing 97% of users with high or mid-satisfaction. The user's
+                    geographical zone location was derived from the zone related to their
+                    smartphone. Participants were mainly located in North America, with a small
+                    minority located in Europe. Relationship status was inferred from conversation
+                    snippets, which showed that most of the participants (50%) were single and only
+                    10% were married.</p>
+                <p>Stressors experienced by the users were also identified with key concerns being
+                    about relationships (100% of users, included marriage, parents, trauma,
+                    break-ups), financial distress (60% of users, included worries about savings and
+                    money), work (20% of users, work-life balance, coworker discomfort), life (30%
+                    of users, including feelings of loneliness, worthlessness, disinterest), and
+                    physical health (10% of users, included chronic illness).</p>
+            </sec>
+        </sec>
+        <sec sec-type="discussion" id="s4">
+            <title>Discussion</title>
+            <p>Technology's role in supporting mental health and wellbeing is increasingly
+                evidenced. Our study adds to this literature showing how an AI-enabled CA can offer
+                emotional support for maternal mental health and wellbeing. Given evidence that
+                maternal depressive symptoms have increased during the COVID-19 pandemic (<xref
+                    rid="B59" ref-type="bibr">59</xref>, <xref rid="B60" ref-type="bibr">60</xref>)
+                our pre-covid study is important and requires follow-up to validate our preliminary
+                findings.</p>
+            <sec id="s4a">
+                <title>Principal findings</title>
+                <p>This study evaluated the effectiveness of an AI-enabled CA-based mental health
+                    and wellbeing app on reducing depressive symptoms for users who reported
+                    maternal events. We found a significant reduction in self-reported depressive
+                    symptoms among the higher engaged user group compared to the lower engaged user
+                    group with a high effect size. This reduction in PHQ-9 score for the higher
+                    engaged group was indicative of a shift in clinical improvement from
+                    &#x0201c;moderately severe depression&#x0201d; to &#x0201c;moderate
+                    depression&#x0201d; at follow-up. A <italic>post hoc</italic> analysis showed
+                    that reductions in depressive symptoms were observed across all PHQ-9 severity
+                    score thresholds for the higher engaged group, with an observed increasing
+                    effect size as severity of symptoms increased.</p>
+                <p>This study also performed a qualitative analysis to examine user engagement,
+                    which revealed five thematic behaviors: Concern, Support, Reframe, Hope and
+                    Victory. Some users used the app to explore and express their feelings or
+                    concerns. Some were more critical of themselves or others. Some users actively
+                    and repeatedly used sleep, relaxation and anxiety related tools or techniques to
+                    manage their emotional states. Some users completed CBT and reframed their
+                    negative thoughts as they shared their small victories and gratitudes during
+                    their self-created personalized self-help journey.</p>
+                <p>None of the users asked for support for their maternal event or maternal health
+                    matters. Instead, users messaged and engaged with the CA about their emotions
+                    and the stressors they were experiencing. This could suggest that users were
+                    aware of the intended purpose of the well-being app. The overall in-app feedback
+                    indicated comfort of using a digital mental health and wellbeing CA for support.</p>
+            </sec>
+            <sec id="s4b">
+                <title>Comparison with existing literature</title>
+                <p>We compared our findings with the existing literature focusing on publications
+                    that assessed the effectiveness of using CA AI systems for reducing maternal
+                    mental health depressive symptoms. Two publications of this type were identified
+                    (as this is a nascent research area).</p>
+                <p>An RCT study (<xref rid="B44" ref-type="bibr">44</xref>) was identified that
+                    evaluated the effect of an automated CA on postpartum mental health using three
+                    questionnaires, including the PHQ-9. The authors reported no significant
+                    difference between the &#x0201c;CA intervention group&#x0201d; and the
+                    &#x0201c;treatment as usual (TAU) control group&#x0201d; between baseline (after
+                    giving birth) and 6 weeks postpartum. That study differed from our study in
+                    multiple ways. Our study used a real-world anonymous remote setting approach to
+                    enrol users and we included a wide range of maternal events (pre-pregnancy and
+                    pre-conception, pregnancy, perinatal, postpartum) whereas the RCT study (<xref
+                        rid="B44" ref-type="bibr">44</xref>) took place in hospital settings with
+                    stringent recruitment eligibility criteria. The studies also differ by control
+                    group criteria, study durations, sample size, and differing PHQ-9 cut-off
+                    thresholds. The RCT reported low baseline PHQ-9 mean scores (intervention and
+                    control group average PHQ-9 scores of 4.6 and 3.3, respectively) and similarly
+                    low at 6-week follow-up (intervention and control groups, 3.1 and 3.1,
+                    respectively) whereas our study showed much higher group mean PHQ-9 scores (<xref
+                        rid="T4" ref-type="table">Table&#x000a0;4</xref>). It could be possible that
+                    differences in study designs, PHQ-9 score severity, and durations of
+                    questionnaire assessments are, in part, explaining differences in statistical
+                    findings.</p>
+                <p>Another RCT (<xref rid="B45" ref-type="bibr">45</xref>) [which might be closely
+                    related to the other RCT (<xref rid="B44" ref-type="bibr">44</xref>)] evaluated
+                    an automated CA on postpartum mental health using two mental health
+                    questionnaires, including the PHQ-9, and reported that the CA intervention group
+                    (&#x0201c;WB001+ TAU participants&#x0201d;) had a statistically significant
+                    reduction in depressive symptom scores compared to the TAU-only control group
+                    between baseline after giving birth and 6 weeks postpartum (<xref rid="B45"
+                        ref-type="bibr">45</xref>). The RCT reported similarly low PHQ-9 mean scores
+                    at baseline and 6-week follow-up (scores below 5). It is not possible to compare
+                    our study findings with this publication (<xref rid="B45" ref-type="bibr">45</xref>),
+                    however, as the methodology used is not described.</p>
+                <p>To our knowledge these two maternal mental health publications are the only
+                    literature currently available for direct comparison of statistical findings on
+                    CA AI system effectiveness using the PHQ-9 to assess changes in depressive
+                    symptoms. We were unable to compare efficacy with a third study (<xref rid="B46"
+                        ref-type="bibr">46</xref>) as that pre-pilot study did not include two
+                    timepoints for the PHQ-9 for various reasons. For example, the depression
+                    screening was too long to administer on a repeating basis, the researchers
+                    wanted to avoid frustrating users and distracting them from potential engagement
+                    with the intervention (<xref rid="B46" ref-type="bibr">46</xref>).</p>
+            </sec>
+            <sec id="s4c">
+                <title>Clinical implications</title>
+                <p>For the higher engagement group, the statistically significant decrease in PHQ-9
+                    score was indicative of a clinical shift from &#x0201c;moderately severe
+                    depression&#x0201d; at baseline into the &#x0201c;moderate depression&#x0201d;
+                    category at follow-up. In contrast, for the lower engagement group there was no
+                    clinical shift between depressive symptom categories (it remained as
+                    &#x0201c;moderately severe depression&#x0201d;). If the higher engagement group
+                    used Wysa for a longer duration than two weeks it could be hypothesized that
+                    this would further reduce symptomology bringing users &#x0201c;below
+                    caseness&#x0201d;, which is defined by NHS IAPT services as being in either
+                    &#x0201c;minimal&#x0201d; (PHQ9 score of 0&#x02013;4) or &#x0201c;mild&#x0201d;
+                    (PHQ9 score of 5&#x02013;9) categories (<xref rid="B61" ref-type="bibr">61</xref>
+                    ).</p>
+                <p>Our <italic>post hoc</italic> observations showing a reduction in depressive
+                    symptoms across all PHQ-9 severity score thresholds for the higher engaged group
+                    supports a prior meta-analysis, which showed that patients with more severe
+                    depression at baseline had at least as much clinical benefit from low intensity
+                    interventions as less severely depressed patients, inferring that low intensity
+                    interventions could be offered to more severe symptom groups (<xref rid="B62"
+                        ref-type="bibr">62</xref>).</p>
+                <p>In clinical settings, AI-enabled CA agents could potentially enhance health
+                    information systems to capture the right measurements at the right time and
+                    offer the right support in a timely manner, which could help to alleviate the
+                    burden of data collection by health-care workers in healthcare settings (<xref
+                        rid="B63" ref-type="bibr">63</xref>). This technology could also potentially
+                    support early detection given that many postnatal depression cases are
+                    undiagnosed (<xref rid="B30" ref-type="bibr">30</xref>). This is important in
+                    low-and middle-income countries (given the lack of trained professionals);
+                    however, even in countries where trained professionals are more readily
+                    available communication gaps in identifying concerns remain an issue (<xref
+                        rid="B64" ref-type="bibr">64</xref>), which is where an AI-enabled CA agent
+                    facilitate better communication.</p>
+                <p>There is much potential for using CA-based support for maternal mental health and
+                    wellbeing, but this will require more in-depth research and must ensure that
+                    safety and privacy protects users, especially given ongoing global events
+                    related to reproductive justice (<xref rid="B65" ref-type="bibr">65</xref>) and
+                    the role of technology companies (<xref rid="B66" ref-type="bibr">66</xref>).
+                    The mental health and wellbeing CA examined in our study prioritizes privacy and
+                    security by design and default. Two recent Mozilla Foundation reports found that
+                    reproductive health apps (<xref rid="B67" ref-type="bibr">67</xref>) and most
+                    digital mental health and wellbeing apps (<xref rid="B68" ref-type="bibr">68</xref>)
+                    investigated were problematic in terms of data protection and privacy with their
+                    report showing that Wysa was only 1 of 2 digital mental health and wellbeing
+                    apps to pass their privacy investigation (<xref rid="B68" ref-type="bibr">68</xref>
+                    ).</p>
+                <p>In terms of generalizability, users came from 150 global time zones and both
+                    android and iOS versions of the app were used. Furthermore, this study included
+                    individuals who self-reported experiencing a wide range of maternal events that
+                    had an impact on their mental health and wellbeing. This helps to highlight the
+                    importance of offering AI-enabled CA support to wider demographics who need
+                    emotional support for different reasons with different needs and preferences (<xref
+                        rid="B48" ref-type="bibr">48</xref>&#x02013;<xref rid="B50" ref-type="bibr">
+                    50</xref>).</p>
+                <p>This study has several limitations. As RCTs are typically regarded as the
+                    &#x0201c;gold standard&#x0201d; for evaluating the efficacy of interventions, a
+                    lack of controlled settings could lead to non-handling of biases. Our study has
+                    no way of knowing whether demographics were balanced across groups (e.g.,
+                    diagnoses, other psychological support they might have sought, etc. could impact
+                    the analysis). While the PHQ-9 scores are indicative of depressive
+                    symptomatology, scores do not confirm or refute the presence of depression. Our
+                    study only collected PHQ-9 scores from two time points close together and was
+                    not able to follow-up on later outcomes. It did not use other assessments such
+                    as EPDS, which could be more appropriate to check concordance and discordance (<xref
+                        rid="B69" ref-type="bibr">69</xref>). This study used small, unbalanced
+                    comparison groups with no use of a treatment-as-usual control group. Users had
+                    voluntarily used the app and were likely to have high readiness to explore
+                    self-care tools. There may be human bias in labeling data for analysis, such as
+                    gender ambiguity, given the app doesn't capture gender for privacy reasons.</p>
+                <p>Overall, this study demonstrates that an AI-enabled CA-based support can play an
+                    important role in reducing depressive symptoms and offering support across
+                    diverse maternal events. It adds to a nascent yet growing literature
+                    demonstrating the acceptability and comfort of using AI-enabled CA-based digital
+                    mental health and wellbeing apps for emotional support.</p>
+            </sec>
+        </sec>
+    </body>
+    <back>
+        <ack>
+            <title>Acknowledgments</title>
+            <p>The authors would like to thank Tanya Malik, Namrata Roa Mangina, Chaitali Sinha, and
+                Madhavi Roy for their comments that greatly supported the development and refinement
+                of this manuscript. We would also like to thank Alina Paik, for her input with
+                regards to the depression severity scoring scale.</p>
+        </ack>
+        <sec sec-type="data-availability" id="s5">
+            <title>Data availability statement</title>
+            <p>The raw data supporting the conclusions of this article will be made available by the
+                authors, without undue reservation.</p>
+        </sec>
+        <sec sec-type="ethics-statement" id="s6">
+            <title>Ethics statement</title>
+            <p>Wysa is publicly available as a mobile application (android and iOS). The
+                Conversational Agent (CA) is freely available and has been designed to prioritize
+                safety, privacy and security-by-design. No user registration is required and no
+                Personal Identifiable Information (PII) is asked for during app use. This provides
+                users a private, anonymous space encouraging them to manage their mental well-being
+                in a self-help context (<xref rid="B56" ref-type="bibr">56</xref>). All content and
+                tools within the app are reviewed and validated by the Wysa clinical and safety
+                teams. As the study involved analyzing real-world data from an anonymous nonclinical
+                population, it was exempt from registration in a public trial registry (according to
+                OHRP guidelines). Users voluntarily downloaded the app after having consented to the
+                app Terms of Service and Privacy Policy (<xref rid="B57" ref-type="bibr">57</xref>, <xref
+                    rid="B58" ref-type="bibr">58</xref>). For ethical and privacy reasons, the
+                authors did not have access to all the user messages. Only minimal and limited
+                conversation data at specific chat endpoints were used. The dataset was anonymised
+                by redacting any inadvertent identifiers. User data was adequately secured according
+                to the organization's privacy, security and safety policies. The organization's
+                compliance and privacy officer is author VS who audited the study dataset for
+                safety, privacy and security compliance prior to research use.</p>
+        </sec>
+        <sec sec-type="author-contributions" id="s7">
+            <title>Author contributions</title>
+            <p>BI: conceptualization, methodology, writing&#x02014;reviewing and editing. MK:
+                investigation, formal analysis, data curation, writing&#x02014;review &#x00026;
+                editing. VS: investigation, formal analysis, data curation, writing&#x02014;review
+                &#x00026; editing. All authors contributed to the article and approved the submitted
+                version.</p>
+        </sec>
+        <sec sec-type="COI-statement" id="s9">
+            <title>Conflict of interest</title>
+            <p>BI is a scientific advisor to Wysa. VS is the head of compliance at Wysa. MK is the
+                analytic lead at Wysa. Wysa funded the publication fees for the paper.</p>
+        </sec>
+        <sec sec-type="disclaimer" id="s11">
+            <title>Publisher's note</title>
+            <p>All claims expressed in this article are solely those of the authors and do not
+                necessarily represent those of their affiliated organizations, or those of the
+                publisher, the editors and the reviewers. Any product that may be evaluated in this
+                article, or claim that may be made by its manufacturer, is not guaranteed or
+                endorsed by the publisher.</p>
+        </sec>
+        <sec sec-type="supplementary-material" id="s10">
+            <title>Supplementary material</title>
+            <p>The Supplementary Material for this article can be found online at: <ext-link
+                    xlink:href="https://www.frontiersin.org/articles/10.3389/fgwh.2023.1084302/full#supplementary-material"
+                    ext-link-type="uri">
+                https://www.frontiersin.org/articles/10.3389/fgwh.2023.1084302/full#supplementary-material</ext-link>
+                .</p>
+            <supplementary-material id="SD1" position="float" content-type="local-data">
+                <media xlink:href="Datasheet1.docx" id="d95e849" position="anchor" />
+            </supplementary-material>
+            <supplementary-material id="SD2" position="float" content-type="local-data">
+                <media xlink:href="Datasheet2.docx" id="d95e851" position="anchor" />
+            </supplementary-material>
+        </sec>
+        <ref-list>
+            <title>References</title>
+            <ref id="B1">
+                <label>1.</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author">
+                        <name>
+                            <surname>Underwood</surname>
+                            <given-names>L</given-names>
+                        </name>
+                        <name>
+                            <surname>Waldie</surname>
+                            <given-names>K</given-names>
+                        </name>
+                        <name>
+                            <surname>D&#x02019;Souza</surname>
+                            <given-names>S</given-names>
+                        </name>
+                        <name>
+                            <surname>Peterson</surname>
+                            <given-names>ER</given-names>
+                        </name>
+                        <name>
+                            <surname>Morton</surname>
+                            <given-names>S</given-names>
+                        </name>
+                    </person-group>
+                    . <article-title>A review of longitudinal studies on antenatal and postnatal
+                    depression</article-title>. <source>Arch Womens Ment Health</source>. (<year>
+                    2016</year>) <volume>19</volume>(<issue>5</issue>):<fpage>711</fpage>&#x02013;<lpage>
+                    20</lpage>. <pub-id pub-id-type="doi">10.1007/s00737-016-0629-1</pub-id><pub-id
+                        pub-id-type="pmid">27085795</pub-id></mixed-citation>
+            </ref>
+            <ref id="B2">
+                <label>2.</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author">
+                        <name>
+                            <surname>Burns</surname>
+                            <given-names>LH</given-names>
+                        </name>
+                    </person-group>
+                    . <article-title>An exploratory study of perceptions of parenting after
+                    infertility</article-title>. <source>Fam Syst Med</source>. (<year>1990</year>) <volume>
+                    8</volume>(<issue>2</issue>):<fpage>177</fpage>&#x02013;<lpage>89</lpage>. <pub-id
+                        pub-id-type="doi">10.1037/h0089398</pub-id></mixed-citation>
+            </ref>
+            <ref id="B3">
+                <label>3.</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author">
+                        <name>
+                            <surname>Siegel</surname>
+                            <given-names>RS</given-names>
+                        </name>
+                        <name>
+                            <surname>Brandon</surname>
+                            <given-names>AR</given-names>
+                        </name>
+                    </person-group>
+                    . <article-title>Adolescents, pregnancy, and mental health</article-title>. <source>J
+                    Pediatr Adolesc Gynecol</source>. (<year>2014</year>) <volume>27</volume>(<issue>
+                    3</issue>):<fpage>138</fpage>&#x02013;<lpage>50</lpage>. <pub-id
+                        pub-id-type="doi">10.1016/j.jpag.2013.09.008</pub-id><pub-id
+                        pub-id-type="pmid">24559618</pub-id></mixed-citation>
+            </ref>
+            <ref id="B4">
+                <label>4.</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author">
+                        <name>
+                            <surname>Zia</surname>
+                            <given-names>Y</given-names>
+                        </name>
+                        <name>
+                            <surname>Mugo</surname>
+                            <given-names>N</given-names>
+                        </name>
+                        <name>
+                            <surname>Ngure</surname>
+                            <given-names>K</given-names>
+                        </name>
+                        <name>
+                            <surname>Odoyo</surname>
+                            <given-names>J</given-names>
+                        </name>
+                        <name>
+                            <surname>Casmir</surname>
+                            <given-names>E</given-names>
+                        </name>
+                        <name>
+                            <surname>Ayiera</surname>
+                            <given-names>E</given-names>
+                        </name>
+                        <etal />
+                    </person-group>\n<article-title>Psychosocial
+                    experiences of adolescent girls and young women subsequent to an abortion in
+                    sub-saharan Africa and globally: a systematic review</article-title>. <source>Front
+                    Reprod</source>. (<year>2021</year>) <volume>3</volume>:<fpage>638013</fpage>. <pub-id
+                        pub-id-type="doi">10.3389/frph.2021.638013</pub-id></mixed-citation>
+            </ref>
+            <ref id="B5">
+                <label>5.</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author">
+                        <name>
+                            <surname>Farren</surname>
+                            <given-names>J</given-names>
+                        </name>
+                        <name>
+                            <surname>Mitchell-Jones</surname>
+                            <given-names>N</given-names>
+                        </name>
+                        <name>
+                            <surname>Verbakel</surname>
+                            <given-names>JY</given-names>
+                        </name>
+                        <name>
+                            <surname>Timmerman</surname>
+                            <given-names>D</given-names>
+                        </name>
+                        <name>
+                            <surname>Jalmbrant</surname>
+                            <given-names>M</given-names>
+                        </name>
+                        <name>
+                            <surname>Bourne</surname>
+                            <given-names>T</given-names>
+                        </name>
+                    </person-group>
+                    . <article-title>The psychological impact of early pregnancy loss</article-title>
+                    . <source>Hum Reprod</source>. (<year>2018</year>) <volume>24</volume>(<issue>6</issue>
+                    ):<fpage>731</fpage>&#x02013;<lpage>49</lpage>. <pub-id pub-id-type="doi">
+                    10.1093/humupd/dmy025</pub-id></mixed-citation>
+            </ref>
+            <ref id="B6">
+                <label>6.</label>
+                <mixed-citation publication-type="other"><collab>American Psychological Association</collab>
+                    . <comment>Leis-Newman E. Miscarriage and loss</comment> (<year>2012</year>). <comment>Available
+                    at:</comment>\n<ext-link
+                        xlink:href="https://www.apa.org/monitor/2012/06/miscarriage"
+                        ext-link-type="uri">https://www.apa.org/monitor/2012/06/miscarriage</ext-link>
+                    \n<comment>(Accessed April 18, 2023)</comment>.</mixed-citation>
+            </ref>
+            <ref id="B7">
+                <label>7.</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author">
+                        <name>
+                            <surname>Dadi</surname>
+                            <given-names>AF</given-names>
+                        </name>
+                        <name>
+                            <surname>Miller</surname>
+                            <given-names>ER</given-names>
+                        </name>
+                        <name>
+                            <surname>Bisetegn</surname>
+                            <given-names>TA</given-names>
+                        </name>
+                        <name>
+                            <surname>Mwanri</surname>
+                            <given-names>L</given-names>
+                        </name>
+                    </person-group>
+                    . <article-title>Global burden of antenatal depression and its association with
+                    adverse birth outcomes: an umbrella review</article-title>. <source>BMC Public
+                    Health</source>. (<year>2020</year>) <volume>20</volume>(<issue>1</issue>):<fpage>
+                    173</fpage>. <pub-id pub-id-type="doi">10.1186/s12889-020-8293-9</pub-id><pub-id
+                        pub-id-type="pmid">32019560</pub-id></mixed-citation>
+            </ref>
+            <ref id="B8">
+                <label>8.</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author">
+                        <name>
+                            <surname>Ogbo</surname>
+                            <given-names>FA</given-names>
+                        </name>
+                        <name>
+                            <surname>Eastwood</surname>
+                            <given-names>J</given-names>
+                        </name>
+                        <name>
+                            <surname>Hendry</surname>
+                            <given-names>A</given-names>
+                        </name>
+                        <name>
+                            <surname>Jalaludin</surname>
+                            <given-names>B</given-names>
+                        </name>
+                        <name>
+                            <surname>Agho</surname>
+                            <given-names>KE</given-names>
+                        </name>
+                        <name>
+                            <surname>Barnett</surname>
+                            <given-names>B</given-names>
+                        </name>
+                        <etal />
+                    </person-group>\n<article-title>Determinants of
+                    antenatal depression and postnatal depression in Australia</article-title>. <source>BMC
+                    Psychiatry</source>. (<year>2018</year>) <volume>18</volume>(<issue>1</issue>):<fpage>
+                    49</fpage>. <pub-id pub-id-type="doi">10.1186/s12888-018-1598-x</pub-id><pub-id
+                        pub-id-type="pmid">29463221</pub-id></mixed-citation>
+            </ref>
+            <ref id="B9">
+                <label>9.</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author">
+                        <name>
+                            <surname>Lambrenos</surname>
+                            <given-names>K</given-names>
+                        </name>
+                        <name>
+                            <surname>Weindling</surname>
+                            <given-names>AM</given-names>
+                        </name>
+                        <name>
+                            <surname>Calam</surname>
+                            <given-names>R</given-names>
+                        </name>
+                        <name>
+                            <surname>Cox</surname>
+                            <given-names>AD</given-names>
+                        </name>
+                    </person-group>
+                    . <article-title>The effect of a child&#x02019;s disability on mother&#x02019;s
+                    mental health</article-title>. <source>Arch Dis Child</source>. (<year>1996</year>
+                    ) <volume>74</volume>(<issue>2</issue>):<fpage>115</fpage>&#x02013;<lpage>20</lpage>
+                    . <pub-id pub-id-type="doi">10.1136/adc.74.2.115</pub-id><pub-id
+                        pub-id-type="pmid">8660072</pub-id></mixed-citation>
+            </ref>
+            <ref id="B10">
+                <label>10.</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author">
+                        <name>
+                            <surname>Slomian</surname>
+                            <given-names>J</given-names>
+                        </name>
+                        <name>
+                            <surname>Honvo</surname>
+                            <given-names>G</given-names>
+                        </name>
+                        <name>
+                            <surname>Emonts</surname>
+                            <given-names>P</given-names>
+                        </name>
+                        <name>
+                            <surname>Reginster</surname>
+                            <given-names>JY</given-names>
+                        </name>
+                        <name>
+                            <surname>Bruy&#x000e8;re</surname>
+                            <given-names>O</given-names>
+                        </name>
+                    </person-group>
+                    . <article-title>Consequences of maternal postpartum depression: a systematic
+                    review of maternal and infant outcomes</article-title>. <source>Womens Health</source>.
+                    (<year>2019</year>) <volume>15</volume>:<fpage>1745506519844044</fpage>. <pub-id
+                        pub-id-type="doi">10.1177/1745506519844044</pub-id></mixed-citation>
+            </ref>
+            <ref id="B11">
+                <label>11.</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author">
+                        <name>
+                            <surname>Howard</surname>
+                            <given-names>LM</given-names>
+                        </name>
+                        <name>
+                            <surname>Khalifeh</surname>
+                            <given-names>H</given-names>
+                        </name>
+                    </person-group>
+                    . <article-title>Perinatal mental health: a review of progress and challenges</article-title>
+                    . <source>World Psychiatry</source>. (<year>2020</year>) <volume>19</volume>(<issue>
+                    3</issue>):<fpage>313</fpage>&#x02013;<lpage>27</lpage>. <pub-id
+                        pub-id-type="doi">10.1002/wps.20769</pub-id><pub-id pub-id-type="pmid">
+                    32931106</pub-id></mixed-citation>
+            </ref>
+            <ref id="B12">
+                <label>12.</label>
+                <mixed-citation publication-type="book"><person-group person-group-type="author">
+                        <name>
+                            <surname>Bauer</surname>
+                            <given-names>A</given-names>
+                        </name>
+                        <name>
+                            <surname>Parsonage</surname>
+                            <given-names>M</given-names>
+                        </name>
+                        <name>
+                            <surname>Knapp</surname>
+                            <given-names>M</given-names>
+                        </name>
+                        <name>
+                            <surname>Iemmi</surname>
+                            <given-names>V</given-names>
+                        </name>
+                        <name>
+                            <surname>Adelaja</surname>
+                            <given-names>B</given-names>
+                        </name>
+                    </person-group>
+                    . <source>The costs of perinatal mental health problems</source>. <publisher-loc>
+                    London</publisher-loc>: <publisher-name>Centre for Mental</publisher-name> (<year>
+                    2014</year>). <pub-id pub-id-type="doi">10.13140/2.1.4731.6169</pub-id></mixed-citation>
+            </ref>
+            <ref id="B13">
+                <label>13.</label>
+                <mixed-citation publication-type="other"><collab>American Pregnancy Association</collab>
+                    . <comment>Baby blues</comment> (<year>2019</year>). <comment>Available at:</comment>
+                    \n<ext-link
+                        xlink:href="https://americanpregnancy.org/healthy-pregnancy/first-year-of-life/baby-blues/"
+                        ext-link-type="uri">
+                    https://americanpregnancy.org/healthy-pregnancy/first-year-of-life/baby-blues/</ext-link>
+                    \n<comment>(Accessed April 18, 2023)</comment>.</mixed-citation>
+            </ref>
+            <ref id="B14">
+                <label>14.</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author">
+                        <name>
+                            <surname>Earls</surname>
+                            <given-names>MF</given-names>
+                        </name>
+                    </person-group>
+                    . <article-title>Committee on psychosocial aspects of child and family health
+                    American academy of pediatrics. Incorporating recognition and management of
+                    perinatal and postpartum depression into pediatric practice</article-title>. <source>
+                    Pediatrics</source>. (<year>2010</year>) <volume>126</volume>(<issue>5</issue>):<fpage>
+                    1032</fpage>&#x02013;<lpage>9</lpage>. <pub-id pub-id-type="doi">
+                    10.1542/peds.2010-2348</pub-id><pub-id pub-id-type="pmid">20974776</pub-id></mixed-citation>
+            </ref>
+            <ref id="B15">
+                <label>15.</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author">
+                        <name>
+                            <surname>Earls</surname>
+                            <given-names>MF</given-names>
+                        </name>
+                        <name>
+                            <surname>Yogman</surname>
+                            <given-names>MW</given-names>
+                        </name>
+                        <name>
+                            <surname>Mattson</surname>
+                            <given-names>G</given-names>
+                        </name>
+                        <name>
+                            <surname>Rafferty</surname>
+                            <given-names>J</given-names>
+                        </name>
+                    </person-group>
+                    . <article-title>Committee on psychosocial aspects of child and family health.
+                    Incorporating recognition and management of perinatal depression into pediatric
+                    practice</article-title>. <source>Pediatrics</source>. (<year>2019</year>) <volume>
+                    143</volume>(<issue>1</issue>):<fpage>e20183260</fpage>. <pub-id
+                        pub-id-type="doi">10.1542/peds.2018-3259</pub-id><pub-id pub-id-type="pmid">
+                    30559118</pub-id></mixed-citation>
+            </ref>
+            <ref id="B16">
+                <label>16.</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author">
+                        <name>
+                            <surname>Jarde</surname>
+                            <given-names>A</given-names>
+                        </name>
+                        <name>
+                            <surname>Morais</surname>
+                            <given-names>M</given-names>
+                        </name>
+                        <name>
+                            <surname>Kingston</surname>
+                            <given-names>D</given-names>
+                        </name>
+                        <name>
+                            <surname>Giallo</surname>
+                            <given-names>R</given-names>
+                        </name>
+                        <name>
+                            <surname>MacQueen</surname>
+                            <given-names>GM</given-names>
+                        </name>
+                        <name>
+                            <surname>Giglia</surname>
+                            <given-names>L</given-names>
+                        </name>
+                        <etal />
+                    </person-group>\n<article-title>Neonatal
+                    outcomes in women with untreated antenatal depression compared with women
+                    without depression: a systematic review and meta-analysis</article-title>. <source>JAMA
+                    Psychiatry</source>. (<year>2016</year>) <volume>73</volume>(<issue>8</issue>):<fpage>
+                    826</fpage>&#x02013;<lpage>37</lpage>. <pub-id pub-id-type="doi">
+                    10.1001/jamapsychiatry.2016.0934</pub-id><pub-id pub-id-type="pmid">27276520</pub-id></mixed-citation>
+            </ref>
+            <ref id="B17">
+                <label>17.</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author">
+                        <name>
+                            <surname>Goodman</surname>
+                            <given-names>JH</given-names>
+                        </name>
+                    </person-group>
+                    . <article-title>Perinatal depression and infant mental health</article-title>. <source>Arch
+                    Psychiatr Nurs</source>. (<year>2019</year>) <volume>33</volume>(<issue>3</issue>
+                    ):<fpage>217</fpage>&#x02013;<lpage>24</lpage>. <pub-id pub-id-type="doi">
+                    10.1016/j.apnu.2019.01.010</pub-id><pub-id pub-id-type="pmid">31227073</pub-id></mixed-citation>
+            </ref>
+            <ref id="B18">
+                <label>18.</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author">
+                        <name>
+                            <surname>Lewis</surname>
+                            <given-names>AJ</given-names>
+                        </name>
+                        <name>
+                            <surname>Austin</surname>
+                            <given-names>E</given-names>
+                        </name>
+                        <name>
+                            <surname>Galbally</surname>
+                            <given-names>M</given-names>
+                        </name>
+                    </person-group>
+                    . <article-title>Prenatal maternal mental health and fetal growth restriction: a
+                    systematic review</article-title>. <source>J Dev Orig Health Dis</source>. (<year>
+                    2016</year>) <volume>7</volume>(<issue>4</issue>):<fpage>416</fpage>&#x02013;<lpage>
+                    28</lpage>. <pub-id pub-id-type="doi">10.1017/S2040174416000076</pub-id><pub-id
+                        pub-id-type="pmid">26983652</pub-id></mixed-citation>
+            </ref>
+            <ref id="B19">
+                <label>19.</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author">
+                        <name>
+                            <surname>Atif</surname>
+                            <given-names>N</given-names>
+                        </name>
+                        <name>
+                            <surname>Lovell</surname>
+                            <given-names>K</given-names>
+                        </name>
+                        <name>
+                            <surname>Rahman</surname>
+                            <given-names>A</given-names>
+                        </name>
+                    </person-group>
+                    . <article-title>Maternal mental health: the missing &#x0201c;m&#x0201d; in the
+                    global maternal and child health agenda</article-title>. <source>Semin Perinatol</source>.
+                    (<year>2015</year>) <volume>39</volume>(<issue>5</issue>):<fpage>345</fpage>
+                    &#x02013;<lpage>52</lpage>. <pub-id pub-id-type="doi">
+                    10.1053/j.semperi.2015.06.007</pub-id><pub-id pub-id-type="pmid">26164538</pub-id></mixed-citation>
+            </ref>
+            <ref id="B20">
+                <label>20.</label>
+                <mixed-citation publication-type="book"><collab>World Health Organization &#x00026;
+                    United Nations Population Fund</collab>. <source>Mental health aspects of
+                    women&#x02019;s reproductive health: A global review of the literature</source>. <publisher-loc>
+                    Geneva</publisher-loc>: <publisher-name>World Health Organization</publisher-name>
+                    (<year>2009</year>). <fpage>168</fpage> p.</mixed-citation>
+            </ref>
+            <ref id="B21">
+                <label>21.</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author">
+                        <name>
+                            <surname>McNab</surname>
+                            <given-names>S</given-names>
+                        </name>
+                        <name>
+                            <surname>Fisher</surname>
+                            <given-names>J</given-names>
+                        </name>
+                        <name>
+                            <surname>Honikman</surname>
+                            <given-names>S</given-names>
+                        </name>
+                        <name>
+                            <surname>Muvhu</surname>
+                            <given-names>L</given-names>
+                        </name>
+                        <name>
+                            <surname>Levine</surname>
+                            <given-names>R</given-names>
+                        </name>
+                        <name>
+                            <surname>Chorwe-Sungani</surname>
+                            <given-names>G</given-names>
+                        </name>
+                        <etal />
+                    </person-group>\n<article-title>Comment: silent
+                    burden no more: a global call to action to prioritize perinatal mental health</article-title>
+                    . <source>BMC Pregnancy Childbirth</source>. (<year>2022</year>) <volume>22</volume>
+                    (<issue>1</issue>):<fpage>308</fpage>. <pub-id pub-id-type="doi">
+                    10.1186/s12884-022-04645-8</pub-id><pub-id pub-id-type="pmid">35410185</pub-id></mixed-citation>
+            </ref>
+            <ref id="B22">
+                <label>22.</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author">
+                        <name>
+                            <surname>Bauer</surname>
+                            <given-names>A</given-names>
+                        </name>
+                        <name>
+                            <surname>Knapp</surname>
+                            <given-names>M</given-names>
+                        </name>
+                        <name>
+                            <surname>Parsonage</surname>
+                            <given-names>M</given-names>
+                        </name>
+                    </person-group>
+                    . <article-title>Lifetime costs of perinatal anxiety and depression</article-title>
+                    . <source>J Affect Disord</source>. (<year>2016</year>) <volume>192</volume>:<fpage>
+                    83</fpage>&#x02013;<lpage>90</lpage>. <pub-id pub-id-type="doi">
+                    10.1016/j.jad.2015.12.005</pub-id><pub-id pub-id-type="pmid">26707352</pub-id></mixed-citation>
+            </ref>
+            <ref id="B23">
+                <label>23.</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author">
+                        <name>
+                            <surname>Webb</surname>
+                            <given-names>R</given-names>
+                        </name>
+                        <name>
+                            <surname>Uddin</surname>
+                            <given-names>N</given-names>
+                        </name>
+                        <name>
+                            <surname>Ford</surname>
+                            <given-names>E</given-names>
+                        </name>
+                        <name>
+                            <surname>Easter</surname>
+                            <given-names>A</given-names>
+                        </name>
+                        <name>
+                            <surname>Shakespeare</surname>
+                            <given-names>J</given-names>
+                        </name>
+                        <name>
+                            <surname>Roberts</surname>
+                            <given-names>N</given-names>
+                        </name>
+                        <etal />
+                    </person-group>\n<article-title>Barriers and
+                    facilitators to implementing perinatal mental health care in health and social
+                    care settings: a systematic review</article-title>. <source>Lancet Psychiatry</source>.
+                    (<year>2021</year>) <volume>8</volume>(<issue>6</issue>):<fpage>521</fpage>
+                    &#x02013;<lpage>34</lpage>. <pub-id pub-id-type="doi">
+                    10.1016/S2215-0366(20)30467-3</pub-id><pub-id pub-id-type="pmid">33838118</pub-id></mixed-citation>
+            </ref>
+            <ref id="B24">
+                <label>24.</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author">
+                        <name>
+                            <surname>Novick</surname>
+                            <given-names>AM</given-names>
+                        </name>
+                        <name>
+                            <surname>Kwitowski</surname>
+                            <given-names>M</given-names>
+                        </name>
+                        <name>
+                            <surname>Dempsey</surname>
+                            <given-names>J</given-names>
+                        </name>
+                        <name>
+                            <surname>Cooke</surname>
+                            <given-names>DL</given-names>
+                        </name>
+                        <name>
+                            <surname>Dempsey</surname>
+                            <given-names>AG</given-names>
+                        </name>
+                    </person-group>
+                    . <article-title>Technology-based approaches for supporting perinatal mental
+                    health</article-title>. <source>Curr Psychiatry Rep</source>. (<year>2022</year>
+                    ) <volume>24</volume>:<fpage>419</fpage>&#x02013;<lpage>29</lpage>. <pub-id
+                        pub-id-type="doi">10.1007/s11920-022-01349-w</pub-id><pub-id
+                        pub-id-type="pmid">35870062</pub-id></mixed-citation>
+            </ref>
+            <ref id="B25">
+                <label>25.</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author">
+                        <name>
+                            <surname>van den Heuvel</surname>
+                            <given-names>JF</given-names>
+                        </name>
+                        <name>
+                            <surname>Groenhof</surname>
+                            <given-names>TK</given-names>
+                        </name>
+                        <name>
+                            <surname>Veerbeek</surname>
+                            <given-names>JH</given-names>
+                        </name>
+                        <name>
+                            <surname>van Solinge</surname>
+                            <given-names>WW</given-names>
+                        </name>
+                        <name>
+                            <surname>Lely</surname>
+                            <given-names>AT</given-names>
+                        </name>
+                        <name>
+                            <surname>Franx</surname>
+                            <given-names>A</given-names>
+                        </name>
+                        <etal />
+                    </person-group>\n<article-title>Ehealth as the
+                    next-generation perinatal care: an overview of the literature</article-title>. <source>J
+                    Med Internet Res</source>. (<year>2018</year>) <volume>20</volume>(<issue>6</issue>
+                    ):<fpage>e202</fpage>. <pub-id pub-id-type="doi">10.2196/jmir.9262</pub-id><pub-id
+                        pub-id-type="pmid">29871855</pub-id></mixed-citation>
+            </ref>
+            <ref id="B26">
+                <label>26.</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author">
+                        <name>
+                            <surname>Heller</surname>
+                            <given-names>HM</given-names>
+                        </name>
+                        <name>
+                            <surname>Hoogendoorn</surname>
+                            <given-names>AW</given-names>
+                        </name>
+                        <name>
+                            <surname>Honig</surname>
+                            <given-names>A</given-names>
+                        </name>
+                        <name>
+                            <surname>Broekman</surname>
+                            <given-names>BFP</given-names>
+                        </name>
+                        <name>
+                            <surname>van Straten</surname>
+                            <given-names>A</given-names>
+                        </name>
+                    </person-group>
+                    . <article-title>The effectiveness of a guided internet-based tool for the
+                    treatment of depression and anxiety in pregnancy (MamaKits online): randomized
+                    controlled trial</article-title>. <source>J Med Internet Res</source>. (<year>
+                    2020</year>) <volume>22</volume>(<issue>3</issue>):<fpage>e15172</fpage>. <pub-id
+                        pub-id-type="doi">10.2196/15172</pub-id><pub-id pub-id-type="pmid">32202505</pub-id></mixed-citation>
+            </ref>
+            <ref id="B27">
+                <label>27.</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author">
+                        <name>
+                            <surname>Haga</surname>
+                            <given-names>SM</given-names>
+                        </name>
+                        <name>
+                            <surname>Drozd</surname>
+                            <given-names>F</given-names>
+                        </name>
+                        <name>
+                            <surname>Lis&#x000f8;y</surname>
+                            <given-names>C</given-names>
+                        </name>
+                        <name>
+                            <surname>Wentzel-Larsen</surname>
+                            <given-names>T</given-names>
+                        </name>
+                        <name>
+                            <surname>Slinning</surname>
+                            <given-names>K</given-names>
+                        </name>
+                    </person-group>
+                    . <article-title>Mamma mia&#x02014;a randomized controlled trial of an
+                    internet-based intervention for perinatal depression</article-title>. <source>Psychol
+                    Med</source>. (<year>2019</year>) <volume>49</volume>(<issue>11</issue>):<fpage>
+                    1850</fpage>&#x02013;<lpage>8</lpage>. <pub-id pub-id-type="doi">
+                    10.1017/S0033291718002544</pub-id><pub-id pub-id-type="pmid">30191779</pub-id></mixed-citation>
+            </ref>
+            <ref id="B28">
+                <label>28.</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author">
+                        <name>
+                            <surname>Shin</surname>
+                            <given-names>DC</given-names>
+                        </name>
+                    </person-group>
+                    . <article-title>Development and application of an in-house health care program
+                    to improve the physical and mental health of working mothers: a pilot study</article-title>
+                    . <source>Health Care Women Int</source>. (<year>2020</year>) <volume>41</volume>
+                    (<issue>3</issue>):<fpage>284</fpage>&#x02013;<lpage>92</lpage>. <pub-id
+                        pub-id-type="doi">10.1080/07399332.2019.1621868</pub-id><pub-id
+                        pub-id-type="pmid">31259663</pub-id></mixed-citation>
+            </ref>
+            <ref id="B29">
+                <label>29.</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author">
+                        <name>
+                            <surname>Dennis</surname>
+                            <given-names>CL</given-names>
+                        </name>
+                        <name>
+                            <surname>Chung-Lee</surname>
+                            <given-names>L</given-names>
+                        </name>
+                    </person-group>
+                    . <article-title>Postpartum depression help-seeking barriers and maternal
+                    treatment preferences: a qualitative systematic review</article-title>. <source>
+                    Birth</source>. (<year>2006</year>) <volume>33</volume>(<issue>4</issue>):<fpage>
+                    323</fpage>&#x02013;<lpage>31</lpage>. <pub-id pub-id-type="doi">
+                    10.1111/j.1523-536X.2006.00130.x</pub-id><pub-id pub-id-type="pmid">17150072</pub-id></mixed-citation>
+            </ref>
+            <ref id="B30">
+                <label>30.</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author">
+                        <name>
+                            <surname>Doherty</surname>
+                            <given-names>K</given-names>
+                        </name>
+                        <name>
+                            <surname>Barry</surname>
+                            <given-names>M</given-names>
+                        </name>
+                        <name>
+                            <surname>Marcano-Belisario</surname>
+                            <given-names>J</given-names>
+                        </name>
+                        <name>
+                            <surname>Arnaud</surname>
+                            <given-names>B</given-names>
+                        </name>
+                        <name>
+                            <surname>Morrison</surname>
+                            <given-names>C</given-names>
+                        </name>
+                        <name>
+                            <surname>Car</surname>
+                            <given-names>J</given-names>
+                        </name>
+                        <etal />
+                    </person-group>\n<article-title>A mobile app for
+                    the self-report of psychological well-being during pregnancy (BrightSelf):
+                    qualitative design study</article-title>. <source>JMIR Ment Health</source>. (<year>
+                    2018</year>) <volume>5</volume>(<issue>4</issue>):<fpage>e10007</fpage>. <pub-id
+                        pub-id-type="doi">10.2196/10007</pub-id><pub-id pub-id-type="pmid">30482742</pub-id></mixed-citation>
+            </ref>
+            <ref id="B31">
+                <label>31.</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author">
+                        <name>
+                            <surname>Maloni</surname>
+                            <given-names>JA</given-names>
+                        </name>
+                        <name>
+                            <surname>Przeworski</surname>
+                            <given-names>A</given-names>
+                        </name>
+                        <name>
+                            <surname>Damato</surname>
+                            <given-names>EG</given-names>
+                        </name>
+                    </person-group>
+                    . <article-title>Web recruitment and internet use and preferences reported by
+                    women with postpartum depression after pregnancy complications</article-title>. <source>Arch
+                    Psychiatr Nurs</source>. (<year>2013</year>) <volume>27</volume>(<issue>2</issue>
+                    ):<fpage>90</fpage>&#x02013;<lpage>5</lpage>. <pub-id pub-id-type="doi">
+                    10.1016/j.apnu.2012.12.001</pub-id><pub-id pub-id-type="pmid">23540519</pub-id></mixed-citation>
+            </ref>
+            <ref id="B32">
+                <label>32.</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author">
+                        <name>
+                            <surname>Loughnan</surname>
+                            <given-names>SA</given-names>
+                        </name>
+                        <name>
+                            <surname>Butler</surname>
+                            <given-names>C</given-names>
+                        </name>
+                        <name>
+                            <surname>Sie</surname>
+                            <given-names>AA</given-names>
+                        </name>
+                        <name>
+                            <surname>Grierson</surname>
+                            <given-names>AB</given-names>
+                        </name>
+                        <name>
+                            <surname>Chen</surname>
+                            <given-names>AZ</given-names>
+                        </name>
+                        <name>
+                            <surname>Hobbs</surname>
+                            <given-names>MJ</given-names>
+                        </name>
+                        <etal />
+                    </person-group>\n<article-title>A randomized
+                    controlled trial of &#x0201c;MUMentum postnatal&#x0201d;: internet-delivered
+                    cognitive behavioural therapy for anxiety and depression in postpartum women</article-title>
+                    . <source>Behav Res Ther</source>. (<year>2019</year>) <volume>116</volume>:<fpage>
+                    94</fpage>&#x02013;<lpage>103</lpage>. <pub-id pub-id-type="doi">
+                    10.1016/j.brat.2019.03.001</pub-id><pub-id pub-id-type="pmid">30877878</pub-id></mixed-citation>
+            </ref>
+            <ref id="B33">
+                <label>33.</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author">
+                        <name>
+                            <surname>Forsell</surname>
+                            <given-names>E</given-names>
+                        </name>
+                        <name>
+                            <surname>Bendix</surname>
+                            <given-names>M</given-names>
+                        </name>
+                        <name>
+                            <surname>Holl&#x000e4;ndare</surname>
+                            <given-names>F</given-names>
+                        </name>
+                        <name>
+                            <surname>Szymanska von Schultz</surname>
+                            <given-names>B</given-names>
+                        </name>
+                        <name>
+                            <surname>Nasiell</surname>
+                            <given-names>J</given-names>
+                        </name>
+                        <name>
+                            <surname>Blomdahl-Wetterholm</surname>
+                            <given-names>M</given-names>
+                        </name>
+                        <etal />
+                    </person-group>\n<article-title>Internet
+                    delivered cognitive behavior therapy for antenatal depression: a randomized
+                    controlled trial</article-title>. <source>J Affect Disord</source>. (<year>2017</year>
+                    ) <volume>221</volume>:<fpage>56</fpage>&#x02013;<lpage>64</lpage>. <pub-id
+                        pub-id-type="doi">10.1016/j.jad.2017.06.013</pub-id><pub-id
+                        pub-id-type="pmid">28628768</pub-id></mixed-citation>
+            </ref>
+            <ref id="B34">
+                <label>34.</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author">
+                        <name>
+                            <surname>Clifton</surname>
+                            <given-names>J</given-names>
+                        </name>
+                        <name>
+                            <surname>Parent</surname>
+                            <given-names>J</given-names>
+                        </name>
+                        <name>
+                            <surname>Seehuus</surname>
+                            <given-names>M</given-names>
+                        </name>
+                        <name>
+                            <surname>Worrall</surname>
+                            <given-names>G</given-names>
+                        </name>
+                        <name>
+                            <surname>Forehand</surname>
+                            <given-names>R</given-names>
+                        </name>
+                        <name>
+                            <surname>Domar</surname>
+                            <given-names>A</given-names>
+                        </name>
+                    </person-group>
+                    . <article-title>An internet-based mind/body intervention to mitigate distress
+                    in women experiencing infertility: a randomized pilot trial</article-title>. <source>PLoS
+                    One</source>. (<year>2020</year>) <volume>15</volume>(<issue>3</issue>):<fpage>
+                    e0229379</fpage>. <pub-id pub-id-type="doi">10.1371/journal.pone.0229379</pub-id><pub-id
+                        pub-id-type="pmid">32187236</pub-id></mixed-citation>
+            </ref>
+            <ref id="B35">
+                <label>35.</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author">
+                        <name>
+                            <surname>Kim</surname>
+                            <given-names>DR</given-names>
+                        </name>
+                        <name>
+                            <surname>Hantsoo</surname>
+                            <given-names>L</given-names>
+                        </name>
+                        <name>
+                            <surname>Thase</surname>
+                            <given-names>ME</given-names>
+                        </name>
+                        <name>
+                            <surname>Sammel</surname>
+                            <given-names>M</given-names>
+                        </name>
+                        <name>
+                            <surname>Epperson</surname>
+                            <given-names>CN</given-names>
+                        </name>
+                    </person-group>
+                    . <article-title>Computer-assisted cognitive behavioral therapy for pregnant
+                    women with major depressive disorder</article-title>. <source>J Womens Health</source>.
+                    (<year>2014</year>) <volume>23</volume>(<issue>10</issue>):<fpage>842</fpage>
+                    &#x02013;<lpage>8</lpage>. <pub-id pub-id-type="doi">10.1089/jwh.2014.4867</pub-id></mixed-citation>
+            </ref>
+            <ref id="B36">
+                <label>36.</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author">
+                        <name>
+                            <surname>Lee</surname>
+                            <given-names>EW</given-names>
+                        </name>
+                        <name>
+                            <surname>Denison</surname>
+                            <given-names>FC</given-names>
+                        </name>
+                        <name>
+                            <surname>Hor</surname>
+                            <given-names>K</given-names>
+                        </name>
+                        <name>
+                            <surname>Reynolds</surname>
+                            <given-names>RM</given-names>
+                        </name>
+                    </person-group>
+                    . <article-title>Web-based interventions for prevention and treatment of
+                    perinatal mood disorders: a systematic review</article-title>. <source>BMC
+                    Pregnancy Childbirth</source>. (<year>2016</year>) <volume>16</volume>:<fpage>1</fpage>
+                    &#x02013;<lpage>8</lpage>. <pub-id pub-id-type="doi">10.1186/s12884-016-0831-1</pub-id><pub-id
+                        pub-id-type="pmid">26728010</pub-id></mixed-citation>
+            </ref>
+            <ref id="B37">
+                <label>37.</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author">
+                        <name>
+                            <surname>Feldman</surname>
+                            <given-names>N</given-names>
+                        </name>
+                        <name>
+                            <surname>Perret</surname>
+                            <given-names>S</given-names>
+                        </name>
+                    </person-group>
+                    . <article-title>Digital mental health for postpartum women: perils, pitfalls,
+                    and promise</article-title>. <source>NPJ DigitMed</source>. (<year>2023</year>) <volume>
+                    6</volume>(<issue>1</issue>):<fpage>11</fpage>. <pub-id pub-id-type="doi">
+                    10.1038/s41746-023-00756-4</pub-id></mixed-citation>
+            </ref>
+            <ref id="B38">
+                <label>38.</label>
+                <mixed-citation publication-type="confproc"><person-group person-group-type="author">
+                        <name>
+                            <surname>Moorhead</surname>
+                            <given-names>A</given-names>
+                        </name>
+                        <name>
+                            <surname>Bond</surname>
+                            <given-names>R</given-names>
+                        </name>
+                        <name>
+                            <surname>Mulvenna</surname>
+                            <given-names>M</given-names>
+                        </name>
+                        <name>
+                            <surname>O&#x02019;Neill</surname>
+                            <given-names>S</given-names>
+                        </name>
+                        <name>
+                            <surname>Murphy</surname>
+                            <given-names>N</given-names>
+                        </name>
+                    </person-group>
+                    . <conf-name>A self-management app for maternal mental health</conf-name>. <conf-name>Proceedings
+                    of the 32nd International BCS Human Computer Interaction Conference (HCI) (2018)
+                    Human Computer Interaction Conference</conf-name>; <conf-date>2018 Jul
+                    4&#x02013;6</conf-date>.</mixed-citation>
+            </ref>
+            <ref id="B39">
+                <label>39.</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author">
+                        <name>
+                            <surname>Verduci</surname>
+                            <given-names>E</given-names>
+                        </name>
+                        <name>
+                            <surname>Vizzuso</surname>
+                            <given-names>S</given-names>
+                        </name>
+                        <name>
+                            <surname>Frassinetti</surname>
+                            <given-names>A</given-names>
+                        </name>
+                        <name>
+                            <surname>Mariotti</surname>
+                            <given-names>L</given-names>
+                        </name>
+                        <name>
+                            <surname>Del Torto</surname>
+                            <given-names>A</given-names>
+                        </name>
+                        <name>
+                            <surname>Fiore</surname>
+                            <given-names>G</given-names>
+                        </name>
+                        <etal />
+                    </person-group>\n<article-title>Nutripedia: the
+                    fight against the fake news in nutrition during pregnancy and early life</article-title>
+                    . <source>Nutrients</source>. (<year>2021</year>) <volume>13</volume>(<issue>9</issue>
+                    ):<fpage>2998</fpage>. <pub-id pub-id-type="doi">10.3390/nu13092998</pub-id><pub-id
+                        pub-id-type="pmid">34578875</pub-id></mixed-citation>
+            </ref>
+            <ref id="B40">
+                <label>40.</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author">
+                        <name>
+                            <surname>Chung</surname>
+                            <given-names>K</given-names>
+                        </name>
+                        <name>
+                            <surname>Cho</surname>
+                            <given-names>HY</given-names>
+                        </name>
+                        <name>
+                            <surname>Park</surname>
+                            <given-names>JY</given-names>
+                        </name>
+                    </person-group>
+                    . <article-title>A chatbot for perinatal women&#x02019;s and partners&#x02019;
+                    obstetric and mental health care: development and usability evaluation study</article-title>
+                    . <source>JMIR Med Inform</source>. (<year>2021</year>) <volume>9</volume>(<issue>
+                    3</issue>):<fpage>e18607</fpage>. <pub-id pub-id-type="doi">10.2196/18607</pub-id><pub-id
+                        pub-id-type="pmid">33656442</pub-id></mixed-citation>
+            </ref>
+            <ref id="B41">
+                <label>41.</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author">
+                        <name>
+                            <surname>de Barreto</surname>
+                            <given-names>ICHC</given-names>
+                        </name>
+                        <name>
+                            <surname>Barros</surname>
+                            <given-names>NBS</given-names>
+                        </name>
+                        <name>
+                            <surname>Theophilo</surname>
+                            <given-names>RL</given-names>
+                        </name>
+                        <name>
+                            <surname>Viana</surname>
+                            <given-names>VF</given-names>
+                        </name>
+                        <name>
+                            <surname>de Silveira</surname>
+                            <given-names>FRV</given-names>
+                        </name>
+                        <name>
+                            <surname>de Souza</surname>
+                            <given-names>O</given-names>
+                        </name>
+                        <etal />
+                    </person-group>\n<article-title>Development and
+                    evaluation of the GISSA mother-baby ChatBot application in promoting child
+                    health</article-title>. <source>Cien Saude Colet</source>. (<year>2021</year>) <volume>
+                    26</volume>(<issue>5</issue>):<fpage>1679</fpage>&#x02013;<lpage>90</lpage>. <pub-id
+                        pub-id-type="doi">10.1590/1413-81232021265.04072021</pub-id><pub-id
+                        pub-id-type="pmid">34076110</pub-id></mixed-citation>
+            </ref>
+            <ref id="B42">
+                <label>42.</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author">
+                        <name>
+                            <surname>Delanerolle</surname>
+                            <given-names>G</given-names>
+                        </name>
+                        <name>
+                            <surname>Yang</surname>
+                            <given-names>X</given-names>
+                        </name>
+                        <name>
+                            <surname>Shetty</surname>
+                            <given-names>S</given-names>
+                        </name>
+                        <name>
+                            <surname>Raymont</surname>
+                            <given-names>V</given-names>
+                        </name>
+                        <name>
+                            <surname>Shetty</surname>
+                            <given-names>A</given-names>
+                        </name>
+                        <name>
+                            <surname>Phiri</surname>
+                            <given-names>P</given-names>
+                        </name>
+                        <etal />
+                    </person-group>\n<article-title>Artificial
+                    intelligence: a rapid case for advancement in the personalization of
+                    gynaecology/ obstetric and mental health care</article-title>. <source>Women&#x02019;s
+                    Health</source>. (<year>2021</year>) <volume>17</volume>:<fpage>1</fpage>
+                    &#x02013;<lpage>20</lpage>. <pub-id pub-id-type="doi">10.1177/17455065211018111</pub-id></mixed-citation>
+            </ref>
+            <ref id="B43">
+                <label>43.</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author">
+                        <name>
+                            <surname>Ramachandran</surname>
+                            <given-names>M</given-names>
+                        </name>
+                        <name>
+                            <surname>Suharwardy</surname>
+                            <given-names>S</given-names>
+                        </name>
+                        <name>
+                            <surname>Leonard</surname>
+                            <given-names>SA</given-names>
+                        </name>
+                        <name>
+                            <surname>Gunaseelan</surname>
+                            <given-names>A</given-names>
+                        </name>
+                        <name>
+                            <surname>Robinson</surname>
+                            <given-names>A</given-names>
+                        </name>
+                        <name>
+                            <surname>Darcy</surname>
+                            <given-names>A</given-names>
+                        </name>
+                        <etal />
+                    </person-group>\n<article-title>Acceptability of
+                    postnatal mood management through a smartphone-based automated conversational
+                    agent</article-title>. <source>Am J Obstet Gynecol</source>. (<year>2020</year>) <volume>
+                    74</volume>:<fpage>S62</fpage>. <pub-id pub-id-type="doi">
+                    10.1016/j.ajog.2019.11.090</pub-id></mixed-citation>
+            </ref>
+            <ref id="B44">
+                <label>44.</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author">
+                        <name>
+                            <surname>Suharwardy</surname>
+                            <given-names>S</given-names>
+                        </name>
+                        <name>
+                            <surname>Ramachandran</surname>
+                            <given-names>M</given-names>
+                        </name>
+                        <name>
+                            <surname>Leonard</surname>
+                            <given-names>SA</given-names>
+                        </name>
+                        <name>
+                            <surname>Gunaseelan</surname>
+                            <given-names>A</given-names>
+                        </name>
+                        <name>
+                            <surname>Robinson</surname>
+                            <given-names>A</given-names>
+                        </name>
+                        <name>
+                            <surname>Darcy</surname>
+                            <given-names>A</given-names>
+                        </name>
+                        <etal />
+                    </person-group>\n<article-title>116: effect of
+                    an automated conversational agent on postpartum mental health: a randomized,
+                    controlled trial</article-title>. <source>Am J Obstet Gynecol</source>. (<year>
+                    2020</year>) <volume>222</volume>(<issue>1</issue>):<fpage>S91</fpage>. <pub-id
+                        pub-id-type="doi">10.1016/j.ajog.2019.11.132</pub-id></mixed-citation>
+            </ref>
+            <ref id="B45">
+                <label>45.</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author">
+                        <name>
+                            <surname>Darcy</surname>
+                            <given-names>A</given-names>
+                        </name>
+                        <name>
+                            <surname>Beaudette</surname>
+                            <given-names>A</given-names>
+                        </name>
+                        <name>
+                            <surname>Chiauzzi</surname>
+                            <given-names>E</given-names>
+                        </name>
+                        <name>
+                            <surname>Daniels</surname>
+                            <given-names>J</given-names>
+                        </name>
+                        <name>
+                            <surname>Goodwin</surname>
+                            <given-names>K</given-names>
+                        </name>
+                        <name>
+                            <surname>Mariano</surname>
+                            <given-names>TY</given-names>
+                        </name>
+                        <etal />
+                    </person-group>\n<article-title>Anatomy of a
+                    woebot&#x000ae; (WB001): agent guided CBT for women with postpartum depression</article-title>
+                    . <source>Expert Rev Med Devices</source>. (<year>2022</year>) <volume>19</volume>
+                    (<issue>4</issue>):<fpage>287</fpage>&#x02013;<lpage>301</lpage>. <pub-id
+                        pub-id-type="doi">10.1080/17434440.2022.2075726</pub-id><pub-id
+                        pub-id-type="pmid">35748029</pub-id></mixed-citation>
+            </ref>
+            <ref id="B46">
+                <label>46.</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author">
+                        <name>
+                            <surname>Green</surname>
+                            <given-names>EP</given-names>
+                        </name>
+                        <name>
+                            <surname>Pearson</surname>
+                            <given-names>N</given-names>
+                        </name>
+                        <name>
+                            <surname>Rajasekharan</surname>
+                            <given-names>S</given-names>
+                        </name>
+                        <name>
+                            <surname>Rauws</surname>
+                            <given-names>M</given-names>
+                        </name>
+                        <name>
+                            <surname>Joerin</surname>
+                            <given-names>A</given-names>
+                        </name>
+                        <name>
+                            <surname>Kwobah</surname>
+                            <given-names>E</given-names>
+                        </name>
+                        <etal />
+                    </person-group>\n<article-title>Expanding access
+                    to depression treatment in Kenya through automated psychological support:
+                    protocol for a single-case experimental design pilot study</article-title>. <source>JMIR
+                    Res Protoc</source>. (<year>2019</year>) <volume>8</volume>(<issue>4</issue>):<fpage>
+                    e11800</fpage>. <pub-id pub-id-type="doi">10.2196/11800</pub-id><pub-id
+                        pub-id-type="pmid">31033448</pub-id></mixed-citation>
+            </ref>
+            <ref id="B47">
+                <label>47.</label>
+                <mixed-citation publication-type="confproc"><person-group person-group-type="author">
+                        <name>
+                            <surname>Wang</surname>
+                            <given-names>R</given-names>
+                        </name>
+                        <name>
+                            <surname>Wang</surname>
+                            <given-names>J</given-names>
+                        </name>
+                        <name>
+                            <surname>Liao</surname>
+                            <given-names>Y</given-names>
+                        </name>
+                        <name>
+                            <surname>Wang</surname>
+                            <given-names>J</given-names>
+                        </name>
+                    </person-group>
+                    . <conf-name>Supervised machine learning chatbots for perinatal mental
+                    healthcare</conf-name>. <conf-name>International Conference on Intelligent
+                    Computing and Human-Computer Interaction (ICHCI)</conf-name>; <conf-loc>Sanya,
+                    China</conf-loc> (<year>2020</year>). p. <fpage>378</fpage>&#x02013;<lpage>83</lpage>
+                    . <pub-id pub-id-type="doi">10.1109/ICHCI51889.2020.00086</pub-id></mixed-citation>
+            </ref>
+            <ref id="B48">
+                <label>48.</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author">
+                        <name>
+                            <surname>Inkster</surname>
+                            <given-names>B</given-names>
+                        </name>
+                        <name>
+                            <surname>Sarda</surname>
+                            <given-names>S</given-names>
+                        </name>
+                        <name>
+                            <surname>Subramanian</surname>
+                            <given-names>V</given-names>
+                        </name>
+                    </person-group>
+                    . <article-title>An empathy-driven, conversational artificial intelligence agent
+                    (wysa) for digital mental well-being: real-world data evaluation mixed-methods
+                    study</article-title>. <source>JMIR Mhealth Uhealth</source>. (<year>2018</year>
+                    ) <volume>6</volume>(<issue>11</issue>):<fpage>e12106</fpage>. <pub-id
+                        pub-id-type="doi">10.2196/12106</pub-id><pub-id pub-id-type="pmid">30470676</pub-id></mixed-citation>
+            </ref>
+            <ref id="B49">
+                <label>49.</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author">
+                        <name>
+                            <surname>Leo</surname>
+                            <given-names>AJ</given-names>
+                        </name>
+                        <name>
+                            <surname>Schuelke</surname>
+                            <given-names>MJ</given-names>
+                        </name>
+                        <name>
+                            <surname>Hunt</surname>
+                            <given-names>DM</given-names>
+                        </name>
+                        <name>
+                            <surname>Metzler</surname>
+                            <given-names>JP</given-names>
+                        </name>
+                        <name>
+                            <surname>Miller</surname>
+                            <given-names>JP</given-names>
+                        </name>
+                        <name>
+                            <surname>Are&#x000e1;n</surname>
+                            <given-names>PA</given-names>
+                        </name>
+                        <etal />
+                    </person-group>\n<article-title>Digital mental
+                    health intervention for orthopedic patients with symptoms of depression and/or
+                    anxiety: pilot feasibility study</article-title>. <source>JMIR Form Res</source>.
+                    (<year>2022</year>) <volume>6</volume>(<issue>2</issue>):<fpage>e34889</fpage>. <pub-id
+                        pub-id-type="doi">10.2196/34889</pub-id><pub-id pub-id-type="pmid">35039278</pub-id></mixed-citation>
+            </ref>
+            <ref id="B50">
+                <label>50.</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author">
+                        <name>
+                            <surname>Leo</surname>
+                            <given-names>AJ</given-names>
+                        </name>
+                        <name>
+                            <surname>Schuelke</surname>
+                            <given-names>MJ</given-names>
+                        </name>
+                        <name>
+                            <surname>Hunt</surname>
+                            <given-names>DM</given-names>
+                        </name>
+                        <name>
+                            <surname>Miller</surname>
+                            <given-names>JP</given-names>
+                        </name>
+                        <name>
+                            <surname>Are&#x000e1;n</surname>
+                            <given-names>PA</given-names>
+                        </name>
+                        <name>
+                            <surname>Cheng</surname>
+                            <given-names>AL</given-names>
+                        </name>
+                    </person-group>
+                    . <article-title>Digital mental health intervention plus usual care compared
+                    with usual care only and usual care plus in-person psychological counseling for
+                    orthopedic patients with symptoms of depression or anxiety: cohort study</article-title>
+                    . <source>JMIR Form Res</source>. (<year>2022</year>) <volume>6</volume>(<issue>
+                    5</issue>):<fpage>e36203</fpage>. <pub-id pub-id-type="doi">10.2196/36203</pub-id><pub-id
+                        pub-id-type="pmid">35507387</pub-id></mixed-citation>
+            </ref>
+            <ref id="B51">
+                <label>51.</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author">
+                        <name>
+                            <surname>Mitchell</surname>
+                            <given-names>AJ</given-names>
+                        </name>
+                        <name>
+                            <surname>Yadegarfar</surname>
+                            <given-names>M</given-names>
+                        </name>
+                        <name>
+                            <surname>Gill</surname>
+                            <given-names>J</given-names>
+                        </name>
+                        <name>
+                            <surname>Stubbs</surname>
+                            <given-names>B</given-names>
+                        </name>
+                    </person-group>
+                    . <article-title>Case finding and screening clinical utility of the patient
+                    health questionnaire (PHQ-9 and PHQ-2) for depression in primary care: a
+                    diagnostic meta-analysis of 40 studies</article-title>. <source>BJPsych Open</source>.
+                    (<year>2016</year>) <volume>2</volume>(<issue>2</issue>):<fpage>127</fpage>
+                    &#x02013;<lpage>38</lpage>. <pub-id pub-id-type="doi">10.1192/bjpo.bp.115.001685</pub-id><pub-id
+                        pub-id-type="pmid">27703765</pub-id></mixed-citation>
+            </ref>
+            <ref id="B52">
+                <label>52.</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author">
+                        <name>
+                            <surname>Ruscio</surname>
+                            <given-names>J</given-names>
+                        </name>
+                    </person-group>
+                    . <article-title>A probability-based measure of effect size: robustness to base
+                    rates and other factors</article-title>. <source>Psychol Methods</source>. (<year>
+                    2008</year>) <volume>13</volume>(<issue>1</issue>):<fpage>19</fpage>&#x02013;<lpage>
+                    30</lpage>. <pub-id pub-id-type="doi">10.1037/1082-989X.13.1.19</pub-id><pub-id
+                        pub-id-type="pmid">18331151</pub-id></mixed-citation>
+            </ref>
+            <ref id="B53">
+                <label>53.</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author">
+                        <name>
+                            <surname>Rice</surname>
+                            <given-names>ME</given-names>
+                        </name>
+                        <name>
+                            <surname>Harris</surname>
+                            <given-names>GT</given-names>
+                        </name>
+                    </person-group>
+                    . <article-title>Comparing effect sizes in follow-up studies: ROC area,
+                    Cohen&#x02019;s <italic>d</italic>, and <italic>r</italic></article-title>. <source>Law
+                    Hum Behav</source>. (<year>2005</year>) <volume>29</volume>(<issue>5</issue>):<fpage>
+                    615</fpage>&#x02013;<lpage>20</lpage>. <pub-id pub-id-type="doi">
+                    10.1007/s10979-005-6832-7</pub-id><pub-id pub-id-type="pmid">16254746</pub-id></mixed-citation>
+            </ref>
+            <ref id="B54">
+                <label>54.</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author">
+                        <name>
+                            <surname>Braun</surname>
+                            <given-names>V</given-names>
+                        </name>
+                        <name>
+                            <surname>Clarke</surname>
+                            <given-names>V</given-names>
+                        </name>
+                    </person-group>
+                    . <article-title>Using thematic analysis in psychology</article-title>. <source>Qual
+                    Res Psychol</source>. (<year>2006</year>) <volume>3</volume>(<issue>2</issue>):<fpage>
+                    77</fpage>&#x02013;<lpage>101</lpage>. <pub-id pub-id-type="doi">
+                    10.1191/1478088706qp063oa</pub-id></mixed-citation>
+            </ref>
+            <ref id="B55">
+                <label>55.</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author">
+                        <name>
+                            <surname>Malik</surname>
+                            <given-names>T</given-names>
+                        </name>
+                        <name>
+                            <surname>Ambrose</surname>
+                            <given-names>AJ</given-names>
+                        </name>
+                        <name>
+                            <surname>Sinha</surname>
+                            <given-names>C</given-names>
+                        </name>
+                    </person-group>
+                    . <article-title>Evaluating user feedback for an artificial
+                    intelligence-enabled, cognitive behavioral therapy-based mental health app
+                    (wysa): qualitative thematic analysis</article-title>. <source>JMIR Hum Factors</source>.
+                    (<year>2022</year>) <volume>9</volume>(<issue>2</issue>):<fpage>e35668</fpage>. <pub-id
+                        pub-id-type="doi">10.2196/35668</pub-id><pub-id pub-id-type="pmid">35249886</pub-id></mixed-citation>
+            </ref>
+            <ref id="B56">
+                <label>56.</label>
+                <mixed-citation publication-type="other"><collab>Wysa</collab>. <comment>Available
+                    at:</comment>\n<ext-link xlink:href="https://www.wysa.com" ext-link-type="uri">
+                    https://www.wysa.com</ext-link>\n<comment>(Accessed April 18, 2023)</comment>.</mixed-citation>
+            </ref>
+            <ref id="B57">
+                <label>57.</label>
+                <mixed-citation publication-type="other"><collab>Wysa</collab>. <comment>Terms of
+                    service</comment>. <comment>Available at:</comment>\n<ext-link
+                        xlink:href="https://legal.wysa.io/terms" ext-link-type="uri">
+                    https://legal.wysa.io/terms</ext-link>\n<comment>(Accessed April 18, 2023)</comment>
+                    .</mixed-citation>
+            </ref>
+            <ref id="B58">
+                <label>58.</label>
+                <mixed-citation publication-type="other"><collab>Wysa</collab>. <comment>Privacy
+                    policy</comment>. <comment>Available at:</comment>\n<ext-link
+                        xlink:href="https://legal.wysa.io/privacy-policy" ext-link-type="uri">
+                    https://legal.wysa.io/privacy-policy</ext-link>\n<comment>(Accessed April 18,
+                    2023)</comment>.</mixed-citation>
+            </ref>
+            <ref id="B59">
+                <label>59.</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author">
+                        <name>
+                            <surname>Myers</surname>
+                            <given-names>S</given-names>
+                        </name>
+                        <name>
+                            <surname>Emmott</surname>
+                            <given-names>EH</given-names>
+                        </name>
+                    </person-group>
+                    . <article-title>Communication across maternal social networks during
+                    England&#x02019;s first national lockdown and its association with postnatal
+                    depressive symptoms</article-title>. <source>Front Psychol</source>. (<year>2021</year>
+                    ) <volume>12</volume>:<fpage>648002</fpage>. <pub-id pub-id-type="doi">
+                    10.3389/fpsyg.2021.648002</pub-id><pub-id pub-id-type="pmid">34045995</pub-id></mixed-citation>
+            </ref>
+            <ref id="B60">
+                <label>60.</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author">
+                        <name>
+                            <surname>Davenport</surname>
+                            <given-names>MH</given-names>
+                        </name>
+                        <name>
+                            <surname>Meyer</surname>
+                            <given-names>S</given-names>
+                        </name>
+                        <name>
+                            <surname>Meah</surname>
+                            <given-names>VL</given-names>
+                        </name>
+                        <name>
+                            <surname>Strynadka</surname>
+                            <given-names>MC</given-names>
+                        </name>
+                        <name>
+                            <surname>Khurana</surname>
+                            <given-names>R</given-names>
+                        </name>
+                    </person-group>
+                    . <article-title>Moms are not OK: COVID-19 and maternal mental health</article-title>
+                    . <source>Front Glob Womens Health</source>. (<year>2020</year>) <volume>1</volume>
+                    :<fpage>1</fpage>. <pub-id pub-id-type="doi">10.3389/fgwh.2020.00001</pub-id><pub-id
+                        pub-id-type="pmid">34816146</pub-id></mixed-citation>
+            </ref>
+            <ref id="B61">
+                <label>61.</label>
+                <mixed-citation publication-type="other"><comment>The improving access to
+                    psychological therapies manual appendices and helpful resources. Prepared by the
+                    National Collaborating Centre for Mental Health. Gateway reference: 07534
+                    Version number: 2 Updated: December 2019; First published: June 2018</comment>. <comment>Available
+                    at:</comment>\n<ext-link
+                        xlink:href="https://www.rcpsych.ac.uk/docs/default-source/improving-care/nccmh/iapt/nccmh-iapt-manual-appendices-helpful-resources-v2.pdf?sfvrsn=a607ef5_4"
+                        ext-link-type="uri">
+                    https://www.rcpsych.ac.uk/docs/default-source/improving-care/nccmh/iapt/nccmh-iapt-manual-appendices-helpful-resources-v2.pdf?sfvrsn=a607ef5_4</ext-link>
+                    \n<comment>(Accessed April 18, 2023)</comment>.</mixed-citation>
+            </ref>
+            <ref id="B62">
+                <label>62.</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author">
+                        <name>
+                            <surname>Bower</surname>
+                            <given-names>P</given-names>
+                        </name>
+                        <name>
+                            <surname>Kontopantelis</surname>
+                            <given-names>E</given-names>
+                        </name>
+                        <name>
+                            <surname>Sutton</surname>
+                            <given-names>A</given-names>
+                        </name>
+                        <name>
+                            <surname>Kendrick</surname>
+                            <given-names>T</given-names>
+                        </name>
+                        <name>
+                            <surname>Richards</surname>
+                            <given-names>DA</given-names>
+                        </name>
+                        <name>
+                            <surname>Gilbody</surname>
+                            <given-names>S</given-names>
+                        </name>
+                        <etal />
+                    </person-group>\n<article-title>Influence of
+                    initial severity of depression on effectiveness of low intensity interventions:
+                    meta-analysis of individual patient data</article-title>. <source>Br Med J</source>.
+                    (<year>2013</year>) <volume>346</volume>:<fpage>f540</fpage>. <pub-id
+                        pub-id-type="doi">10.1136/bmj.f540</pub-id><pub-id pub-id-type="pmid">
+                    23444423</pub-id></mixed-citation>
+            </ref>
+            <ref id="B63">
+                <label>63.</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author">
+                        <name>
+                            <surname>Brizuela</surname>
+                            <given-names>V</given-names>
+                        </name>
+                        <name>
+                            <surname>Tun&#x000e7;alp</surname>
+                            <given-names>&#x000d6;</given-names>
+                        </name>
+                    </person-group>
+                    . <article-title>A road to optimizing maternal and newborn quality care
+                    measurement for all</article-title>. <source>Lancet Glob Health</source>. (<year>
+                    2021</year>) <volume>9</volume>(<issue>3</issue>):<fpage>e221</fpage>&#x02013;<lpage>
+                    2</lpage>. <pub-id pub-id-type="doi">10.1016/S2214-109X(20)30519-2</pub-id><pub-id
+                        pub-id-type="pmid">33421366</pub-id></mixed-citation>
+            </ref>
+            <ref id="B64">
+                <label>64.</label>
+                <mixed-citation publication-type="other"><collab>Boots Family Trust Alliance London</collab>
+                    . <comment>Perinatal mental health: experiences of women and Health
+                    Professionals</comment> (<year>2013</year>). <comment>Available at:</comment>\n<ext-link
+                        xlink:href="https://maternalmentalhealthalliance.org/wp-content/uploads/Boots-Family-Trust-Alliance-report.pdf"
+                        ext-link-type="uri">
+                    https://maternalmentalhealthalliance.org/wp-content/uploads/Boots-Family-Trust-Alliance-report.pdf</ext-link>
+                    \n<comment>(Accessed April 18, 2023)</comment>.</mixed-citation>
+            </ref>
+            <ref id="B65">
+                <label>65.</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author">
+                        <name>
+                            <surname>Shachar</surname>
+                            <given-names>C</given-names>
+                        </name>
+                    </person-group>
+                    . <article-title>HIPAA, privacy, and reproductive rights in a post-roe era</article-title>
+                    . <source>JAMA</source>. (<year>2022</year>) <volume>328</volume>(<issue>5</issue>
+                    ):<fpage>417</fpage>&#x02013;<lpage>8</lpage>. <pub-id pub-id-type="doi">
+                    10.1001/jama.2022.12510</pub-id><pub-id pub-id-type="pmid">35838680</pub-id></mixed-citation>
+            </ref>
+            <ref id="B66">
+                <label>66.</label>
+                <mixed-citation publication-type="other"><collab>Bloomberg</collab>. <comment>Google
+                    maps regularly misleads people searching for abortion clinics</comment> (<year>
+                    2022</year>) <comment>Available at:</comment>\n<ext-link
+                        xlink:href="https://www.bloomberg.com/graphics/2022-google-search-abortion-clinic-crisis-pregnancy-center/"
+                        ext-link-type="uri">
+                    https://www.bloomberg.com/graphics/2022-google-search-abortion-clinic-crisis-pregnancy-center/</ext-link>
+                    \n<comment>(Accessed April 18, 2023)</comment>.</mixed-citation>
+            </ref>
+            <ref id="B67">
+                <label>67.</label>
+                <mixed-citation publication-type="other"><collab>Mozilla Foundation</collab>. <comment>Privacy
+                    not included: a buyer&#x02019;s guide for connected products</comment>. <comment>Available
+                    at:</comment>\n<ext-link
+                        xlink:href="https://foundation.mozilla.org/en/privacynotincluded/categories/reproductive-health/"
+                        ext-link-type="uri">
+                    https://foundation.mozilla.org/en/privacynotincluded/categories/reproductive-health/</ext-link>
+                    \n<comment>(Accessed April 18, 2023)</comment>.</mixed-citation>
+            </ref>
+            <ref id="B68">
+                <label>68.</label>
+                <mixed-citation publication-type="other"><collab>Mozilla Foundation</collab>. <comment>Top
+                    mental health and prayer apps fail spectacularly at privacy, security</comment>
+                    (<year>2022</year>). <comment>Available at:</comment>\n<ext-link
+                        xlink:href="https://foundation.mozilla.org/en/blog/top-mental-health-and-prayer-apps-fail-spectacularly-at-privacy-security/"
+                        ext-link-type="uri">
+                    https://foundation.mozilla.org/en/blog/top-mental-health-and-prayer-apps-fail-spectacularly-at-privacy-security/</ext-link>
+                    \n<comment>(Accessed April 18, 2023)</comment>.</mixed-citation>
+            </ref>
+            <ref id="B69">
+                <label>69.</label>
+                <mixed-citation publication-type="book"><person-group person-group-type="author">
+                        <name>
+                            <surname>Cox</surname>
+                            <given-names>J</given-names>
+                        </name>
+                        <name>
+                            <surname>Holden</surname>
+                            <given-names>J</given-names>
+                        </name>
+                    </person-group>
+                    . <source>Perinatal mental health: A guide to the Edinburgh postnatal depression
+                    scale (EPDS)</source>. <publisher-loc>Washington</publisher-loc>: <publisher-name>Royal
+                    College of Psychiatrists</publisher-name> (<year>2003</year>). <ext-link
+                        xlink:href="https://psycnet.apa.org/record/2004-14522-000"
+                        ext-link-type="uri">https://psycnet.apa.org/record/2004-14522-000</ext-link>
+                    \n<comment>(Accessed April 18, 2023)</comment>.</mixed-citation>
+            </ref>
+        </ref-list>
+    </back>
+</article>

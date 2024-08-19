@@ -1,0 +1,2841 @@
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink"
+    dtd-version="1.3" xml:lang="en" article-type="research-article">
+    <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml"
+        tagset-family="jats">
+        <restricted-by>pmc</restricted-by>
+    </processing-meta>
+    <front><journal-meta>
+            <journal-id journal-id-type="nlm-ta">Gels</journal-id>
+            <journal-id journal-id-type="iso-abbrev">Gels</journal-id>
+            <journal-id journal-id-type="publisher-id">gels</journal-id>
+            <journal-title-group>
+                <journal-title>Gels</journal-title>
+            </journal-title-group>
+            <issn pub-type="epub">2310-2861</issn>
+            <publisher>
+                <publisher-name>MDPI</publisher-name>
+            </publisher>
+        </journal-meta>
+        \n<article-meta><article-id pub-id-type="pmid">38920944</article-id><article-id
+                pub-id-type="pmc">
+                PMC11202987</article-id>\n<article-id pub-id-type="doi">10.3390/gels10060398</article-id><article-id
+                pub-id-type="publisher-id">gels-10-00398</article-id><article-categories>
+                <subj-group subj-group-type="heading">
+                    <subject>Article</subject>
+                </subj-group>
+            </article-categories><title-group>
+                <article-title>The Highly Durable Antibacterial Gel-like Coatings for Textiles</article-title>
+            </title-group><contrib-group>
+                <contrib contrib-type="author">
+                    <contrib-id contrib-id-type="orcid" authenticated="true">
+        https://orcid.org/0009-0005-4995-4133</contrib-id>
+                    <name>
+                        <surname>Mirmohammadsadeghi</surname>
+                        <given-names>Seyedali</given-names>
+                    </name>
+                    <role vocab="credit" vocab-identifier="https://credit.niso.org/"
+                        vocab-term="Investigation"
+                        vocab-term-identifier="https://credit.niso.org/contributor-roles/investigation/">
+        Investigation</role>
+                    <role vocab="credit" vocab-identifier="https://credit.niso.org/"
+                        vocab-term="Writing &#x02013; original draft"
+                        vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-original-draft/">Writing
+        &#x02013; original draft</role>
+                    <xref rid="af1-gels-10-00398" ref-type="aff">1</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Juhas</surname>
+                        <given-names>David</given-names>
+                    </name>
+                    <role vocab="credit" vocab-identifier="https://credit.niso.org/"
+                        vocab-term="Investigation"
+                        vocab-term-identifier="https://credit.niso.org/contributor-roles/investigation/">
+        Investigation</role>
+                    <role vocab="credit" vocab-identifier="https://credit.niso.org/"
+                        vocab-term="Data curation"
+                        vocab-term-identifier="https://credit.niso.org/contributor-roles/data-curation/">Data
+        curation</role>
+                    <role vocab="credit" vocab-identifier="https://credit.niso.org/"
+                        vocab-term="Writing &#x02013; original draft"
+                        vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-original-draft/">Writing
+        &#x02013; original draft</role>
+                    <role vocab="credit" vocab-identifier="https://credit.niso.org/"
+                        vocab-term="Project administration"
+                        vocab-term-identifier="https://credit.niso.org/contributor-roles/project-administration/">Project
+        administration</role>
+                    <xref rid="af2-gels-10-00398" ref-type="aff">2</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Parker</surname>
+                        <given-names>Mikhail</given-names>
+                    </name>
+                    <role vocab="credit" vocab-identifier="https://credit.niso.org/"
+                        vocab-term="Investigation"
+                        vocab-term-identifier="https://credit.niso.org/contributor-roles/investigation/">
+        Investigation</role>
+                    <xref rid="af1-gels-10-00398" ref-type="aff">1</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                    <contrib-id contrib-id-type="orcid" authenticated="true">
+        https://orcid.org/0000-0002-1042-2392</contrib-id>
+                    <name>
+                        <surname>Peranidze</surname>
+                        <given-names>Kristina</given-names>
+                    </name>
+                    <role vocab="credit" vocab-identifier="https://credit.niso.org/"
+                        vocab-term="Investigation"
+                        vocab-term-identifier="https://credit.niso.org/contributor-roles/investigation/">
+        Investigation</role>
+                    <xref rid="af1-gels-10-00398" ref-type="aff">1</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                    <contrib-id contrib-id-type="orcid" authenticated="true">
+        https://orcid.org/0000-0002-6471-0971</contrib-id>
+                    <name>
+                        <surname>Van Horn</surname>
+                        <given-names>Dwight Austin</given-names>
+                    </name>
+                    <role vocab="credit" vocab-identifier="https://credit.niso.org/"
+                        vocab-term="Conceptualization"
+                        vocab-term-identifier="https://credit.niso.org/contributor-roles/conceptualization/">
+        Conceptualization</role>
+                    <role vocab="credit" vocab-identifier="https://credit.niso.org/"
+                        vocab-term="Supervision"
+                        vocab-term-identifier="https://credit.niso.org/contributor-roles/supervision/">
+        Supervision</role>
+                    <role vocab="credit" vocab-identifier="https://credit.niso.org/"
+                        vocab-term="Funding acquisition"
+                        vocab-term-identifier="https://credit.niso.org/contributor-roles/funding-acquisition/">Funding
+        acquisition</role>
+                    <xref rid="af3-gels-10-00398" ref-type="aff">3</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Sharma</surname>
+                        <given-names>Aayushi</given-names>
+                    </name>
+                    <role vocab="credit" vocab-identifier="https://credit.niso.org/"
+                        vocab-term="Formal analysis"
+                        vocab-term-identifier="https://credit.niso.org/contributor-roles/formal-analysis/">Formal
+        analysis</role>
+                    <xref rid="af4-gels-10-00398" ref-type="aff">4</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Patel</surname>
+                        <given-names>Dhruvi</given-names>
+                    </name>
+                    <role vocab="credit" vocab-identifier="https://credit.niso.org/"
+                        vocab-term="Formal analysis"
+                        vocab-term-identifier="https://credit.niso.org/contributor-roles/formal-analysis/">Formal
+        analysis</role>
+                    <xref rid="af4-gels-10-00398" ref-type="aff">4</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Sysoeva</surname>
+                        <given-names>Tatyana A.</given-names>
+                    </name>
+                    <xref rid="af4-gels-10-00398" ref-type="aff">4</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Klepov</surname>
+                        <given-names>Vladislav</given-names>
+                    </name>
+                    <role vocab="credit" vocab-identifier="https://credit.niso.org/"
+                        vocab-term="Data curation"
+                        vocab-term-identifier="https://credit.niso.org/contributor-roles/data-curation/">Data
+        curation</role>
+                    <xref rid="af5-gels-10-00398" ref-type="aff">5</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Reukov</surname>
+                        <given-names>Vladimir</given-names>
+                    </name>
+                    <role vocab="credit" vocab-identifier="https://credit.niso.org/"
+                        vocab-term="Conceptualization"
+                        vocab-term-identifier="https://credit.niso.org/contributor-roles/conceptualization/">
+        Conceptualization</role>
+                    <role vocab="credit" vocab-identifier="https://credit.niso.org/"
+                        vocab-term="Writing &#x02013; review &#x00026; editing"
+                        vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-review-editing/">Writing
+        &#x02013; review &#x00026; editing</role>
+                    <role vocab="credit" vocab-identifier="https://credit.niso.org/"
+                        vocab-term="Supervision"
+                        vocab-term-identifier="https://credit.niso.org/contributor-roles/supervision/">
+        Supervision</role>
+                    <role vocab="credit" vocab-identifier="https://credit.niso.org/"
+                        vocab-term="Project administration"
+                        vocab-term-identifier="https://credit.niso.org/contributor-roles/project-administration/">Project
+        administration</role>
+                    <role vocab="credit" vocab-identifier="https://credit.niso.org/"
+                        vocab-term="Funding acquisition"
+                        vocab-term-identifier="https://credit.niso.org/contributor-roles/funding-acquisition/">Funding
+        acquisition</role>
+                    <xref rid="af1-gels-10-00398" ref-type="aff">1</xref>
+                    <xref rid="c1-gels-10-00398" ref-type="corresp">*</xref>
+                </contrib>
+            </contrib-group><contrib-group>
+                <contrib contrib-type="editor">
+                    <name>
+                        <surname>Zille</surname>
+                        <given-names>Andrea</given-names>
+                    </name>
+                    <role>Academic Editor</role>
+                </contrib>
+            </contrib-group><aff
+                id="af1-gels-10-00398"><label>1</label>Textiles, Merchandising and Interiors,
+        University of Georgia, Athens, GA 30605, USA</aff><aff id="af2-gels-10-00398"><label>2</label>Independent
+        Researcher, Webster, NY 14580, USA</aff><aff id="af3-gels-10-00398"><label>3</label>Independent
+        Researcher, Summerville, SC 29486, USA; <email>avanhorn@chitozanhealth.com</email></aff><aff
+                id="af4-gels-10-00398"><label>4</label>Department of Biological Sciences, University
+        of Alabama in Huntsville, Huntsville, AL 35758, USA<email>
+                    tatyana.sysoeva@uah.edu</email> (T.A.S.)</aff><aff id="af5-gels-10-00398"><label>
+        5</label>Department of Chemistry, University of Georgia, Athens, GA 30605, USA; <email>
+        klepov@uga.edu</email></aff><author-notes>
+                <corresp id="c1-gels-10-00398"><label>*</label>Correspondence: <email>reukov@uga.edu</email></corresp>
+            </author-notes><pub-date
+                pub-type="epub">
+                <day>13</day>
+                <month>6</month>
+                <year>2024</year>
+            </pub-date><pub-date pub-type="collection">
+                <month>6</month>
+                <year>2024</year>
+            </pub-date><volume>10</volume><issue>6</issue><elocation-id>
+        398</elocation-id><history>
+                <date date-type="received">
+                    <day>10</day>
+                    <month>5</month>
+                    <year>2024</year>
+                </date>
+                <date date-type="rev-recd">
+                    <day>06</day>
+                    <month>6</month>
+                    <year>2024</year>
+                </date>
+                <date date-type="accepted">
+                    <day>07</day>
+                    <month>6</month>
+                    <year>2024</year>
+                </date>
+            </history><permissions>
+                <copyright-statement>&#x000a9; 2024 by the authors.</copyright-statement>
+                <copyright-year>2024</copyright-year>
+                <license>
+                    <ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/"
+                        specific-use="textmining" content-type="ccbylicense">
+        https://creativecommons.org/licenses/by/4.0/</ali:license_ref>
+                    <license-p>Licensee MDPI, Basel, Switzerland. This article is an open access
+        article distributed under the terms and conditions of the Creative Commons Attribution (CC
+        BY) license (<ext-link ext-link-type="uri"
+                            xlink:href="https://creativecommons.org/licenses/by/4.0/">
+        https://creativecommons.org/licenses/by/4.0/</ext-link>).</license-p>
+                </license>
+            </permissions><abstract>
+                <p>Hospital-acquired infections are considered a priority for public health systems
+        since they pose a significant burden for society. High-touch surfaces of healthcare centers,
+        including textiles, provide a suitable environment for pathogenic bacteria to grow,
+        necessitating incorporating effective antibacterial agents into textiles. This paper
+        introduces a highly durable antibacterial gel-like solution, Silver Shell&#x02122; finish,
+        which contains chitosan-bound silver chloride microparticles. The study investigates the
+        coating&#x02019;s environmental impact, health risks, and durability during repeated
+        washing. The structure of the Silver Shell&#x02122; finish was studied using transmission
+        electron microscopy (TEM) and energy-dispersive X-ray spectroscopy (EDX). The TEM images
+        showed a core&#x02013;shell structure, with chitosan forming a protective shell around
+        groupings of silver microparticles. The field-emission scanning electron microscopy (FESEM)
+        demonstrated the uniform deposition of Silver Shell&#x02122; on the surfaces of the fabrics.
+        AATCC Test Method 100 was employed to quantitatively analyze the antibacterial properties of
+        the fabrics coated with silver microparticles. Two types of bacteria, <italic toggle="yes">Staphylococcus
+        aureus</italic> (<italic toggle="yes">S. aureus</italic>) and <italic toggle="yes">Escherichia
+        coli</italic> (<italic toggle="yes">E. coli</italic>), were used in this study. The
+        antibacterial results showed that after 75 wash cycles, a 100% reduction for both <italic
+                        toggle="yes">S. aureus</italic> and <italic toggle="yes">E. coli</italic> in
+        the coated samples using crosslinking agents was observed. The coated samples without a
+        crosslinking agent exhibited 99.88% and 99.81% reductions for <italic toggle="yes">S. aureus</italic>
+        and <italic toggle="yes">E. coli</italic> after 50 washing cycles. To compare the
+        antibacterial properties toward non-pathogenic and pathogenic strains of the same species,
+        MG1655 model E. coli strain (ATCC 29213) and a multidrug-resistant clinical isolate were
+        used. The results showed the antibacterial efficiency of the Silver Shell<sup>TM</sup>
+        solution (up to 99.99% reduction) coated on cotton fabric. AATCC-147 was performed to
+        investigate the coated samples&#x02019; leaching properties and the crosslinking
+        agent&#x02019;s effects against <italic
+                        toggle="yes">S. aureus</italic> and <italic toggle="yes">E. coli</italic>.
+        All coated samples demonstrated remarkable antibacterial efficacy, even after 75 wash
+        cycles. The crosslinking agent facilitated durable attachment between the silver
+        microparticles and cotton substrate, minimizing the release of particles from the fabrics.
+        Color measurements were conducted to assess the color differences resulting from the coating
+        process. The results indicated fixation values of 44%, 32%, and 28% following 25, 50, and 75
+        washing cycles, respectively.</p>
+            </abstract><kwd-group>
+                <kwd>antibacterial coatings</kwd>
+                <kwd>gels</kwd>
+                <kwd>biomedical textiles</kwd>
+                <kwd>chitosan</kwd>
+                <kwd>silver microparticles</kwd>
+            </kwd-group><funding-group>
+                <award-group>
+                    <funding-source>National Institute of Allergy and Infectious Diseases of the
+        National Institutes of Health</funding-source>
+                    <award-id>R41AI172693</award-id>
+                </award-group>
+                <funding-statement>Research reported in this publication was supported by the
+        National Institute of Allergy and Infectious Diseases of the National Institutes of Health
+        under award number R41AI172693. The content is solely the responsibility of the authors and
+        does not necessarily represent the official views of the National Institutes of Health.</funding-statement>
+            </funding-group></article-meta></front>
+    <body>
+        <sec sec-type="intro" id="sec1-gels-10-00398">
+            <title>1. Introduction</title>
+            <p>Infectious diseases continue to be one of the leading causes of death around the
+                world and are a priority in global public health [<xref rid="B1-gels-10-00398"
+                    ref-type="bibr">1</xref>,<xref
+                    rid="B2-gels-10-00398" ref-type="bibr">2</xref>]. Based on a recent study,
+                infection-related deaths were the second leading cause of death, accounting for 13.7
+                million mortalities in 2019. To clarify more, between 10 and 18% of all main causes
+                of death were attributed to 33 bacterial pathogens, including the resistant strains,
+                which can mainly be found in contaminated areas, e.g., clinical wards [<xref
+                    rid="B3-gels-10-00398"
+                    ref-type="bibr">3</xref>].</p>
+            <p>Hospital-acquired infections (HAIs), as a fourth primary cause of death in the United
+                States, have imposed a considerable burden on healthcare systems in both human
+                resources and economic issues [<xref rid="B4-gels-10-00398" ref-type="bibr">4</xref>].
+                High-touch surfaces in hospitals and other health centers, such as floors, beds,
+                tables, and textile-based materials, are at risk of being contaminated by pathogenic
+                bacteria. They can easily transfer infectious microbes to patients and hospital
+                workers and cause additional problems [<xref rid="B5-gels-10-00398" ref-type="bibr">
+                5</xref>]. Drug-resistant infections spreading via textile surfaces pose serious
+                threats, and eliminating bacteria from such surfaces has the potential to
+                drastically reduce the spread. To tackle this issue of contaminated hospital textile
+                materials, the common ways are to use disinfectants to remove surface germs and kill
+                bacteria or use disposable items several times a day. Both methods are burdensome
+                for healthcare systems since they are time-consuming and less effective than
+                expected. The high transmission rate of pathogens can still infect patients and
+                healthcare workers with weakened immune systems. In addition, antibiotic overuse is
+                increasing, which can cause the emergence of resistant bacteria and various
+                environmental pollutions [<xref rid="B6-gels-10-00398"
+                    ref-type="bibr">6</xref>]. Therefore, antibacterial surfaces, particularly in
+                textiles, are becoming increasingly desirable to protect against different types of
+                microorganisms [<xref rid="B5-gels-10-00398" ref-type="bibr">5</xref>,<xref
+                    rid="B7-gels-10-00398" ref-type="bibr">7</xref>,<xref
+                    rid="B8-gels-10-00398" ref-type="bibr">8</xref>,<xref rid="B9-gels-10-00398"
+                    ref-type="bibr">9</xref>,<xref rid="B10-gels-10-00398"
+                    ref-type="bibr">10</xref>,<xref rid="B11-gels-10-00398" ref-type="bibr">11</xref>
+                ,<xref rid="B12-gels-10-00398"
+                    ref-type="bibr">12</xref>,<xref rid="B13-gels-10-00398" ref-type="bibr">13</xref>
+                ,<xref rid="B14-gels-10-00398"
+                    ref-type="bibr">14</xref>,<xref rid="B15-gels-10-00398" ref-type="bibr">15</xref>
+                ].</p>
+            <p>Various hospital textiles, such as privacy drapes, upholstery, lab coats, and scrub
+                suits, can be an ideal environment for a broad range of microorganisms, such as
+                bacteria and fungi, to live for months [<xref rid="B7-gels-10-00398" ref-type="bibr">
+                7</xref>]. These textiles are prone to being contaminated by bacteria and transfer
+                them to the human body [<xref rid="B8-gels-10-00398" ref-type="bibr">8</xref>]. The
+                porosity of these materials creates good conditions for microorganisms to thrive by
+                providing moisture and warmth [<xref
+                    rid="B5-gels-10-00398" ref-type="bibr">5</xref>,<xref rid="B8-gels-10-00398"
+                    ref-type="bibr">8</xref>,<xref rid="B9-gels-10-00398"
+                    ref-type="bibr">9</xref>].</p>
+            <p>There are different types of antibacterial agents that could be used to create
+                antimicrobial textiles. These include chemical compounds, natural extracts, and
+                metal nanoparticles. Chlorinated aromatic structures, N-halamines, and Quaternary
+                Ammonium compounds are the most common chemical compounds for antibacterial fabric
+                finishing in the textile industry [<xref rid="B16-gels-10-00398" ref-type="bibr">16</xref>
+                ].</p>
+            <p>As a chlorinated aromatic structure, one of the chemical antimicrobial agents,
+                Triclosan, has been used in different products, such as toothpaste, soaps, shampoos,
+                and facial cleaners. Based on the hydrophobic nature of Triclosan, it has been
+                incorporated into various plastic-based materials, including textiles and air
+                filters. It alters the integrity of the microbe&#x02019;s membranes and disrupts
+                bacterial fatty acid synthesis by inhibiting the activity of enzymes, which are
+                involved in its synthesis. Triclosan&#x02019;s antibacterial properties are affected
+                by its concentration and the coating process of treated materials. Although it
+                showed higher antibacterial properties when it was concentrated in some studies, the
+                bacteria utilize the multidrug-resistance (MDR) efflux pump to expel the drug,
+                thereby reducing its activity. The efficacy of the efflux pump decreased at lower
+                concentrations, and it did not allow the bacteria to form colonies. However, the
+                main drawbacks of using Triclosan are related to environmental concerns. The
+                presence of Triclosan in the environment can accumulate in aquatic organisms, such
+                as fish and algae. It disrupts the endocrine system of aquatic organisms, affecting
+                their growth and reproduction and increasing bacteria resistance against Triclosan [<xref
+                    rid="B17-gels-10-00398" ref-type="bibr">17</xref>,<xref rid="B18-gels-10-00398"
+                    ref-type="bibr">18</xref>]. </p>
+            <p>N-halamines, such as 2,2,5,5-Tetramethyl-Imidozalidin-4-One (TMIO), create covalent
+                bonds with nitrogen and halogen, offering broad-spectrum antibacterial activity [<xref
+                    rid="B19-gels-10-00398" ref-type="bibr">19</xref>,<xref rid="B20-gels-10-00398"
+                    ref-type="bibr">20</xref>]. Another amine-based N-halamine,
+                bis(N-chloro-2,2,6,6-tetramethyl-4-piperidinyl) sebacate (Cl-BTMP), was used as the
+                antimicrobial agent due to its potent antimicrobial efficiency, along with good
+                light and thermal stabilities [<xref rid="B21-gels-10-00398" ref-type="bibr">
+                    21</xref>]. Quaternary Ammonium compounds (QACs) disrupt microbial cell
+                membranes through positively charged nitrogen, exerting biocidal effects against
+                various microorganisms [<xref rid="B22-gels-10-00398" ref-type="bibr">22</xref>,<xref
+                    rid="B23-gels-10-00398" ref-type="bibr">23</xref>]. While these compounds offer
+                effective antibacterial properties, concerns arise regarding their environmental
+                impact, potential health risks, and durability during washing or exposure to high
+                temperatures. The selection of antibacterial compounds for fabric finishing requires
+                a careful balance between efficacy, environmental considerations, and durability [<xref
+                    rid="B16-gels-10-00398" ref-type="bibr">16</xref>,<xref rid="B24-gels-10-00398"
+                    ref-type="bibr">24</xref>]. </p>
+            <p>Natural substances, such as plant extracts, essential oils, and animal products,
+                provide various antimicrobial properties. The investigations of the antimicrobial
+                properties of various natural dyes extracted from plants have increased the variety
+                of antimicrobial agents, contributing significantly to the production of
+                antibacterial fabric. Natural plant extracts, such as curcumin, basil, clove oil,
+                cyclic oligosaccharides, and sericin, and natural plants, including onion, aloe
+                vera, and pomegranate, have shown unique antimicrobial properties [<xref
+                    rid="B25-gels-10-00398"
+                    ref-type="bibr">25</xref>,<xref rid="B26-gels-10-00398" ref-type="bibr">26</xref>
+                ,<xref rid="B27-gels-10-00398"
+                    ref-type="bibr">27</xref>]. Caffeic acid and quercetin as two types of material
+                extracted from plants have also demonstrated antibacterial properties [<xref
+                    rid="B28-gels-10-00398"
+                    ref-type="bibr">28</xref>,<xref rid="B29-gels-10-00398" ref-type="bibr">29</xref>].
+                Natural plant extracts offer potential benefits, but they have some considerable
+                drawbacks. One key limitation is the variability in composition and potency,
+                influenced by factors like plant growth conditions and extraction methods, leading
+                to an inconsistent efficacy. The spectrum of the antimicrobial activity may be
+                limited, and the concentrations for effectiveness can vary. Degradation over time
+                affects stability and shelf life, while the solubility, bioavailability, and
+                formulation challenges may impede practical application. </p>
+            <p>Using metals and metal salts, such as silver, copper, gold, zinc oxide, and titanium
+                dioxide, for their antimicrobial properties in textiles has a rich historical
+                background. They can be toxic to pathogens, even at a very low concentration.
+                Titanium dioxide and zinc oxide are employed for their bactericidal properties, with
+                TiO<sub>2</sub> acting as a photocatalyst that requires UV radiation for
+                antibacterial applications. ZnO offers a cost-effective agent with superior
+                whitening and UV-blocking properties on textiles. However, challenges such as the
+                need for UV radiation and potential limitations in killing microbes exist for these
+                coating agents. Copper has excellent antibacterial properties and poses a biocidal
+                effect. While it is not as effective as silver for antibacterial action, copper is
+                still considered a promising material to be incorporated into different substrates,
+                including textiles [<xref rid="B16-gels-10-00398" ref-type="bibr">16</xref>,<xref
+                    rid="B30-gels-10-00398" ref-type="bibr">30</xref> ,<xref rid="B31-gels-10-00398"
+                    ref-type="bibr">31</xref>].</p>
+            <p>Nanoparticles, particularly silver nanoparticles (AgNPs), are prominent for their
+                broad-spectrum antimicrobial activity, self-cleaning properties, and increased
+                dyeability. AgNPs have demonstrated effectiveness against various microbes. Its
+                antibacterial effectiveness is superb compared with other metal-based materials,
+                such as Cu-based ones, ZnO, and TiO<sub>2</sub>. The minimum bactericidal
+                concentration for silver is lower than other metal-based antibacterial agents,
+                including copper-based ones. It can even have an antibacterial efficiency in a small
+                amount [<xref rid="B30-gels-10-00398" ref-type="bibr">30</xref>]. In contrast to
+                antibiotics, which use specific mechanisms of action against pathogens, the biocidal
+                effect of silver nanoparticles has been reported with different mechanisms. One
+                mechanism of action is that due to the electrostatic attraction of silver ions to
+                sulfur proteins, they can adhere to the cell wall and cytoplasmic membrane of
+                bacteria, which increases the permeability of the cytoplasmic membrane and disrupts
+                the bacterial envelope [<xref
+                    rid="B7-gels-10-00398" ref-type="bibr">7</xref>,<xref rid="B8-gels-10-00398"
+                    ref-type="bibr">8</xref>,<xref rid="B32-gels-10-00398"
+                    ref-type="bibr">32</xref>,<xref rid="B33-gels-10-00398" ref-type="bibr">33</xref>
+                ].</p>
+            <p>The challenges associated with the production and coating processes of AgNPs include
+                agglomeration, achieving the desired morphology and the production of a uniform
+                particle size. Agglomeration decreases the stability and efficacy of AgNPs, which
+                needs effective reagents to overcome this challenge [<xref rid="B2-gels-10-00398"
+                    ref-type="bibr">2</xref>]. The common reducing agents, such as sodium dodecyl
+                sulfate and ascorbate, are toxic and hazardous and cause serious environmental
+                problems. Capping with natural compounds has emerged as a solution to promote the
+                stability of AgNPs, particularly when applied to textiles. However, weak
+                interactions on the fabric surface are considered a significant drawback. To address
+                this, the impregnation of capping agents, whether synthetic polymers or natural
+                biological agents, becomes important for enhancing the stability of AgNPs on
+                textiles. Among the various capping agents, chitosan, as a biodegradable and
+                biocompatible biopolymer, also has weak antibacterial and antifungal properties [<xref
+                    rid="B34-gels-10-00398" ref-type="bibr">34</xref>,<xref
+                    rid="B35-gels-10-00398" ref-type="bibr">35</xref>,<xref rid="B36-gels-10-00398"
+                    ref-type="bibr">36</xref>]. A range of mechanisms were reported that mainly
+                involves penetrating the phospholipid bilayer of the bacterial membranes and
+                disrupting the cytoplasmic membrane [<xref rid="B37-gels-10-00398"
+                    ref-type="bibr">37</xref>]. Chitosan can also be an ideal reagent, which
+                mitigates agglomeration by introducing electrostatic repulsion and steric hindrance
+                between AgNPs [<xref rid="B1-gels-10-00398" ref-type="bibr">1</xref>]. Moreover, due
+                to having active functional groups in the chitosan structure, it forms hydrogen
+                bonds with cotton, hydrolyzed polyester, and nylon fabrics [<xref
+                    rid="B38-gels-10-00398" ref-type="bibr">38</xref>]. This multi-functionality of
+                chitosan makes it a promising candidate for achieving stable, well-dispersed, and
+                antimicrobial AgNP-coated textiles, which can tackle the challenges in both the
+                production and long-term stability fields [<xref rid="B39-gels-10-00398"
+                    ref-type="bibr">39</xref>]. The application of chitosan as a coating agent or
+                stabilizer for silver nanoparticles has been reported in several studies that
+                demonstrated better stability and antimicrobial efficacy [<xref
+                    rid="B2-gels-10-00398" ref-type="bibr">2</xref> ,<xref rid="B10-gels-10-00398"
+                    ref-type="bibr">10</xref>,<xref rid="B37-gels-10-00398" ref-type="bibr">37</xref>
+                ,<xref rid="B40-gels-10-00398"
+                    ref-type="bibr">40</xref>,<xref rid="B41-gels-10-00398" ref-type="bibr">41</xref>
+                ,<xref rid="B42-gels-10-00398"
+                    ref-type="bibr">42</xref>,<xref rid="B43-gels-10-00398" ref-type="bibr">43</xref>].
+                For instance, Siva et al. synthesized chitosan&#x02013;silver nanocomposites with an
+                average particle size of 10 nm to study their antibacterial activity against <italic
+                    toggle="yes">Staphylococcus
+                    aureus</italic> and <italic toggle="yes">Escherichia coli</italic> [<xref
+                    rid="B37-gels-10-00398"
+                    ref-type="bibr">37</xref>].</p>
+            <p>A non-leaching functional textile is generally preferred because it retains its
+                antimicrobial activity for an extended period. Moreover, releasing significant
+                amounts of antimicrobial agents into the environment can be an environmental issue [<xref
+                    rid="B16-gels-10-00398" ref-type="bibr">16</xref>]. Therefore, in this study, a
+                gel-like solution containing chitosan-bound silver chloride microparticles (AgMPs)
+                was developed in two distinct average sizes to investigate their impacts on
+                antibacterial properties, considering concerns about their environmental impact when
+                they are nano-sized. Our focus included the durability and effectiveness of cotton
+                fabrics coated with silver&#x02013;chitosan over multiple washes. <italic
+                    toggle="yes">Staphylococcus
+                    aureus</italic>, <italic toggle="yes">Escherichia coli</italic>, and
+                multidrug-resistant strains (MG and ES) were chosen to study the efficiency of the
+                coated fabrics. </p>
+        </sec>
+        <sec sec-type="results" id="sec2-gels-10-00398">
+            <title>2. Results and Discussion</title>
+            <sec id="sec2dot1-gels-10-00398">
+                <title>2.1. Silver Shell&#x02122; Solution Characterization</title>
+                <p>The sample of Silver Shell&#x02122; solution was annealed at 80 &#x000b0;C over 2
+                    h to obtain a film for the phase composition study. The PXRD data collected for
+                    the material are demonstrated in <xref rid="gels-10-00398-f001" ref-type="fig">Figure
+                    1</xref>. The diffractogram illustrates the presence of AgCl, Ag<sub>2</sub>O,
+                    and Ag phases, which corresponds to the method of solution synthesis developed
+                    at Chitozan Health LLC. The synthesis includes the precipitation of AgCl
+                    submicron particles into a chitosan solution that stabilizes the particles by
+                    increasing the zeta potential and reduces silver ion migration from silver
+                    particles. Narrow characteristic peaks corresponding to the identified phases
+                    indicate the regions of high crystallinity.</p>
+                <p>The TEM images of synthesized SS26 and AgMP034 are shown in <xref
+                        rid="gels-10-00398-f002"
+                        ref-type="fig">Figure 2</xref>a,b, respectively. According to <xref
+                        rid="gels-10-00398-f002"
+                        ref-type="fig">Figure 2</xref>a, the submicron particles were scattered
+                    separately and primarily exhibited a spherical morphology. However, some
+                    multi-shaped particles were also observed, which might have been the result of
+                    aggregation during the preparation of particles for TEM analysis. The TEM image
+                    of AgMP034 (<xref rid="gels-10-00398-f002" ref-type="fig">Figure 2</xref>b)
+                    showed a core&#x02013;shell structure, in which chitosan formed a protective
+                    shell around groupings of microparticles. Based on the TEM images, the median
+                    size of the particles was found to be 100 nm for SS26 (<xref
+                        rid="gels-10-00398-f002" ref-type="fig">Figure 2</xref>c) and around 202 nm
+                    for AgMP034 (<xref rid="gels-10-00398-f002" ref-type="fig">Figure 2</xref>d).
+                    The formation of a chitosan shell is advantageous due to its ability to form
+                    hydrogen bonds with the functional groups present in materials like cotton or
+                    nylon, thereby facilitating specific interactions and enhancing the coating
+                    stability. </p>
+                <p>The analysis of the EDX (<xref rid="gels-10-00398-f003" ref-type="fig">Figure 3</xref>)
+                    showed the presence of Ag and Cl elements, which were related to the
+                    precipitation of AgCl. </p>
+            </sec>
+            <sec id="sec2dot2-gels-10-00398">
+                <title>2.2. Coating Characterization</title>
+                <p>Cotton fabrics coated with Silver Shell&#x02122; solution were chosen in this
+                    work. Generally, cotton and silver particles display physical adsorption [<xref
+                        rid="B9-gels-10-00398" ref-type="bibr">9</xref>]. The morphological changes
+                    in cotton fabrics coated with Silver Shell&#x02122; after 25, 50, and 75 washing
+                    cycles were monitored by FE-SEM. As shown in <xref rid="gels-10-00398-f004"
+                        ref-type="fig">Figure 4</xref>a and <xref
+                        rid="gels-10-00398-f005" ref-type="fig">Figure 5</xref>a, the Silver
+                    Shell&#x02122; was uniformly deposited on the cotton fabric surface. The surface
+                    of the cotton fabric was relatively smooth after the coating. After washing the
+                    samples, <xref rid="gels-10-00398-f004"
+                        ref-type="fig">Figure 4</xref>b&#x02013;d and <xref rid="gels-10-00398-f005"
+                        ref-type="fig">Figure 5</xref>b&#x02013;d show that the Silver
+                    Shell&#x02122; began to detach, along with the cotton fibers, with the most
+                    noticeable detachment observed after 75 washing cycles. However, for SS26, there
+                    were some detachments after 50 washing cycles. The results showed that the
+                    Silver Shell&#x02122; had a strong bond with cotton fabrics due to the presence
+                    of hydrogen bonding between the chitosan and cotton.</p>
+                <p><xref rid="gels-10-00398-f006" ref-type="fig">Figure 6</xref> shows the result of
+                    the EDX analysis of AgMP034 without washing. The weight percentage of Ag was
+                    0.2%, as the silver coverage on coated fabric was very low. </p>
+            </sec>
+            <sec id="sec2dot3-gels-10-00398">
+                <title>2.3. Antibacterial Studies </title>
+                <p>Cotton fabrics, as one of the most common types of textiles, are prone to the
+                    growth of microorganisms. Dangerous pathogens, particularly bacteria, can
+                    flourish in these fabrics and cause several problems [<xref
+                        rid="B44-gels-10-00398" ref-type="bibr">
+                        44</xref>]. Therefore, antibacterial textiles are essential in highly
+                    contaminated areas, including hospitals, as they can minimize the spread of
+                    pathogens. The main goal of this study was to develop highly durable textile
+                    fabrics with antimicrobial properties, even after multiple washes. This was
+                    achieved by coating the cotton fabrics with a gel-like silver&#x02013;chitosan
+                    solution. To investigate the antibacterial properties of the coated fabric,
+                    AATCC 100 (quantitative analysis) and AATCC 147 (qualitative analysis) were
+                    utilized. <xref rid="gels-10-00398-t001" ref-type="table">Table 1</xref> shows
+                    the killing efficiencies of AgMP034 and SS26 after undergoing 75 wash cycles,
+                    and also A34 without washing and after 25 and 50 cycles following the AATCC 100
+                    method. Untreated cotton fabric was also used as a control sample. According to <xref
+                        rid="gels-10-00398-t002"
+                        ref-type="table">Table 2</xref>, all treated samples, except A34, after 50
+                    washing cycles showed a 100 percent reduction in both <italic toggle="yes">E.
+                    coli</italic> and <italic toggle="yes">S. aureus</italic>, even after 75 wash
+                    cycles. Despite the decreased silver content due to washing, the remaining
+                    quantity surpassed the minimum Ag concentration necessary to sustain their
+                    antibacterial properties. Our preliminary studies indicate that 100% bacterial
+                    reduction on coated cotton fabrics required a minimum Ag coverage of around 7.5
+                    &#x000b5;g/g of fabric. </p>
+                <p>To investigate the effect of the crosslinking agent on the durability of coated
+                    fabrics, sample A34 was prepared. <xref rid="gels-10-00398-t001"
+                        ref-type="table">Table 1</xref> showed that after 50 wash cycles, the
+                    reduction percent decreased to 99.88 (log 10 reduction of 2.927) and 99.81 (log
+                    10 reduction of 2.723) for <italic toggle="yes">E.
+                        coli</italic> and <italic toggle="yes">S. aureus</italic>, respectively. The
+                    lack of the crosslinking agent caused a weaker interaction between the silver
+                    particles and cotton fabrics. </p>
+                <p>The antibacterial properties of the uncoated and silver-coated cotton fabrics
+                    were also analyzed through the AATCC 147 method. Parallel streaks of both <italic
+                        toggle="yes">S. aureus</italic> as Gram-positive and <italic toggle="yes">E.
+                    coli</italic> as Gram-negative bacteria were drawn in separate Petri dishes and
+                    subsequently covered with the pieces of the samples. <xref
+                        rid="gels-10-00398-f007" ref-type="fig">Figure 7</xref> shows the
+                    photographs of the negative control and control inoculated with bacteria as a
+                    reference. The bacterial growth that occurred underneath the uncoated fabrics
+                    was visible. Also, there was no bacterial growth on the agar for the negative
+                    control, indicating that the incubator&#x02019;s environment and samples were
+                    clean. Based on <xref rid="gels-10-00398-f008" ref-type="fig">Figure 8</xref>,
+                    sample A34 without washing and after 25 wash cycles showed no growth of
+                    bacteria, which indicated splendid antibacterial activities. However, after 50
+                    wash cycles, there were bacteria colonies, which may be attributed to the lack
+                    of enough silver coverage on this sample. In fact, due to the lack of
+                    crosslinking agent, silver particles coated with chitosan lost their stability
+                    on the fabric and were washed away during laundering. For sample A34 without
+                    washing, a slight inhibition zone was observed around the fabric, indicating the
+                    leaching of silver particles. This likely resulted from a weak interaction
+                    between the coating material and fabric, leading to a gradual release by
+                    washing. However, there was no distinct boundary for sample A34 after 25 wash
+                    cycles.</p>
+                <p>To study the effect of the crosslinking agent on the washing durability, the
+                    antibacterial activities of AgMP034 and SS26 were also qualitatively tested
+                    against the same bacterial strains used for previous samples, and the results
+                    are shown in <xref rid="gels-10-00398-f009" ref-type="fig">Figure 9</xref> for <italic
+                        toggle="yes">E.
+                        coli</italic> and <xref rid="gels-10-00398-f010" ref-type="fig">Figure 10</xref>
+                    for <italic
+                        toggle="yes">S. aureus</italic>. Based on <xref rid="gels-10-00398-f009"
+                        ref-type="fig">Figure 9</xref> and <xref rid="gels-10-00398-f010"
+                        ref-type="fig">Figure 10</xref>, all the coated samples showed remarkable
+                    antibacterial efficacy, even after 75 wash cycles, which can be attributed to
+                    the sufficient Ag coverage on the samples. Therefore, highly durable coated
+                    fabrics can be obtained by using a crosslinking agent. The crosslinking agent
+                    helped to form a stable and durable coating on the cotton fabrics. It improved
+                    the adherence of the microparticles to the cotton fibers, resulting in
+                    sufficient antibacterial properties, even after several washing cycles. </p>
+            </sec>
+            <sec id="sec2dot4-gels-10-00398">
+                <title>2.4. Bactericidal Action against Multidrug-Resistant E. coli Strains </title>
+                <p>We conducted pilot experiments that compared the non-pathogenic <italic
+                        toggle="yes">E.
+                        coli</italic> MG1655 strain and the extended-spectrum b-lactamase-producing
+                    ESBL41 and ESBL146 <italic toggle="yes">E. coli</italic> isolates. Samples of
+                    unbleached muslin coated with the Silver Shell&#x02122; (A34) were tested
+                    according to the AATCC 100 protocol described above. According to <xref
+                        rid="gels-10-00398-t002"
+                        ref-type="table">Table 2</xref>, we found a strong (over 3 log) reduction
+                    for all tested strains regardless of using freshly coated textile samples or
+                    those that were washed 25 times. This confirmed prior tests with model <italic
+                        toggle="yes">E.
+                        coli</italic> and <italic toggle="yes">S. aureus</italic> strains (<xref
+                        rid="gels-10-00398-t001"
+                        ref-type="table">Table 1</xref>) and showed that in this setup, the Ag
+                    bactericidal action was similar toward antibiotic-sensitive and
+                    antibiotic-resistant ESBL isolates.</p>
+            </sec>
+            <sec id="sec2dot5-gels-10-00398">
+                <title>2.5. Color Measurement Study</title>
+                <p>The color measurements were carried out to study how the color of the cotton
+                    fabrics was impacted by coating with gel-like Silver Shell&#x02122; solutions.
+                    These values are defined as L* for lightness, a* for red (+) to green
+                    (&#x02212;), and b* for yellow (+) to blue (&#x02212;) [<xref
+                        rid="B9-gels-10-00398" ref-type="bibr">
+                        9</xref>]. <xref rid="gels-10-00398-t003" ref-type="table">Table 3</xref>
+                    and <xref rid="gels-10-00398-t004" ref-type="table">Table
+                        4</xref> show the CIE L*a*b* values for SS26 and AgMP034 after 75 washing
+                    cycles, respectively. The color coordinates were also measured for the untreated
+                    cotton for comparison. Based on the results, by applying the fabrics with Silver
+                    Shell&#x02122;, L* was decreased and both a* and b* were increased. Although
+                    there was a slight change for a*, the significant change was attributed to b*,
+                    which showed higher values for treated samples. Therefore, the bluish appearance
+                    of untreated cotton would change to yellowness.</p>
+                <p>The quality of the coating was evaluated based on the CIE L*a*b* color difference
+                    formula as follows [<xref rid="B45-gels-10-00398" ref-type="bibr">45</xref>]: <disp-formula
+                        id="FD1-gels-10-00398">
+                        <label>(1)</label>
+                        <mml:math id="mm1" display="block" overflow="scroll">
+                            <mml:mrow>
+                                <mml:mrow>
+                                    <mml:mo>&#x02206;</mml:mo>
+                                    <mml:mi mathvariant="normal">E</mml:mi>
+                                    <mml:msub>
+                                        <mml:mo>*</mml:mo>
+                                        <mml:mi>ab</mml:mi>
+                                    </mml:msub>
+                                    <mml:mo>=</mml:mo>
+                                    <mml:msqrt>
+                                        <mml:mo>&#x02206;</mml:mo>
+                                        <mml:msup>
+                                            <mml:mrow>
+                                                <mml:mi mathvariant="normal">L</mml:mi>
+                                                <mml:mo>*</mml:mo>
+                                            </mml:mrow>
+                                            <mml:mrow>
+                                                <mml:mn>2</mml:mn>
+                                            </mml:mrow>
+                                        </mml:msup>
+                                        <mml:mo>+</mml:mo>
+                                        <mml:mo>&#x02206;</mml:mo>
+                                        <mml:msup>
+                                            <mml:mrow>
+                                                <mml:mi mathvariant="normal">a</mml:mi>
+                                                <mml:mo>*</mml:mo>
+                                            </mml:mrow>
+                                            <mml:mrow>
+                                                <mml:mn>2</mml:mn>
+                                            </mml:mrow>
+                                        </mml:msup>
+                                        <mml:mo>+</mml:mo>
+                                        <mml:mo>&#x02206;</mml:mo>
+                                        <mml:msup>
+                                            <mml:mrow>
+                                                <mml:mi mathvariant="normal">b</mml:mi>
+                                                <mml:mo>*</mml:mo>
+                                            </mml:mrow>
+                                            <mml:mrow>
+                                                <mml:mn>2</mml:mn>
+                                            </mml:mrow>
+                                        </mml:msup>
+                                    </mml:msqrt>
+                                </mml:mrow>
+                            </mml:mrow>
+                        </mml:math>
+                    </disp-formula></p>
+                <p>Measurements were randomly taken at five different locations and the color
+                    difference between each pair of these five spots was calculated, resulting in
+                    the average values presented in <xref rid="gels-10-00398-t003" ref-type="table">Table
+                    3</xref> and <xref
+                        rid="gels-10-00398-t004" ref-type="table">Table 4</xref>. Based on the
+                    results, the color difference between SS26 and AgMP034 was below 2. This
+                    suggests a slight color difference, indicating a uniformity in the coating. The
+                    average values of color difference for SS26 and AgMP034 before washing were 0.96
+                    and 1.91, respectively.</p>
+                <p><xref rid="gels-10-00398-f011" ref-type="fig">Figure 11</xref> illustrates the
+                    color strength (K/S) plots of SS26 and AgMP034 before and after washing. Based
+                    on <xref rid="gels-10-00398-f011"
+                        ref-type="fig">Figure 11</xref>, the color strength decreased after washing
+                    for both samples, indicating a reduced silver amount on the fabrics. To
+                    elucidate the significance of the bond formation between microparticles and
+                    cotton fabric as a substrate, the %Fixation was compared for AgMP034 and SS26
+                    following multiple wash cycles. According to <xref rid="gels-10-00398-f012"
+                        ref-type="fig">Figure 12</xref>, SS26 exhibited %Fixation values of 44%,
+                    32%, and 28% following 25, 50, and 75 washing cycles, respectively. For AgMP034,
+                    the %Fixation values were higher at 54%, 44%, and 32% for the same sequence of
+                    washing cycles. The presence of chitosan surrounding the silver particles might
+                    have been the reason for the higher %Fixation values for AgMP034. </p>
+            </sec>
+        </sec>
+        <sec sec-type="conclusions" id="sec3-gels-10-00398">
+            <title>3. Conclusions</title>
+            <p>In summary, the present study provided data on the structures and antibacterial
+                efficiency of coated cotton fabrics using Silver Shell<sup>TM</sup> solution. The
+                results indicate the valuable and innovative Silver Shell&#x02122; solution could
+                combat dangerous hospital-acquired infections and ensured long-term antimicrobial
+                activity in textiles. According to the TEM results, the Silver Shell&#x02122;
+                solution had a core&#x02013;shell structure, and with chitosan, formed a protective
+                shell around silver microparticles. The coating quality of the fabrics was
+                investigated by FESEM before and after multiple wash cycles, indicating highly
+                durable washing fastness. The AATCC-100 antibacterial results indicated a 100%
+                reduction for two types of bacteria, <italic toggle="yes">S. aureus</italic> and <italic
+                    toggle="yes">E. coli</italic>, even after 75 wash cycles. The antibacterial
+                results for the coated samples without using a crosslinking agent exhibited 99.88%
+                and 99.81% reductions for <italic toggle="yes">S. aureus</italic> and <italic
+                    toggle="yes">E.
+                    coli</italic>, respectively, after 50 wash cycles. To investigate the leaching
+                properties of the coated samples with Silver Shell<sup>TM</sup> solution and study
+                the effect of the crosslinking agent, AATCC-147 was performed. Despite the
+                remarkable antibacterial efficacy of coated samples, even after 75 washing cycles,
+                the crosslinking agent minimized the release of submicron particles from the fabric.
+                Additionally, the results of AATCC-100 on non-pathogenic E. coli MG1655 and
+                extended-spectrum &#x003b2;-lactamase-producing ESBL41 and ESBL146 showed up to a
+                99.99% reduction in all tested strains. According to the results of color
+                measurements, uniform coatings were obtained in different samples. Fixation values
+                of SS26 samples showed 44%, 32%, and 28% following 25, 50, and 75 washing cycles,
+                respectively. For AgMP034, the %Fixation values were higher than SS26 and calculated
+                at 54%, 44%, and 32% for the same sequence of washing cycles. The presence of
+                chitosan surrounding the silver particles might have been the reason for the higher
+                fixation values for AgMP034.</p>
+        </sec>
+        <sec id="sec4-gels-10-00398">
+            <title>4. Materials and Methods</title>
+            <sec id="sec4dot1-gels-10-00398">
+                <title>4.1. Materials</title>
+                <p>The fabrics used in this study were LS Bleached Cotton Muslin (120 GSM) from
+                    Joanne Fabrics. These fabrics were coated with two types of batches. The first
+                    was Silver Shell<sup>TM</sup> batch SS26 obtained from Chitozan Health LLC and
+                    produced at a facility in Chesterfield, UK. The second one was Silver Shell<sup>
+                    TM</sup> batch AgMP034 obtained from Chitozan Health LLC, Rochester, NY, USA.
+                    The fabrics were coated with AgMP034 and SS26, along with Glutaraldehyde
+                    (Sigma-Aldrich, St. Louis, MO, USA) as a crosslinking agent. Non-ionic
+                    surfactant NP-9 (Pfaltz &#x00026; Bauer, Waterbury, CT, USA) was used for
+                    wettability improvement. To investigate the effect of the crosslinking agent,
+                    one sample, coded as A34, utilized the same batch of AgMP034 but without adding
+                    a crosslinking agent during the coating process. The synthesis and coating
+                    process employed in this study is proprietary of the Chitozan Health LLC and
+                    utilizes silver chloride crystals suspended in a chitosan solution with
+                    adjustable sizes from 50 to 350 nm. Tryptic Soy agar was purchased from Merck,
+                    Germany. LB was purchased from Sigma-Aldrich, USA. AATCC 1993 standard reference
+                    detergent was used for washing the samples.</p>
+            </sec>
+            <sec id="sec4dot2-gels-10-00398">
+                <title>4.2. Characterization of Silver Shell&#x02122; Solutions</title>
+                <p>The phase identification of thin-film samples containing core&#x02013;shell
+                    microparticles was conducted based on powder X-ray diffraction (PXRD) data
+                    (Bruker D2 PHASER diffractometer with Cu K&#x003b1; radiation over a 2<italic
+                        toggle="yes">&#x003b8;</italic> range of 5&#x02013;65&#x000b0; and step size
+                    of 0.02&#x000b0;). A transmission electron microscope JEM100CX-II (JEOL, Ltd.,
+                    Tokyo, Japan) operated at 100 kV was used to study the core&#x02013;shell
+                    microparticles. Moreover, the elemental composition was analyzed by a
+                    transmission electron microscope (Hitachi-SU9000EA) equipped with
+                    energy-dispersive X-ray spectroscopy. A drop of a solution was placed on a
+                    copper grid and dried overnight at room temperature.</p>
+            </sec>
+            <sec id="sec4dot3-gels-10-00398">
+                <title>4.3. Coating Procedure</title>
+                <p>A total of 50 g of coating solution with 7 drops of a 10% NP-9 surfactant
+                    solution were blended with 3.75 g of a 5% glutaraldehyde solution (0.375 g of
+                    glutaraldehyde per 1 g of chitosan). The swatches (20 in &#x000d7; 20 in) were
+                    placed into the solution and swished around to absorb as much solution as
+                    possible. After full saturation, the wet swatches were removed and wrung tightly
+                    (~3 times) to remove excess liquid. The residual liquid was removed by placing
+                    the swatches between paper towels and rolling a rubber roller over the entire
+                    surface. The samples were left at room temperature (24 &#x000b0;C) for 5 days to
+                    dry completely.</p>
+            </sec>
+            <sec id="sec4dot4-gels-10-00398">
+                <title>4.4. Characterization of Coated Fabrics</title>
+                <sec id="sec4dot4dot1-gels-10-00398">
+                    <title>4.4.1. Surface Morphology</title>
+                    <p>The surface morphology of the uncoated and coated fabrics was observed by
+                        field emission scanning electron microscopy (FESEM) using a Thermo Fisher
+                        Scientific (FEI) Teneo. The Teneo is equipped with energy-dispersive
+                        spectroscopy (EDX) that provides elemental analysis. The samples underwent
+                        gold coating for improved imaging using the SPI-Module Sputter coater
+                        instrument for one minute.</p>
+                </sec>
+                <sec id="sec4dot4dot2-gels-10-00398">
+                    <title>4.4.2. Color Measurements</title>
+                    <p>The color coordinates of CIE lab (L*, a*, and b*) for both untreated cotton
+                        and Silver Shell&#x02122; coated samples were conducted at 5 different
+                        places of each one using a Macbeth Color Eye 7000A Spectrophotometer. L* is
+                        related to lightness, a* is a reddish/greenish factor, and b* corresponds to
+                        the yellowness/bluish factor [<xref rid="B46-gels-10-00398" ref-type="bibr">
+                        46</xref>].</p>
+                    <p>The color strength (K/S) of the samples coated with Silver Shell&#x02122; was
+                        also measured at all wavelengths from 400 to 700 nm (10 nm interval). This
+                        value was reported for each sample at 370 nm, which was the maximum
+                        absorbency wavelength. The color strength value was determined through the
+                        color matching software&#x02019;s internal computations by employing the
+                        Kubelka&#x02013;Munk equation [<xref rid="B47-gels-10-00398" ref-type="bibr">
+                        47</xref>]:<disp-formula
+                            id="FD2-gels-10-00398">
+                            <label>(2)</label>
+                            <mml:math id="mm2" display="block" overflow="scroll">
+                                <mml:mrow>
+                                    <mml:mrow>
+                                        <mml:mrow>
+                                            <mml:mfrac>
+                                                <mml:mrow>
+                                                    <mml:mi mathvariant="normal">K</mml:mi>
+                                                </mml:mrow>
+                                                <mml:mrow>
+                                                    <mml:mi mathvariant="normal">S</mml:mi>
+                                                </mml:mrow>
+                                            </mml:mfrac>
+                                        </mml:mrow>
+                                        <mml:mrow>
+                                            <mml:mo>=</mml:mo>
+                                            <mml:mfrac>
+                                                <mml:mrow>
+                                                    <mml:msup>
+                                                        <mml:mrow>
+                                                            <mml:mfenced separators="|">
+                                                                <mml:mrow>
+                                                                    <mml:mn>1</mml:mn>
+                                                                    <mml:mo>&#x02212;</mml:mo>
+                                                                    <mml:mi mathvariant="normal">R</mml:mi>
+                                                                </mml:mrow>
+                                                            </mml:mfenced>
+                                                        </mml:mrow>
+                                                        <mml:mrow>
+                                                            <mml:mn>2</mml:mn>
+                                                        </mml:mrow>
+                                                    </mml:msup>
+                                                </mml:mrow>
+                                                <mml:mrow>
+                                                    <mml:mn>2</mml:mn>
+                                                    <mml:mi mathvariant="normal">R</mml:mi>
+                                                </mml:mrow>
+                                            </mml:mfrac>
+                                        </mml:mrow>
+                                        <mml:mo>,</mml:mo>
+                                    </mml:mrow>
+                                </mml:mrow>
+                            </mml:math>
+                        </disp-formula>\nwhere
+                        K represents absorption, S denotes scattering, and R stands for reflectance.</p>
+                </sec>
+                <sec id="sec4dot4dot3-gels-10-00398">
+                    <title>4.4.3. Antimicrobial Fabric Test</title>
+                    <p>To analyze the antibacterial properties of the silver fabric coating against
+                        uncoated controls, AATCC Test Method 100&#x02013;2012 was performed. <italic
+                            toggle="yes">Staphylococcus aureus</italic> (ATCC 6538) and <italic
+                            toggle="yes">E. coli</italic> (ATCC 10536) were used as the main test
+                        organisms. Uncoated and silver-coated fabric samples were cut as circular
+                        swatches, 4.8 cm in diameter. Four swatches were soaked with 1 mL of
+                        inoculum, containing approximately 10<sup>6</sup> CFU, and placed in sterile
+                        100 mL glass jars. Swatches soaked with 1 mL of sterile PBS were used as
+                        controls. </p>
+                    <p>Jars were divided into groups: one with zero-time incubation time to quantify
+                        the initial number of viable cells, and another with overnight incubation.
+                        In the zero-time incubation group, 100 mL of sterile PBS was added
+                        immediately after placing the bacteria-inoculated swatches. After vigorous
+                        shaking, we made serial dilutions of 1/1, 1/10, 1/100, and 1/1000 from 100
+                        &#x000b5;L of the PBS wash of the swatches. Then, 100 &#x000b5;L of each
+                        dilution was spread on agar plates in duplicates. Inoculated plates were
+                        incubated overnight at 37 &#x000b0;C. The colonies were counted to estimate
+                        the densities of viable cells in colony-forming units (CFU) per mL of
+                        solution (CFU/mL).</p>
+                    <p>A group of jars with overnight incubation was first incubated overnight at 37
+                        &#x000b0;C and then underwent the same serial dilution procedure as the
+                        zero-time group to establish the cell densities (CFU/mL). </p>
+                    <p>The resulting CFU on agar plates were counted manually and the percentage of
+                        reduction (R) was calculated as follows:<disp-formula id="FD4-gels-10-00398">
+                            <label>(3)</label>
+                            <mml:math id="mm3" display="block" overflow="scroll">
+                                <mml:mrow>
+                                    <mml:mrow>
+                                        <mml:mi mathvariant="normal">R</mml:mi>
+                                        <mml:mo>%</mml:mo>
+                                        <mml:mo>=</mml:mo>
+                                        <mml:mfrac>
+                                            <mml:mrow>
+                                                <mml:mo>(</mml:mo>
+                                                <mml:mi mathvariant="normal">B</mml:mi>
+                                                <mml:mo>&#x02212;</mml:mo>
+                                                <mml:mi mathvariant="normal">A</mml:mi>
+                                                <mml:mo>)</mml:mo>
+                                            </mml:mrow>
+                                            <mml:mrow>
+                                                <mml:mi mathvariant="normal">B</mml:mi>
+                                            </mml:mrow>
+                                        </mml:mfrac>
+                                        <mml:mo>&#x000d7;</mml:mo>
+                                        <mml:mn>100</mml:mn>
+                                    </mml:mrow>
+                                </mml:mrow>
+                            </mml:math>
+                        </disp-formula>\nwhere
+                        A is the colony-forming units (CFU/mL) coated fabrics after 24 h and B is
+                        the mean of the CFU counted from control samples and coated samples at
+                        zero-time contact. </p>
+                    <p>To compare the antibacterial properties toward non-pathogenic and pathogenic
+                        strains of the same species, we used the MG1655 model <italic toggle="yes">E.
+                        coli</italic> strain (ATCC 29213) and multidrug-resistant clinical isolate
+                        from the Sysoeva lab collection (extended-spectrum b-lactamase-producing
+                        ESBL41 and ESBL146 strains (Lopatkin et al., 2016)). The loading of the
+                        swatches, incubations, and plating for the CFU counting were done
+                        analogously to the procedure for other strains as described. Initially, the
+                        cell cultures of <italic toggle="yes">E. coli</italic> strains in LB were
+                        grown for 24 h, reaching an OD of 2.6&#x02013;3.8 (measured by
+                        spectrophotometer Genesys 50), which is equivalent to about 2.6&#x02013;3.8
+                        &#x000d7; 10<sup>8</sup> CFU/mL. Cells were diluted to bring them to 10<sup>
+                        6</sup> CFU/mL to load 10<sup>
+                            6</sup> per 5 swatches in 1 mL of solution.</p>
+                    <p>To investigate the leaching of fabric silver coating against uncoated
+                        controls, we used AATCC Test Method 147&#x02013;2016. Using a wire loop,
+                        test microorganisms (<italic toggle="yes">S. aureus</italic> and <italic
+                            toggle="yes">E. coli</italic>) were streaked on agar plate in 5 streaks
+                        spaced approximately 1 cm apart from each other. For each agar plate, the
+                        wire loop was submerged only once. As a result, each lower streak contained
+                        fewer CFU than the upper one. Plates were done in duplicates. After that,
+                        rectangular swatches (25 mm &#x000d7; 50 mm) were pressed on the streak
+                        inoculum, and the plates were incubated for 24 h at 37 &#x000b0;C. After
+                        incubation, the bacterial growths under and on the edges of the fabric were
+                        investigated.</p>
+                </sec>
+            </sec>
+        </sec>
+    </body>
+    <back>
+        <fn-group>
+            <fn>
+                <p><bold>Disclaimer/Publisher&#x02019;s Note:</bold> The statements, opinions and
+                    data contained in all publications are solely those of the individual author(s)
+                    and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the
+                    editor(s) disclaim responsibility for any injury to people or property resulting
+                    from any ideas, methods, instructions or products referred to in the content.</p>
+            </fn>
+        </fn-group>
+        <notes>
+            <title>Author Contributions</title>
+            <p>Conceptualization, S.M., D.J. and V.R.; methodology, S.M. and V.R.; software, S.M.;
+                validation, V.R., T.A.S. and D.A.V.H.; formal analysis, S.M., D.J. and V.K.;
+                investigation, S.M., D.J., K.P., A.S., D.P., M.P. and V.K.; resources, D.A.V.H. and
+                V.R.; data curation, V.R. and K.P.; writing&#x02014;original draft preparation,
+                S.M.; writing&#x02014;review and editing, V.R., K.P. and T.A.S.; visualization,
+                S.M., D.J., A.S., D.P., T.A.S. and V.K.; supervision, V.R. and D.A.V.H.; project
+                administration, V.R. and D.A.V.H.; funding acquisition, D.A.V.H. All authors have
+                read and agreed to the published version of the manuscript.</p>
+        </notes>
+        <notes>
+            <title>Institutional Review Board Statement</title>
+            <p>Not applicable.</p>
+        </notes>
+        <notes>
+            <title>Informed Consent Statement</title>
+            <p>Not applicable.</p>
+        </notes>
+        <notes notes-type="data-availability">
+            <title>Data Availability Statement</title>
+            <p>All data are available within the manuscript.</p>
+        </notes>
+        <notes notes-type="COI-statement">
+            <title>Conflicts of Interest</title>
+            <p>The authors declare no conflicts of interest.</p>
+        </notes>
+        <ref-list>
+            <title>References</title>
+            <ref id="B1-gels-10-00398">
+                <label>1.</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">\n<name>
+                            <surname>Jena</surname>
+                            <given-names>P.</given-names>
+                        </name>\n<name>
+                            <surname>Mohanty</surname>
+                            <given-names>S.</given-names>
+                        </name>\n<name>
+                            <surname>Mallick</surname>
+                            <given-names>R.</given-names>
+                        </name>\n<name>
+                            <surname>Jacob</surname>
+                            <given-names>B.</given-names>
+                        </name>\n<name>
+                            <surname>Sonawane</surname>
+                            <given-names>A.</given-names>
+                        </name>\n</person-group>
+                    <article-title>Toxicity and antibacterial assessment of chitosan-coated silver
+                        nanoparticles on human pathogens and macrophage cells</article-title>
+                    <source>Int. J. Nanomed.</source>
+                    <year>2012</year>
+                    <volume>7</volume>
+                    <fpage>1805</fpage>
+                    <lpage>1818</lpage>
+                    <pub-id pub-id-type="doi">10.2147/IJN.S28077</pub-id>
+                </element-citation>
+            </ref>
+            <ref id="B2-gels-10-00398">
+                <label>2.</label>
+                <element-citation publication-type="journal"><person-group
+                        person-group-type="author">\n<name>
+                            <surname>Canama</surname>
+                            <given-names>G.J.C.</given-names>
+                        </name>\n<name>
+                            <surname>Delco</surname>
+                            <given-names>M.C.L.</given-names>
+                        </name>\n<name>
+                            <surname>Talandron</surname>
+                            <given-names>R.A.</given-names>
+                        </name>\n<name>
+                            <surname>Tan</surname>
+                            <given-names>N.P.</given-names>
+                        </name>\n</person-group><article-title>Synthesis
+                    of Chitosan-Silver Nanocomposite and Its Evaluation as an Antibacterial Coating
+                    for Mobile Phone Glass Protectors</article-title><source>ACS Omega</source><year>
+                    2023</year><volume>8</volume><fpage>17699</fpage><lpage>17711</lpage><pub-id
+                        pub-id-type="doi">10.1021/acsomega.3c00191</pub-id><pub-id
+                        pub-id-type="pmid">
+                        37251141</pub-id>\n</element-citation>
+            </ref>
+            <ref id="B3-gels-10-00398">
+                <label>3.</label>
+                <element-citation publication-type="journal"><person-group
+                        person-group-type="author">\n<name>
+                            <surname>Ikuta</surname>
+                            <given-names>K.S.</given-names>
+                        </name>\n<name>
+                            <surname>Swetschinski</surname>
+                            <given-names>L.R.</given-names>
+                        </name>\n<name>
+                            <surname>Aguilar</surname>
+                            <given-names>G.R.</given-names>
+                        </name>\n<name>
+                            <surname>Sharara</surname>
+                            <given-names>F.</given-names>
+                        </name>\n<name>
+                            <surname>Mestrovic</surname>
+                            <given-names>T.</given-names>
+                        </name>\n<name>
+                            <surname>Gray</surname>
+                            <given-names>A.P.</given-names>
+                        </name>\n<name>
+                            <surname>Weaver</surname>
+                            <given-names>N.D.</given-names>
+                        </name>\n<name>
+                            <surname>E Wool</surname>
+                            <given-names>E.</given-names>
+                        </name>\n<name>
+                            <surname>Han</surname>
+                            <given-names>C.</given-names>
+                        </name>\n<name>
+                            <surname>Hayoon</surname>
+                            <given-names>A.G.</given-names>
+                        </name>\n<etal />
+                    \n</person-group><article-title>Global mortality associated with 33 bacterial
+                    pathogens in 2019: A systematic analysis for the Global Burden of Disease Study
+                    2019</article-title><source>Lancet</source><year>2022</year><volume>400</volume><fpage>
+                    2221</fpage><lpage>2248</lpage><pub-id pub-id-type="doi">
+                    10.1016/s0140-6736(22)02185-7</pub-id><pub-id pub-id-type="pmid">36423648</pub-id>
+                    \n</element-citation>
+            </ref>
+            <ref id="B4-gels-10-00398">
+                <label>4.</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">\n<name>
+                            <surname>Hicks</surname>
+                            <given-names>A.L.</given-names>
+                        </name>\n<name>
+                            <surname>Reed</surname>
+                            <given-names>R.B.</given-names>
+                        </name>\n<name>
+                            <surname>Theis</surname>
+                            <given-names>T.L.</given-names>
+                        </name>\n<name>
+                            <surname>Hanigan</surname>
+                            <given-names>D.</given-names>
+                        </name>\n<name>
+                            <surname>Huling</surname>
+                            <given-names>H.</given-names>
+                        </name>\n<name>
+                            <surname>Zaikova</surname>
+                            <given-names>T.</given-names>
+                        </name>\n<name>
+                            <surname>Hutchison</surname>
+                            <given-names>J.E.</given-names>
+                        </name>\n<name>
+                            <surname>Miller</surname>
+                            <given-names>J.</given-names>
+                        </name>\n</person-group>
+                    <article-title>Environmental impacts of reusable nanoscale silver-coated
+                        hospital gowns compared to single-use, disposable gowns</article-title>
+                    <source>Environ. Sci. Nano</source>
+                    <year>2016</year>
+                    <volume>3</volume>
+                    <fpage>1124</fpage>
+                    <lpage>1132</lpage>
+                    <pub-id pub-id-type="doi">10.1039/c6en00168h</pub-id>
+                </element-citation>
+            </ref>
+            <ref id="B5-gels-10-00398">
+                <label>5.</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">\n<name>
+                            <surname>Gon&#x000e7;alves</surname>
+                            <given-names>R.A.</given-names>
+                        </name>\n<name>
+                            <surname>Ku</surname>
+                            <given-names>J.W.K.</given-names>
+                        </name>\n<name>
+                            <surname>Zhang</surname>
+                            <given-names>H.</given-names>
+                        </name>\n<name>
+                            <surname>Salim</surname>
+                            <given-names>T.</given-names>
+                        </name>\n<name>
+                            <surname>Oo</surname>
+                            <given-names>G.</given-names>
+                        </name>\n<name>
+                            <surname>Zinn</surname>
+                            <given-names>A.A.</given-names>
+                        </name>\n<name>
+                            <surname>Boothroyd</surname>
+                            <given-names>C.</given-names>
+                        </name>\n<name>
+                            <surname>Tang</surname>
+                            <given-names>R.M.Y.</given-names>
+                        </name>\n<name>
+                            <surname>Gan</surname>
+                            <given-names>C.L.</given-names>
+                        </name>\n<name>
+                            <surname>Gan</surname>
+                            <given-names>Y.-H.</given-names>
+                        </name>\n<etal />
+                        \n</person-group>
+                    <article-title>Copper-Nanoparticle-Coated Fabrics for Rapid and Sustained
+                        Antibacterial Activity Applications</article-title>
+                    <source>ACS Appl. Nano Mater.</source>
+                    <year>2022</year>
+                    <volume>5</volume>
+                    <fpage>12876</fpage>
+                    <lpage>12886</lpage>
+                    <pub-id pub-id-type="doi">10.1021/acsanm.2c02736</pub-id>
+                </element-citation>
+            </ref>
+            <ref id="B6-gels-10-00398">
+                <label>6.</label>
+                <element-citation publication-type="journal"><person-group
+                        person-group-type="author">\n<name>
+                            <surname>Qiu</surname>
+                            <given-names>H.</given-names>
+                        </name>\n<name>
+                            <surname>Si</surname>
+                            <given-names>Z.</given-names>
+                        </name>\n<name>
+                            <surname>Luo</surname>
+                            <given-names>Y.</given-names>
+                        </name>\n<name>
+                            <surname>Feng</surname>
+                            <given-names>P.</given-names>
+                        </name>\n<name>
+                            <surname>Wu</surname>
+                            <given-names>X.</given-names>
+                        </name>\n<name>
+                            <surname>Hou</surname>
+                            <given-names>W.</given-names>
+                        </name>\n<name>
+                            <surname>Zhu</surname>
+                            <given-names>Y.</given-names>
+                        </name>\n<name>
+                            <surname>Chan-Park</surname>
+                            <given-names>M.B.</given-names>
+                        </name>\n<name>
+                            <surname>Xu</surname>
+                            <given-names>L.</given-names>
+                        </name>\n<name>
+                            <surname>Huang</surname>
+                            <given-names>D.</given-names>
+                        </name>\n</person-group><article-title>The
+                    mechanisms and the applications of antibacterial polymers in surface
+                        modification on medical devices</article-title><source>Front. Bioeng.
+                    Biotechnol.</source><year>2020</year><volume>8</volume><elocation-id>910</elocation-id><pub-id
+                        pub-id-type="doi">10.3389/fbioe.2020.00910</pub-id><pub-id
+                        pub-id-type="pmid">
+                        33262975</pub-id>\n</element-citation>
+            </ref>
+            <ref id="B7-gels-10-00398">
+                <label>7.</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">\n<name>
+                            <surname>Balakumaran</surname>
+                            <given-names>M.D.</given-names>
+                        </name>\n<name>
+                            <surname>Ramachandran</surname>
+                            <given-names>R.</given-names>
+                        </name>\n<name>
+                            <surname>Jagadeeswari</surname>
+                            <given-names>S.</given-names>
+                        </name>\n<name>
+                            <surname>Kalaichelvan</surname>
+                            <given-names>P.T.</given-names>
+                        </name>\n</person-group>
+                    <article-title>In vitro biological properties and characterization of nanosilver
+                        coated cotton fabrics&#x02014;An application for antimicrobial textile
+                        finishing</article-title>
+                    <source>Int. Biodeterior. Biodegrad.</source>
+                    <year>2016</year>
+                    <volume>107</volume>
+                    <fpage>48</fpage>
+                    <lpage>55</lpage>
+                    <pub-id pub-id-type="doi">10.1016/j.ibiod.2015.11.011</pub-id>
+                </element-citation>
+            </ref>
+            <ref id="B8-gels-10-00398">
+                <label>8.</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">\n<name>
+                            <surname>Botelho</surname>
+                            <given-names>C.M.</given-names>
+                        </name>\n<name>
+                            <surname>Fernandes</surname>
+                            <given-names>M.M.</given-names>
+                        </name>\n<name>
+                            <surname>Souza</surname>
+                            <given-names>J.M.</given-names>
+                        </name>\n<name>
+                            <surname>Dias</surname>
+                            <given-names>N.</given-names>
+                        </name>\n<name>
+                            <surname>Sousa</surname>
+                            <given-names>A.M.</given-names>
+                        </name>\n<name>
+                            <surname>Teixeira</surname>
+                            <given-names>J.A.</given-names>
+                        </name>\n<name>
+                            <surname>Fangueiro</surname>
+                            <given-names>R.</given-names>
+                        </name>\n<name>
+                            <surname>Zille</surname>
+                            <given-names>A.</given-names>
+                        </name>\n</person-group>
+                    <article-title>New textile for personal protective equipment&#x02014;Plasma
+                        chitosan/silver nanoparticles nylon fabric</article-title>
+                    <source>Fibers</source>
+                    <year>2021</year>
+                    <volume>9</volume>
+                    <elocation-id>3</elocation-id>
+                    <pub-id pub-id-type="doi">10.3390/fib9010003</pub-id>
+                </element-citation>
+            </ref>
+            <ref id="B9-gels-10-00398">
+                <label>9.</label>
+                <element-citation publication-type="journal"><person-group
+                        person-group-type="author">\n<name>
+                            <surname>El-Rafie</surname>
+                            <given-names>M.</given-names>
+                        </name>\n<name>
+                            <surname>Ahmed</surname>
+                            <given-names>H.B.</given-names>
+                        </name>\n<name>
+                            <surname>Zahran</surname>
+                            <given-names>M.</given-names>
+                        </name>\n</person-group><article-title>Characterization
+                    of nanosilver coated cotton fabrics and evaluation of its antibacterial efficacy</article-title><source>Carbohydr.
+                    Polym.</source><year>2014</year><volume>107</volume><fpage>174</fpage><lpage>181</lpage><pub-id
+                        pub-id-type="doi">10.1016/j.carbpol.2014.02.024</pub-id><pub-id
+                        pub-id-type="pmid">
+                        24702933</pub-id>\n</element-citation>
+            </ref>
+            <ref id="B10-gels-10-00398">
+                <label>10.</label>
+                <element-citation publication-type="journal"><person-group
+                        person-group-type="author">\n<name>
+                            <surname>Gadkari</surname>
+                            <given-names>R.R.</given-names>
+                        </name>\n<name>
+                            <surname>Ali</surname>
+                            <given-names>S.W.</given-names>
+                        </name>\n<name>
+                            <surname>Joshi</surname>
+                            <given-names>M.</given-names>
+                        </name>\n<name>
+                            <surname>Rajendran</surname>
+                            <given-names>S.</given-names>
+                        </name>\n<name>
+                            <surname>Das</surname>
+                            <given-names>A.</given-names>
+                        </name>\n<name>
+                            <surname>Alagirusamy</surname>
+                            <given-names>R.</given-names>
+                        </name>\n</person-group><article-title>Leveraging
+                    antibacterial efficacy of silver loaded chitosan nanoparticles on layer-by-layer
+                    self-assembled coated cotton fabric</article-title><source>Int. J. Biol.
+                    Macromol.</source><year>2020</year><volume>162</volume><fpage>548</fpage><lpage>
+                    560</lpage><pub-id pub-id-type="doi">10.1016/j.ijbiomac.2020.06.137</pub-id><pub-id
+                        pub-id-type="pmid">32562725</pub-id>\n</element-citation>
+            </ref>
+            <ref id="B11-gels-10-00398">
+                <label>11.</label>
+                <element-citation publication-type="journal"><person-group
+                        person-group-type="author">\n<name>
+                            <surname>Petkova</surname>
+                            <given-names>P.</given-names>
+                        </name>\n<name>
+                            <surname>Francesko</surname>
+                            <given-names>A.</given-names>
+                        </name>\n<name>
+                            <surname>Perelshtein</surname>
+                            <given-names>I.</given-names>
+                        </name>\n<name>
+                            <surname>Gedanken</surname>
+                            <given-names>A.</given-names>
+                        </name>\n<name>
+                            <surname>Tzanov</surname>
+                            <given-names>T.</given-names>
+                        </name>\n</person-group><article-title>Simultaneous
+                    sonochemical-enzymatic coating of medical textiles with antibacterial ZnO
+                    nanoparticles</article-title><source>Ultrason. Sonochemistry</source><year>2016</year><volume>
+                    29</volume><fpage>244</fpage><lpage>250</lpage><pub-id pub-id-type="doi">
+                    10.1016/j.ultsonch.2015.09.021</pub-id><pub-id pub-id-type="pmid">26585004</pub-id>
+                    \n</element-citation>
+            </ref>
+            <ref id="B12-gels-10-00398">
+                <label>12.</label>
+                <element-citation publication-type="journal"><person-group
+                        person-group-type="author">\n<name>
+                            <surname>Zheng</surname>
+                            <given-names>Y.</given-names>
+                        </name>\n<name>
+                            <surname>Xiao</surname>
+                            <given-names>M.</given-names>
+                        </name>\n<name>
+                            <surname>Jiang</surname>
+                            <given-names>S.</given-names>
+                        </name>\n<name>
+                            <surname>Ding</surname>
+                            <given-names>F.</given-names>
+                        </name>\n<name>
+                            <surname>Wang</surname>
+                            <given-names>J.</given-names>
+                        </name>\n</person-group><article-title>Coating
+                    fabrics with gold nanorods for colouring, UV-protection, and antibacterial
+                    functions</article-title><source>Nanoscale</source><year>2013</year><volume>5</volume><fpage>
+                    788</fpage><lpage>795</lpage><pub-id pub-id-type="doi">10.1039/c2nr33064d</pub-id><pub-id
+                        pub-id-type="pmid">23235518</pub-id>\n</element-citation>
+            </ref>
+            <ref id="B13-gels-10-00398">
+                <label>13.</label>
+                <element-citation publication-type="journal"><person-group
+                        person-group-type="author">\n<name>
+                            <surname>El-Naggar</surname>
+                            <given-names>M.E.</given-names>
+                        </name>\n<name>
+                            <surname>Shaarawy</surname>
+                            <given-names>S.</given-names>
+                        </name>\n<name>
+                            <surname>Hebeish</surname>
+                            <given-names>A.</given-names>
+                        </name>\n</person-group><article-title>Bactericidal
+                    finishing of loomstate, scoured and bleached cotton fibres via sustainable
+                    in-situ synthesis of silver nanoparticles</article-title><source>Int. J. Biol.
+                    Macromol.</source><year>2018</year><volume>106</volume><fpage>1192</fpage><lpage>
+                    1202</lpage><pub-id pub-id-type="doi">10.1016/j.ijbiomac.2017.08.127</pub-id><pub-id
+                        pub-id-type="pmid">28851644</pub-id>\n</element-citation>
+            </ref>
+            <ref id="B14-gels-10-00398">
+                <label>14.</label>
+                <element-citation publication-type="journal"><person-group
+                        person-group-type="author">\n<name>
+                            <surname>Shcherbakov</surname>
+                            <given-names>A.B.</given-names>
+                        </name>\n<name>
+                            <surname>Reukov</surname>
+                            <given-names>V.V.</given-names>
+                        </name>\n<name>
+                            <surname>Yakimansky</surname>
+                            <given-names>A.V.</given-names>
+                        </name>\n<name>
+                            <surname>Krasnopeeva</surname>
+                            <given-names>E.L.</given-names>
+                        </name>\n<name>
+                            <surname>Ivanova</surname>
+                            <given-names>O.S.</given-names>
+                        </name>\n<name>
+                            <surname>Popov</surname>
+                            <given-names>A.L.</given-names>
+                        </name>\n<name>
+                            <surname>Ivanov</surname>
+                            <given-names>V.K.</given-names>
+                        </name>\n</person-group><article-title>
+                    CeO<sub>2</sub> nanoparticle-containing polymers for biomedical applications: A
+                    review</article-title><source>Polymers</source><year>2021</year><volume>13</volume><elocation-id>
+                    924</elocation-id><pub-id pub-id-type="doi">10.3390/polym13060924</pub-id><pub-id
+                        pub-id-type="pmid">33802821</pub-id>\n</element-citation>
+            </ref>
+            <ref id="B15-gels-10-00398">
+                <label>15.</label>
+                <element-citation publication-type="journal"><person-group
+                        person-group-type="author">\n<name>
+                            <surname>Qian</surname>
+                            <given-names>J.</given-names>
+                        </name>\n<name>
+                            <surname>Dong</surname>
+                            <given-names>Q.</given-names>
+                        </name>\n<name>
+                            <surname>Chun</surname>
+                            <given-names>K.</given-names>
+                        </name>\n<name>
+                            <surname>Zhu</surname>
+                            <given-names>D.</given-names>
+                        </name>\n<name>
+                            <surname>Zhang</surname>
+                            <given-names>X.</given-names>
+                        </name>\n<name>
+                            <surname>Mao</surname>
+                            <given-names>Y.</given-names>
+                        </name>\n<name>
+                            <surname>Culver</surname>
+                            <given-names>J.N.</given-names>
+                        </name>\n<name>
+                            <surname>Tai</surname>
+                            <given-names>S.</given-names>
+                        </name>\n<name>
+                            <surname>German</surname>
+                            <given-names>J.R.</given-names>
+                        </name>\n<name>
+                            <surname>Dean</surname>
+                            <given-names>D.P.</given-names>
+                        </name>\n<etal />
+                    \n</person-group><article-title>Highly stable, antiviral, antibacterial cotton
+                    textiles via molecular engineering</article-title><source>Nat. Nanotechnol.</source><year>
+                    2023</year><volume>18</volume><fpage>168</fpage><lpage>176</lpage><pub-id
+                        pub-id-type="doi">10.1038/s41565-022-01278-y</pub-id><pub-id
+                        pub-id-type="pmid">
+                        36585515</pub-id>\n</element-citation>
+            </ref>
+            <ref id="B16-gels-10-00398">
+                <label>16.</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">\n<name>
+                            <surname>Gulati</surname>
+                            <given-names>R.</given-names>
+                        </name>\n<name>
+                            <surname>Sharma</surname>
+                            <given-names>S.</given-names>
+                        </name>\n<name>
+                            <surname>Sharma</surname>
+                            <given-names>R.K.</given-names>
+                        </name>\n</person-group>
+                    <article-title>Antimicrobial textile: Recent developments and functional
+                        perspective</article-title>
+                    <source>Polym. Bull.</source>
+                    <year>2022</year>
+                    <volume>79</volume>
+                    <fpage>5747</fpage>
+                    <lpage>5771</lpage>
+                    <pub-id pub-id-type="doi">10.1007/s00289-021-03826-3</pub-id>
+                </element-citation>
+            </ref>
+            <ref id="B17-gels-10-00398">
+                <label>17.</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">\n<name>
+                            <surname>Li</surname>
+                            <given-names>Y.</given-names>
+                        </name>\n<name>
+                            <surname>Miao</surname>
+                            <given-names>Q.</given-names>
+                        </name>\n<name>
+                            <surname>Wang</surname>
+                            <given-names>X.</given-names>
+                        </name>\n</person-group>
+                    <article-title>Antibacterial capability of air filter fiber materials treated
+                        with triclosan against indoor environmental microbes</article-title>
+                    <source>Atmosphere</source>
+                    <year>2022</year>
+                    <volume>13</volume>
+                    <elocation-id>1104</elocation-id>
+                    <pub-id pub-id-type="doi">10.3390/atmos13071104</pub-id>
+                </element-citation>
+            </ref>
+            <ref id="B18-gels-10-00398">
+                <label>18.</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">\n<name>
+                            <surname>Shrestha</surname>
+                            <given-names>P.</given-names>
+                        </name>\n<name>
+                            <surname>Zhang</surname>
+                            <given-names>Y.</given-names>
+                        </name>\n<name>
+                            <surname>Chen</surname>
+                            <given-names>W.J.</given-names>
+                        </name>\n<name>
+                            <surname>Wong</surname>
+                            <given-names>T.Y.</given-names>
+                        </name>\n</person-group>
+                    <article-title>Triclosan: Antimicrobial mechanisms, antibiotics interactions,
+                        clinical applications, and human health</article-title>
+                    <source>J. Environ. Sci. Health Part C</source>
+                    <year>2020</year>
+                    <volume>38</volume>
+                    <fpage>245</fpage>
+                    <lpage>268</lpage>
+                    <pub-id pub-id-type="doi">10.1080/26896583.2020.1809286</pub-id>
+                </element-citation>
+            </ref>
+            <ref id="B19-gels-10-00398">
+                <label>19.</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">\n<name>
+                            <surname>Qian</surname>
+                            <given-names>L.</given-names>
+                        </name>\n<name>
+                            <surname>Sun</surname>
+                            <given-names>G.</given-names>
+                        </name>\n</person-group>
+                    <article-title>Durable and regenerable antimicrobial textiles: Improving
+                        efficacy and durability of biocidal functions</article-title>
+                    <source>J. Appl. Polym. Sci.</source>
+                    <year>2004</year>
+                    <volume>91</volume>
+                    <fpage>2588</fpage>
+                    <lpage>2593</lpage>
+                    <pub-id pub-id-type="doi">10.1002/app.13428</pub-id>
+                </element-citation>
+            </ref>
+            <ref id="B20-gels-10-00398">
+                <label>20.</label>
+                <element-citation publication-type="journal"><person-group
+                        person-group-type="author">\n<name>
+                            <surname>Ma</surname>
+                            <given-names>Y.</given-names>
+                        </name>\n<name>
+                            <surname>Aslam</surname>
+                            <given-names>M.Z.</given-names>
+                        </name>\n<name>
+                            <surname>Wu</surname>
+                            <given-names>M.</given-names>
+                        </name>\n<name>
+                            <surname>Nitin</surname>
+                            <given-names>N.</given-names>
+                        </name>\n<name>
+                            <surname>Sun</surname>
+                            <given-names>G.</given-names>
+                        </name>\n</person-group><article-title>Strategies
+                    and perspectives of developing anti-biofilm materials for improved food safety</article-title><source>Food
+                    Res. Int.</source><year>2022</year><volume>159</volume><fpage>111543</fpage><pub-id
+                        pub-id-type="doi">10.1016/j.foodres.2022.111543</pub-id><pub-id
+                        pub-id-type="pmid">
+                        35940753</pub-id>\n</element-citation>
+            </ref>
+            <ref id="B21-gels-10-00398">
+                <label>21.</label>
+                <element-citation publication-type="journal"><person-group
+                        person-group-type="author">\n<name>
+                            <surname>Sun</surname>
+                            <given-names>X.</given-names>
+                        </name>\n<name>
+                            <surname>Zhang</surname>
+                            <given-names>L.</given-names>
+                        </name>\n<name>
+                            <surname>Cao</surname>
+                            <given-names>Z.</given-names>
+                        </name>\n<name>
+                            <surname>Deng</surname>
+                            <given-names>Y.</given-names>
+                        </name>\n<name>
+                            <surname>Liu</surname>
+                            <given-names>L.</given-names>
+                        </name>\n<name>
+                            <surname>Fong</surname>
+                            <given-names>H.</given-names>
+                        </name>\n<name>
+                            <surname>Sun</surname>
+                            <given-names>Y.</given-names>
+                        </name>\n</person-group><article-title>Electrospun
+                    composite nanofiber fabrics containing uniformly dispersed antimicrobial agents
+                    as an innovative type of polymeric materials with superior antimicrobial
+                        efficacy</article-title><source>ACS Appl. Mater. Interfaces</source><year>
+                    2010</year><volume>
+                        2</volume><fpage>952</fpage><lpage>956</lpage><pub-id pub-id-type="doi">
+                    10.1021/am100018k</pub-id><pub-id pub-id-type="pmid">20380426</pub-id>\n</element-citation>
+            </ref>
+            <ref id="B22-gels-10-00398">
+                <label>22.</label>
+                <element-citation publication-type="journal"><person-group
+                        person-group-type="author">\n<name>
+                            <surname>Saverina</surname>
+                            <given-names>E.A.</given-names>
+                        </name>\n<name>
+                            <surname>Frolov</surname>
+                            <given-names>N.A.</given-names>
+                        </name>\n<name>
+                            <surname>Kamanina</surname>
+                            <given-names>O.A.</given-names>
+                        </name>\n<name>
+                            <surname>Arlyapov</surname>
+                            <given-names>V.A.</given-names>
+                        </name>\n<name>
+                            <surname>Vereshchagin</surname>
+                            <given-names>A.N.</given-names>
+                        </name>\n<name>
+                            <surname>Ananikov</surname>
+                            <given-names>V.P.</given-names>
+                        </name>\n</person-group><article-title>From
+                    Antibacterial to Antibiofilm Targeting: An Emerging Paradigm Shift in the
+                    Development of Quaternary Ammonium Compounds (QACs)</article-title><source>ACS
+                    Infect. Dis.</source><year>2023</year><volume>9</volume><fpage>394</fpage><lpage>
+                    422</lpage><pub-id pub-id-type="doi">10.1021/acsinfecdis.2c00469</pub-id><pub-id
+                        pub-id-type="pmid">36790073</pub-id>\n</element-citation>
+            </ref>
+            <ref id="B23-gels-10-00398">
+                <label>23.</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">\n<name>
+                            <surname>Wang</surname>
+                            <given-names>P.</given-names>
+                        </name>\n<name>
+                            <surname>Zhang</surname>
+                            <given-names>M.</given-names>
+                        </name>\n<name>
+                            <surname>Qu</surname>
+                            <given-names>J.</given-names>
+                        </name>\n<name>
+                            <surname>Wang</surname>
+                            <given-names>L.</given-names>
+                        </name>\n<name>
+                            <surname>Geng</surname>
+                            <given-names>J.</given-names>
+                        </name>\n<name>
+                            <surname>Fu</surname>
+                            <given-names>F.</given-names>
+                        </name>\n<name>
+                            <surname>Liu</surname>
+                            <given-names>X.</given-names>
+                        </name>\n</person-group>
+                    <article-title>Antibacterial cotton fabric prepared by a &#x0201c;grafting
+                        to&#x0201d; strategy using a QAC copolymer</article-title>
+                    <source>Cellulose</source>
+                    <year>2022</year>
+                    <volume>29</volume>
+                    <fpage>3569</fpage>
+                    <lpage>3581</lpage>
+                    <pub-id pub-id-type="doi">10.1007/s10570-022-04469-x</pub-id>
+                </element-citation>
+            </ref>
+            <ref id="B24-gels-10-00398">
+                <label>24.</label>
+                <element-citation publication-type="journal"><person-group
+                        person-group-type="author">\n<name>
+                            <surname>Yueh</surname>
+                            <given-names>M.-F.</given-names>
+                        </name>\n<name>
+                            <surname>Tukey</surname>
+                            <given-names>R.H.</given-names>
+                        </name>\n</person-group><article-title>Triclosan:
+                    A widespread environmental toxicant with many biological effects</article-title><source>Annu.
+                    Rev. Pharmacol. Toxicol.</source><year>2016</year><volume>56</volume><fpage>251</fpage><lpage>
+                    272</lpage><pub-id pub-id-type="doi">10.1146/annurev-pharmtox-010715-103417</pub-id><pub-id
+                        pub-id-type="pmid">26738475</pub-id>\n</element-citation>
+            </ref>
+            <ref id="B25-gels-10-00398">
+                <label>25.</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">\n<name>
+                            <surname>Reshma</surname>
+                            <given-names>A.</given-names>
+                        </name>\n<name>
+                            <surname>Priyadarisini</surname>
+                            <given-names>V.</given-names>
+                        </name>\n<name>
+                            <surname>Amutha</surname>
+                            <given-names>K.</given-names>
+                        </name>\n</person-group>
+                    <article-title>Sustainable antimicrobial finishing of fabrics using natural
+                        bioactive agents&#x02014;A review</article-title>
+                    <source>Int. J. Life Sci. Pharma Res.</source>
+                    <year>2018</year>
+                    <volume>8</volume>
+                    <fpage>10</fpage>
+                    <lpage>20</lpage>
+                    <pub-id pub-id-type="doi">10.22376/ijpbs/lpr.2018.8.4.l10-20</pub-id>
+                </element-citation>
+            </ref>
+            <ref id="B26-gels-10-00398">
+                <label>26.</label>
+                <element-citation publication-type="book">
+                    <person-group person-group-type="author">\n<name>
+                            <surname>Y&#x00131;ld&#x00131;r&#x00131;m</surname>
+                            <given-names>F.F.</given-names>
+                        </name>\n<name>
+                            <surname>Avinc</surname>
+                            <given-names>O.</given-names>
+                        </name>\n<name>
+                            <surname>Yavas</surname>
+                            <given-names>A.</given-names>
+                        </name>\n<name>
+                            <surname>Sevgisunar</surname>
+                            <given-names>G.</given-names>
+                        </name>\n</person-group>
+                    <article-title>Sustainable antifungal and antibacterial textiles using natural
+                        resources</article-title>
+                    <source>Sustainability in the Textile and Apparel Industries: Sourcing Natural
+                        Raw Materials</source>
+                    <publisher-name>Springer</publisher-name>
+                    <publisher-loc>Cham, Switzerland</publisher-loc>
+                    <year>2020</year>
+                    <fpage>111</fpage>
+                    <lpage>179</lpage>
+                </element-citation>
+            </ref>
+            <ref id="B27-gels-10-00398">
+                <label>27.</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">\n<name>
+                            <surname>Tanasa</surname>
+                            <given-names>F.</given-names>
+                        </name>\n<name>
+                            <surname>Teaca</surname>
+                            <given-names>C.-A.</given-names>
+                        </name>\n<name>
+                            <surname>Nechifor</surname>
+                            <given-names>M.</given-names>
+                        </name>\n<name>
+                            <surname>Ignat</surname>
+                            <given-names>M.</given-names>
+                        </name>\n<name>
+                            <surname>Duceac</surname>
+                            <given-names>I.A.</given-names>
+                        </name>\n<name>
+                            <surname>Ignat</surname>
+                            <given-names>L.</given-names>
+                        </name>\n</person-group>
+                    <article-title>Highly Specialized Textiles with Antimicrobial
+                        Functionality&#x02014;Advances and Challenges</article-title>
+                    <source>Textiles</source>
+                    <year>2023</year>
+                    <volume>3</volume>
+                    <fpage>219</fpage>
+                    <lpage>245</lpage>
+                    <pub-id pub-id-type="doi">10.3390/textiles3020015</pub-id>
+                </element-citation>
+            </ref>
+            <ref id="B28-gels-10-00398">
+                <label>28.</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">\n<name>
+                            <surname>Vertuccio</surname>
+                            <given-names>L.</given-names>
+                        </name>\n<name>
+                            <surname>Guadagno</surname>
+                            <given-names>L.</given-names>
+                        </name>\n<name>
+                            <surname>D&#x02019;angelo</surname>
+                            <given-names>A.</given-names>
+                        </name>\n<name>
+                            <surname>Viola</surname>
+                            <given-names>V.</given-names>
+                        </name>\n<name>
+                            <surname>Raimondo</surname>
+                            <given-names>M.</given-names>
+                        </name>\n<name>
+                            <surname>Catauro</surname>
+                            <given-names>M.</given-names>
+                        </name>\n</person-group>
+                    <article-title>Sol-gel synthesis of caffeic acid entrapped in
+                        silica/polyethylene glycol based organic-inorganic hybrids: Drug delivery
+                        and biological properties</article-title>
+                    <source>Appl. Sci.</source>
+                    <year>2023</year>
+                    <volume>13</volume>
+                    <elocation-id>2164</elocation-id>
+                    <pub-id pub-id-type="doi">10.3390/app13042164</pub-id>
+                </element-citation>
+            </ref>
+            <ref id="B29-gels-10-00398">
+                <label>29.</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">\n<name>
+                            <surname>Catauro</surname>
+                            <given-names>M.</given-names>
+                        </name>\n<name>
+                            <surname>D&#x02019;Angelo</surname>
+                            <given-names>A.</given-names>
+                        </name>\n<name>
+                            <surname>Fiorentino</surname>
+                            <given-names>M.</given-names>
+                        </name>\n<name>
+                            <surname>Pacifico</surname>
+                            <given-names>S.</given-names>
+                        </name>\n<name>
+                            <surname>Latini</surname>
+                            <given-names>A.</given-names>
+                        </name>\n<name>
+                            <surname>Brutti</surname>
+                            <given-names>S.</given-names>
+                        </name>\n<name>
+                            <surname>Ciprioti</surname>
+                            <given-names>S.V.</given-names>
+                        </name>\n</person-group>
+                    <article-title>Thermal, spectroscopic characterization and evaluation of
+                        antibacterial and cytotoxicity properties of quercetin-PEG-silica hybrid
+                        materials</article-title>
+                    <source>Ceram. Int.</source>
+                    <year>2023</year>
+                    <volume>49</volume>
+                    <fpage>14855</fpage>
+                    <lpage>14863</lpage>
+                    <pub-id pub-id-type="doi">10.1016/j.ceramint.2022.07.256</pub-id>
+                </element-citation>
+            </ref>
+            <ref id="B30-gels-10-00398">
+                <label>30.</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">\n<name>
+                            <surname>Tan</surname>
+                            <given-names>L.</given-names>
+                        </name>\n<name>
+                            <surname>Sin</surname>
+                            <given-names>L.T.</given-names>
+                        </name>\n<name>
+                            <surname>Bee</surname>
+                            <given-names>S.</given-names>
+                        </name>\n<name>
+                            <surname>Ratnam</surname>
+                            <given-names>C.T.</given-names>
+                        </name>\n<name>
+                            <surname>Woo</surname>
+                            <given-names>K.</given-names>
+                        </name>\n<name>
+                            <surname>Tee</surname>
+                            <given-names>T.</given-names>
+                        </name>\n<name>
+                            <surname>Rahmat</surname>
+                            <given-names>A.R.</given-names>
+                        </name>\n</person-group>
+                    <article-title>A review of antimicrobial fabric containing nanostructures
+                        metal-based compound</article-title>
+                    <source>J. Vinyl Addit. Technol.</source>
+                    <year>2019</year>
+                    <volume>25</volume>
+                    <fpage>E3</fpage>
+                    <lpage>E27</lpage>
+                    <pub-id pub-id-type="doi">10.1002/vnl.21606</pub-id>
+                </element-citation>
+            </ref>
+            <ref id="B31-gels-10-00398">
+                <label>31.</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">\n<name>
+                            <surname>Sfameni</surname>
+                            <given-names>S.</given-names>
+                        </name>\n<name>
+                            <surname>Hadhri</surname>
+                            <given-names>M.</given-names>
+                        </name>\n<name>
+                            <surname>Rando</surname>
+                            <given-names>G.</given-names>
+                        </name>\n<name>
+                            <surname>Drommi</surname>
+                            <given-names>D.</given-names>
+                        </name>\n<name>
+                            <surname>Rosace</surname>
+                            <given-names>G.</given-names>
+                        </name>\n<name>
+                            <surname>Trovato</surname>
+                            <given-names>V.</given-names>
+                        </name>\n<name>
+                            <surname>Plutino</surname>
+                            <given-names>M.R.</given-names>
+                        </name>\n</person-group>
+                    <article-title>Inorganic finishing for textile fabrics: Recent advances in
+                        wear-resistant, UV protection and antimicrobial treatments</article-title>
+                    <source>Inorganics</source>
+                    <year>2023</year>
+                    <volume>11</volume>
+                    <elocation-id>19</elocation-id>
+                    <pub-id pub-id-type="doi">10.3390/inorganics11010019</pub-id>
+                </element-citation>
+            </ref>
+            <ref id="B32-gels-10-00398">
+                <label>32.</label>
+                <element-citation publication-type="journal"><person-group
+                        person-group-type="author">\n<name>
+                            <surname>Feng</surname>
+                            <given-names>Q.L.</given-names>
+                        </name>\n<name>
+                            <surname>Wu</surname>
+                            <given-names>J.</given-names>
+                        </name>\n<name>
+                            <surname>Chen</surname>
+                            <given-names>G.Q.</given-names>
+                        </name>\n<name>
+                            <surname>Cui</surname>
+                            <given-names>F.Z.</given-names>
+                        </name>\n<name>
+                            <surname>Kim</surname>
+                            <given-names>T.N.</given-names>
+                        </name>\n<name>
+                            <surname>Kim</surname>
+                            <given-names>J.O.</given-names>
+                        </name>\n</person-group><article-title>A
+                    mechanistic study of the antibacterial effect of silver ions on Escherichia
+                    aureus and Staphylococcus aureus</article-title><source>J. Biomed. Mater. Res.</source><year>
+                    2000</year><volume>52</volume><fpage>662</fpage><lpage>668</lpage><pub-id
+                        pub-id-type="doi">
+                    10.1002/1097-4636(20001215)52:4&#x0003c;662::AID-JBM10&#x0003e;3.0.CO;2-3</pub-id><pub-id
+                        pub-id-type="pmid">11033548</pub-id>\n</element-citation>
+            </ref>
+            <ref id="B33-gels-10-00398">
+                <label>33.</label>
+                <element-citation publication-type="journal"><person-group
+                        person-group-type="author">\n<name>
+                            <surname>Yin</surname>
+                            <given-names>I.X.</given-names>
+                        </name>\n<name>
+                            <surname>Zhang</surname>
+                            <given-names>J.</given-names>
+                        </name>\n<name>
+                            <surname>Zhao</surname>
+                            <given-names>I.S.</given-names>
+                        </name>\n<name>
+                            <surname>Mei</surname>
+                            <given-names>M.L.</given-names>
+                        </name>\n<name>
+                            <surname>Li</surname>
+                            <given-names>Q.</given-names>
+                        </name>\n<name>
+                            <surname>Chu</surname>
+                            <given-names>C.H.</given-names>
+                        </name>\n</person-group><article-title>The
+                    antibacterial mechanism of silver nanoparticles and its application in dentistry</article-title><source>Int.
+                    J. Nanomed.</source><year>2020</year><volume>15</volume><fpage>2555</fpage><lpage>
+                    2562</lpage><pub-id pub-id-type="doi">10.2147/IJN.S246764</pub-id><pub-id
+                        pub-id-type="pmid">32368040</pub-id>\n</element-citation>
+            </ref>
+            <ref id="B34-gels-10-00398">
+                <label>34.</label>
+                <element-citation publication-type="journal"><person-group
+                        person-group-type="author">\n<name>
+                            <surname>Bektas</surname>
+                            <given-names>N.</given-names>
+                        </name>\n<name>
+                            <surname>&#x0015e;enel</surname>
+                            <given-names>B.</given-names>
+                        </name>\n<name>
+                            <surname>Yenilmez</surname>
+                            <given-names>E.</given-names>
+                        </name>\n<name>
+                            <surname>&#x000d6;zatik</surname>
+                            <given-names>O.</given-names>
+                        </name>\n<name>
+                            <surname>Arslan</surname>
+                            <given-names>R.</given-names>
+                        </name>\n</person-group><article-title>Evaluation
+                    of wound healing effect of chitosan-based gel formulation containing vitexin</article-title><source>Saudi
+                    Pharm. J.</source><year>2020</year><volume>28</volume><fpage>87</fpage><lpage>94</lpage><pub-id
+                        pub-id-type="doi">10.1016/j.jsps.2019.11.008</pub-id><pub-id
+                        pub-id-type="pmid">
+                        31933527</pub-id>\n</element-citation>
+            </ref>
+            <ref id="B35-gels-10-00398">
+                <label>35.</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">\n<name>
+                            <surname>S&#x000e1;nchez</surname>
+                            <given-names>R.</given-names>
+                        </name>\n<name>
+                            <surname>Alonso</surname>
+                            <given-names>G.</given-names>
+                        </name>\n<name>
+                            <surname>Valencia</surname>
+                            <given-names>C.</given-names>
+                        </name>\n<name>
+                            <surname>Franco</surname>
+                            <given-names>J.</given-names>
+                        </name>\n</person-group>
+                    <article-title>Rheological and TGA study of acylated chitosan gel-like
+                        dispersions in castor oil: Influence of acyl substituent and acylation
+                        protocol</article-title>
+                    <source>Chem. Eng. Res. Des.</source>
+                    <year>2015</year>
+                    <volume>100</volume>
+                    <fpage>170</fpage>
+                    <lpage>178</lpage>
+                    <pub-id pub-id-type="doi">10.1016/j.cherd.2015.05.022</pub-id>
+                </element-citation>
+            </ref>
+            <ref id="B36-gels-10-00398">
+                <label>36.</label>
+                <element-citation publication-type="journal"><person-group
+                        person-group-type="author">\n<name>
+                            <surname>Mohammadi</surname>
+                            <given-names>H.</given-names>
+                        </name>\n<name>
+                            <surname>Alihosseini</surname>
+                            <given-names>F.</given-names>
+                        </name>\n<name>
+                            <surname>Hosseini</surname>
+                            <given-names>S.A.</given-names>
+                        </name>\n</person-group><article-title>Improving
+                    physical and biological properties of nylon monofilament as suture by
+                    Chitosan/Hyaluronic acid</article-title><source>Int. J. Biol. Macromol.</source><year>
+                    2020</year><volume>164</volume><fpage>3394</fpage><lpage>3402</lpage><pub-id
+                        pub-id-type="doi">10.1016/j.ijbiomac.2020.08.081</pub-id><pub-id
+                        pub-id-type="pmid">
+                        32818569</pub-id>\n</element-citation>
+            </ref>
+            <ref id="B37-gels-10-00398">
+                <label>37.</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">\n<name>
+                            <surname>Kumar-Krishnan</surname>
+                            <given-names>S.</given-names>
+                        </name>\n<name>
+                            <surname>Prokhorov</surname>
+                            <given-names>E.</given-names>
+                        </name>\n<name>
+                            <surname>Hern&#x000e1;ndez-Iturriaga</surname>
+                            <given-names>M.</given-names>
+                        </name>\n<name>
+                            <surname>Mota-Morales</surname>
+                            <given-names>J.D.</given-names>
+                        </name>\n<name>
+                            <surname>V&#x000e1;zquez-Lepe</surname>
+                            <given-names>M.</given-names>
+                        </name>\n<name>
+                            <surname>Kovalenko</surname>
+                            <given-names>Y.</given-names>
+                        </name>\n<name>
+                            <surname>Sanchez</surname>
+                            <given-names>I.C.</given-names>
+                        </name>\n<name>
+                            <surname>Luna-B&#x000e1;rcenas</surname>
+                            <given-names>G.</given-names>
+                        </name>\n</person-group>
+                    <article-title>Chitosan/silver nanocomposites: Synergistic antibacterial action
+                        of silver nanoparticles and silver ions</article-title>
+                    <source>Eur. Polym. J.</source>
+                    <year>2015</year>
+                    <volume>67</volume>
+                    <fpage>242</fpage>
+                    <lpage>251</lpage>
+                    <pub-id pub-id-type="doi">10.1016/j.eurpolymj.2015.03.066</pub-id>
+                </element-citation>
+            </ref>
+            <ref id="B38-gels-10-00398">
+                <label>38.</label>
+                <element-citation publication-type="journal"><person-group
+                        person-group-type="author">\n<name>
+                            <surname>Grgac</surname>
+                            <given-names>S.F.</given-names>
+                        </name>\n<name>
+                            <surname>Tarbuk</surname>
+                            <given-names>A.</given-names>
+                        </name>\n<name>
+                            <surname>Dekani&#x00107;</surname>
+                            <given-names>T.</given-names>
+                        </name>\n<name>
+                            <surname>Sujka</surname>
+                            <given-names>W.</given-names>
+                        </name>\n<name>
+                            <surname>Draczy&#x00144;ski</surname>
+                            <given-names>Z.</given-names>
+                        </name>\n</person-group><article-title>The
+                    chitosan implementation into cotton and polyester/cotton blend fabrics</article-title><source>
+                    Materials</source><year>2020</year><volume>13</volume><elocation-id>1616</elocation-id><pub-id
+                        pub-id-type="doi">10.3390/ma13071616</pub-id><pub-id pub-id-type="pmid">
+                    32244687</pub-id> \n</element-citation>
+            </ref>
+            <ref id="B39-gels-10-00398">
+                <label>39.</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">\n<name>
+                            <surname>El-tahlawy</surname>
+                            <given-names>K.F.</given-names>
+                        </name>\n<name>
+                            <surname>El-Bendary</surname>
+                            <given-names>M.A.</given-names>
+                        </name>\n<name>
+                            <surname>Elhendawy</surname>
+                            <given-names>A.G.</given-names>
+                        </name>\n<name>
+                            <surname>Hudson</surname>
+                            <given-names>S.M.</given-names>
+                        </name>\n</person-group>
+                    <article-title>The antimicrobial activity of cotton fabrics treated with
+                        different crosslinking agents and chitosan</article-title>
+                    <source>Carbohydr. Polym.</source>
+                    <year>2005</year>
+                    <volume>60</volume>
+                    <fpage>421</fpage>
+                    <lpage>430</lpage>
+                    <pub-id pub-id-type="doi">10.1016/j.carbpol.2005.02.019</pub-id>
+                </element-citation>
+            </ref>
+            <ref id="B40-gels-10-00398">
+                <label>40.</label>
+                <element-citation publication-type="journal"><person-group
+                        person-group-type="author">\n<name>
+                            <surname>Cao</surname>
+                            <given-names>X.L.</given-names>
+                        </name>\n<name>
+                            <surname>Cheng</surname>
+                            <given-names>C.</given-names>
+                        </name>\n<name>
+                            <surname>Ma</surname>
+                            <given-names>Y.L.</given-names>
+                        </name>\n<name>
+                            <surname>Zhao</surname>
+                            <given-names>C.S.</given-names>
+                        </name>\n</person-group><article-title>Preparation
+                    of silver nanoparticles with antimicrobial activities and the researches of
+                        their biocompatibilities</article-title><source>J. Mater. Sci. Mater. Med.</source><year>
+                    2010</year><volume>21</volume><fpage>2861</fpage><lpage>2868</lpage><pub-id
+                        pub-id-type="doi">10.1007/s10856-010-4133-2</pub-id><pub-id
+                        pub-id-type="pmid">
+                        20652373</pub-id>\n</element-citation>
+            </ref>
+            <ref id="B41-gels-10-00398">
+                <label>41.</label>
+                <element-citation publication-type="journal"><person-group
+                        person-group-type="author">\n<name>
+                            <surname>Wei</surname>
+                            <given-names>D.</given-names>
+                        </name>\n<name>
+                            <surname>Sun</surname>
+                            <given-names>W.</given-names>
+                        </name>\n<name>
+                            <surname>Qian</surname>
+                            <given-names>W.</given-names>
+                        </name>\n<name>
+                            <surname>Ye</surname>
+                            <given-names>Y.</given-names>
+                        </name>\n<name>
+                            <surname>Ma</surname>
+                            <given-names>X.</given-names>
+                        </name>\n</person-group><article-title>The
+                    synthesis of chitosan-based silver nanoparticles and their antibacterial
+                        activity</article-title><source>Carbohydr. Res.</source><year>2009</year><volume>
+                    344</volume><fpage>2375</fpage><lpage>2382</lpage><pub-id pub-id-type="doi">
+                    10.1016/j.carres.2009.09.001</pub-id><pub-id pub-id-type="pmid">19800053</pub-id>
+                    \n</element-citation>
+            </ref>
+            <ref id="B42-gels-10-00398">
+                <label>42.</label>
+                <element-citation publication-type="journal"><person-group
+                        person-group-type="author">\n<name>
+                            <surname>Rezazadeh</surname>
+                            <given-names>N.H.</given-names>
+                        </name>\n<name>
+                            <surname>Buazar</surname>
+                            <given-names>F.</given-names>
+                        </name>\n<name>
+                            <surname>Matroodi</surname>
+                            <given-names>S.</given-names>
+                        </name>\n</person-group><article-title>Synergistic
+                    effects of combinatorial chitosan and polyphenol biomolecules on enhanced
+                    antibacterial activity of biofunctionalized silver nanoparticles</article-title><source>Sci.
+                    Rep.</source><year>2020</year><volume>10</volume><fpage>19615</fpage><pub-id
+                        pub-id-type="doi">10.1038/s41598-020-76726-7</pub-id><pub-id
+                        pub-id-type="pmid">
+                        33184403</pub-id>\n</element-citation>
+            </ref>
+            <ref id="B43-gels-10-00398">
+                <label>43.</label>
+                <element-citation publication-type="journal"><person-group
+                        person-group-type="author">\n<name>
+                            <surname>Nithya</surname>
+                            <given-names>A.</given-names>
+                        </name>\n<name>
+                            <surname>JeevaKumari</surname>
+                            <given-names>H.L.</given-names>
+                        </name>\n<name>
+                            <surname>Rokesh</surname>
+                            <given-names>K.</given-names>
+                        </name>\n<name>
+                            <surname>Ruckmani</surname>
+                            <given-names>K.</given-names>
+                        </name>\n<name>
+                            <surname>Jeganathan</surname>
+                            <given-names>K.</given-names>
+                        </name>\n<name>
+                            <surname>Jothivenkatachalam</surname>
+                            <given-names>K.</given-names>
+                        </name>\n</person-group><article-title>A
+                    versatile effect of chitosan-silver nanocomposite for surface plasmonic
+                    photocatalytic and antibacterial activity</article-title><source>J. Photochem.
+                    Photobiol. B Biol.</source><year>2015</year><volume>153</volume><fpage>412</fpage><lpage>
+                    422</lpage><pub-id pub-id-type="doi">10.1016/j.jphotobiol.2015.10.020</pub-id><pub-id
+                        pub-id-type="pmid">26562805</pub-id>\n</element-citation>
+            </ref>
+            <ref id="B44-gels-10-00398">
+                <label>44.</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">\n<name>
+                            <surname>Mollick</surname>
+                            <given-names>S.</given-names>
+                        </name>\n<name>
+                            <surname>Islam</surname>
+                            <given-names>T.</given-names>
+                        </name>\n<name>
+                            <surname>Miah</surname>
+                            <given-names>R.</given-names>
+                        </name>\n<name>
+                            <surname>Riad</surname>
+                            <given-names>M.H.</given-names>
+                        </name>\n<name>
+                            <surname>Chakrabarty</surname>
+                            <given-names>T.</given-names>
+                        </name>\n<name>
+                            <surname>Hossen</surname>
+                            <given-names>T.</given-names>
+                        </name>\n<name>
+                            <surname>Islam</surname>
+                            <given-names>T.</given-names>
+                        </name>\n</person-group>
+                    <article-title>Development of Antibacterial Cotton Fabric Utilizing
+                        Microencapsulation Technique from Dragon Fruit Peel Extract</article-title>
+                    <source>Fibers Polym.</source>
+                    <year>2023</year>
+                    <volume>24</volume>
+                    <fpage>3937</fpage>
+                    <lpage>3945</lpage>
+                    <pub-id pub-id-type="doi">10.1007/s12221-023-00353-y</pub-id>
+                </element-citation>
+            </ref>
+            <ref id="B45-gels-10-00398">
+                <label>45.</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">\n<name>
+                            <surname>Safi</surname>
+                            <given-names>M.</given-names>
+                        </name>\n<name>
+                            <surname>Gheisar</surname>
+                            <given-names>F.</given-names>
+                        </name>\n<name>
+                            <surname>Najafi</surname>
+                            <given-names>F.</given-names>
+                        </name>\n<name>
+                            <surname>Hadavand</surname>
+                            <given-names>B.S.</given-names>
+                        </name>\n</person-group>
+                    <article-title>Investigation of Shade Darkening Property of Polydimethylsiloxane
+                        and Poly (Dimethyl/Diphenyl Siloxane) Modified with Amino Groups on Dyed
+                        Textiles</article-title>
+                    <source>Fibers Polym.</source>
+                    <year>2023</year>
+                    <volume>24</volume>
+                    <fpage>4213</fpage>
+                    <lpage>4227</lpage>
+                    <pub-id pub-id-type="doi">10.1007/s12221-023-00395-2</pub-id>
+                </element-citation>
+            </ref>
+            <ref id="B46-gels-10-00398">
+                <label>46.</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">\n<name>
+                            <surname>Emam</surname>
+                            <given-names>H.E.</given-names>
+                        </name>\n<name>
+                            <surname>Rehan</surname>
+                            <given-names>M.</given-names>
+                        </name>\n<name>
+                            <surname>Mashaly</surname>
+                            <given-names>H.M.</given-names>
+                        </name>\n<name>
+                            <surname>Ahmed</surname>
+                            <given-names>H.B.</given-names>
+                        </name>\n</person-group>
+                    <article-title>Large scaled strategy for natural/synthetic fabrics
+                        functionalization via immediate assembly of AgNPs</article-title>
+                    <source>Dye. Pigment.</source>
+                    <year>2016</year>
+                    <volume>133</volume>
+                    <fpage>173</fpage>
+                    <lpage>183</lpage>
+                    <pub-id pub-id-type="doi">10.1016/j.dyepig.2016.06.005</pub-id>
+                </element-citation>
+            </ref>
+            <ref id="B47-gels-10-00398">
+                <label>47.</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">\n<name>
+                            <surname>Rai</surname>
+                            <given-names>S.</given-names>
+                        </name>\n<name>
+                            <surname>Saremi</surname>
+                            <given-names>R.</given-names>
+                        </name>\n<name>
+                            <surname>Sharma</surname>
+                            <given-names>S.</given-names>
+                        </name>\n<name>
+                            <surname>Minko</surname>
+                            <given-names>S.</given-names>
+                        </name>\n</person-group>
+                    <article-title>Environment-friendly nanocellulose-indigo dyeing of textiles</article-title>
+                    <source>Green Chem.</source>
+                    <year>2021</year>
+                    <volume>23</volume>
+                    <fpage>7937</fpage>
+                    <lpage>7944</lpage>
+                    <pub-id pub-id-type="doi">10.1039/d1gc02043a</pub-id>
+                </element-citation>
+            </ref>
+        </ref-list>
+    </back>
+    <floats-group>
+        <fig position="float" id="gels-10-00398-f001">
+            <label>Figure 1</label>
+            <caption>
+                <p>PXRD plot for the annealed Silver Shell&#x02122; solution.</p>
+            </caption>
+            <graphic xlink:href="gels-10-00398-g001" position="float" />
+        </fig>
+        <fig position="float" id="gels-10-00398-f002">
+            <label>Figure 2</label>
+            <caption>
+                <p>TEM images of (<bold>a</bold>) SS26 and (<bold>b</bold>) AgMP034; log-normal
+                    distributions of (<bold>c</bold>) SS26 (n = 99) and (<bold>d</bold>) AgMP034 (n
+                    = 83).</p>
+            </caption>
+            <graphic xlink:href="gels-10-00398-g002" position="float" />
+        </fig>
+        <fig position="float" id="gels-10-00398-f003">
+            <label>Figure 3</label>
+            <caption>
+                <p>EDX analysis of the synthesized Silver Shell&#x02122; solution on a copper grid.</p>
+            </caption>
+            <graphic xlink:href="gels-10-00398-g003" position="float" />
+        </fig>
+        <fig position="float" id="gels-10-00398-f004">
+            <label>Figure 4</label>
+            <caption>
+                <p>SEM images of SS26 with different washing cycles: (<bold>a</bold>) no washing, (<bold>
+                    b</bold>) 25 cycles, (<bold>c</bold>) 50 cycles, and (<bold>d</bold>) 75 cycles.</p>
+            </caption>
+            <graphic xlink:href="gels-10-00398-g004" position="float" />
+        </fig>
+        <fig position="float" id="gels-10-00398-f005">
+            <label>Figure 5</label>
+            <caption>
+                <p>SEM images of AgMP034 with different washing cycles: (<bold>a</bold>) no washing,
+                    (<bold>b</bold>) 25 cycles, (<bold>c</bold>) 50 cycles, and (<bold>d</bold>) 75
+                    cycles.</p>
+            </caption>
+            <graphic xlink:href="gels-10-00398-g005" position="float" />
+        </fig>
+        <fig position="float" id="gels-10-00398-f006">
+            <label>Figure 6</label>
+            <caption>
+                <p>EDX analysis of AgMP034 without washing.</p>
+            </caption>
+            <graphic xlink:href="gels-10-00398-g006" position="float" />
+        </fig>
+        <fig position="float" id="gels-10-00398-f007">
+            <label>Figure 7</label>
+            <caption>
+                <p>AATCC 147 for negative control and untreated fabric against <italic toggle="yes">E.
+                    coli</italic> and <italic toggle="yes">S. aureus</italic>.</p>
+            </caption>
+            <graphic xlink:href="gels-10-00398-g007" position="float" />
+        </fig>
+        <fig position="float" id="gels-10-00398-f008">
+            <label>Figure 8</label>
+            <caption>
+                <p>AATCC 147&#x02014;A34 sample with no washing and 25 and 50 wash cycles against <italic
+                        toggle="yes">E. coli</italic> and <italic toggle="yes">S. aureus</italic>.
+                    Red arrows show the growth of bacteria.</p>
+            </caption>
+            <graphic xlink:href="gels-10-00398-g008" position="float" />
+        </fig>
+        <fig position="float" id="gels-10-00398-f009">
+            <label>Figure 9</label>
+            <caption>
+                <p>AATCC 147&#x02014;AgMP034 and SS26 samples with no washing and 25, 50, and 75
+                    wash cycles against <italic toggle="yes">E. coli</italic>.</p>
+            </caption>
+            <graphic xlink:href="gels-10-00398-g009" position="float" />
+        </fig>
+        <fig position="float" id="gels-10-00398-f010">
+            <label>Figure 10</label>
+            <caption>
+                <p>AATCC 147&#x02014;AgMP034 and SS26 samples with no washing and 25, 50, and 75
+                    wash cycles against <italic toggle="yes">S. aureus</italic>.</p>
+            </caption>
+            <graphic xlink:href="gels-10-00398-g010" position="float" />
+        </fig>
+        <fig position="float" id="gels-10-00398-f011">
+            <label>Figure 11</label>
+            <caption>
+                <p>Color strengths of AgMP034 and SS26 samples in different washing conditions.</p>
+            </caption>
+            <graphic xlink:href="gels-10-00398-g011" position="float" />
+        </fig>
+        <fig position="float" id="gels-10-00398-f012">
+            <label>Figure 12</label>
+            <caption>
+                <p>%Fixation of AgMP034 and SS26 samples in different washing conditions.</p>
+            </caption>
+            <graphic xlink:href="gels-10-00398-g012" position="float" />
+        </fig>
+        <table-wrap position="float" id="gels-10-00398-t001">
+            <object-id pub-id-type="pii">gels-10-00398-t001_Table 1</object-id>
+            <label>Table 1</label>
+            <caption>
+                <p>AATCC100&#x02014;effects of crosslinking and washing cycles on antibacterial
+                    properties.</p>
+            </caption>
+            <table frame="hsides" rules="groups">
+                <thead>
+                    <tr>
+                        <th rowspan="2" align="center" valign="middle"
+                            style="border-top:solid thin;border-bottom:solid thin" colspan="1">
+                            Samples</th>
+                        <th rowspan="2" align="center" valign="middle"
+                            style="border-top:solid thin;border-bottom:solid thin" colspan="1">Washing
+                            Cycles </th>
+                        <th colspan="2" align="center" valign="middle"
+                            style="border-top:solid thin;border-bottom:solid thin" rowspan="1">\n<italic
+                                toggle="yes">E.
+                                coli</italic>\n</th>
+                        <th colspan="2" align="center" valign="middle"
+                            style="border-top:solid thin;border-bottom:solid thin" rowspan="1">\n<italic
+                                toggle="yes">S.
+                                aureus</italic>\n</th>
+                    </tr>
+                    <tr>
+                        <th align="center" valign="middle" style="border-bottom:solid thin"
+                            rowspan="1" colspan="1">Percent Reduction </th>
+                        <th align="center" valign="middle" style="border-bottom:solid thin"
+                            rowspan="1" colspan="1">Log 10 Reduction </th>
+                        <th align="center" valign="middle" style="border-bottom:solid thin"
+                            rowspan="1" colspan="1">Percent Reduction </th>
+                        <th align="center" valign="middle" style="border-bottom:solid thin"
+                            rowspan="1" colspan="1">Log 10 Reduction </th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td align="center" valign="middle" style="border-bottom:solid thin"
+                            rowspan="1" colspan="1">\n<bold>Control</bold> \n</td>
+                        <td align="center" valign="middle" style="border-bottom:solid thin"
+                            rowspan="1" colspan="1">0</td>
+                        <td align="center" valign="middle" style="border-bottom:solid thin"
+                            rowspan="1" colspan="1">0</td>
+                        <td align="center" valign="middle" style="border-bottom:solid thin"
+                            rowspan="1" colspan="1">0</td>
+                        <td align="center" valign="middle" style="border-bottom:solid thin"
+                            rowspan="1" colspan="1">0</td>
+                        <td align="center" valign="middle" style="border-bottom:solid thin"
+                            rowspan="1" colspan="1">0</td>
+                    </tr>
+                    <tr>
+                        <td rowspan="3" align="center" valign="middle"
+                            style="border-bottom:solid thin" colspan="1">\n<bold>A34</bold>\n</td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">0</td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">100</td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">&#x0003e;6</td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">100</td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">&#x0003e;6</td>
+                    </tr>
+                    <tr>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">25</td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">100</td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">&#x0003e;6</td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">100</td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">&#x0003e;6</td>
+                    </tr>
+                    <tr>
+                        <td align="center" valign="middle" style="border-bottom:solid thin"
+                            rowspan="1" colspan="1">50</td>
+                        <td align="center" valign="middle" style="border-bottom:solid thin"
+                            rowspan="1" colspan="1">99.88</td>
+                        <td align="center" valign="middle" style="border-bottom:solid thin"
+                            rowspan="1" colspan="1">2.927</td>
+                        <td align="center" valign="middle" style="border-bottom:solid thin"
+                            rowspan="1" colspan="1">99.81</td>
+                        <td align="center" valign="middle" style="border-bottom:solid thin"
+                            rowspan="1" colspan="1">2.723</td>
+                    </tr>
+                    <tr>
+                        <td rowspan="4" align="center" valign="middle"
+                            style="border-bottom:solid thin" colspan="1">\n<bold>AgMP034</bold> \n</td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">0</td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">100</td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">&#x0003e;6</td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">100</td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">&#x0003e;6</td>
+                    </tr>
+                    <tr>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">25</td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">100</td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">&#x0003e;6</td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">100</td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">&#x0003e;6</td>
+                    </tr>
+                    <tr>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">50</td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">100</td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">&#x0003e;6</td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">100</td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">&#x0003e;6</td>
+                    </tr>
+                    <tr>
+                        <td align="center" valign="middle" style="border-bottom:solid thin"
+                            rowspan="1" colspan="1">75</td>
+                        <td align="center" valign="middle" style="border-bottom:solid thin"
+                            rowspan="1" colspan="1">100</td>
+                        <td align="center" valign="middle" style="border-bottom:solid thin"
+                            rowspan="1" colspan="1">&#x0003e;6</td>
+                        <td align="center" valign="middle" style="border-bottom:solid thin"
+                            rowspan="1" colspan="1">100</td>
+                        <td align="center" valign="middle" style="border-bottom:solid thin"
+                            rowspan="1" colspan="1">&#x0003e;6</td>
+                    </tr>
+                    <tr>
+                        <td rowspan="4" align="center" valign="middle"
+                            style="border-bottom:solid thin" colspan="1">\n<bold>SS26</bold>\n</td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">0</td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">100</td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">&#x0003e;6</td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">100</td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">&#x0003e;6</td>
+                    </tr>
+                    <tr>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">25</td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">100</td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">&#x0003e;6</td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">100</td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">&#x0003e;6</td>
+                    </tr>
+                    <tr>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">50</td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">100</td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">&#x0003e;6</td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">100</td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">&#x0003e;6</td>
+                    </tr>
+                    <tr>
+                        <td align="center" valign="middle" style="border-bottom:solid thin"
+                            rowspan="1" colspan="1">75</td>
+                        <td align="center" valign="middle" style="border-bottom:solid thin"
+                            rowspan="1" colspan="1">100</td>
+                        <td align="center" valign="middle" style="border-bottom:solid thin"
+                            rowspan="1" colspan="1">&#x0003e;6</td>
+                        <td align="center" valign="middle" style="border-bottom:solid thin"
+                            rowspan="1" colspan="1">100</td>
+                        <td align="center" valign="middle" style="border-bottom:solid thin"
+                            rowspan="1" colspan="1">&#x0003e;6</td>
+                    </tr>
+                </tbody>
+            </table>
+        </table-wrap>
+        <table-wrap position="float" id="gels-10-00398-t002">
+            <object-id pub-id-type="pii">gels-10-00398-t002_Table 2</object-id>
+            <label>Table 2</label>
+            <caption>
+                <p>AATCC100&#x02014;effects of coating and washing cycles on multidrug-resistant <italic
+                        toggle="yes">E. coli</italic> strains.</p>
+            </caption>
+            <table frame="hsides" rules="groups">
+                <thead>
+                    <tr>
+                        <th rowspan="2" align="center" valign="middle"
+                            style="border-top:solid thin;border-bottom:solid thin" colspan="1">
+                            Samples</th>
+                        <th rowspan="2" align="center" valign="middle"
+                            style="border-top:solid thin;border-bottom:solid thin" colspan="1">Washing
+                            Cycles</th>
+                        <th colspan="2" align="center" valign="middle"
+                            style="border-top:solid thin;border-bottom:solid thin" rowspan="1">\n<italic
+                                toggle="yes">E.
+                                coli MG1655</italic>\n</th>
+                        <th colspan="2" align="center" valign="middle"
+                            style="border-top:solid thin;border-bottom:solid thin" rowspan="1">\n<italic
+                                toggle="yes">
+                                ESBL</italic>\n</th>
+                    </tr>
+                    <tr>
+                        <th align="center" valign="middle" style="border-bottom:solid thin"
+                            rowspan="1" colspan="1">Percent Reduction</th>
+                        <th align="center" valign="middle" style="border-bottom:solid thin"
+                            rowspan="1" colspan="1">Log 10 Reduction</th>
+                        <th align="center" valign="middle" style="border-bottom:solid thin"
+                            rowspan="1" colspan="1">Percent Reduction</th>
+                        <th align="center" valign="middle" style="border-bottom:solid thin"
+                            rowspan="1" colspan="1">Log 10 Reduction</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td align="center" valign="middle" style="border-bottom:solid thin"
+                            rowspan="1" colspan="1">\n<bold>Control</bold> \n</td>
+                        <td align="center" valign="middle" style="border-bottom:solid thin"
+                            rowspan="1" colspan="1">0</td>
+                        <td align="center" valign="middle" style="border-bottom:solid thin"
+                            rowspan="1" colspan="1">0</td>
+                        <td align="center" valign="middle" style="border-bottom:solid thin"
+                            rowspan="1" colspan="1">0</td>
+                        <td align="center" valign="middle" style="border-bottom:solid thin"
+                            rowspan="1" colspan="1">0</td>
+                        <td align="center" valign="middle" style="border-bottom:solid thin"
+                            rowspan="1" colspan="1">0</td>
+                    </tr>
+                    <tr>
+                        <td rowspan="2" align="center" valign="middle"
+                            style="border-bottom:solid thin" colspan="1">\n<bold>A34</bold>\n</td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">0</td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">99.971</td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">&#x0003e;3</td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">99.99</td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">&#x0003e;4</td>
+                    </tr>
+                    <tr>
+                        <td align="center" valign="middle" style="border-bottom:solid thin"
+                            rowspan="1" colspan="1">25</td>
+                        <td align="center" valign="middle" style="border-bottom:solid thin"
+                            rowspan="1" colspan="1">99.976</td>
+                        <td align="center" valign="middle" style="border-bottom:solid thin"
+                            rowspan="1" colspan="1">&#x0003e;3</td>
+                        <td align="center" valign="middle" style="border-bottom:solid thin"
+                            rowspan="1" colspan="1">99.99</td>
+                        <td align="center" valign="middle" style="border-bottom:solid thin"
+                            rowspan="1" colspan="1">&#x0003e;4</td>
+                    </tr>
+                </tbody>
+            </table>
+        </table-wrap>
+        <table-wrap position="float" id="gels-10-00398-t003">
+            <object-id pub-id-type="pii">gels-10-00398-t003_Table 3</object-id>
+            <label>Table 3</label>
+            <caption>
+                <p>CIE L*a*b* values of SS26 samples.</p>
+            </caption>
+            <table frame="hsides" rules="groups">
+                <thead>
+                    <tr>
+                        <th align="center" valign="middle"
+                            style="border-top:solid thin;border-bottom:solid thin" rowspan="1"
+                            colspan="1">Samples</th>
+                        <th align="center" valign="middle"
+                            style="border-top:solid thin;border-bottom:solid thin" rowspan="1"
+                            colspan="1">L*</th>
+                        <th align="center" valign="middle"
+                            style="border-top:solid thin;border-bottom:solid thin" rowspan="1"
+                            colspan="1">a*</th>
+                        <th align="center" valign="middle"
+                            style="border-top:solid thin;border-bottom:solid thin" rowspan="1"
+                            colspan="1">b*</th>
+                        <th align="center" valign="middle"
+                            style="border-top:solid thin;border-bottom:solid thin" rowspan="1"
+                            colspan="1">&#x00394;E</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">Untreated cotton</td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">95.73 &#x000b1;
+                            0.10 </td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">1.01 &#x000b1;
+                            0.19 </td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">&#x02212;3.95
+                            &#x000b1; 1.44 </td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">0.52 &#x000b1;
+                            0.23 </td>
+                    </tr>
+                    <tr>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">SS26-0x</td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">79.27 &#x000b1;
+                            0.39 </td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">2.85 &#x000b1;
+                            0.34 </td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">5.21 &#x000b1;
+                            0.39 </td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">0.96 &#x000b1;
+                            0.38 </td>
+                    </tr>
+                    <tr>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">SS26-25x</td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">87.63 &#x000b1;
+                            0.75 </td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">2.56 &#x000b1;
+                            0.36 </td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">7.29 &#x000b1;
+                            1.14 </td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">1.45 &#x000b1;
+                            0.56 </td>
+                    </tr>
+                    <tr>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">SS26-50x</td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">90.24 &#x000b1;
+                            0.22 </td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">1.69 &#x000b1;
+                            0.05 </td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">5.43 &#x000b1;
+                            0.68 </td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">0.99 &#x000b1;
+                            0.55 </td>
+                    </tr>
+                    <tr>
+                        <td align="center" valign="middle" style="border-bottom:solid thin"
+                            rowspan="1" colspan="1">SS26-75x</td>
+                        <td align="center" valign="middle" style="border-bottom:solid thin"
+                            rowspan="1" colspan="1">92.52 &#x000b1; 0.26 </td>
+                        <td align="center" valign="middle" style="border-bottom:solid thin"
+                            rowspan="1" colspan="1">0.53 &#x000b1; 0.13 </td>
+                        <td align="center" valign="middle" style="border-bottom:solid thin"
+                            rowspan="1" colspan="1">4.83 &#x000b1; 0.27 </td>
+                        <td align="center" valign="middle" style="border-bottom:solid thin"
+                            rowspan="1" colspan="1">0.59 &#x000b1; 0.21 </td>
+                    </tr>
+                </tbody>
+            </table>
+        </table-wrap>
+        <table-wrap position="float" id="gels-10-00398-t004">
+            <object-id pub-id-type="pii">gels-10-00398-t004_Table 4</object-id>
+            <label>Table 4</label>
+            <caption>
+                <p>CIE L*a*b* values of AgMP034 samples.</p>
+            </caption>
+            <table frame="hsides" rules="groups">
+                <thead>
+                    <tr>
+                        <th align="center" valign="middle"
+                            style="border-top:solid thin;border-bottom:solid thin" rowspan="1"
+                            colspan="1">Samples </th>
+                        <th align="center" valign="middle"
+                            style="border-top:solid thin;border-bottom:solid thin" rowspan="1"
+                            colspan="1">L* </th>
+                        <th align="center" valign="middle"
+                            style="border-top:solid thin;border-bottom:solid thin" rowspan="1"
+                            colspan="1">a* </th>
+                        <th align="center" valign="middle"
+                            style="border-top:solid thin;border-bottom:solid thin" rowspan="1"
+                            colspan="1">b* </th>
+                        <th align="center" valign="middle"
+                            style="border-top:solid thin;border-bottom:solid thin" rowspan="1"
+                            colspan="1">&#x00394;E </th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">Untreated cotton</td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">95.73 &#x000b1;
+                            0.10 </td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">1.01 &#x000b1;
+                            0.19 </td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">&#x02212;3.95
+                            &#x000b1; 1.44 </td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">0.52 &#x000b1;
+                            0.23 </td>
+                    </tr>
+                    <tr>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">AgMP034-0x </td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">82.24 &#x000b1;
+                            0.38 </td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">2.41 &#x000b1;
+                            0.18 </td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">9.97 &#x000b1;
+                            1.30 </td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">1.91 &#x000b1;
+                            1.01 </td>
+                    </tr>
+                    <tr>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">AgMP034-25x </td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">88.71 &#x000b1;
+                            0.20 </td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">1.73 &#x000b1;
+                            0.29 </td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">5.59 &#x000b1;
+                            1.30 </td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">1.51 &#x000b1;
+                            0.71 </td>
+                    </tr>
+                    <tr>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">AgMP034-50x </td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">90.54 &#x000b1;
+                            0.62 </td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">0.76 &#x000b1;
+                            0.05 </td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">5.94 &#x000b1;
+                            0.42 </td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">1.12 &#x000b1;
+                            0.42 </td>
+                    </tr>
+                    <tr>
+                        <td align="center" valign="middle" style="border-bottom:solid thin"
+                            rowspan="1" colspan="1">AgMP034-75x </td>
+                        <td align="center" valign="middle" style="border-bottom:solid thin"
+                            rowspan="1" colspan="1">93.13 &#x000b1; 0.18 </td>
+                        <td align="center" valign="middle" style="border-bottom:solid thin"
+                            rowspan="1" colspan="1">0.24 &#x000b1; 0.07 </td>
+                        <td align="center" valign="middle" style="border-bottom:solid thin"
+                            rowspan="1" colspan="1">3.89 &#x000b1; 0.29 </td>
+                        <td align="center" valign="middle" style="border-bottom:solid thin"
+                            rowspan="1" colspan="1">0.51 &#x000b1; 0.20 </td>
+                    </tr>
+                </tbody>
+            </table>
+        </table-wrap>
+    </floats-group>
+</article>
