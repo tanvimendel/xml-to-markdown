@@ -3,7 +3,6 @@ import xml.etree.ElementTree as ET
 def convert_to_markdown(xml_content):
     root = ET.fromstring(xml_content)
     markdown_content = []
-    processed_tables = set()  # Track processed table IDs
 
     # Extract article title
     title = root.find('.//title-group/article-title')
@@ -57,26 +56,7 @@ def convert_to_markdown(xml_content):
     body = root.find('.//body')
     if body is not None:
         sections = body.findall('sec')
-        markdown_content.append(process_sections(sections, processed_tables))
-
-    # Extract remaining tables not processed within sections
-    tables = root.findall('.//table-wrap')
-    if tables:
-        unprocessed_tables = [table_wrap for table_wrap in tables if table_wrap.get('id') not in processed_tables]
-        if unprocessed_tables:
-            markdown_content.append("## Tables\n")
-            for table_wrap in unprocessed_tables:
-                label = table_wrap.find('label')
-                caption = table_wrap.find('caption/p')
-                table = table_wrap.find('table')
-                if table is not None:
-                    if label is not None:
-                        markdown_content.append(f"**{extract_text(label)}**\n")
-                    if caption is not None:
-                        markdown_content.append(f"*{extract_text(caption)}*\n")
-                    table_markdown = process_table(table)
-                    markdown_content.append(table_markdown)
-            markdown_content.append("")
+        markdown_content.append(process_sections(sections))
 
     # Extract keywords
     keywords = root.findall('.//kwd-group/kwd')
@@ -139,7 +119,7 @@ def convert_to_markdown(xml_content):
 
     return "\n".join(markdown_content)
 
-def process_sections(sections, processed_tables):
+def process_sections(sections):
     """Process section elements recursively to return their markdown representation."""
     content = []
     for sec in sections:
@@ -148,105 +128,11 @@ def process_sections(sections, processed_tables):
             content.append(f"## {extract_text(title)}\n")
         for p in sec.findall('p'):
             content.append(f"{extract_text(p)}\n")
-        # Process tables within sections
-        tables = sec.findall('.//table-wrap')
-        for table_wrap in tables:
-            table_id = table_wrap.get('id')
-            if table_id and table_id not in processed_tables:
-                label = table_wrap.find('label')
-                caption = table_wrap.find('caption/p')
-                table = table_wrap.find('table')
-                if table is not None:
-                    if label is not None:
-                        content.append(f"**{extract_text(label)}**\n")
-                    if caption is not None:
-                        content.append(f"*{extract_text(caption)}*\n")
-                    table_markdown = process_table(table)
-                    content.append(table_markdown)
-                    processed_tables.add(table_id)
         # Recursively process subsections
         subsections = sec.findall('sec')
         if subsections:
-            content.append(process_sections(subsections, processed_tables))
+            content.append(process_sections(subsections))
     return "\n".join(content)
-
-def process_table(table_element):
-    # Process the headers
-    header_rows = []
-    for header in table_element.findall('.//thead//tr'):
-        row = []
-        for cell in header.findall('th'):
-            text = extract_text(cell)
-            colspan = int(cell.attrib.get('colspan', '1'))
-            rowspan = int(cell.attrib.get('rowspan', '1'))
-            row.append((text, colspan, rowspan))
-        header_rows.append(row)
-
-    max_columns = max(len(row) for row in header_rows)  # Determine the maximum number of columns
-
-    # Align headers with proper column span
-    aligned_headers = align_headers(header_rows, max_columns)
-
-    # Create Markdown headers
-    markdown_header_rows = []
-    for row in aligned_headers:
-        # Ensure 'None' values are handled
-        markdown_row = '| ' + ' | '.join([h[0] if h else '' for h in row]) + ' |'
-        markdown_header_rows.append(markdown_row)
-
-    header_row = '\n'.join(markdown_header_rows)
-    
-    # Construct the markdown table
-    markdown_content = [header_row]
-
-    # Add separator for markdown (align center by default)
-    separator_row = '| ' + ' | '.join([':---:' for _ in range(max_columns)]) + ' |'
-    markdown_content.append(separator_row)
-
-    # Process the body rows
-    for body_row in table_element.findall('.//tbody//tr'):
-        cells = []
-        for cell in body_row.findall('td'):
-            text = extract_text(cell)
-            cells.append(text)
-        markdown_content.append('| ' + ' | '.join(cells) + ' |')
-
-    return '\n'.join(markdown_content)
-
-
-def align_headers(header_rows, max_columns):
-    """Align headers considering colspan and rowspan."""
-    aligned_headers = []
-    temp_row = [None] * max_columns
-
-    for row in header_rows:
-        col_idx = 0
-        temp_row = [None] * max_columns
-        while col_idx < max_columns:
-            if temp_row[col_idx] is not None:
-                col_idx += 1
-                continue
-
-            if not row:
-                break
-
-            cell = row.pop(0)
-            if len(cell) != 3:
-                raise ValueError(f"Expected tuple of length 3, but got {len(cell)} elements: {cell}")
-
-            text, colspan, rowspan = cell
-
-            # Fill the colspan into the temp_row
-            for i in range(colspan):
-                if col_idx + i < max_columns:
-                    temp_row[col_idx + i] = (text, rowspan)
-
-            col_idx += colspan
-
-        aligned_headers.append(temp_row)
-
-    return aligned_headers
-
 
 def extract_text(element):
     """Extract text content from an XML element, handling None gracefully."""
@@ -259,14 +145,14 @@ def read_xml_file(file_path):
     with open(file_path, 'r', encoding='utf-8') as file:
         return file.read()
 
-def save_markdown_file(markdown_text, filename="outputMds/PMC11207375.md"):
+def save_markdown_file(markdown_text, filename="outputMds/PMC11202987.md"):
     """Save the generated markdown text to a file."""
     with open(filename, "w") as file:
         file.write(markdown_text)
 
 if __name__ == "__main__":
     # Read the XML content from a file
-    xml_content = read_xml_file("testXmls/PMC11207375.xml")
+    xml_content = read_xml_file("testXmls/PMC11202987.xml")
 
     # Convert XML to Markdown
     markdown_text = convert_to_markdown(xml_content)
