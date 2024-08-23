@@ -1,0 +1,77 @@
+<article xmlns:xlink="http://www.w3.org/1999/xlink" article-type="research-article">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="nlm-ta">Environ Health Perspect</journal-id>
+            <journal-title>Environmental Health Perspectives</journal-title>
+            <issn pub-type="ppub">0091-6765</issn>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="pmid">9467055</article-id>
+            <article-id pub-id-type="pmc">PMC1469942</article-id>
+            <article-categories>
+                <subj-group subj-group-type="heading">
+                    <subject>Research Article</subject>
+                </subj-group>
+            </article-categories>
+            <title-group>
+                <article-title>Room-temperature semiconductor detectors for in vivo monitoring of
+                    internal contamination.</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Genicot</surname>
+                        <given-names>J L</given-names>
+                    </name>
+                </contrib>
+            </contrib-group>
+            <aff>Department of Radiation Protection, SCK.CEN, Mol, Belgium. jgenicot@sckcen.b</aff>
+            <pub-date pub-type="ppub">
+                <month>12</month>
+                <year>1997</year>
+            </pub-date>
+            <volume>105</volume>
+            <issue>Suppl 6</issue>
+            <fpage>1423</fpage>
+            <lpage>1426</lpage>
+            <abstract>
+                <p>In vivo monitoring of low-energy X-ray and gamma-ray emitters has always been a
+                    difficult task, primarily because of lack of accuracy and the high detection
+                    limits of classical techniques. Various types of PIN diodes (diodes with a large
+                    intrinsic zone) were tested in the Radiation Protection Department of the Studie
+                    Centrum voor Kernenergie, Centre d'&#x000e9;tude de l'Energie Nucl&#x000e9;aire
+                    (Mol, Belgium) in the measurement of radioactive body burden by direct methods.
+                    Current research is oriented toward the use of room-temperature diodes for the
+                    detection of low-energy photons escaping the body. In this paper, a new counting
+                    technique that involves a portable jacket containing the diodes is described.
+                    The system uses silicon diodes and is used out of shielding room in order to be
+                    near the contamination. With this method rapid analysis and long counting times
+                    are possible, stress is reduced, and medical treatment can be optimized. CdZnTe
+                    detectors were also evaluated for this measurement technique but this type of
+                    detector is better adapted for counting inside a shielding room. The improvement
+                    of the accuracy of the measurement, taking into account the effect of the ribs,
+                    is described here, as well the associated electronics necessary for this type of
+                    counting.</p>
+                <sec sec-type="scanned-figures">
+                    <title>Images</title>
+                    <fig id="F1">
+                        <label>Figure 1.</label>
+                        <graphic xlink:href="envhper00331-0049-a" xlink:role="1423" />
+                    </fig>
+                </sec>
+            </abstract>
+        </article-meta>
+    </front>
+    <body>
+        <supplementary-material content-type="scanned-pages">
+            <graphic xlink:href="envhper00331-0049.tif" xlink:title="scanned-page" xlink:role="1423"
+                mimetype="image" mime-subtype="tiff" />
+            <graphic xlink:href="envhper00331-0050.tif" xlink:title="scanned-page" xlink:role="1424"
+                mimetype="image" mime-subtype="tiff" />
+            <graphic xlink:href="envhper00331-0051.tif" xlink:title="scanned-page" xlink:role="1425"
+                mimetype="image" mime-subtype="tiff" />
+            <graphic xlink:href="envhper00331-0052.tif" xlink:title="scanned-page" xlink:role="1426"
+                mimetype="image" mime-subtype="tiff" />
+        </supplementary-material>
+    </body>
+</article>

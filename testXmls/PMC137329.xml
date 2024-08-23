@@ -1,0 +1,721 @@
+<article xmlns:xlink="http://www.w3.org/1999/xlink" article-type="research-article">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="nlm-ta">Crit Care</journal-id>
+            <journal-title>Critical Care</journal-title>
+            <issn pub-type="ppub">1364-8535</issn>
+            <issn pub-type="epub">1466-609X</issn>
+            <publisher>
+                <publisher-name>BioMed Central</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="pmid">11094495</article-id>
+            <article-id pub-id-type="pmc">PMC137329</article-id>
+            <article-id pub-id-type="publisher-id">cc659</article-id>
+            <article-id pub-id-type="doi">10.1186/cc659</article-id>
+            <article-categories>
+                <subj-group subj-group-type="heading">
+                    <subject>Commentary</subject>
+                </subj-group>
+            </article-categories>
+            <title-group>
+                <article-title>Hemofiltration in sepsis: where do we go from here?</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib id="A1" contrib-type="author">
+                    <name>
+                        <surname>Kellum </surname>
+                        <given-names>John A</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="I1">1</xref>
+                    <email>Kellumja@anes.upmc.edu</email>
+                </contrib>
+                <contrib id="A2" contrib-type="author">
+                    <name>
+                        <surname>Bellomo</surname>
+                        <given-names>Rinaldo</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="I2">2</xref>
+                </contrib>
+            </contrib-group>
+            <aff id="I1"><label>1</label>University of Pittsburgh Medical Center, Pittsburgh,
+                Pennsylvania,\t\t\t\tUSA.</aff>
+            <aff id="I2"><label>2</label>Austin &#x00026; Repatriation Medical Centre, Heidelberg,
+                Victoria,\t\t\t\tAustralia.</aff>
+            <pub-date pub-type="ppub">
+                <year>2000</year>
+            </pub-date>
+            <pub-date pub-type="epub">
+                <day>16</day>
+                <month>2</month>
+                <year>2000</year>
+            </pub-date>
+            <volume>4</volume>
+            <issue>2</issue>
+            <fpage>69</fpage>
+            <lpage>71</lpage>
+            <ext-link ext-link-type="uri" xlink:href="http://ccforum.com/content/4/2/069" />
+            <history>
+                <date date-type="received">
+                    <day>3</day>
+                    <month>1</month>
+                    <year>2000</year>
+                </date>
+                <date date-type="accepted">
+                    <day>3</day>
+                    <month>1</month>
+                    <year>2000</year>
+                </date>
+            </history>
+            <permissions>
+                <copyright-statement>Copyright &#x000a9; 2000 Current Science Ltd</copyright-statement>
+                <copyright-year>2000</copyright-year>
+                <copyright-holder>Current Science Ltd</copyright-holder>
+            </permissions>
+            <abstract>
+                <p>Hemofiltration as an adjunct to therapy for sepsis is now 10 years\t\t\t old.
+                    Despite early successes and significant theoretical advantages, the\t\t\t
+                    treatment remains experimental. Although feasibility has been established,\t\t\t
+                    efficacy has proved to be much more difficult. Clinical as well as
+                    technical\t\t\t difficulties remain important considerations to future studies.
+                    These issues\t\t\t are discussed and the brief history of hemofiltration in
+                    sepsis is\t\t\t reviewed.</p>
+            </abstract>
+            <kwd-group>
+                <kwd>continuous venovenous hemodialysis</kwd>
+                <kwd>continuous venovenous hemofiltration</kwd>
+                <kwd>hemofiltration</kwd>
+                <kwd>multiple-organ failure</kwd>
+                <kwd>sepsis</kwd>
+                <kwd>systemic inflammatory response syndrome</kwd>
+            </kwd-group>
+        </article-meta>
+    </front>
+    <body>
+        <sec>
+            <title>Full text</title>
+            <p>A decade has past since Stein <italic>et al</italic> [<xref ref-type="bibr" rid="B1">
+                1</xref>]\t\t first described an improvement in hemodynamics associated with
+                hemofiltration\t\t in the pig after the administration of intravenous endotoxin. A
+                short time\t\t later these findings were confirmed by Grootendorst <italic>et al</italic>
+                [<xref ref-type="bibr" rid="B2">2</xref>], who also found that the ultrafiltrate
+                removed from\t\t endotoxemic animals produced hemodynamic instability in healthy
+                animals when it\t\t was infused intravenously [<xref ref-type="bibr" rid="B3">3</xref>].
+                Around this time, Lee\t\t <italic>et al</italic> [<xref ref-type="bibr" rid="B4">4</xref>]
+                reported a survival benefit associated\t\t with hemofiltration in septic pigs, and
+                Bellomo <italic>et al</italic> [<xref ref-type="bibr" rid="B5">5</xref>] showed that
+                some of the interleukins and tumor necrosis\t\t factor could be removed from the
+                circulation of humans with sepsis. With these\t\t advances, blood purification as a
+                treatment for human septic shock was born.\t\t Despite its promising start, however,
+                hemofiltration as a treatment for sepsis\t\t has been slow to mature.</p>
+            <p>There are numerous reasons for this stunted growth. First, several\t\t pharmacologic
+                agents are more effective than hemofiltration in reducing serum\t\t cytokine
+                activity, and yet none have been shown to produce a survival benefit.\t\t Indeed,
+                several spectacular failures have occurred as a result of attempts to\t\t modulate
+                the inflammatory response in sepsis, occasionally even resulting in\t\t increased
+                mortality [<xref ref-type="bibr" rid="B6">6</xref>]. Another reason is that 10
+                years\t\t ago our concepts of sepsis were different. Sepsis was viewed as a
+                condition in\t\t which the local inflammatory response had become generalized and
+                uncontrolled.\t\t Immune effector cells, especially neutrophils, possess potent
+                cytotoxic\t\t capacity, and when unchecked this response can cause significant
+                tissue injury.\t\t More recently, however, we have come to appreciate that although
+                this is true,\t\t sepsis is also a syndrome of immune suppression. Immune effector
+                cells become\t\t dysfunctional and are no longer capable of normal immune
+                surveillance. Such a\t\t condition results in increased susceptibility to recurrent
+                infection, prolonged\t\t inflammation, and continued tissue injury. Therapy aimed at
+                reducing the\t\t inflammatory response by removing some of the proinflammatory
+                stimuli may not\t\t restore immunologic balance, and thus may not improve outcome.
+                Finally, sepsis\t\t may not be a form of intravascular inflammation as originally
+                thought, but\t\t rather may be a disseminated local inflammation in which the actual
+                process\t\t occurs at the tissue level, and that which appears in the circulation is
+                only\t\t the 'spill-over'.</p>
+            <p>For these reasons, the ideal immune-modulating strategy would be one\t\t that
+                restores immunologic stability, rather than blindly inhibiting or\t\t stimulating
+                one or another component. Such a strategy would counter the\t\t immunologic
+                instability of sepsis, perhaps by reducing the activity of a wide\t\t array of both
+                proinflammatory and anti-inflammatory molecules. Such a strategy\t\t would
+                'autoregulate' itself, such that as one component of the\t\t response increased, so
+                too would the effect on that component. Finally, the\t\t ideal strategy might well
+                be limited in its effect to the circulating pool of\t\t mediators, rather than
+                influencing the tissue levels where their activity may\t\t be beneficial. In theory,
+                hemofiltration fulfills this ideal paradigm. Indeed,\t\t hemofiltration is perhaps
+                the only available treatment strategy that can, in\t\t theory, achieve all of these
+                goals.</p>
+            <p>Technical considerations must also be taken into account when\t\t assessing the
+                current performance as well as the potential of blood\t\t purification therapies in
+                sepsis. Not all hemofiltration modalities are the\t\t same. Continuous venovenous
+                hemofiltration (CVVH) at 2 l/h of plasma water\t\t exchange is very different from
+                continuous venovenous hemodialysis (CVVHD) with\t\t pure diffusive clearance when it
+                comes to middle molecular clearance [<xref ref-type="bibr" rid="B7">7</xref>,<xref
+                    ref-type="bibr" rid="B8">8</xref>]. Adding 500 ml/h convective clearance will
+                also yield a very\t\t different pattern of blood purification and very different
+                effects. Clinicians\t\t need to understand that these 'technical' differences matter
+                a\t\t great deal. Current membranes also differ very much from one another in
+                their\t\t adsorptive capacity for mediators (ie not all membranes are created
+                equal)\t\t [<xref ref-type="bibr" rid="B9">9</xref>]. Importantly, even with optimal
+                membranes and\t\t convective clearance at 2 l/h we may be operating at inadequate
+                levels of blood\t\t purification to meet the goal of restoring immune balance during
+                severe sepsis.\t\t High-volume hemofiltration may be necessary to achieve degrees of
+                blood\t\t purification that can make a predictable clinical difference [<xref
+                    ref-type="bibr" rid="B10">10</xref>]. Furthermore, cytokine clearance is still
+                suboptimal with\t\t current membranes, and higher porosity devices need to be
+                tested. If one uses\t\t plasmafilters to overcome the problem of limited porosity,
+                one has to deal with\t\t the extraordinary logistics of continuous plasma exchange.
+                Even when such\t\t problems are overcome for 48 h [<xref ref-type="bibr" rid="B11">
+                11</xref>], the results are not\t\t impressive, possibly because clearances remain
+                relatively low (20-30 ml/min).\t\t Presently, the cost of such plasma exchange
+                therapy is also prohibitive. The\t\t use of plasmafiltration with sorbent technology
+                may be another cost-effective\t\t and efficacious way of approaching this problem.
+                Such coupled\t\t filtration-adsorption appears to restore <italic>in vitro</italic>
+                monocyte\t\t responsiveness to endotoxin and to remove cytokines with high
+                efficiency [<xref ref-type="bibr" rid="B12">12</xref>]. Thus, quite apart from
+                conceptual issues of whether blood\t\t purification is a rational approach to sepsis
+                treatment, there are major\t\t technical matters that need to be properly addressed
+                if we truly wish to test\t\t the hypothesis that blood purification has a role as
+                adjunctive management in\t\t sepsis.</p>
+            <p>In addition, testing this hypothesis will require the development of\t\t better tools
+                to accurately assess the impact of 'broad-spectrum'\t\t immunomodulation on the
+                inflammatory response. Sepsis and multiorgan failure\t\t are complex syndromes and
+                the determinants of mortality in patients suffering\t\t from these syndromes are
+                usually multifactorial. Very large randomized trials,\t\t perhaps enrolling
+                thousands of patients, will be necessary to establish the\t\t efficacy of any
+                therapy. Before these trials are established, however, it is\t\t necessary to
+                understand whether hemofiltration has the capacity to affect the\t\t immune status
+                of patients in beneficial ways. The first few steps in this\t\t process have already
+                been achieved. Hemofiltration can remove a wide array of\t\t inflammatory mediators
+                from the circulation [<xref ref-type="bibr" rid="B13">13</xref>,<xref
+                    ref-type="bibr" rid="B14">14</xref>]. To date, more than 30 studies have shown
+                that cytokines\t\t and other small soluble molecules can be removed using this
+                technique, although\t\t the size of the effects and the mechanisms (sieving versus
+                adsorption) are\t\t still in question. Next, it has been established in both humans
+                [<xref ref-type="bibr" rid="B8">8</xref>] and animals [<xref ref-type="bibr"
+                    rid="B15">15</xref>] that hemofiltration\t\t can alter the circulating
+                concentrations of some mediators. The next logical\t\t step is to determine whether
+                these alterations in the plasma produce beneficial\t\t effects on immune effector
+                cells.</p>
+            <p>The study by Toft <italic>et al</italic> [<xref ref-type="bibr" rid="B16">16</xref>]
+                in a\t\t recent issue of <italic>Critical Care</italic> is the first attempt to
+                investigate the\t\t effects of hemofiltration on the activation status of
+                leukocytes. The authors\t\t examined a panel of adhesion molecules, including CD11b,
+                on the surface of\t\t granulocytes and lymphocytes, in order to assess their
+                activation status, but\t\t were unable to find any effects of hemofiltration, save
+                for the uncertain\t\t finding that the percentage of CD3<sup>+</sup> T cells
+                increased over time.\t\t Unfortunately, their study design is reminiscent of many
+                earlier studies, which\t\t also failed to show any important immunologic effects of
+                hemofiltration. First,\t\t and most importantly, the study is uncontrolled. The
+                immune status of patients\t\t with sepsis is not static. The activation status of
+                leukocytes, like the\t\t circulating level of any given inflammatory mediator,
+                varies with time. Without\t\t controlling for the effects of time, we cannot expect
+                to discover what effect,\t\t if any, hemofiltration exerts on the immune status of
+                the patient. Secondly,\t\t Toft <italic>et al</italic> used a less than ideal form
+                of therapy. Although they did\t\t use AN69 membranes, they used CVVHD (actually
+                continuous venovenous\t\t hemodiafiltration with very low-dose ultrafiltration).
+                Because most of the\t\t mediators of inflammation are not removed to a significant
+                degree, if at all,\t\t by diffusion, it is not surprising that this study was
+                negative. Finally, even\t\t if the study had been controlled, the small sample size
+                would make the study\t\t very difficult to interpret. Baseline heterogeneity was
+                large for most of the\t\t key variables and therefore it would be difficult to
+                compare individual\t\t patients. Thus, although Toft <italic>et al</italic> [<xref
+                    ref-type="bibr" rid="B16">16</xref>] set\t\t out in the right direction, their
+                methods were inadequate to answer the\t\t important questions they were attempting
+                to address.</p>
+            <p>It is hoped that future studies will not repeat the mistakes of the\t\t past.
+                Hemofiltration may one day have a place in the management of sepsis and\t\t
+                multiorgan failure. Then again it may not. The only way to tell will be to\t\t
+                conduct carefully controlled studies designed to evaluate the effects of this\t\t
+                therapy on immune effector cell function. If these studies prove that\t\t
+                hemofiltration has the potential to be useful, as suggested by animal\t\t
+                experiments, then large randomized studies comparing survival will be\t\t warranted.
+                Even before this point is reached, however, clinicians who care for\t\t critically
+                ill patients with sepsis and renal failure will need to decide\t\t whether
+                hemofiltration or hemodialysis is the most appropriate therapy. This\t\t decision
+                has traditionally been made on the basis of the hemodynamic stability\t\t of the
+                patient. The results of the study by Toft <italic>et al</italic> [<xref
+                    ref-type="bibr" rid="B16">16</xref>], which albeit was small and uncontrolled,
+                suggest that\t\t immunologic stability should also be considered. Although the study
+                failed to\t\t show any change in immunologic status with CVVHD, other studies [<xref
+                    ref-type="bibr" rid="B17">17</xref>,<xref ref-type="bibr" rid="B18">18</xref>]
+                have shown adverse immune\t\t consequences of intermittent hemodialysis. Studies
+                that compare intermittent\t\t with continuous therapies are urgently needed, in
+                hemodynamically stable\t\t patients, in order to understand what effects these
+                therapies may have on\t\t immune function.</p>
+        </sec>
+    </body>
+    <back>
+        <ref-list>
+            <ref id="B1">
+                <citation citation-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Stein</surname>
+                            <given-names>B</given-names>
+                        </name>
+                        <name>
+                            <surname>Pfenninger</surname>
+                            <given-names>E</given-names>
+                        </name>
+                        <name>
+                            <surname>Grunert</surname>
+                            <given-names>A</given-names>
+                        </name>
+                        <name>
+                            <surname>Deller</surname>
+                            <given-names>A</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Influence of continuous haemofiltration on haemodynamics and
+                        central\t\t\t blood voulume in experimental endotoxic shock.</article-title>
+                    <source>Intens Care Med</source>
+                    <year>1990</year>
+                    <volume>16</volume>
+                    <fpage>494</fpage>
+                    <lpage>499</lpage>
+                </citation>
+            </ref>
+            <ref id="B2">
+                <citation citation-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Grootendorst</surname>
+                            <given-names>AF</given-names>
+                        </name>
+                        <name>
+                            <surname>van Bommel</surname>
+                            <given-names>EF</given-names>
+                        </name>
+                        <name>
+                            <surname>van der Hoven</surname>
+                            <given-names>B</given-names>
+                        </name>
+                        <name>
+                            <surname>van Leengoed</surname>
+                            <given-names>LA</given-names>
+                        </name>
+                        <name>
+                            <surname>van Osta</surname>
+                            <given-names>AL</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>High volume hemofiltration improves right ventrictular function
+                        in\t\t\t endotoxin-induced shock in the pig.</article-title>
+                    <source>Intens Care Med </source>
+                    <year>1992</year>
+                    <volume>18</volume>
+                    <fpage>235</fpage>
+                    <lpage>240</lpage>
+                </citation>
+            </ref>
+            <ref id="B3">
+                <citation citation-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Grootendorst</surname>
+                            <given-names>AF</given-names>
+                        </name>
+                        <name>
+                            <surname>van Bommel</surname>
+                            <given-names>EF</given-names>
+                        </name>
+                        <name>
+                            <surname>van Leengoed</surname>
+                            <given-names>LA</given-names>
+                        </name>
+                        <etal></etal>
+                    </person-group>
+                    <article-title>Infusion of ultrafiltrate from endotoxemic pigs depresses
+                        myocardial\t\t\t performance in normal pigs.</article-title>
+                    <source>J Crit Care</source>
+                    <year>1993</year>
+                    <volume>8</volume>
+                    <fpage>161</fpage>
+                    <lpage>169</lpage>
+                    <pub-id pub-id-type="pmid">8275161</pub-id>
+                </citation>
+            </ref>
+            <ref id="B4">
+                <citation citation-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Lee</surname>
+                            <given-names>PA</given-names>
+                        </name>
+                        <name>
+                            <surname>Matson</surname>
+                            <given-names>JR</given-names>
+                        </name>
+                        <name>
+                            <surname>Pryor</surname>
+                            <given-names>RW</given-names>
+                        </name>
+                        <name>
+                            <surname>Hinshaw</surname>
+                            <given-names>LB</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Continuous arteriovenous hemofiltration therapy for\t\t\t <italic>Staphylococcus
+                        aureus</italic>-induced septicemia in immature swine.</article-title>
+                    <source>Crit Care Med</source>
+                    <year>1993</year>
+                    <volume>21</volume>
+                    <fpage>914</fpage>
+                    <pub-id pub-id-type="pmid">8504662</pub-id>
+                </citation>
+            </ref>
+            <ref id="B5">
+                <citation citation-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Bellomo</surname>
+                            <given-names>R</given-names>
+                        </name>
+                        <name>
+                            <surname>Tipping</surname>
+                            <given-names>P</given-names>
+                        </name>
+                        <name>
+                            <surname>Boyce</surname>
+                            <given-names>N</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Continuous veno-venous hemofiltration with dialysis removes\t\t\t
+                        cytokines from the circulation of septic patients.</article-title>
+                    <source>Crit Care Med</source>
+                    <year>1993</year>
+                    <volume>21</volume>
+                    <fpage>522</fpage>
+                    <lpage>526</lpage>
+                    <pub-id pub-id-type="pmid">8472571</pub-id>
+                </citation>
+            </ref>
+            <ref id="B6">
+                <citation citation-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Fisher</surname>
+                            <given-names>CJ</given-names>
+                            <suffix>Jr</suffix>
+                        </name>
+                        <name>
+                            <surname>Agosti</surname>
+                            <given-names>JM</given-names>
+                        </name>
+                        <name>
+                            <surname>Opal</surname>
+                            <given-names>SM</given-names>
+                        </name>
+                        <etal></etal>
+                    </person-group>
+                    <article-title>Treatment of septic shock with the tumor necrosis factor
+                        receptor:Fc\t\t\t fusion protein. </article-title>
+                    <source>N Engl J Med</source>
+                    <year>1996</year>
+                    <volume>334</volume>
+                    <fpage>1697</fpage>
+                    <lpage>1702</lpage>
+                    <pub-id pub-id-type="pmid">8637514</pub-id>
+                </citation>
+            </ref>
+            <ref id="B7">
+                <citation citation-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>van Hamersvelt</surname>
+                            <given-names>HW</given-names>
+                        </name>
+                        <name>
+                            <surname>Eggenhuizen</surname>
+                            <given-names>E</given-names>
+                        </name>
+                        <name>
+                            <surname>Hejinis</surname>
+                            <given-names>G</given-names>
+                        </name>
+                        <name>
+                            <surname>van Prooijen</surname>
+                            <given-names>S</given-names>
+                        </name>
+                        <name>
+                            <surname>Huysman</surname>
+                            <given-names>FTh</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Convective and diffusive clearance of large molecules
+                        during\t\t\t continuous veno-venous hemodiafiltration [abstract].</article-title>
+                    <source>J Am Soc Nephrol</source>
+                    <year>1999</year>
+                    <volume>10</volume>
+                    <fpage>198A</fpage>
+                </citation>
+            </ref>
+            <ref id="B8">
+                <citation citation-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Kellum</surname>
+                            <given-names>JA</given-names>
+                        </name>
+                        <name>
+                            <surname>Johnson</surname>
+                            <given-names>JP</given-names>
+                        </name>
+                        <name>
+                            <surname>Kramer</surname>
+                            <given-names>D</given-names>
+                        </name>
+                        <etal></etal>
+                    </person-group>
+                    <article-title>Diffusive versus convective therapy: effects on mediators
+                        of\t\t\t inflammation in patients with severe systemic inflammatory
+                        response\t\t\t syndrome.</article-title>
+                    <source>Crit Care Med</source>
+                    <year>1998</year>
+                    <volume>26</volume>
+                    <fpage>1995</fpage>
+                    <lpage>2000</lpage>
+                    <pub-id pub-id-type="pmid">9875910</pub-id>
+                </citation>
+            </ref>
+            <ref id="B9">
+                <citation citation-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Lonneman</surname>
+                            <given-names>G</given-names>
+                        </name>
+                        <name>
+                            <surname>Koch</surname>
+                            <given-names>KM</given-names>
+                        </name>
+                        <name>
+                            <surname>Shaldon</surname>
+                            <given-names>S</given-names>
+                        </name>
+                        <name>
+                            <surname>Dinarello</surname>
+                            <given-names>CA</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Studies on the ability of hemodialysis membranes to induce, bind
+                        and\t\t\t clear human interleukin-1.</article-title>
+                    <source>L Lab Clin Med</source>
+                    <year>1988</year>
+                    <volume>112</volume>
+                    <fpage>76</fpage>
+                    <lpage>86</lpage>
+                </citation>
+            </ref>
+            <ref id="B10">
+                <citation citation-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Bellomo</surname>
+                            <given-names>R</given-names>
+                        </name>
+                        <name>
+                            <surname>Bladwin</surname>
+                            <given-names>I</given-names>
+                        </name>
+                        <name>
+                            <surname>Cole</surname>
+                            <given-names>L</given-names>
+                        </name>
+                        <name>
+                            <surname>Ronco</surname>
+                            <given-names>C</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Preliminary experience with high volume hemofiltration in
+                        human\t\t\t septic shock.</article-title>
+                    <source>Kidney Int</source>
+                    <year>1998</year>
+                    <volume>53 (suppl 66)</volume>
+                    <fpage>S182</fpage>
+                    <lpage>S185</lpage>
+                </citation>
+            </ref>
+            <ref id="B11">
+                <citation citation-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Reeves</surname>
+                            <given-names>J</given-names>
+                        </name>
+                        <name>
+                            <surname>Butt</surname>
+                            <given-names>WW</given-names>
+                        </name>
+                        <name>
+                            <surname>Shann</surname>
+                            <given-names>F</given-names>
+                        </name>
+                        <etal></etal>
+                    </person-group>
+                    <article-title>Continuous plasmafiltration in sepsis syndrome.</article-title>
+                    <source>Crit Care Med</source>
+                    <year>1999</year>
+                    <volume>27</volume>
+                    <fpage>2096</fpage>
+                    <lpage>2104</lpage>
+                    <pub-id pub-id-type="pmid">10548188</pub-id>
+                </citation>
+            </ref>
+            <ref id="B12">
+                <citation citation-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Tetta</surname>
+                            <given-names>C</given-names>
+                        </name>
+                        <name>
+                            <surname>Bellomo</surname>
+                            <given-names>R</given-names>
+                        </name>
+                        <name>
+                            <surname>Brendolan</surname>
+                            <given-names>A</given-names>
+                        </name>
+                        <etal></etal>
+                    </person-group>
+                    <article-title>Use of adsorptive mechanisms in continuous renal
+                        replacement\t\t\t therapies in the critically ill.</article-title>
+                    <source>Kidney Int</source>
+                    <year>1999</year>
+                    <volume>56 (suppl 72)</volume>
+                    <fpage>S15</fpage>
+                    <lpage>S19</lpage>
+                </citation>
+            </ref>
+            <ref id="B13">
+                <citation citation-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Kellum</surname>
+                            <given-names>JA</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Immunomodulation in sepsis the role of hemofiltration.</article-title>
+                    <source>Minerva Anesthesiol</source>
+                    <year>1999</year>
+                    <volume>65</volume>
+                    <fpage>410</fpage>
+                    <lpage>418</lpage>
+                </citation>
+            </ref>
+            <ref id="B14">
+                <citation citation-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Bellomo</surname>
+                            <given-names>R</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Continuous hemofiltration as blood purification in sepsis.</article-title>
+                    <source>New Horizons</source>
+                    <year>1995</year>
+                    <volume>3</volume>
+                    <fpage>732</fpage>
+                    <lpage>737</lpage>
+                    <pub-id pub-id-type="pmid">8574604</pub-id>
+                </citation>
+            </ref>
+            <ref id="B15">
+                <citation citation-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Bellomo</surname>
+                            <given-names>R</given-names>
+                        </name>
+                        <name>
+                            <surname>Kellum</surname>
+                            <given-names>JA</given-names>
+                        </name>
+                        <name>
+                            <surname>Gandhi</surname>
+                            <given-names>C</given-names>
+                        </name>
+                        <name>
+                            <surname>Pinsky</surname>
+                            <given-names>MR</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>The effect of intensive plasma water exchange by hemofiltration
+                        on\t\t\t hemodynamics and soluble mediates in canine endotoxemia.</article-title>
+                    <source>Am J Respir Crit Care Med </source>
+                    <year>2000</year>
+                    <comment></comment>
+                    <pub-id pub-id-type="pmid">10806135</pub-id>
+                </citation>
+            </ref>
+            <ref id="B16">
+                <citation citation-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Toft</surname>
+                            <given-names>P</given-names>
+                        </name>
+                        <name>
+                            <surname>Kehler</surname>
+                            <given-names>D</given-names>
+                        </name>
+                        <name>
+                            <surname>Brandslund</surname>
+                            <given-names>I</given-names>
+                        </name>
+                        <name>
+                            <surname>Tonnsen</surname>
+                            <given-names>E</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>The immunological effects of continued veno-venous\t\t\t
+                        haemodiafiltration in critically ill patients.</article-title>
+                    <source>Crit Care</source>
+                    <year>1999</year>
+                    <volume>3</volume>
+                    <fpage>159</fpage>
+                    <lpage>165</lpage>
+                    <pub-id pub-id-type="pmid">11056741</pub-id>
+                </citation>
+            </ref>
+            <ref id="B17">
+                <citation citation-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Alkhunaizi</surname>
+                            <given-names>AM</given-names>
+                        </name>
+                        <name>
+                            <surname>Schrier</surname>
+                            <given-names>RW</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Management of acute renal failure: new prospectives.</article-title>
+                    <source>Am J Kidney Dis</source>
+                    <year>1996</year>
+                    <volume>28</volume>
+                    <fpage>315</fpage>
+                    <lpage>328</lpage>
+                    <pub-id pub-id-type="pmid">8804228</pub-id>
+                </citation>
+            </ref>
+            <ref id="B18">
+                <citation citation-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Braun</surname>
+                            <given-names>N</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Expression of adhesion molecules and activation markers on\t\t\t
+                        lymphocytes and monocytes during hemofiltration.</article-title>
+                    <source>Blood Purif</source>
+                    <year>1997</year>
+                    <volume>15</volume>
+                    <fpage>61</fpage>
+                    <lpage>76</lpage>
+                    <pub-id pub-id-type="pmid">9087813</pub-id>
+                </citation>
+            </ref>
+        </ref-list>
+    </back>
+</article>

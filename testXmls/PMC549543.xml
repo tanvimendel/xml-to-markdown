@@ -1,0 +1,983 @@
+<article xmlns:xlink="http://www.w3.org/1999/xlink" article-type="research-article">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="nlm-ta">World J Surg Oncol</journal-id>
+            <journal-title>World Journal of Surgical Oncology</journal-title>
+            <issn pub-type="epub">1477-7819</issn>
+            <publisher>
+                <publisher-name>BioMed Central</publisher-name>
+                <publisher-loc>London</publisher-loc>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="pmid">15705194</article-id>
+            <article-id pub-id-type="pmc">PMC549543</article-id>
+            <article-id pub-id-type="publisher-id">1477-7819-3-9</article-id>
+            <article-id pub-id-type="doi">10.1186/1477-7819-3-9</article-id>
+            <article-categories>
+                <subj-group subj-group-type="heading">
+                    <subject>Case Report</subject>
+                </subj-group>
+            </article-categories>
+            <title-group>
+                <article-title>Long-term survival from gastrocolic fistula secondary to
+                    adenocarcinoma of the transverse colon</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib id="A1" contrib-type="author">
+                    <name>
+                        <surname>Forshaw</surname>
+                        <given-names>Matthew J</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="I1">1</xref>
+                    <email>mjforshaw@doctors.org.uk</email>
+                </contrib>
+                <contrib id="A2" contrib-type="author">
+                    <name>
+                        <surname>Dastur</surname>
+                        <given-names>Jamasp K</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="I1">1</xref>
+                    <email>jamaspk27@yahoo.com</email>
+                </contrib>
+                <contrib id="A3" contrib-type="author">
+                    <name>
+                        <surname>Murali</surname>
+                        <given-names>Kothandaraman</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="I1">1</xref>
+                    <email>sumuk@msn.com</email>
+                </contrib>
+                <contrib id="A4" corresp="yes" contrib-type="author">
+                    <name>
+                        <surname>Parker</surname>
+                        <given-names>Michael C</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="I1">1</xref>
+                    <email>Mike.Parker@DAG-TR.STHAMES.NHS.UK</email>
+                </contrib>
+            </contrib-group>
+            <aff id="I1"><label>1</label>Department of Surgery, Darent Valley Hospital, Dartford,
+                Kent, DA2 8DA, UK</aff>
+            <pub-date pub-type="collection">
+                <year>2005</year>
+            </pub-date>
+            <pub-date pub-type="epub">
+                <day>10</day>
+                <month>2</month>
+                <year>2005</year>
+            </pub-date>
+            <volume>3</volume>
+            <fpage>9</fpage>
+            <lpage>9</lpage>
+            <ext-link ext-link-type="uri" xlink:href="http://www.wjso.com/content/3/1/9" />
+            <history>
+                <date date-type="received">
+                    <day>29</day>
+                    <month>11</month>
+                    <year>2004</year>
+                </date>
+                <date date-type="accepted">
+                    <day>10</day>
+                    <month>2</month>
+                    <year>2005</year>
+                </date>
+            </history>
+            <permissions>
+                <copyright-statement>Copyright &#x000a9; 2005 Forshaw et al; licensee BioMed Central
+                    Ltd.</copyright-statement>
+                <copyright-year>2005</copyright-year>
+                <copyright-holder>Forshaw et al; licensee BioMed Central Ltd.</copyright-holder>
+                <license license-type="open-access"
+                    xlink:href="http://creativecommons.org/licenses/by/2.0">
+                    <p>This is an Open Access article distributed under the terms of the Creative
+                        Commons Attribution License (<ext-link ext-link-type="uri"
+                            xlink:href="http://creativecommons.org/licenses/by/2.0" />), which
+                        permits unrestricted use, distribution, and reproduction in any medium,
+                        provided the original work is properly cited.</p><!--<rdf xmlns="http://web.resource.org/cc/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1" xmlns:dcterms="http://purl.org/dc/terms"><Work xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" rdf:about=""><license rdf:resource="http://creativecommons.org/licenses/by/2.0"/><dc:type rdf:resource="http://purl.org/dc/dcmitype/Text"/><dc:author>\n               Forshaw\n               J\n               Matthew\n               \n               mjforshaw@doctors.org.uk\n            </dc:author><dc:title>\n            Long-term survival from gastrocolic fistula secondary to adenocarcinoma of the transverse colon\n         </dc:title><dc:date>2005</dc:date><dcterms:bibliographicCitation>World Journal of Surgical Oncology 3(1): 9-. (2005)</dcterms:bibliographicCitation><dc:identifier type="sici">1477-7819(2005)3:1&#x0003c;9&#x0003e;</dc:identifier><dcterms:isPartOf>urn:ISSN:1477-7819</dcterms:isPartOf><License rdf:about="http://creativecommons.org/licenses/by/2.0"><permits rdf:resource="http://web.resource.org/cc/Reproduction" xmlns=""/><permits rdf:resource="http://web.resource.org/cc/Distribution" xmlns=""/><requires rdf:resource="http://web.resource.org/cc/Notice" xmlns=""/><requires rdf:resource="http://web.resource.org/cc/Attribution" xmlns=""/><permits rdf:resource="http://web.resource.org/cc/DerivativeWorks" xmlns=""/></License></Work></rdf>-->
+                </license>
+            </permissions>
+            <abstract>
+                <sec>
+                    <title>Background</title>
+                    <p>Gastrocolic fistula is a rare presentation of both benign and malignant
+                        diseases of the gastrointestinal tract. Malignant gastrocolic fistula is
+                        most commonly associated with adenocarcinoma of the transverse colon in the
+                        Western World. Despite radical approaches to treatment, long-term survival
+                        is rarely documented.</p>
+                </sec>
+                <sec>
+                    <title>Case presentation</title>
+                    <p>We report a case of a 24-year-old woman who presented with the classic triad
+                        of symptoms associated with gastrocolic fistula. Radical <italic>en-bloc </italic>surgery
+                        and adjuvant chemotherapy were performed. She is still alive ten years after
+                        treatment.</p>
+                </sec>
+                <sec>
+                    <title>Conclusions</title>
+                    <p>Gastrocolic fistula is an uncommon presentation of adenocarcinoma of the
+                        transverse colon. Radical <italic>en-bloc </italic>surgery with adjuvant
+                        chemotherapy may occasionally produce long-term survival.</p>
+                </sec>
+            </abstract>
+        </article-meta>
+    </front>
+    <body>
+        <sec>
+            <title>Background</title>
+            <p>Gastrocolic fistula is a rare complication of both benign and malignant diseases of
+                the gastrointestinal tract [<xref ref-type="bibr" rid="B1">1</xref>-<xref
+                    ref-type="bibr" rid="B6">6</xref>]. In the Western World, adenocarcinoma of the
+                transverse colon is the commonest cause of a fistulous connection between the
+                stomach and the colon with a reported incidence of 0.3&#x02013;0.4% in operated
+                cases [<xref ref-type="bibr" rid="B3">3</xref>,<xref ref-type="bibr" rid="B4">4</xref>].
+                Despite radical en-bloc surgery, these patients usually have a poor prognosis [<xref
+                    ref-type="bibr" rid="B5">5</xref>,<xref ref-type="bibr" rid="B6">6</xref>].
+                Long-term survival for these patients is rarely reported [<xref ref-type="bibr"
+                    rid="B5">5</xref>].</p>
+            <p>The authors report a 24-year-old woman who presented with a gastrocolic fistula
+                secondary to an adenocarcinoma of the transverse colon and describe her treatment
+                and long-term follow up.</p>
+        </sec>
+        <sec>
+            <title>Case presentation</title>
+            <p>A 24-year-old woman presented to the surgical clinic with epigastric pain, feculent
+                vomiting and post-prandial diarrhoea of three months duration; she had lost over one
+                stone in weight. She was previously healthy and was not taking any regular
+                medications. There was no history of peptic ulcer disease, inflammatory bowel
+                disease, trauma or previous abdominal surgery. She had been investigated two years
+                previously by a gastroenterologist for intermittent left-sided abdominal pain at
+                which time the clinical examination and blood tests were normal. Irritable bowel
+                syndrome had been diagnosed, although no colonic imaging was performed. Both her
+                maternal grandfather and great-grandfather had suffered from colonic cancer.</p>
+            <p>An initial ultrasound scan of the abdomen revealed thickened bowel in the right upper
+                quadrant with a dilated duodenum. A barium meal and follow through was then
+                performed: this demonstrated a mucosal abnormality on the greater curvature of the
+                stomach with a fistulous tract into the transverse colon (Figure <xref
+                    ref-type="fig" rid="F1">1</xref>). Barium enema and colonoscopy were not
+                performed. The presence of a mucosal abnormality on the greater curvature of the
+                stomach was confirmed on upper gastrointestinal endoscopy although initial biopsies
+                revealed no evidence of a malignant neoplasm. Her blood tests revealed: haemoglobin
+                9.5 g/dl, mean cell volume 71.6 fl and a white cell count 20.2 &#x000d7; 10<sup>9</sup>/l;
+                urea, electrolytes and liver function tests were all normal.</p>
+            <fig position="float" id="F1">
+                <label>Figure 1</label>
+                <caption>
+                    <p>Barium meal demonstrating fistulous connection between greater curvature of
+                        the stomach and the distal half of the transverse colon (arrowed).</p>
+                </caption>
+                <graphic xlink:href="1477-7819-3-9-1" />
+            </fig>
+            <p>In view of her symptoms, an exploratory laparotomy was undertaken. At surgery, a
+                large mobile tumour of the distal transverse colon was identified; this was adherent
+                to the greater curvature of the stomach, the mesentery and to several loops of
+                jejunum. A radical <italic>en-bloc </italic>resection was performed involving a
+                subtotal gastrectomy, transverse colectomy and small bowel resection (Figure <xref
+                    ref-type="fig" rid="F2">2</xref>). The patient made an uneventful recovery from
+                surgery. Histology revealed a poorly differentiated mucinous adenocarcinoma of colon
+                without lymphatic involvement (Dukes' Stage B): this was adherent to and had
+                penetrated the stomach wall. She received adjuvant 5-fluorouracil (420 mg/m<sup>2</sup>)
+                and folinic acid (20 mg/m<sup>2</sup>) chemotherapy every four weeks for the
+                following six months.</p>
+            <fig position="float" id="F2">
+                <label>Figure 2</label>
+                <caption>
+                    <p>Macroscopic en-bloc surgical specimen showing fistula between stomach and
+                        transverse colon (arrowed).</p>
+                </caption>
+                <graphic xlink:href="1477-7819-3-9-2" />
+            </fig>
+            <p>She has been followed-up with two-yearly colonoscopy and five-yearly upper
+                gastrointestinal endoscopy. She remains well with no signs of either local or
+                distant recurrence more than ten years after initial diagnosis.</p>
+        </sec>
+        <sec>
+            <title>Discussion</title>
+            <p>Advanced neoplasms of the stomach and transverse colon are the commonest causes of a
+                gastrocolic fistula: adenocarcinoma of the transverse colon is commoner in the
+                Western World [<xref ref-type="bibr" rid="B1">1</xref>,<xref ref-type="bibr"
+                    rid="B3">3</xref>,<xref ref-type="bibr" rid="B4">4</xref>], whereas
+                adenocarcinoma of the stomach is a more frequent cause in Japan [<xref
+                    ref-type="bibr" rid="B5">5</xref>]. Gastrocolic fistula has also been reported
+                with other tumour types such as gastric lymphoma [<xref ref-type="bibr" rid="B7">7</xref>],
+                carcinoid tumours of the colon [<xref ref-type="bibr" rid="B8">8</xref>] and rarely,
+                metastatic tumours [<xref ref-type="bibr" rid="B9">9</xref>] and infiltrating
+                tumours of the pancreas, duodenum and biliary tract [<xref ref-type="bibr" rid="B3">
+                3</xref>]. With advances in medical treatment, gastrocolic fistula secondary to
+                peptic ulcer disease is now less common [<xref ref-type="bibr" rid="B6">6</xref>]. A
+                variety of other causes of gastrocolic fistula have been reported: these include
+                syphilis, tuberculosis, abdominal trauma, Crohn's disease, Cytomegalovirus gastric
+                infection in AIDS patients and percutaneous endoscopic gastrostomy (PEG) tubes [<xref
+                    ref-type="bibr" rid="B10">10</xref>-<xref ref-type="bibr" rid="B13">13</xref>].</p>
+            <p>The fistulous connection in a gastrocolic fistula usually arises between the greater
+                curvature of the stomach and the distal half of the transverse colon because of
+                their close anatomical proximity separated only by the gastrocolic omentum [<xref
+                    ref-type="bibr" rid="B13">13</xref>]. Two theories have been advanced for the
+                development of a fistula [<xref ref-type="bibr" rid="B1">1</xref>,<xref
+                    ref-type="bibr" rid="B3">3</xref>,<xref ref-type="bibr" rid="B4">4</xref>]: the
+                tumour may invade directly across the gastrocolic omentum from the orginating organ;
+                alternatively, a tumour ulcer may provoke a surrounding inflammatory peritoneal
+                reaction leading to the adherence and fistulation between the two organs. Cases of
+                malignant gastrocolic fistula have usually been characterised by the presence of
+                large infiltrative tumours with a surrounding inflammatory reaction, as seen in our
+                patient; lymph node involvement is unusual [<xref ref-type="bibr" rid="B13">13</xref>
+                ].</p>
+            <p>Our patient presented with the characteristic triad of symptoms associated with a
+                gastrocolic fistula [<xref ref-type="bibr" rid="B5">5</xref>,<xref ref-type="bibr"
+                    rid="B14">14</xref>]: diarrhoea, weight loss and faeculent vomiting. Other
+                symptoms include: abdominal pain, fatigue, faeculent eructations and nutritional
+                deficiencies. The gastrocolic fistula was identified in our patient by means of an
+                upper gastrointestinal contrast series. Because the flow in the fistula is
+                predominantly from transverse colon to stomach [<xref ref-type="bibr" rid="B15">15</xref>],
+                several authors have suggested that barium enema is the more sensitive investigation
+                in detecting and delineating such a fistula, although the detection rate may be
+                lower in neoplastic cases [<xref ref-type="bibr" rid="B2">2</xref>,<xref
+                    ref-type="bibr" rid="B16">16</xref>-<xref ref-type="bibr" rid="B18">18</xref>].
+                Computerised tomography may also be useful in both delineating the fistula and
+                identifying the underlying aetiology [<xref ref-type="bibr" rid="B5">5</xref>,<xref
+                    ref-type="bibr" rid="B19">19</xref>]. Endoscopy is an excellent tool for
+                visualising the fistulous opening (especially in the stomach) and also allows
+                preoperative histological confirmation [<xref ref-type="bibr" rid="B20">20</xref>,<xref
+                    ref-type="bibr" rid="B21">21</xref>].</p>
+            <p>Although two stage approaches have been advocated historically for malignant
+                gastrocolic fistula, in order to first correct nutritional deficiencies [<xref
+                    ref-type="bibr" rid="B22">22</xref>], most authors now prefer radical en-bloc
+                resections [<xref ref-type="bibr" rid="B14">14</xref>]. Despite such approaches,
+                most patients have a poor prognosis and no patient has survived for more than nine
+                years after resection [<xref ref-type="bibr" rid="B5">5</xref>]. This case report
+                describes the longest disease free survival of a patient with a malignant
+                gastrocolic fistula. To the authors' knowledge, she is also the youngest patient to
+                be reported. It is worth noting that colorectal cancer in patients aged less than 35
+                years is normally associated with a poorer prognosis compared with older age groups
+                [<xref ref-type="bibr" rid="B23">23</xref>-<xref ref-type="bibr" rid="B25">25</xref>].
+                This is related to the biological characteristics of such tumours with a higher
+                proportion of mucinous poorly differentiated tumours. As a result, younger patients
+                present with more advanced disease. Such patients require early diagnosis and a
+                radical approach to treatment.</p>
+        </sec>
+        <sec>
+            <title>Conclusions</title>
+            <p>Gastrocolic fistula is an uncommon presentation of adenocarcinoma of the transverse
+                colon. Radical en-bloc surgery with adjuvant chemotherapy may occasionally produce
+                long-term survival.</p>
+        </sec>
+        <sec>
+            <title>Competing interests</title>
+            <p>The author(s) declare that they have no competing interests.</p>
+        </sec>
+        <sec>
+            <title>Authors' contributions</title>
+            <p><bold>MJF </bold>collated the information, searched literature and wrote the
+                manuscript.</p>
+            <p><bold>JKD </bold>assisted in literature search and writing of the manuscript.</p>
+            <p><bold>KM </bold>was responsible for long-term follow up of the patient and assisted
+                in literature search.</p>
+            <p><bold>MCP </bold>managed the patient, helped in preparing the manuscript and edited
+                the final version.</p>
+            <p>All authors have read and approved the final version of the manuscript.</p>
+        </sec>
+    </body>
+    <back>
+        <ack>
+            <sec>
+                <title>Acknowledgements</title>
+                <p>Written consent was obtained from the patient for publication of the case report.</p>
+            </sec>
+        </ack>
+        <ref-list>
+            <ref id="B1">
+                <citation citation-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Schweitzer</surname>
+                            <given-names>RJ</given-names>
+                        </name>
+                        <name>
+                            <surname>Osborne</surname>
+                            <given-names>MP</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Gastrocolic fistula complicating carcinoma; report of case due to
+                        carcinoma of colon, with successful resection</article-title>
+                    <source>Am J Surg</source>
+                    <year>1953</year>
+                    <volume>85</volume>
+                    <fpage>775</fpage>
+                    <lpage>779</lpage>
+                    <pub-id pub-id-type="pmid">13058049</pub-id>
+                    <pub-id pub-id-type="doi">10.1016/0002-9610(53)90567-4</pub-id>
+                </citation>
+            </ref>
+            <ref id="B2">
+                <citation citation-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Lahey</surname>
+                            <given-names>FH</given-names>
+                        </name>
+                        <name>
+                            <surname>Swinton</surname>
+                            <given-names>NW</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Gastrojejunal ulcer and gastrojejunocolic fistula</article-title>
+                    <source>Surg Gynecol Obstet</source>
+                    <year>1935</year>
+                    <volume>61</volume>
+                    <fpage>599</fpage>
+                    <lpage>612</lpage>
+                </citation>
+            </ref>
+            <ref id="B3">
+                <citation citation-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Marshall</surname>
+                            <given-names>SF</given-names>
+                        </name>
+                        <name>
+                            <surname>Knud-Hansen</surname>
+                            <given-names>J</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Gastrojejunocolic and gastrocolic fistulas</article-title>
+                    <source>Ann Surg</source>
+                    <year>1957</year>
+                    <volume>145</volume>
+                    <fpage>770</fpage>
+                    <lpage>782</lpage>
+                    <pub-id pub-id-type="pmid">13425286</pub-id>
+                </citation>
+            </ref>
+            <ref id="B4">
+                <citation citation-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Amlicke</surname>
+                            <given-names>JA</given-names>
+                        </name>
+                        <name>
+                            <surname>Ponka</surname>
+                            <given-names>JL</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Gastrocolic and gastrojejunocolic fistulas. A report of sixteen
+                        cases</article-title>
+                    <source>Am J Surg</source>
+                    <year>1964</year>
+                    <volume>107</volume>
+                    <fpage>744</fpage>
+                    <lpage>750</lpage>
+                    <pub-id pub-id-type="pmid">14166212</pub-id>
+                    <pub-id pub-id-type="doi">10.1016/0002-9610(64)90304-6</pub-id>
+                </citation>
+            </ref>
+            <ref id="B5">
+                <citation citation-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Matsuo</surname>
+                            <given-names>S</given-names>
+                        </name>
+                        <name>
+                            <surname>Eto</surname>
+                            <given-names>T</given-names>
+                        </name>
+                        <name>
+                            <surname>Ohara</surname>
+                            <given-names>O</given-names>
+                        </name>
+                        <name>
+                            <surname>Miyazaki</surname>
+                            <given-names>J</given-names>
+                        </name>
+                        <name>
+                            <surname>Tsunoda</surname>
+                            <given-names>T</given-names>
+                        </name>
+                        <name>
+                            <surname>Kanematsu</surname>
+                            <given-names>T</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Gastrocolic fistula originating from transverse colon cancer:
+                        report of a case and review of the Japanese literature</article-title>
+                    <source>Surg Today</source>
+                    <year>1994</year>
+                    <volume>24</volume>
+                    <fpage>1085</fpage>
+                    <lpage>1089</lpage>
+                    <pub-id pub-id-type="pmid">7780232</pub-id>
+                </citation>
+            </ref>
+            <ref id="B6">
+                <citation citation-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Christiansen</surname>
+                            <given-names>S</given-names>
+                        </name>
+                        <name>
+                            <surname>Sachatello</surname>
+                            <given-names>C</given-names>
+                        </name>
+                        <name>
+                            <surname>Griffin</surname>
+                            <given-names>WO</given-names>
+                            <suffix>Jr</suffix>
+                        </name>
+                    </person-group>
+                    <article-title>Management of gastrocolic fistula</article-title>
+                    <source>Am Surg</source>
+                    <year>1981</year>
+                    <volume>47</volume>
+                    <fpage>63</fpage>
+                    <lpage>66</lpage>
+                    <pub-id pub-id-type="pmid">7469180</pub-id>
+                </citation>
+            </ref>
+            <ref id="B7">
+                <citation citation-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Oh</surname>
+                            <given-names>PI</given-names>
+                        </name>
+                        <name>
+                            <surname>Zalev</surname>
+                            <given-names>AH</given-names>
+                        </name>
+                        <name>
+                            <surname>Colapinto</surname>
+                            <given-names>ND</given-names>
+                        </name>
+                        <name>
+                            <surname>Deodhare</surname>
+                            <given-names>SS</given-names>
+                        </name>
+                        <name>
+                            <surname>Brandwein</surname>
+                            <given-names>J</given-names>
+                        </name>
+                        <name>
+                            <surname>Warren</surname>
+                            <given-names>RE</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Gastrocolic fistula secondary to primary gastric lymphoma</article-title>
+                    <source>J Clin Gastroenterol</source>
+                    <year>1995</year>
+                    <volume>20</volume>
+                    <fpage>45</fpage>
+                    <lpage>48</lpage>
+                    <pub-id pub-id-type="pmid">7884178</pub-id>
+                </citation>
+            </ref>
+            <ref id="B8">
+                <citation citation-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Lynch</surname>
+                            <given-names>RC</given-names>
+                        </name>
+                        <name>
+                            <surname>Boese</surname>
+                            <given-names>HL</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Carcinoid tumor of transverse colon complicated by gastrocolic
+                        fistula: survival following resection</article-title>
+                    <source>Surgery</source>
+                    <year>1955</year>
+                    <volume>38</volume>
+                    <fpage>600</fpage>
+                    <lpage>604</lpage>
+                    <pub-id pub-id-type="pmid">13246952</pub-id>
+                </citation>
+            </ref>
+            <ref id="B9">
+                <citation citation-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Chiang</surname>
+                            <given-names>JM</given-names>
+                        </name>
+                        <name>
+                            <surname>Wang</surname>
+                            <given-names>JY</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Gastrocolic fistula due to a metastatic marginal ulcer from
+                        carcinoma of the cervix</article-title>
+                    <source>Int J Gynaecol Obstet</source>
+                    <year>1994</year>
+                    <volume>47</volume>
+                    <fpage>173</fpage>
+                    <lpage>174</lpage>
+                    <pub-id pub-id-type="pmid">7843491</pub-id>
+                    <pub-id pub-id-type="doi">10.1016/0020-7292(94)90362-X</pub-id>
+                </citation>
+            </ref>
+            <ref id="B10">
+                <citation citation-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Aqel</surname>
+                            <given-names>NM</given-names>
+                        </name>
+                        <name>
+                            <surname>Tanner</surname>
+                            <given-names>P</given-names>
+                        </name>
+                        <name>
+                            <surname>Drury</surname>
+                            <given-names>A</given-names>
+                        </name>
+                        <name>
+                            <surname>Francis</surname>
+                            <given-names>ND</given-names>
+                        </name>
+                        <name>
+                            <surname>Henry</surname>
+                            <given-names>K</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Cytomegalovirus gastritis with perforation and gastrocolic
+                        fistula formation</article-title>
+                    <source>Histopathology</source>
+                    <year>1991</year>
+                    <volume>18</volume>
+                    <fpage>165</fpage>
+                    <lpage>168</lpage>
+                    <pub-id pub-id-type="pmid">1849120</pub-id>
+                </citation>
+            </ref>
+            <ref id="B11">
+                <citation citation-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Greenstein</surname>
+                            <given-names>AJ</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Surgery for Crohn's disease</article-title>
+                    <source>Surg Clin North Am</source>
+                    <year>1987</year>
+                    <volume>67</volume>
+                    <fpage>573</fpage>
+                    <lpage>596</lpage>
+                    <pub-id pub-id-type="pmid">3495892</pub-id>
+                </citation>
+            </ref>
+            <ref id="B12">
+                <citation citation-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Murphy</surname>
+                            <given-names>S</given-names>
+                        </name>
+                        <name>
+                            <surname>Pulliam</surname>
+                            <given-names>TJ</given-names>
+                        </name>
+                        <name>
+                            <surname>Lindsay</surname>
+                            <given-names>J</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Delayed gastrocolic fistula following endoscopic gastrotomy</article-title>
+                    <source>J Am Geriatr Soc</source>
+                    <year>1991</year>
+                    <volume>39</volume>
+                    <fpage>532</fpage>
+                    <lpage>537</lpage>
+                    <pub-id pub-id-type="pmid">2022806</pub-id>
+                </citation>
+            </ref>
+            <ref id="B13">
+                <citation citation-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Mallaiah</surname>
+                            <given-names>L</given-names>
+                        </name>
+                        <name>
+                            <surname>Brozinsky</surname>
+                            <given-names>S</given-names>
+                        </name>
+                        <name>
+                            <surname>Fruchter</surname>
+                            <given-names>G</given-names>
+                        </name>
+                        <name>
+                            <surname>Siraj Uddin</surname>
+                            <given-names>M</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Malignant gastrocolic fistula case report and review of the
+                        literature</article-title>
+                    <source>Am J Proctol Gastroenterol Colon Rectal Surg</source>
+                    <year>1980</year>
+                    <volume>31</volume>
+                    <fpage>12</fpage>
+                    <lpage>17</lpage>
+                    <pub-id pub-id-type="pmid">7212049</pub-id>
+                </citation>
+            </ref>
+            <ref id="B14">
+                <citation citation-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Singh</surname>
+                            <given-names>V</given-names>
+                        </name>
+                        <name>
+                            <surname>Wadleigh</surname>
+                            <given-names>R</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Gastrocolic fistula as a complication of colonic carcinoma</article-title>
+                    <source>Acta Oncologica</source>
+                    <year>1997</year>
+                    <volume>36</volume>
+                    <fpage>817</fpage>
+                    <lpage>818</lpage>
+                    <pub-id pub-id-type="pmid">9482688</pub-id>
+                </citation>
+            </ref>
+            <ref id="B15">
+                <citation citation-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Mathewson</surname>
+                            <given-names>C</given-names>
+                            <suffix>Jr</suffix>
+                        </name>
+                    </person-group>
+                    <article-title>Preliminary colostomy in the management of gastrocolic and
+                        gastrojejunocolic fistula</article-title>
+                    <source>Ann Surg</source>
+                    <year>1941</year>
+                    <volume>114</volume>
+                    <fpage>1004</fpage>
+                    <lpage>1010</lpage>
+                    <pub-id pub-id-type="pmid">17857925</pub-id>
+                </citation>
+            </ref>
+            <ref id="B16">
+                <citation citation-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Skoog-Smith</surname>
+                            <given-names>AW</given-names>
+                        </name>
+                        <name>
+                            <surname>Jaspin</surname>
+                            <given-names>G</given-names>
+                        </name>
+                        <name>
+                            <surname>Sullivan</surname>
+                            <given-names>JV</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Gastrojejunocolic fistulas : postoperative complications in 19
+                        cases</article-title>
+                    <source>Surg Gynecol Obstet</source>
+                    <year>1950</year>
+                    <volume>91</volume>
+                    <fpage>447</fpage>
+                    <lpage>454</lpage>
+                    <pub-id pub-id-type="pmid">14782139</pub-id>
+                </citation>
+            </ref>
+            <ref id="B17">
+                <citation citation-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Localio</surname>
+                            <given-names>SA</given-names>
+                        </name>
+                        <name>
+                            <surname>Stone</surname>
+                            <given-names>P</given-names>
+                        </name>
+                        <name>
+                            <surname>Hinton</surname>
+                            <given-names>JW</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Gastrojejunocolic fistula</article-title>
+                    <source>Surg Gynecol Obstet</source>
+                    <year>1953</year>
+                    <volume>96</volume>
+                    <fpage>455</fpage>
+                    <lpage>462</lpage>
+                    <pub-id pub-id-type="pmid">13049075</pub-id>
+                </citation>
+            </ref>
+            <ref id="B18">
+                <citation citation-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Lowdon</surname>
+                            <given-names>AGR</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Gastrojejunocolic fistula</article-title>
+                    <source>Br J Surg</source>
+                    <year>1953</year>
+                    <volume>41</volume>
+                    <fpage>113</fpage>
+                    <lpage>128</lpage>
+                    <pub-id pub-id-type="pmid">13093981</pub-id>
+                </citation>
+            </ref>
+            <ref id="B19">
+                <citation citation-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Lee</surname>
+                            <given-names>WJ</given-names>
+                        </name>
+                        <name>
+                            <surname>Horton</surname>
+                            <given-names>KM</given-names>
+                        </name>
+                        <name>
+                            <surname>Fishman</surname>
+                            <given-names>EK</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Gastrocolic fistula due to adenocarcinoma of the colon:
+                        simulation of primary gastric leiomyosarcoma on CT</article-title>
+                    <source>Clin Imaging</source>
+                    <year>1999</year>
+                    <volume>23</volume>
+                    <fpage>295</fpage>
+                    <lpage>297</lpage>
+                    <pub-id pub-id-type="pmid">10665346</pub-id>
+                    <pub-id pub-id-type="doi">10.1016/S0899-7071(99)00156-4</pub-id>
+                </citation>
+            </ref>
+            <ref id="B20">
+                <citation citation-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Choi</surname>
+                            <given-names>SW</given-names>
+                        </name>
+                        <name>
+                            <surname>Yang</surname>
+                            <given-names>JM</given-names>
+                        </name>
+                        <name>
+                            <surname>Kim</surname>
+                            <given-names>SS</given-names>
+                        </name>
+                        <name>
+                            <surname>Kang</surname>
+                            <given-names>SH</given-names>
+                        </name>
+                        <name>
+                            <surname>Ro</surname>
+                            <given-names>HJ</given-names>
+                        </name>
+                        <name>
+                            <surname>Song</surname>
+                            <given-names>KS</given-names>
+                        </name>
+                        <name>
+                            <surname>Ha</surname>
+                            <given-names>HK</given-names>
+                        </name>
+                        <name>
+                            <surname>Lim</surname>
+                            <given-names>KW</given-names>
+                        </name>
+                        <name>
+                            <surname>Kim</surname>
+                            <given-names>JS</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>A case of combined gastrojejunal and gastrocolic fistula
+                        secondary to gastric cancer</article-title>
+                    <source>J Korean Med Sci</source>
+                    <year>1996</year>
+                    <volume>11</volume>
+                    <fpage>437</fpage>
+                    <lpage>439</lpage>
+                    <pub-id pub-id-type="pmid">8934400</pub-id>
+                </citation>
+            </ref>
+            <ref id="B21">
+                <citation citation-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Mimidis</surname>
+                            <given-names>K</given-names>
+                        </name>
+                        <name>
+                            <surname>Papadopoulos</surname>
+                            <given-names>V</given-names>
+                        </name>
+                        <name>
+                            <surname>Katsinelos</surname>
+                            <given-names>P</given-names>
+                        </name>
+                        <name>
+                            <surname>Deftereos</surname>
+                            <given-names>S</given-names>
+                        </name>
+                        <name>
+                            <surname>Filippou</surname>
+                            <given-names>D</given-names>
+                        </name>
+                        <name>
+                            <surname>Kartalis</surname>
+                            <given-names>G</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Gastrocolic fistula secondary to nonsteroidal anti-inflammatory
+                        drugs abuse in a cirrhotic patient</article-title>
+                    <source>Rom J Gastroenterol</source>
+                    <year>2004</year>
+                    <volume>13</volume>
+                    <fpage>39</fpage>
+                    <lpage>41</lpage>
+                    <pub-id pub-id-type="pmid">15054525</pub-id>
+                </citation>
+            </ref>
+            <ref id="B22">
+                <citation citation-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Lorenzo</surname>
+                            <given-names>GA</given-names>
+                        </name>
+                        <name>
+                            <surname>Beal</surname>
+                            <given-names>JM</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Gastrocolic fistula</article-title>
+                    <source>Am J Surg</source>
+                    <year>1968</year>
+                    <volume>115</volume>
+                    <fpage>724</fpage>
+                    <lpage>726</lpage>
+                    <pub-id pub-id-type="pmid">5645674</pub-id>
+                    <pub-id pub-id-type="doi">10.1016/0002-9610(68)90111-6</pub-id>
+                </citation>
+            </ref>
+            <ref id="B23">
+                <citation citation-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Taylor</surname>
+                            <given-names>MC</given-names>
+                        </name>
+                        <name>
+                            <surname>Pounder</surname>
+                            <given-names>D</given-names>
+                        </name>
+                        <name>
+                            <surname>Ali-Ridha</surname>
+                            <given-names>NH</given-names>
+                        </name>
+                        <name>
+                            <surname>Bodurtha</surname>
+                            <given-names>A</given-names>
+                        </name>
+                        <name>
+                            <surname>MacMullin</surname>
+                            <given-names>EC</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Prognostic factors in colorectal carcinoma of young adults</article-title>
+                    <source>Can J Surg</source>
+                    <year>1988</year>
+                    <volume>31</volume>
+                    <fpage>150</fpage>
+                    <lpage>153</lpage>
+                    <pub-id pub-id-type="pmid">3365608</pub-id>
+                </citation>
+            </ref>
+            <ref id="B24">
+                <citation citation-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Cusack</surname>
+                            <given-names>JC</given-names>
+                        </name>
+                        <name>
+                            <surname>Giacco</surname>
+                            <given-names>GG</given-names>
+                        </name>
+                        <name>
+                            <surname>Cleary</surname>
+                            <given-names>K</given-names>
+                        </name>
+                        <name>
+                            <surname>Davidson</surname>
+                            <given-names>BS</given-names>
+                        </name>
+                        <name>
+                            <surname>Izzo</surname>
+                            <given-names>F</given-names>
+                        </name>
+                        <name>
+                            <surname>Skibber</surname>
+                            <given-names>J</given-names>
+                        </name>
+                        <name>
+                            <surname>Yen</surname>
+                            <given-names>J</given-names>
+                        </name>
+                        <name>
+                            <surname>Curley</surname>
+                            <given-names>SA</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Survival factors in 186 patients younger than 40 years old with
+                        colorectal adenocarcinoma</article-title>
+                    <source>J Am Coll Surg</source>
+                    <year>1996</year>
+                    <volume>183</volume>
+                    <fpage>105</fpage>
+                    <lpage>112</lpage>
+                    <pub-id pub-id-type="pmid">8696540</pub-id>
+                </citation>
+            </ref>
+            <ref id="B25">
+                <citation citation-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Adkins</surname>
+                            <given-names>RB</given-names>
+                            <suffix>Jr</suffix>
+                        </name>
+                        <name>
+                            <surname>DeLozier</surname>
+                            <given-names>JB</given-names>
+                        </name>
+                        <name>
+                            <surname>McKnight</surname>
+                            <given-names>WG</given-names>
+                        </name>
+                        <name>
+                            <surname>Waterhouse</surname>
+                            <given-names>G</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Carcinoma of the colon in patients 35 years of age and younger</article-title>
+                    <source>Am Surg</source>
+                    <year>1987</year>
+                    <volume>53</volume>
+                    <fpage>141</fpage>
+                    <lpage>145</lpage>
+                    <pub-id pub-id-type="pmid">3826905</pub-id>
+                </citation>
+            </ref>
+        </ref-list>
+    </back>
+</article>

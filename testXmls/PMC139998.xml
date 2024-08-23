@@ -1,0 +1,2022 @@
+<article xmlns:xlink="http://www.w3.org/1999/xlink" article-type="research-article">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="nlm-ta">BMC Biotechnol</journal-id>
+            <journal-title>BMC Biotechnology</journal-title>
+            <issn pub-type="epub">1472-6750</issn>
+            <publisher>
+                <publisher-name>BioMed Central</publisher-name>
+                <publisher-loc>London</publisher-loc>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="pmid">12466025</article-id>
+            <article-id pub-id-type="pmc">PMC139998</article-id>
+            <article-id pub-id-type="publisher-id">1472-6750-2-21</article-id>
+            <article-id pub-id-type="doi">10.1186/1472-6750-2-21</article-id>
+            <article-categories>
+                <subj-group subj-group-type="heading">
+                    <subject>Research Article</subject>
+                </subj-group>
+            </article-categories>
+            <title-group>
+                <article-title>Group I aptazymes as genetic regulatory switches</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib id="A1" contrib-type="author">
+                    <name>
+                        <surname>Thompson</surname>
+                        <given-names>Kristin M</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="I2">2</xref>
+                    <email>kthompson@archemix.com</email>
+                </contrib>
+                <contrib id="A2" contrib-type="author">
+                    <name>
+                        <surname>Syrett</surname>
+                        <given-names>Heather A</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="I1">1</xref>
+                    <email>angelita@mail.utexas.edu</email>
+                </contrib>
+                <contrib id="A3" contrib-type="author">
+                    <name>
+                        <surname>Knudsen</surname>
+                        <given-names>Scott M</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="I1">1</xref>
+                    <email>sknud@mail.utexas.edu</email>
+                </contrib>
+                <contrib id="A4" corresp="yes" contrib-type="author">
+                    <name>
+                        <surname>Ellington</surname>
+                        <given-names>Andrew D</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="I1">1</xref>
+                    <email>andy.ellington@mail.utexas.edu</email>
+                </contrib>
+            </contrib-group>
+            <aff id="I1"><label>1</label>Department of Chemistry and Biochemistry, Institute for
+                Cellular and Molecular Biology, University of Texas at Austin, Austin, TX, 78712,
+                USA</aff>
+            <aff id="I2"><label>2</label>Present address: Archemix Corp., 1 Hampshire St.,
+                Cambridge, MA 02139, USA</aff>
+            <pub-date pub-type="collection">
+                <year>2002</year>
+            </pub-date>
+            <pub-date pub-type="epub">
+                <day>4</day>
+                <month>12</month>
+                <year>2002</year>
+            </pub-date>
+            <volume>2</volume>
+            <fpage>21</fpage>
+            <lpage>21</lpage>
+            <ext-link ext-link-type="uri" xlink:href="http://www.biomedcentral.com/1472-6750/2/21" />
+            <history>
+                <date date-type="received">
+                    <day>13</day>
+                    <month>6</month>
+                    <year>2002</year>
+                </date>
+                <date date-type="accepted">
+                    <day>4</day>
+                    <month>12</month>
+                    <year>2002</year>
+                </date>
+            </history>
+            <permissions>
+                <copyright-statement>Copyright &#x000a9; 2002 Thompson et al; licensee BioMed
+                    Central Ltd. This is an Open Access article: verbatim copying and redistribution
+                    of this article are permitted in all media for any purpose, provided this notice
+                    is preserved along with the article's original URL.</copyright-statement>
+                <copyright-year>2002</copyright-year>
+                <copyright-holder>Thompson et al; licensee BioMed Central Ltd. This is an Open
+                    Access article: verbatim copying and redistribution of this article are
+                    permitted in all media for any purpose, provided this notice is preserved along
+                    with the article's original URL.</copyright-holder>
+            </permissions>
+            <abstract>
+                <sec>
+                    <title>Background</title>
+                    <p>Allosteric ribozymes (aptazymes) that have extraordinary activation
+                        parameters have been generated <italic>in vitro </italic>by design and
+                        selection. For example, hammerhead and ligase ribozymes that are activated
+                        by small organic effectors and protein effectors have been selected from
+                        random sequence pools appended to extant ribozymes. Many ribozymes,
+                        especially self-splicing introns, are known control gene regulation or viral
+                        replication <italic>in vivo</italic>. We attempted to generate Group I
+                        self-splicing introns that were activated by a small organic effector,
+                        theophylline, and to show that such Group I aptazymes could mediate
+                        theophylline-dependent splicing <italic>in vivo</italic>.</p>
+                </sec>
+                <sec>
+                    <title>Results</title>
+                    <p>By appending aptamers to the Group I self-splicing intron, we have generated
+                        a Group I aptazyme whose <italic>in vivo </italic>splicing is controlled by
+                        exogenously added small molecules. Substantial differences in gene
+                        regulation could be observed with compounds that differed by as little as a
+                        single methyl group. The effector-specificity of the Group I aptazyme could
+                        be rationally engineered for new effector molecules.</p>
+                </sec>
+                <sec>
+                    <title>Conclusion</title>
+                    <p>Group I aptazymes may find applications as genetic regulatory switches for
+                        generating conditional knockouts at the level of mRNA or for developing
+                        economically viable gene therapies.</p>
+                </sec>
+            </abstract>
+        </article-meta>
+    </front>
+    <body>
+        <sec>
+            <title>Background</title>
+            <p>Ribozymes whose activities are modulated by effector molecules have previously been
+                engineered. For example, Herschlag and co-workers have previously shown that a
+                nucleobase could complement an abasic site within the hammerhead ribozyme, restoring
+                cleavage activity [<xref ref-type="bibr" rid="B1">1</xref>]. Similarly, Porta and
+                Lizardi engineered a hammerhead ribozyme that assumed an inactive secondary
+                structure; upon the addition of an oligonucleotide that disrupted the engineered
+                secondary structure, the ribozyme was activated [<xref ref-type="bibr" rid="B2">2</xref>].
+                More recently, it has previously been shown that many selected nucleic acid binding
+                species (aptamers) undergo conformational changes upon ligand binding [<xref
+                    ref-type="bibr" rid="B3">3</xref>-<xref ref-type="bibr" rid="B6">6</xref>] In
+                addition, when aptamers are conjoined to ribozymes, the ligand-induced
+                conformational changes in the aptamers frequently modulate the structures and hence
+                the activities of the ribozymes [<xref ref-type="bibr" rid="B7">7</xref>-<xref
+                    ref-type="bibr" rid="B9">9</xref>] For example, binding of theophylline to the
+                anti-theophylline aptamer [<xref ref-type="bibr" rid="B10">10</xref>] modulates the
+                conformation of residue [<xref ref-type="bibr" rid="B11">11</xref>,<xref
+                    ref-type="bibr" rid="B12">12</xref>] and the overall stability of the aptamer [<xref
+                    ref-type="bibr" rid="B10">10</xref>,<xref ref-type="bibr" rid="B13">13</xref>].
+                Appending the anti-theophylline aptamer to the hammerhead ribozyme allowed cleavage
+                activity to be modulated by 110-fold by theophylline [<xref ref-type="bibr"
+                    rid="B13">13</xref>]. Similarly, appending the anti-theophylline aptamer to a
+                small ribozyme ligase (L1) generated an aptazyme that was activated 1,600-fold by
+                saturating theophylline concentrations [<xref ref-type="bibr" rid="B14">14</xref>].</p>
+            <p>The methods for engineering and selecting Group I aptazymes appear to be
+                generalizable to several different types of ribozymes. Adjoining aptamers to the
+                Group I self-splicing intron would potentially allow the control of splicing not
+                only <italic>in vitro</italic>, but <italic>in vivo</italic>. To this end, we have
+                attempted to generate and assay Group I aptazymes.</p>
+        </sec>
+        <sec>
+            <title>Results and Discussion</title>
+            <sec>
+                <title>Design of Group I aptazymes</title>
+                <p>In order to convert the Group I self-splicing intron to a regulatable aptazyme,
+                    it was necessary to first identify sequences or structures in the ribozyme whose
+                    conformation might modulate splicing activity. The structural and kinetic
+                    properties of the Group I self-splicing intron from the <italic>thymidylate
+                    synthase </italic>(<italic>td</italic>) gene in bacteriophage T4 have been
+                    extensively studied. In particular, a series of nested deletions of the P6
+                    stem-loop have been shown to partially or completely compromise ribozyme
+                    activity [<xref ref-type="bibr" rid="B15">15</xref>]. More importantly, either
+                    magnesium or the tyrosyl tRNA synthetase from Neurospora mitochondria (CYT18)
+                    can suppress many of these defects [<xref ref-type="bibr" rid="B16">16</xref>,<xref
+                        ref-type="bibr" rid="B17">17</xref>]. Previous studies with other introns
+                    have also revealed that deletion of the P5 stem-loop can modulate ribozyme
+                    activity [<xref ref-type="bibr" rid="B18">18</xref>,<xref ref-type="bibr"
+                        rid="B19">19</xref>]. We hypothesized that sites where deletions modulated
+                    ribozyme activity might also prove to be sites where aptamer conformational
+                    changes would modulate ribozyme activity. Based on these studies, we designed a
+                    series of Group I aptazymes in which the anti-theophylline aptamer was
+                    substituted for either a portion of P6 or P5 (Figure <xref ref-type="fig"
+                        rid="F1">1</xref>). The anti-theophylline aptamer was attached at the same
+                    point as had previously proven successful in the design of
+                    theophylline-dependent cleavases and ligases [<xref ref-type="bibr" rid="B13">13</xref>
+                    ,<xref ref-type="bibr" rid="B14">14</xref>].</p>
+                <fig position="float" id="F1">
+                    <label>Figure 1</label>
+                    <caption>
+                        <p><bold>Theophylline-dependent <italic>td </italic>group I intron
+                            constructs. </bold>a) The figure shows the predicted secondary structure
+                            and tertiary interactions of the 265 nt deletion construct[<xref
+                                ref-type="bibr" rid="B15">15</xref>,<xref ref-type="bibr" rid="B41">
+                            41</xref>] of the <italic>td </italic>intron drawn in the format of Cech
+                            et al. (1994)[<xref ref-type="bibr" rid="B42">42</xref>] The intron is
+                            in uppercase and the exons are in lower case letters. The 5' and 3'
+                            splice sites are indicated by arrows. The P4-P6 domain is boxed. b) The
+                            B11 construct was based on the &#x00394; 85&#x02013;863 deletion mutant[<xref
+                                ref-type="bibr" rid="B15">15</xref>] of the <italic>td </italic>intron
+                            which showed no activity <italic>in vivo </italic>or at low Mg<sup>2+ </sup>(3
+                            mM) <italic>in vitro</italic>. An anti-theophylline aptamer, highlighted
+                            in gray, was substituted for the P6a stem of the intron in constructs
+                            Th1P6, Th2P6, Th3P6, Th4P6, Th5P6 and Th6P6, and for the P5 stem in
+                            constructs Th1P5 and Th2P5. Mutations in the anti-theophylline aptamer
+                            are boxed in black for constructs MeX2P6 and Th2P6.D. The C-to-A
+                            mutation in MeX2P6 changes specificity from theophylline to
+                            3-methylxanthine [<xref ref-type="bibr" rid="B34">34</xref>]. The A-to-U
+                            and C-to-U mutations in Th2P6.D abolish theophylline-binding [<xref
+                                ref-type="bibr" rid="B11">11</xref>,<xref ref-type="bibr" rid="B43">
+                            43</xref>].</p>
+                    </caption>
+                    <graphic xlink:href="1472-6750-2-21-1" />
+                </fig>
+            </sec>
+            <sec>
+                <title>Activation <italic>in vitro</italic></title>
+                <p>The self-splicing activities of the Group I aptazymes were examined <italic>in
+                    vitro </italic>using a standard splicing assay (Table <xref ref-type="table"
+                        rid="T1">1</xref>). Magnesium had previously been shown to suppress
+                    structural defects in the <italic>td </italic>intron, and ligand-induced
+                    suppressions of splicing defects were examined by carrying out splicing
+                    reactions at either low (3 mM, stringent) or high (8 mM, permissive) magnesium
+                    concentrations [<xref ref-type="bibr" rid="B15">15</xref>]. Several of the
+                    constructs were either relatively inactive (e.g., Th3P6, Th5P6, and Th6P6) or
+                    did not consistently show differential splicing activity (e.g., Th4P6 and
+                    Th2P5). However, four of the constructs, Th1P6, Th2P6, Th3P6, and Th1P5, showed
+                    good activity (&#x0003e;10% of wild-type) and increased self-splicing in the
+                    presence of theophylline. For example, Th2P6 showed the greatest activation
+                    (8-fold at 8 mM MgCl<sub>2</sub>), while Th1P5 showed low activation (1.2-fold)
+                    at both magnesium concentrations.</p>
+                <table-wrap position="float" id="T1">
+                    <label>Table 1</label>
+                    <caption>
+                        <p>Relative <italic>in vitro </italic>splicing activity of constructs
+                            containing anti-theophylline aptamers. Extent of reaction is relative to
+                            the parental construct in 3 mM MgCl<sub>2 </sub>with no theophylline at
+                            2 hrs.</p>
+                    </caption>
+                    <table frame="hsides" rules="groups">
+                        <thead>
+                            <tr>
+                                <td align="left">[Mg Cl<sub>2</sub>]</td>
+                                <td align="left" colspan="2">3 mM</td>
+                                <td align="left" colspan="2">8 mM</td>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td align="left">[Theo]</td>
+                                <td align="left">1.5 mM</td>
+                                <td align="left">0 mM</td>
+                                <td align="left">1.5 mM</td>
+                                <td align="left">0 mM</td>
+                            </tr>
+                            <tr>
+                                <td colspan="5">
+                                    <hr></hr>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td align="left">Parental</td>
+                                <td align="center">0.85</td>
+                                <td align="center">1</td>
+                                <td align="center">0.61</td>
+                                <td align="center">0.68</td>
+                            </tr>
+                            <tr>
+                                <td align="left">B11</td>
+                                <td align="center">0.03</td>
+                                <td align="center">0.02</td>
+                                <td align="center">0.31</td>
+                                <td align="center">0.34</td>
+                            </tr>
+                            <tr>
+                                <td align="left">Th1P6</td>
+                                <td align="center">0.2</td>
+                                <td align="center">0.05</td>
+                                <td align="center">0.31</td>
+                                <td align="center">0.16</td>
+                            </tr>
+                            <tr>
+                                <td align="left">Th2P6</td>
+                                <td align="center">0.15</td>
+                                <td align="center">0.04</td>
+                                <td align="center">0.31</td>
+                                <td align="center">0.04</td>
+                            </tr>
+                            <tr>
+                                <td align="left">Th3P6</td>
+                                <td align="center">0.03</td>
+                                <td align="center">0.04</td>
+                                <td align="center">0.2</td>
+                                <td align="center">0.04</td>
+                            </tr>
+                            <tr>
+                                <td align="left">Th4P6</td>
+                                <td align="center">0.06</td>
+                                <td align="center">0.05</td>
+                                <td align="center">0.38</td>
+                                <td align="center">0.37</td>
+                            </tr>
+                            <tr>
+                                <td align="left">Th5P6</td>
+                                <td align="center">0.04</td>
+                                <td align="center">0</td>
+                                <td align="center">0.05</td>
+                                <td align="center">0.03</td>
+                            </tr>
+                            <tr>
+                                <td align="left">Th6P6</td>
+                                <td align="center">0.03</td>
+                                <td align="center">0.01</td>
+                                <td align="center">0</td>
+                                <td align="center">0.03</td>
+                            </tr>
+                            <tr>
+                                <td align="left">Th1P5</td>
+                                <td align="center">1.08</td>
+                                <td align="center">0.91</td>
+                                <td align="center">0.85</td>
+                                <td align="center">0.74</td>
+                            </tr>
+                            <tr>
+                                <td align="left">Th1P5</td>
+                                <td align="center">0.03</td>
+                                <td align="center">0.03</td>
+                                <td align="center">0.7</td>
+                                <td align="center">0.57</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </table-wrap>
+                <p>For all of the aptazymes except Th3P6, the ligand-induced splicing activity was
+                    greater in a standard assay at the more stringent (3 mM) magnesium concentration
+                    (Table <xref ref-type="table" rid="T1">1</xref>). The construct Th3P6 was
+                    inactive at lower magnesium concentrations, but underwent ligand-induced
+                    splicing at the more permissive concentration (8 mM). Interestingly, those
+                    aptazyme constructs that showed ligand-dependent activity closely resembled the
+                    original deletion variants that showed magnesium-dependent recovery of splicing
+                    activity. For example, the junction between the aptamer and the Group I ribozyme
+                    in the aptazyme Th2P6 resembled the deletion variant <italic>td </italic>&#x00394;P6-6;
+                    the aptazyme was activated by theophylline, while the splicing defect of the
+                    deletion variant at 3 mM magnesium was suppressed by 8 mM magnesium or by
+                    stabilization of a tetraloop sequence that capped the P6 helix [<xref
+                        ref-type="bibr" rid="B15">15</xref>]. Defects that poise a ribozyme between
+                    active and inactive conformers have previously been used to engineer
+                    effector-dependence [<xref ref-type="bibr" rid="B20">20</xref>].</p>
+                <p>The kinetics of splicing of two of the most activated variants, Th1P5 and Th2P6,
+                    were examined in the presence and absence of theophylline (Figure <xref
+                        ref-type="fig" rid="F2">2</xref>). As in the single point assays, the
+                    theophylline-dependence of the engineered introns was readily apparent (Figure <xref
+                        ref-type="fig" rid="F2">2a</xref>). The time courses reveal that the extents
+                    of splicing of the aptazymes were significantly affected by the addition of
+                    theophylline (Figures <xref ref-type="fig" rid="F2">2b,2c</xref>). The aptazyme
+                    modified at P5 (Th1P5) showed less theophylline-dependent enhancement of the
+                    extent of reaction than the aptazyme modified at P6 (Th2P6), consistent with the
+                    single point assays described above. Th1P5 was activated 1.4-fold at 15 minutes
+                    (Figure <xref ref-type="fig" rid="F2">2b</xref>), while Th2P6 showed a 4.0-fold
+                    rate enhancement at 15 minutes (Figure <xref ref-type="fig" rid="F2">2c</xref>).
+                    These levels of ligand-dependent activation were similar to those observed with
+                    the original hammerhead aptazyme constructs,[<xref ref-type="bibr" rid="B21">21</xref>]
+                    and it may prove possible to use <italic>in vitro </italic>selection to further
+                    optimize activation [<xref ref-type="bibr" rid="B13">13</xref>,<xref
+                        ref-type="bibr" rid="B14">14</xref>]. However, when the time course data
+                    were fit with a single exponential equation, the rates of the initial reactions
+                    turned out to be very similar in both the presence and absence of theophylline
+                    (Table <xref ref-type="table" rid="T2">2</xref>).</p>
+                <fig position="float" id="F2">
+                    <label>Figure 2</label>
+                    <caption>
+                        <p><bold><italic>In vitro </italic>activation of <italic>td </italic>group I
+                            aptazymes by theophylline. </bold>a) Autoradiogram showing the splicing
+                            activity of the parental, B11, Th1P6, Th2P6 and Th1P5 intron constructs
+                            in the presence and absence of 1.5 mM theophylline. LI, linear intron;
+                            CI, circular intron; E1&#x02013;E2, exon 1&#x02013;exon 2 ligation
+                            product; Crp, cryptic ligation product; pre-mRNA, unspliced mRNA. b)
+                            Kinetics of splicing for Th1P5. c) Kinetics of splicing for Th2P6. For
+                            both figures, solid circles represent the reaction in the presence of
+                            1.5 mM theophylline and open circles represent the reaction in the
+                            absence of theophylline. Data points are the average of four
+                            determinations.</p>
+                    </caption>
+                    <graphic xlink:href="1472-6750-2-21-2" />
+                </fig>
+                <table-wrap position="float" id="T2">
+                    <label>Table 2</label>
+                    <caption>
+                        <p>Kinetic rate constants for constructs containing anti-theophylline
+                            aptamers. Rate constants were calculated based on the data shown in
+                            Figures <xref ref-type="fig" rid="F2">2b</xref> and <xref ref-type="fig"
+                                rid="F2">2c</xref>, and the equations presented in Methods.</p>
+                    </caption>
+                    <table frame="hsides" rules="groups">
+                        <thead>
+                            <tr>
+                                <td></td>
+                                <td align="center">k1 (per hour)</td>
+                                <td align="center">Standard Error</td>
+                                <td align="center">R-Squared</td>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td align="left">Th1P5+</td>
+                                <td align="center">14</td>
+                                <td align="center">0.0056</td>
+                                <td align="center">0.99</td>
+                            </tr>
+                            <tr>
+                                <td align="left">Th1P5-</td>
+                                <td align="center">42</td>
+                                <td align="center">0.24</td>
+                                <td align="center">0.96</td>
+                            </tr>
+                            <tr>
+                                <td align="left">Th2P6+</td>
+                                <td align="center">50</td>
+                                <td align="center">0.15</td>
+                                <td align="center">0.99</td>
+                            </tr>
+                            <tr>
+                                <td align="left">Th2P6-</td>
+                                <td align="center">50</td>
+                                <td align="center">0.58</td>
+                                <td align="center">0.88</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </table-wrap>
+                <p>Based on these results, the primary mechanism of activation is likely the same as
+                    has been observed for other aptazymes: ligand-induced conformational changes
+                    that stabilize functional ribozyme sequences and structures. However, the Group
+                    I self-splicing intron is a much more complicated ribozyme than either the
+                    hammerhead or the L1 ligase; for example, the tertiary structure of the Group I
+                    intron is established by a complicated folding pathway. [<xref ref-type="bibr"
+                        rid="B22">22</xref>-<xref ref-type="bibr" rid="B26">26</xref>] Therefore, it
+                    was possible that theophylline-binding influenced the overall folding pathway of
+                    the engineered Group I aptazyme. In order to assess this possibility we examined
+                    the theophylline-dependence of Th2P6 splicing reactions <italic>in vitro </italic>following
+                    prolonged incubation (30 minutes) to allow for re-folding. No significant change
+                    in the extent of ligand-dependent activation was observed following
+                    pre-incubation (data not shown). These results argue that both GTP and
+                    theophylline may need to be present to influence the folding pathway of the
+                    engineered Group I aptazymes. These results are also consistent with previous
+                    physical[<xref ref-type="bibr" rid="B27">27</xref>] and kinetic [<xref
+                        ref-type="bibr" rid="B28">28</xref>-<xref ref-type="bibr" rid="B30">30</xref>]
+                    data that shows that the folding of the Group I intron is dependent in part upon
+                    GTP.</p>
+            </sec>
+            <sec>
+                <title>Gene regulation <italic>in vivo</italic></title>
+                <p>Each of the successful aptazyme constructs was subsequently cloned into an
+                    interrupted <italic>thymidylate synthase </italic>gene in place of the parental <italic>
+                    td </italic>self-splicing intron. The vectors were introduced into an <italic>E.
+                    coli </italic>strain (C600ThyA::Kan<sup>R</sup>) that lacked a functional <italic>thymidylate
+                    synthase </italic>gene and that was a thymidine auxotroph. When bacteria grown
+                    in rich media were subsequently plated on minimal media lacking thymidine, no
+                    colony growth was observed with the exception of Th1P5. However, when
+                    theophylline (7.5 mM) was included in the minimal media, bacteria containing the
+                    intron Th2P6 formed colonies, and bacteria containing the intron Th1P5 showed
+                    increased growth (Figure <xref ref-type="fig" rid="F3">3</xref>). All introns
+                    that originally showed no or low splicing <italic>in vitro </italic>(including
+                    Th3P6) could not rescue bacteria either in the presence or absence of
+                    theophylline. Finally, no growth was observed in a negative control that
+                    contained a non-functional Group I intron (B11), and no theophylline-dependent
+                    changes in growth were observed in a negative control in which mutations were
+                    introduced into the aptazyme to abolish theophylline binding (Th2P6.D).
+                    Interestingly, no growth was observed for bacteria harboring the intron Th1P6,
+                    despite the fact that this aptazyme showed the greatest activation by
+                    theophylline <italic>in vitro</italic>. The plating results were consistent and
+                    reproducible over a variety of experiments.</p>
+                <fig position="float" id="F3">
+                    <label>Figure 3</label>
+                    <caption>
+                        <p><bold><italic>In vivo </italic>splicing activity. </bold>The parental,
+                            B11 and theophylline constructs were spotted in the presence and absence
+                            of 7.5 mM theophylline on minimal media (MM).</p>
+                    </caption>
+                    <graphic xlink:href="1472-6750-2-21-3" />
+                </fig>
+                <p>To better characterize the influence of the effector on intron-splicing, we also
+                    carried out a series of growth experiments in liquid culture (Figure <xref
+                        ref-type="fig" rid="F4">4a</xref>). An overnight bacterial culture that
+                    contained the <italic>td </italic>gene divided by the aptazyme Th2P6 was
+                    inoculated into fresh, minimal media, effector was added, and growth was
+                    continuously monitored. As expected based on growth assays on solid media,
+                    little growth was observed in the absence of theophylline. However, when
+                    theophylline (0.5 mM) was added to liquid medium, bacteria grew almost as well
+                    as a control in which the parental intron was inserted into the <italic>td </italic>gene.
+                    Most importantly, bacterial growth was not activated by the structurally-related
+                    effector caffeine (i.e., 7-methyltheophylline); the anti-theophylline aptamer is
+                    known to discriminate between caffeine and theophylline by a factor of
+                    10,000-fold [<xref ref-type="bibr" rid="B10">10</xref>]. No effector-dependent
+                    growth differences were observed with cultures containing <italic>td </italic>genes
+                    divided by the non-functional Group I intron B11. Similar results were obtained
+                    with cultures that contained the <italic>td </italic>gene divided by the
+                    aptazyme Th1P5 (Figure <xref ref-type="fig" rid="F4">4b</xref>). However, in
+                    this instance there was some background growth of uninduced bacteria, consistent
+                    with the higher level of background splicing activity <italic>in vitro</italic>.
+                    If theophylline is regulating intron splicing <italic>in vivo</italic>, then the
+                    extent of bacterial growth should be dependent upon the concentration of
+                    theophylline introduced into the media (Figure <xref ref-type="fig" rid="F4">4c</xref>).
+                    However, theophylline was toxic to bacteria, and caused a decrease in the growth
+                    of bacteria containing the parental <italic>td </italic>intron at concentrations
+                    greater than 0.5 mM. Consistent with this observation, low concentrations of
+                    theophylline progressively increased bacterial growth (by activating the <italic>
+                    td </italic>intron) while concentrations of theophylline above 2 mM
+                    progressively decreased bacterial growth (although levels of growth were still
+                    well above background).</p>
+                <fig position="float" id="F4">
+                    <label>Figure 4</label>
+                    <caption>
+                        <p><bold>Theophylline-dependent growth. </bold>Relative growth curves are
+                            shown for C600:ThyA cells containing either Th2P6 (a) and Th1P5 (b) in
+                            the presence (black filled circles) and absence (black open circles) of
+                            0.5 mM theophylline or 0.5 mM caffeine (black diamonds). Parental (grey
+                            filled squares) and B11 (grey open squares) controls were grown in the
+                            0.5 mM theophylline for comparison. Plots are standardized to the extent
+                            of growth of cells containing the parental intron. Each point represents
+                            the average of three replicate growth curves. c) Extent of growth at 12
+                            hours for parental, Th2P6 and Th1P5 introns over a range of theophylline
+                            concentrations. Background growth (B11) has been subtracted, and results
+                            are standardized to parental growth with no theophylline.</p>
+                    </caption>
+                    <graphic xlink:href="1472-6750-2-21-4" />
+                </fig>
+                <p>These results were all consistent with the hypothesis that theophylline regulates
+                    intron splicing <italic>in vivo</italic>. To further probe whether this was in
+                    fact the case mRNA was isolated from <italic>E. coli </italic>treated with
+                    theophylline or not, and RT-PCR was used to confirm the presence of spliced
+                    introns (Figure <xref ref-type="fig" rid="F5">5</xref>). For each of the introns
+                    known to be responsive to theophylline <italic>in vivo </italic>(Th2P6 and
+                    Th1P5) an increase in spliced mRNA was observed, while most other introns that
+                    were not responsive to theophylline <italic>in vivo </italic>did not show an
+                    increase in the levels of spliced mRNA. An exception to this was Th1P6, which
+                    originally showed theophylline-dependent splicing <italic>in vitro </italic>and
+                    also showed theophylline-dependent splicing <italic>in vivo</italic>. However,
+                    Th1P6 did not mediate theophylline-dependent growth. The bacterial mRNAs were
+                    extracted, cloned, and sequenced, and half of them appeared to use a cryptic
+                    splice site.</p>
+                <fig position="float" id="F5">
+                    <label>Figure 5</label>
+                    <caption>
+                        <p><bold>RT-PCR analysis of whole cell RNA. </bold>Bands corresponding to
+                            spliced and unspliced mRNAs are indicated. The upper set of RT-PCR
+                            reactions was seeded with RNA from cells grown in the absence of
+                            theophylline. The lower set was seeded with RNA from cells grown in the
+                            presence of 0.5 mM theophylline.</p>
+                    </caption>
+                    <graphic xlink:href="1472-6750-2-21-5" />
+                </fig>
+                <p>Several discrepancies were noted between intron activation <italic>in vitro </italic>and
+                    effector-dependent growth. This is not surprising; other studies have revealed
+                    that there is often little correlation between ribozyme activity <italic>in
+                    vitro </italic>and <italic>in vivo </italic>[<xref ref-type="bibr" rid="B31">31</xref>].
+                    However, since it is known that relatively small changes in gene expression can
+                    greatly affect the metabolism of an organism, another possible explanation for
+                    the apparent discrepancies is that relatively small modulations in intron
+                    splicing are amplified via cellular metabolism to yield growth phenotypes. This
+                    would seem especially true in the current set of experiments, since the
+                    modulation of Thymidylate Synthase expression is known to greatly affect
+                    thymidine levels and cell growth [<xref ref-type="bibr" rid="B32">32</xref>].
+                    For example, <italic>E. coli </italic>that are starved for thymine quickly die,
+                    a phenomenon known as 'thymineless death' [<xref ref-type="bibr" rid="B33">33</xref>].
+                    In this respect, Group I aptazymes that may have yielded lower amounts of
+                    functional Thymidylate Synthase (e.g., Th3P6, which was less active than Th2P6;
+                    or Th1P6, which mis-spliced) did not allow bacterial growth. In contrast,
+                    aptazymes that may have yielded even modestly greater amounts of functional
+                    Thymidylate Synthase (e.g., Th1P5, which was both highly active and modestly
+                    activated <italic>in vitro</italic>) allowed bacterial growth.</p>
+            </sec>
+            <sec>
+                <title>Effector specificity</title>
+                <p>In order to examine effector-specificity <italic>in vivo</italic>, a new series
+                    of Group I aptazymes was constructed in which the anti-theophylline aptamer was
+                    mutated to bind 3-methylxanthine (3MeX2P6) [<xref ref-type="bibr" rid="B34">34</xref>].
+                    These variants proved to be responsive to 3-methylxanthine both <italic>in vitro </italic>
+                    and <italic>in vivo </italic>(Figure <xref ref-type="fig" rid="F6">6a</xref>).
+                    However, the variants were no longer responsive to theophylline, nor were they
+                    responsive to a variety of other analogues, including caffeine,
+                    1-methylxanthine, 7-methylxanthine, 1,3-dimethyl urilic acid, hypoxanthine,
+                    xanthine, and theobromine (Figure <xref ref-type="fig" rid="F6">6b</xref>). In
+                    contrast, the original aptamer was known to also bind 3-methylxanthine, and the
+                    original Group I aptazyme (Th2P6) also proved to be responsive to
+                    3-methylxanthine <italic>in vivo </italic>(Figure <xref ref-type="fig" rid="F6">
+                    6c</xref>). Thus, the responsivity of the aptazymes <italic>in vivo </italic>appears
+                    to mirror their effector specificity <italic>in vitro</italic>.</p>
+                <fig position="float" id="F6">
+                    <label>Figure 6</label>
+                    <caption>
+                        <p><bold>3-Methylxanthine dependent growth. </bold>a) Relative growth curves
+                            are shown for C600:ThyA cells containing 3MeX2P6 in the presence (black
+                            filled circles) and absence (black open circles) of 1 mM
+                            3-methlyxanthine or 1 mM theophylline (black diamonds). Parental (grey
+                            filled squares) and B11 (grey open squares) controls were also grown in
+                            1 mM 3-methylxanthine. Plots are standardized to the extent of growth of
+                            cells containing the parental intron. Each point represents the average
+                            of three replicate growth curves. b) Specificity of growth of 3MeX2P6 on
+                            theophylline analogs. Background growth (B11) has been subtracted, and
+                            results are standardized to parental growth on minimal media at 12 hrs.
+                            Negative values were not greater than -0.05, and were set to zero. Each
+                            analog was present in the media at 0.5 mM. c) Specificity of growth of
+                            Th2P6 on theophylline analogs. Presentation of the data is the same as
+                            in Figure <xref ref-type="fig" rid="F6">6b</xref>. Each analog was
+                            present in the media at 0.5 mM.</p>
+                    </caption>
+                    <graphic xlink:href="1472-6750-2-21-6" />
+                </fig>
+            </sec>
+            <sec>
+                <title>Applications</title>
+                <p>The ability to engineer Group I introns to be responsive to effector molecules
+                    has numerous potential applications. For example, it may prove possible to
+                    develop new gene therapies in which patients rely upon drugs that can
+                    differentially activate gene expression, rather than having to rely upon a set
+                    level of endogenous expression of an introduced gene. Similarly, it may prove
+                    possible to use effector-dependent splicing to more finely monitor gene
+                    expression <italic>in vivo</italic>. A drug could be localized to particular
+                    organs, cells, or organelles, and splicing of the aptazyme could be monitored
+                    via a reporter gene such as luciferase. It is also possible to imagine that
+                    engineered introns introduced into reporter genes may find application in
+                    high-throughput, cell-based screening assays that monitor drug uptake or
+                    efficacy. These strategies should prove useful not only for self-splicing
+                    introns activated by drugs, but for introns activated by proteins or peptides.
+                    In this regard, it is notable that some natural Group I introns have proven to
+                    be highly dependent upon protein cofactors,[<xref ref-type="bibr" rid="B35">35</xref>]
+                    and that Group I introns have been engineered whose tertiary structure and
+                    activity is dependent upon a peptide [<xref ref-type="bibr" rid="B36">36</xref>].
+                    Such applications could also be melded with other innovations dependent upon the
+                    Group I self-splicing intron, such as the introduction of a trans-splicing
+                    intron that can potentially repair or modulate the expression of a given mRNA. [<xref
+                        ref-type="bibr" rid="B37">37</xref>-<xref ref-type="bibr" rid="B39">39</xref>
+                    ]</p>
+            </sec>
+        </sec>
+        <sec>
+            <title>Conclusions</title>
+            <p>Group I aptazymes that were dependent upon theophylline both <italic>in vitro </italic>
+                and <italic>in vivo </italic>were engineered by conjoining the <italic>thymidylate
+                synthase </italic>(<italic>td</italic>) intron with an anti-theophylline aptamer.
+                Although the <italic>in vitro </italic>activation of splicing was modest (up to an
+                18-fold change in initial rate), this change was more than enough to mediate the
+                survival of a thymidine-dependent <italic>E. coli </italic>strain. The ligand
+                specificity of the anti-theophylline aptamer carried over to the
+                theophylline-dependent aptazyme, and no activation was seen with caffeine, which
+                differed by a single methyl group from theophylline. The effector specificity could
+                be rationally changed by changing the specificity of the conjoined aptamer: when a
+                mutation was introduced into the anti-theophylline aptamer that led to
+                discrimination against theophylline and in favor of 3-methylxanthine (that also
+                differed from theophylline by a single methyl group), the aptamer became solely
+                responsive to 3-methylxanthine <italic>in vivo</italic>. Group I aptazymes may have
+                a number of important biotechnology applications, including use as <italic>in vivo</italic>,
+                real-time reporters and as regulatable gene therapeutics.</p>
+        </sec>
+        <sec sec-type="methods">
+            <title>Methods</title>
+            <sec>
+                <title><italic>E. coli </italic>strains and growth media</title>
+                <p><italic>E. coli </italic>strain C600ThyA::KanR was used for the plate assays and <italic>in
+                    vivo </italic>growth curves. INVaF' (Invitrogen, Carlsbad, CA) was used for
+                    cloning and plasmid amplification. Bacterial starter cultures were grown in LB
+                    supplemented with thymine (50 mg/l). Screening for thymidine auxotrophy was done
+                    in minimal media supplemented with 0.1% Norit A-treated casamino acids (MM) and
+                    MM supplemented with thymine (50 mg/l) (MMT). Plates contained Bacto agar
+                    (1.5%). Ampicillin (50 mg/l) and kanamycin (100 mg/l) were added to all growth
+                    media.</p>
+            </sec>
+            <sec>
+                <title>Construction of the <italic>td </italic>intron aptazymes</title>
+                <p>The wild type plasmid pTZtd1304 [<xref ref-type="bibr" rid="B17">17</xref>]
+                    contains a fully functional 265 nt derivative of the 1016 nt wild type intron [<xref
+                        ref-type="bibr" rid="B15">15</xref>]. This derivative also contains the
+                    substitutions U34A, which introduces a SpeI site, and U976G, which introduces an
+                    EcoRI site. The constructs were made using standard solid phase DNA synthesis,
+                    then were PCR-amplified and cloned into pTZtd1304. The parental P6 aptazyme
+                    construct was generated by two overlapping oligos, Gp1Wt2 Gp1Wt2.122 (GCC TGA
+                    GTA TAA GGT GAC TTA TAC TTG TAA TCT ATC TAA ACG GGG AAC CTC TCT AGT AGA CAA TCC
+                    CGT GCT AAA TTG TAG GAC TGC CCG GGT TCT ACA TAA ATG CCT AAC GAC TAT CCC TT) and
+                    Gp1Wt3.129 (TAA TCT TAC CCC GGA ATT ATA TCC AGC TGC ATG TCA CCA TGC AGA GCA GAC
+                    TAT ATC TCC AAC TTG TTA AAG CAA GTT GTC TAT CGT TTC GAG TCA CTT GAC CCT ACT CCC
+                    CAA AGG GAT AGT CGT TAG). These oligonucleotides (100 pmole) were annealed and
+                    extended with AMV reverse transcriptase (Amersham Pharmacia Biotech, Piscataway,
+                    NJ; 45 units) in AMV RT buffer (50 mM Tris-HCl, pH 8.3, 8 mM MgCl<sub>2</sub>,
+                    50 mM NaCl, 1 mM DTT) and dNTPS (200 &#x003bc;M) for 30 minutes at 37&#x000b0;C.
+                    The resulting double-stranded DNA was diluted 1:50 and amplified using primers
+                    SpeI.24 (TTA TAC TAG TAA TCT ATC TAA ACG; 0.4 &#x003bc;M) and EcoRI.24 (CCC GGA
+                    ATT CTA TCC AGC TGC ATG; 0.4 &#x003bc;M) in PCR buffer (10 mM Tris-HCl, pH 8.3,
+                    50 mM KCl, 1.5 mM MgCl<sub>2</sub>, 0.1% Triton X-100, 0.005% gelatin), dNTPS
+                    (200 &#x003bc;M) and Taq DNA polymerase (Promega, Madison, WI; 1.5 units). The
+                    reactions were thermocycled 15 times at 94&#x000b0;C for 30 seconds,
+                    45&#x000b0;C for 30 seconds, 72&#x000b0;C for 1 minute and then purified with a
+                    QIAquick PCR purification kit (Qiagen, Valencia, CA). The PCR product was
+                    digested with SpeI (New England Biolabs, Beverly, MA; 20 units) and EcoRI (50
+                    units) in buffer (50 mM NaCl, 100 mM Tris-HCl, pH 7.5, 10 mM MgCl<sub>2</sub>,
+                    0.025% Triton X-100, 100 &#x003bc;g/ml BSA) at 37&#x000b0;C for 60 minutes,
+                    purified, and cloned into SpeI/EcoRI digested pTZtd1304. The negative control
+                    and aptazyme constructs were made as described except that Gp1Wt3.129 was
+                    replaced with oligonucleotides of the appropriate sequence: B11 GCC TGA GTA TAA
+                    GGT GAC TTA TAC TTG TAA TCT ATC TAA ACG GGG AAC CTC TCT AGT AGA CAA TCC CGT GCT
+                    AAA TGC CTA ACG ACT ATC CCT T, Th1P6 GCC TGA GTA TAA GGT GAC TTA TAC TTG TAA TCT
+                    ATC TAA ACG GGG AAC CTC TCT AGT AGA CAA TCC CGT GCT AAA TTA TAC CAG CAT CGT CTT
+                    GAT GCC CTT GGC AGA TAA ATG CCT AAC GAC TAT CCC TT, Th2P6 GCC TGA GTA TAA GGT
+                    GAC TTA TAC TTG TAA TCT ATC TAA ACG GGG AAC CTC TCT AGT AGA CAA TCC CGT GCT AAA
+                    TTG ATA CCA GCA TCG TCT TGA TGC CCT TGG CAG CAT AAA TGC CTA ACG ACT ATC CCT T,
+                    Th3P6 GCC TGA GTA TAA GGT GAC TTA TAC TTG TAA TCT ATC TAA ACG GGG AAC CTC TCT
+                    AGT AGA CAA TCC CGT GCA TAC CAG CAT CGT CTT GAT GCC CTT GGC AGG CCT AAC GAC TAT
+                    CCC TT, Th4P6 GCC TGA GTA TAA GGT GAC TTA TAC TTG TAA TCT ATC TAA ACG GGG AAC
+                    CTC TCT AGT AGA CAA TCC CGT GCT AAA TAT ACC AGC ATC GTC TTG ATG CCC TTG GCA GTA
+                    AAT GCC TAA CGA CTA TCC CTT, Th5P6 GCC TGA GTA TAA GGT GAC TTA TAC TTG TAA TCT
+                    ATC TAA ACG GGG AAC CTC TCT AGT AGA CAA TCC CGT ATA CCA GCA TCG TCT TGA TGC CCT
+                    TGG CAG CTA ACG ACT ATC CCT T, Th6P6 GCC TGA GTA TAA GGT GAC TTA TAC TTG TAA TCT
+                    ATC TAA ACG GGG AAC CTC TCT AGT AGA CAA TCC CGT GAT ACC AGC ATC GTC TTG ATG CCC
+                    TTG GCA GCC TAA CGA CTA TCC CTT, Th1P5 TGA GTA TAA GGT GAC TTA TAC TAG TAA TCT
+                    ATC TAA ACG GGG AAC CTC TAT ACC AGC ATC GTC TTG ATG CCC TTG GCA GAG ACA ATC CCG
+                    TGC TAA ATT GTA GGA CTG CCC GGG TTC TAC ATA AAT GCC TAA CGA CTA TCC CTT, Th2P5
+                    TGA GTA TAA GGT GAC TTA TAC TAG TAA TCT ATC TAA ACG GGG AAC CTA TAC CAG CAT CGT
+                    CTT GAT GCC CTT GGC AGA CAA TCC CGT GCT AAA TTG TAG GAC TGC CCG GGT TCT ACA TAA
+                    ATG CCT AAC GAC TAT CCC TT, 3Mex2P6 GTA ATC TAT CTA AAC GGG GAA CCT CTC TAG TAG
+                    ACA ATC CCG TGC TAA ATT GAT ACC AGC ATC GTC TTG ATG CCA TTG GCA GCA TAA ATG CCT
+                    AAC GAC TAT CCC TT, and Th2P6.D GTA ATC TAT CTA AAC GGG GAA CCT CTC TAG TAG ACA
+                    ATC CCG TGC TAA ATT GAT ACC AGC ATC GTC TTG ATG CCC TTG GTT GCA TAA ATG CCT AAC
+                    GAC TAT CCC TT.</p>
+            </sec>
+            <sec>
+                <title><italic>In vitro </italic>transcription</title>
+                <p>The introns were PCR-amplified with KM37 (GAT AAT ACG ACT CAC TAT AAT GGC ATT ACC
+                    GCC TTG T) and GM24 (GCT CTA GAC TTA GCT ACA ATA TGA AC) in 25 &#x003bc;l
+                    reactions under the conditions stated above and cycled 20 times. A portion of
+                    the reaction (5 &#x003bc;l) was run on a 3% agarose gel and the PCR product band
+                    was stabbed with a pipette tip. The agarose plug was added to a fresh PCR
+                    reaction (100 &#x003bc;l) and cycled 15 times; DNA was purified using a QIAquick
+                    kit and quantitated. The PCR product (2 &#x003bc;g in 50 &#x003bc;l) was added
+                    to an <italic>in vitro </italic>transcription reaction containing Ampliscribe T7
+                    RNA polymerase (Epicentre), RNase inhibitor (GIBCO BRL, Rockville, MD; 5 units),
+                    low Mg<sup>2+ </sup>buffer (30 mM Tris-HCl, pH 8, 7.5 mM DTT, 4.5 mM MgCl<sub>2</sub>,
+                    1.5 mM spermidine), UTP (1.25 mM), ATP (2.5 mM), GTP (2.5 mM), CTP (7.5 mM) and
+                    &#x003b1;-<sup>32</sup>P UTP (NEN, Boston, MA; 20 &#x003bc;Ci; 3000 mCi/mmol),
+                    and incubated at 37&#x000b0;C for 2 hours. DNase (GIBCO BRL, 295 units) was
+                    added and the reaction was incubated at 37&#x000b0;C for an additional 30
+                    minutes. The RNA was purified using Centri-Sep columns (Princeton Separations,
+                    Adelphia, NJ) and quantitated.</p>
+            </sec>
+            <sec>
+                <title><italic>In vitro </italic>splicing assays</title>
+                <p>The assays were performed by heating the RNA (500 nM) in H<sub>2</sub>O to
+                    70&#x000b0;C for 3 minutes then transferring to ice for 1 minute. Splicing
+                    buffer (20 mM Tris-HCl, pH 7.5, 100 mM KCl, 3 mM MgCl<sub>2</sub>), effector
+                    (theophylline, 1.5 mM) was added and the reactions were incubated on ice for an
+                    additional 15 minutes. At this time a 4.5 &#x003bc;l aliquot was removed for a
+                    zero time point and quenched with 5 &#x003bc;l stop dye (95% formamide, 20 mM
+                    EDTA, 0.5% xylene cyanol, and 0.5% bromophenol blue). GTP (50 &#x003bc;M) was
+                    added to the remaining reaction (5 &#x003bc;l total volume) to start the
+                    splicing reaction. The reaction was incubated at 37&#x000b0;C for 30 minutes and
+                    then terminated with stop dye (5 &#x003bc;l). The reactions were heated to
+                    70&#x000b0;C for 3 minutes and 5 &#x003bc;l was analyzed on a 8% denaturing
+                    polyacrylamide gel. The gel was dried, exposed to a phosphor screen and analyzed
+                    using a Molecular Dynamics Phosphorimager (Sunnyvale, CA).</p>
+                <p>The reaction volumes were increased for the rate determination assay. Aliquots
+                    were taken at intervals between 0 minutes and 15 minutes and terminated with
+                    stop dye. The reactions were analyzed as described above. For each time point,
+                    the number of counts in unreacted intron, spliced intron, and circularized
+                    intron were determined. Background counts were subtracted from these values. The
+                    fraction of reacted intron was then calculated as:</p>
+                <p>
+                    <italic>(circular intron + spliced intron) / (unreacted intron + circular intron
+                        + spliced intron)</italic>
+                </p>
+                <p>The individual time points were averaged together, the fraction reacted was
+                    plotted versus time, and rate constants were extracted by fitting the data to a
+                    single-exponential equation:</p>
+                <p><italic>F </italic>= <italic>A </italic>* <italic>e</italic><sup>(-<italic>kt</italic>
+                    )</sup></p>
+                <p>The plotted data and rate constants for Th1P5 and Th2P6 constructs are shown in
+                    Figures <xref ref-type="fig" rid="F2">2b</xref> and <xref ref-type="fig"
+                        rid="F2">2c</xref> and Table <xref ref-type="table" rid="T2">2</xref>. The
+                    changes in the extent of reaction observed between individual experiments, and
+                    thus the attendant error bars, were consistent with those observed during the
+                    kinetic analyses of other ribozymes. For example, studies of the hairpin
+                    ribozyme have shown that data points can vary between individual experiments by
+                    as much as 50% [<xref ref-type="bibr" rid="B40">40</xref>]. Our data points
+                    typically varied from one another by less than 30%.</p>
+            </sec>
+            <sec>
+                <title><italic>In vivo </italic>plate assay</title>
+                <p>The plasmids containing the various group I constructs were transformed into
+                    competent C600ThyA::Kan<sup>R </sup>cells and grown in LB with kanamycin
+                    overnight. A small aliquot (3 &#x003bc;l) of overnight cell culture was mixed
+                    with effector (theophylline, 7.5 mM) or H<sub>2</sub>O, spotted on plates, and
+                    grown overnight at 37&#x000b0;C. As a positive control, all constructs were also
+                    plated on minimal media plates with thymine (MMT) and assayed for viability.</p>
+            </sec>
+            <sec>
+                <title><italic>In vivo </italic>growth curves</title>
+                <p>Cells grown overnight in LB were diluted 1:100 in MM containing either
+                    theophylline, caffeine, 3-methylxanthine or no effector, and analyzed on a
+                    Microbiology Workstation Bioscreen C (Labsystems, Inc., Franklin, MA).</p>
+            </sec>
+            <sec>
+                <title>RT-PCR analysis</title>
+                <p>RNA was isolated from an overnight culture using a MasterPure RNA purification
+                    kit (Epicentre, Madison, WI) and amplified by RT-PCR using primers KM37 and GM24
+                    following the protocol provided for Tth polymerase. The products were separated
+                    and analyzed on a 3% agarose gel.</p>
+            </sec>
+        </sec>
+        <sec>
+            <title>Authors' Contributions</title>
+            <p>Kristin M. Thompson conceived of, designed, and carried out most of the experiments
+                described in this paper and analyzed the resultant data. Heather A. Syrett repeated
+                a number of these experiments and showed that the <italic>in vivo </italic>activation
+                of the intron was reproducible. Scott M. Knudsen assisted in data analysis. Andrew
+                D. Ellington conceived of these experiments and assisted in the design of
+                experiments and data analysis.</p>
+        </sec>
+    </body>
+    <back>
+        <ack>
+            <sec>
+                <title>Acknowledgements</title>
+                <p>This work was funded by the Office of Naval Research (Grant #: N00014-99-1-0861),
+                    the Defense Advanced Research Projects Agency (Grant #: DAAD19-99-1-0207), and
+                    the National Institutes of Health (Grant #: 1R01 GM61789-01). We would like to
+                    thank Ken Johnson for assistance with kinetic analyses.</p>
+            </sec>
+        </ack>
+        <ref-list>
+            <ref id="B1">
+                <citation citation-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Peracchi</surname>
+                            <given-names>A</given-names>
+                        </name>
+                        <name>
+                            <surname>Beigelman</surname>
+                            <given-names>L</given-names>
+                        </name>
+                        <name>
+                            <surname>Usman</surname>
+                            <given-names>N</given-names>
+                        </name>
+                        <name>
+                            <surname>Herschlag</surname>
+                            <given-names>D</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Rescue of abasic hammerhead ribozymes by exogenous addition of
+                        specific bases.</article-title>
+                    <source>Proc Natl Acad Sci U S A</source>
+                    <year>1996</year>
+                    <volume>93</volume>
+                    <fpage>11522</fpage>
+                    <lpage>11527</lpage>
+                    <pub-id pub-id-type="pmid">8876168</pub-id>
+                    <pub-id pub-id-type="doi">10.1073/pnas.93.21.11522</pub-id>
+                </citation>
+            </ref>
+            <ref id="B2">
+                <citation citation-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Porta</surname>
+                            <given-names>H</given-names>
+                        </name>
+                        <name>
+                            <surname>Lizardi</surname>
+                            <given-names>PM</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>An allosteric hammerhead ribozyme.</article-title>
+                    <source>Biotechnology (N Y)</source>
+                    <year>1995</year>
+                    <volume>13</volume>
+                    <fpage>161</fpage>
+                    <lpage>164</lpage>
+                    <pub-id pub-id-type="pmid">9634757</pub-id>
+                    <pub-id pub-id-type="doi">10.1038/nbt0295-161</pub-id>
+                </citation>
+            </ref>
+            <ref id="B3">
+                <citation citation-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Hermann</surname>
+                            <given-names>T</given-names>
+                        </name>
+                        <name>
+                            <surname>Patel</surname>
+                            <given-names>DJ</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Adaptive recognition by nucleic acid aptamers.</article-title>
+                    <source>Science</source>
+                    <year>2000</year>
+                    <volume>287</volume>
+                    <fpage>820</fpage>
+                    <lpage>825</lpage>
+                    <pub-id pub-id-type="pmid">10657289</pub-id>
+                    <pub-id pub-id-type="doi">10.1126/science.287.5454.820</pub-id>
+                </citation>
+            </ref>
+            <ref id="B4">
+                <citation citation-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Jiang</surname>
+                            <given-names>F</given-names>
+                        </name>
+                        <name>
+                            <surname>Gorin</surname>
+                            <given-names>A</given-names>
+                        </name>
+                        <name>
+                            <surname>Hu</surname>
+                            <given-names>W</given-names>
+                        </name>
+                        <name>
+                            <surname>Majumdar</surname>
+                            <given-names>A</given-names>
+                        </name>
+                        <name>
+                            <surname>Baskerville</surname>
+                            <given-names>S</given-names>
+                        </name>
+                        <name>
+                            <surname>Xu</surname>
+                            <given-names>W</given-names>
+                        </name>
+                        <name>
+                            <surname>Ellington</surname>
+                            <given-names>A</given-names>
+                        </name>
+                        <name>
+                            <surname>Patel</surname>
+                            <given-names>DJ</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Anchoring an extended HTLV-1 Rex peptide within an RNA major
+                        groove containing junctional base triples.</article-title>
+                    <source>Structure Fold Des</source>
+                    <year>1999</year>
+                    <volume>7</volume>
+                    <fpage>1461</fpage>
+                    <lpage>1472</lpage>
+                    <pub-id pub-id-type="pmid">10647177</pub-id>
+                    <pub-id pub-id-type="doi">10.1016/S0969-2126(00)88337-9</pub-id>
+                </citation>
+            </ref>
+            <ref id="B5">
+                <citation citation-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Patel</surname>
+                            <given-names>DJ</given-names>
+                        </name>
+                        <name>
+                            <surname>Suri</surname>
+                            <given-names>AK</given-names>
+                        </name>
+                        <name>
+                            <surname>Jiang</surname>
+                            <given-names>F</given-names>
+                        </name>
+                        <name>
+                            <surname>Jiang</surname>
+                            <given-names>L</given-names>
+                        </name>
+                        <name>
+                            <surname>Fan</surname>
+                            <given-names>P</given-names>
+                        </name>
+                        <name>
+                            <surname>Kumar</surname>
+                            <given-names>RA</given-names>
+                        </name>
+                        <name>
+                            <surname>Nonin</surname>
+                            <given-names>S</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Structure, recognition and adaptive binding in RNA aptamer
+                        complexes.</article-title>
+                    <source>J Mol Biol</source>
+                    <year>1997</year>
+                    <volume>272</volume>
+                    <fpage>645</fpage>
+                    <lpage>664</lpage>
+                    <pub-id pub-id-type="pmid">9368648</pub-id>
+                    <pub-id pub-id-type="doi">10.1006/jmbi.1997.1281</pub-id>
+                </citation>
+            </ref>
+            <ref id="B6">
+                <citation citation-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Patel</surname>
+                            <given-names>DJ</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Structural analysis of nucleic acid aptamers.</article-title>
+                    <source>Curr Opin Chem Biol</source>
+                    <year>1997</year>
+                    <volume>1</volume>
+                    <fpage>32</fpage>
+                    <lpage>46</lpage>
+                    <pub-id pub-id-type="pmid">9667843</pub-id>
+                    <pub-id pub-id-type="doi">10.1016/S1367-5931(97)80106-8</pub-id>
+                </citation>
+            </ref>
+            <ref id="B7">
+                <citation citation-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Soukup</surname>
+                            <given-names>GA</given-names>
+                        </name>
+                        <name>
+                            <surname>Breaker</surname>
+                            <given-names>RR</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Design of allosteric hammerhead ribozymes activated by
+                        ligand-induced structure stabilization.</article-title>
+                    <source>Structure Fold Des</source>
+                    <year>1999</year>
+                    <volume>7</volume>
+                    <fpage>783</fpage>
+                    <lpage>791</lpage>
+                    <pub-id pub-id-type="pmid">10425680</pub-id>
+                    <pub-id pub-id-type="doi">10.1016/S0969-2126(99)80102-6</pub-id>
+                </citation>
+            </ref>
+            <ref id="B8">
+                <citation citation-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Soukup</surname>
+                            <given-names>GA</given-names>
+                        </name>
+                        <name>
+                            <surname>Breaker</surname>
+                            <given-names>RR</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Nucleic acid molecular switches.</article-title>
+                    <source>Trends Biotechnol</source>
+                    <year>1999</year>
+                    <volume>17</volume>
+                    <fpage>469</fpage>
+                    <lpage>476</lpage>
+                    <pub-id pub-id-type="pmid">10557159</pub-id>
+                    <pub-id pub-id-type="doi">10.1016/S0167-7799(99)01383-9</pub-id>
+                </citation>
+            </ref>
+            <ref id="B9">
+                <citation citation-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Marshall</surname>
+                            <given-names>KA</given-names>
+                        </name>
+                        <name>
+                            <surname>Ellington</surname>
+                            <given-names>AD</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Training ribozymes to switch.</article-title>
+                    <source>Nat Struct Biol</source>
+                    <year>1999</year>
+                    <volume>6</volume>
+                    <fpage>992</fpage>
+                    <lpage>994</lpage>
+                    <pub-id pub-id-type="pmid">10542083</pub-id>
+                    <pub-id pub-id-type="doi">10.1038/14872</pub-id>
+                </citation>
+            </ref>
+            <ref id="B10">
+                <citation citation-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Jenison</surname>
+                            <given-names>RD</given-names>
+                        </name>
+                        <name>
+                            <surname>Gill</surname>
+                            <given-names>SC</given-names>
+                        </name>
+                        <name>
+                            <surname>Pardi</surname>
+                            <given-names>A</given-names>
+                        </name>
+                        <name>
+                            <surname>Polisky</surname>
+                            <given-names>B</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>High-resolution molecular discrimination by RNA.</article-title>
+                    <source>Science</source>
+                    <year>1994</year>
+                    <volume>263</volume>
+                    <fpage>1425</fpage>
+                    <lpage>1429</lpage>
+                    <pub-id pub-id-type="pmid">7510417</pub-id>
+                </citation>
+            </ref>
+            <ref id="B11">
+                <citation citation-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Zimmermann</surname>
+                            <given-names>GR</given-names>
+                        </name>
+                        <name>
+                            <surname>Shields</surname>
+                            <given-names>TP</given-names>
+                        </name>
+                        <name>
+                            <surname>Jenison</surname>
+                            <given-names>RD</given-names>
+                        </name>
+                        <name>
+                            <surname>Wick</surname>
+                            <given-names>CL</given-names>
+                        </name>
+                        <name>
+                            <surname>Pardi</surname>
+                            <given-names>A</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>A semiconserved residue inhibits complex formation by stabilizing
+                        interactions in the free state of a theophylline-binding RNA.</article-title>
+                    <source>Biochemistry</source>
+                    <year>1998</year>
+                    <volume>37</volume>
+                    <fpage>9186</fpage>
+                    <lpage>9192</lpage>
+                    <pub-id pub-id-type="pmid">9636066</pub-id>
+                    <pub-id pub-id-type="doi">10.1021/bi980082s</pub-id>
+                </citation>
+            </ref>
+            <ref id="B12">
+                <citation citation-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Zimmermann</surname>
+                            <given-names>GR</given-names>
+                        </name>
+                        <name>
+                            <surname>Jenison</surname>
+                            <given-names>RD</given-names>
+                        </name>
+                        <name>
+                            <surname>Wick</surname>
+                            <given-names>CL</given-names>
+                        </name>
+                        <name>
+                            <surname>Simorre</surname>
+                            <given-names>JP</given-names>
+                        </name>
+                        <name>
+                            <surname>Pardi</surname>
+                            <given-names>A</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Interlocking structural motifs mediate molecular discrimination
+                        by a theophylline-binding RNA [see comments].</article-title>
+                    <source>Nat Struct Biol</source>
+                    <year>1997</year>
+                    <volume>4</volume>
+                    <fpage>644</fpage>
+                    <lpage>649</lpage>
+                    <pub-id pub-id-type="pmid">9253414</pub-id>
+                    <pub-id pub-id-type="doi">10.1038/nsb0897-644</pub-id>
+                </citation>
+            </ref>
+            <ref id="B13">
+                <citation citation-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Soukup</surname>
+                            <given-names>GA</given-names>
+                        </name>
+                        <name>
+                            <surname>Breaker</surname>
+                            <given-names>RR</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Engineering precision RNA molecular switches.</article-title>
+                    <source>Proc Natl Acad Sci U S A</source>
+                    <year>1999</year>
+                    <volume>96</volume>
+                    <fpage>3584</fpage>
+                    <lpage>3589</lpage>
+                    <pub-id pub-id-type="pmid">10097080</pub-id>
+                    <pub-id pub-id-type="doi">10.1073/pnas.96.7.3584</pub-id>
+                </citation>
+            </ref>
+            <ref id="B14">
+                <citation citation-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Robertson</surname>
+                            <given-names>MP</given-names>
+                        </name>
+                        <name>
+                            <surname>Ellington</surname>
+                            <given-names>AD</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Design and optimization of effector-activated ribozyme ligases.</article-title>
+                    <source>Nucleic Acids Res</source>
+                    <year>2000</year>
+                    <volume>28</volume>
+                    <fpage>1751</fpage>
+                    <lpage>1759</lpage>
+                    <pub-id pub-id-type="pmid">10734194</pub-id>
+                    <pub-id pub-id-type="doi">10.1093/nar/28.8.1751</pub-id>
+                </citation>
+            </ref>
+            <ref id="B15">
+                <citation citation-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Galloway Salvo</surname>
+                            <given-names>JL</given-names>
+                        </name>
+                        <name>
+                            <surname>Coetzee</surname>
+                            <given-names>T</given-names>
+                        </name>
+                        <name>
+                            <surname>Belfort</surname>
+                            <given-names>M</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Deletion-tolerance and trans-splicing of the bacteriophage T4 td
+                        intron. Analysis of the P6-L6a region.</article-title>
+                    <source>J Mol Biol</source>
+                    <year>1990</year>
+                    <volume>211</volume>
+                    <fpage>537</fpage>
+                    <lpage>549</lpage>
+                    <pub-id pub-id-type="pmid">2308166</pub-id>
+                    <pub-id pub-id-type="doi">10.1016/0022-2836(90)90264-M</pub-id>
+                </citation>
+            </ref>
+            <ref id="B16">
+                <citation citation-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Mohr</surname>
+                            <given-names>G</given-names>
+                        </name>
+                        <name>
+                            <surname>Zhang</surname>
+                            <given-names>A</given-names>
+                        </name>
+                        <name>
+                            <surname>Gianelos</surname>
+                            <given-names>JA</given-names>
+                        </name>
+                        <name>
+                            <surname>Belfort</surname>
+                            <given-names>M</given-names>
+                        </name>
+                        <name>
+                            <surname>Lambowitz</surname>
+                            <given-names>AM</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>The neurospora CYT-18 protein suppresses defects in the phage T4
+                        td intron by stabilizing the catalytically active structure of the intron
+                        core.</article-title>
+                    <source>Cell</source>
+                    <year>1992</year>
+                    <volume>69</volume>
+                    <fpage>483</fpage>
+                    <lpage>494</lpage>
+                    <pub-id pub-id-type="pmid">1533818</pub-id>
+                    <pub-id pub-id-type="doi">10.1016/0092-8674(92)90449-M</pub-id>
+                </citation>
+            </ref>
+            <ref id="B17">
+                <citation citation-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Myers</surname>
+                            <given-names>CA</given-names>
+                        </name>
+                        <name>
+                            <surname>Wallweber</surname>
+                            <given-names>GJ</given-names>
+                        </name>
+                        <name>
+                            <surname>Rennard</surname>
+                            <given-names>R</given-names>
+                        </name>
+                        <name>
+                            <surname>Kemel</surname>
+                            <given-names>Y</given-names>
+                        </name>
+                        <name>
+                            <surname>Caprara</surname>
+                            <given-names>MG</given-names>
+                        </name>
+                        <name>
+                            <surname>Mohr</surname>
+                            <given-names>G</given-names>
+                        </name>
+                        <name>
+                            <surname>Lambowitz</surname>
+                            <given-names>AM</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>A tyrosyl-tRNA synthetase suppresses structural defects in the
+                        two major helical domains of the group I intron catalytic core.</article-title>
+                    <source>J Mol Biol</source>
+                    <year>1996</year>
+                    <volume>262</volume>
+                    <fpage>87</fpage>
+                    <lpage>104</lpage>
+                    <pub-id pub-id-type="pmid">8831782</pub-id>
+                    <pub-id pub-id-type="doi">10.1006/jmbi.1996.0501</pub-id>
+                </citation>
+            </ref>
+            <ref id="B18">
+                <citation citation-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Joyce</surname>
+                            <given-names>GF</given-names>
+                        </name>
+                        <name>
+                            <surname>van der Horst</surname>
+                            <given-names>G</given-names>
+                        </name>
+                        <name>
+                            <surname>Inoue</surname>
+                            <given-names>T</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Catalytic activity is retained in the Tetrahymena group I intron
+                        despite removal of the large extension of element P5.</article-title>
+                    <source>Nucleic Acids Res</source>
+                    <year>1989</year>
+                    <volume>17</volume>
+                    <fpage>7879</fpage>
+                    <lpage>7889</lpage>
+                    <pub-id pub-id-type="pmid">2477801</pub-id>
+                </citation>
+            </ref>
+            <ref id="B19">
+                <citation citation-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Mohr</surname>
+                            <given-names>G</given-names>
+                        </name>
+                        <name>
+                            <surname>Caprara</surname>
+                            <given-names>MG</given-names>
+                        </name>
+                        <name>
+                            <surname>Guo</surname>
+                            <given-names>Q</given-names>
+                        </name>
+                        <name>
+                            <surname>Lambowitz</surname>
+                            <given-names>AM</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>A tyrosyl-tRNA synthetase can function similarly to an RNA
+                        structure in the Tetrahymena ribozyme [see comments].</article-title>
+                    <source>Nature</source>
+                    <year>1994</year>
+                    <volume>370</volume>
+                    <fpage>147</fpage>
+                    <lpage>150</lpage>
+                    <pub-id pub-id-type="pmid">8022484</pub-id>
+                    <pub-id pub-id-type="doi">10.1038/370147a0</pub-id>
+                </citation>
+            </ref>
+            <ref id="B20">
+                <citation citation-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Soukup</surname>
+                            <given-names>GA</given-names>
+                        </name>
+                        <name>
+                            <surname>Breaker</surname>
+                            <given-names>RR</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Allosteric nucleic acid catalysts.</article-title>
+                    <source>Curr Opin Struct Biol</source>
+                    <year>2000</year>
+                    <volume>10</volume>
+                    <fpage>318</fpage>
+                    <lpage>25</lpage>
+                    <pub-id pub-id-type="pmid">10851196</pub-id>
+                    <pub-id pub-id-type="doi">10.1016/S0959-440X(00)00090-7</pub-id>
+                </citation>
+            </ref>
+            <ref id="B21">
+                <citation citation-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Tang</surname>
+                            <given-names>J</given-names>
+                        </name>
+                        <name>
+                            <surname>Breaker</surname>
+                            <given-names>RR</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Rational design of allosteric ribozymes.</article-title>
+                    <source>Chem Biol</source>
+                    <year>1997</year>
+                    <volume>4</volume>
+                    <fpage>453</fpage>
+                    <lpage>459</lpage>
+                    <pub-id pub-id-type="pmid">9224568</pub-id>
+                    <pub-id pub-id-type="doi">10.1016/S1074-5521(97)90197-6</pub-id>
+                </citation>
+            </ref>
+            <ref id="B22">
+                <citation citation-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Treiber</surname>
+                            <given-names>DK</given-names>
+                        </name>
+                        <name>
+                            <surname>Williamson</surname>
+                            <given-names>JR</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Exposing the kinetic traps in RNA folding.</article-title>
+                    <source>Curr Opin Struct Biol</source>
+                    <year>1999</year>
+                    <volume>9</volume>
+                    <fpage>339</fpage>
+                    <lpage>345</lpage>
+                    <pub-id pub-id-type="pmid">10361090</pub-id>
+                    <pub-id pub-id-type="doi">10.1016/S0959-440X(99)80045-1</pub-id>
+                </citation>
+            </ref>
+            <ref id="B23">
+                <citation citation-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Treiber</surname>
+                            <given-names>DK</given-names>
+                        </name>
+                        <name>
+                            <surname>Rook</surname>
+                            <given-names>MS</given-names>
+                        </name>
+                        <name>
+                            <surname>Zarrinkar</surname>
+                            <given-names>PP</given-names>
+                        </name>
+                        <name>
+                            <surname>Williamson</surname>
+                            <given-names>JR</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Kinetic intermediates trapped by native interactions in RNA
+                        folding.</article-title>
+                    <source>Science</source>
+                    <year>1998</year>
+                    <volume>279</volume>
+                    <fpage>1943</fpage>
+                    <lpage>1946</lpage>
+                    <pub-id pub-id-type="pmid">9506945</pub-id>
+                    <pub-id pub-id-type="doi">10.1126/science.279.5358.1943</pub-id>
+                </citation>
+            </ref>
+            <ref id="B24">
+                <citation citation-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Russell</surname>
+                            <given-names>R</given-names>
+                        </name>
+                        <name>
+                            <surname>Herschlag</surname>
+                            <given-names>D</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>New pathways in folding of the Tetrahymena group I RNA enzyme.</article-title>
+                    <source>J Mol Biol</source>
+                    <year>1999</year>
+                    <volume>291</volume>
+                    <fpage>1155</fpage>
+                    <lpage>1167</lpage>
+                    <pub-id pub-id-type="pmid">10518951</pub-id>
+                    <pub-id pub-id-type="doi">10.1006/jmbi.1999.3026</pub-id>
+                </citation>
+            </ref>
+            <ref id="B25">
+                <citation citation-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Wu</surname>
+                            <given-names>M</given-names>
+                        </name>
+                        <name>
+                            <surname>Tinoco</surname>
+                            <given-names>I</given-names>
+                            <suffix>Jr</suffix>
+                        </name>
+                    </person-group>
+                    <article-title>RNA folding causes secondary structure rearrangement.</article-title>
+                    <source>Proc Natl Acad Sci U S A</source>
+                    <year>1998</year>
+                    <volume>95</volume>
+                    <fpage>11555</fpage>
+                    <lpage>11560</lpage>
+                    <pub-id pub-id-type="pmid">9751704</pub-id>
+                    <pub-id pub-id-type="doi">10.1073/pnas.95.20.11555</pub-id>
+                </citation>
+            </ref>
+            <ref id="B26">
+                <citation citation-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Doherty</surname>
+                            <given-names>EA</given-names>
+                        </name>
+                        <name>
+                            <surname>Doudna</surname>
+                            <given-names>JA</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>The P4-P6 domain directs higher order folding of the Tetrahymena
+                        ribozyme core.</article-title>
+                    <source>Biochemistry</source>
+                    <year>1997</year>
+                    <volume>36</volume>
+                    <fpage>3159</fpage>
+                    <lpage>3169</lpage>
+                    <pub-id pub-id-type="pmid">9115992</pub-id>
+                    <pub-id pub-id-type="doi">10.1021/bi962428+</pub-id>
+                </citation>
+            </ref>
+            <ref id="B27">
+                <citation citation-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Emerick</surname>
+                            <given-names>VL</given-names>
+                        </name>
+                        <name>
+                            <surname>Woodson</surname>
+                            <given-names>SA</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Fingerprinting the folding of a group I precursor RNA.</article-title>
+                    <source>Proc Natl Acad Sci U S A</source>
+                    <year>1994</year>
+                    <volume>91</volume>
+                    <fpage>9675</fpage>
+                    <lpage>9679</lpage>
+                    <pub-id pub-id-type="pmid">7937871</pub-id>
+                </citation>
+            </ref>
+            <ref id="B28">
+                <citation citation-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Bevilacqua</surname>
+                            <given-names>PC</given-names>
+                        </name>
+                        <name>
+                            <surname>Johnson</surname>
+                            <given-names>KA</given-names>
+                        </name>
+                        <name>
+                            <surname>Turner</surname>
+                            <given-names>DH</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Cooperative and anticooperative binding to a ribozyme.</article-title>
+                    <source>Proc Natl Acad Sci U S A</source>
+                    <year>1993</year>
+                    <volume>90</volume>
+                    <fpage>8357</fpage>
+                    <lpage>8361</lpage>
+                    <pub-id pub-id-type="pmid">8397404</pub-id>
+                </citation>
+            </ref>
+            <ref id="B29">
+                <citation citation-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Bevilacqua</surname>
+                            <given-names>PC</given-names>
+                        </name>
+                        <name>
+                            <surname>Li</surname>
+                            <given-names>Y</given-names>
+                        </name>
+                        <name>
+                            <surname>Turner</surname>
+                            <given-names>DH</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Fluorescence-detected stopped flow with a pyrene labeled
+                        substrate reveals that guanosine facilitates docking of the 5' cleavage site
+                        into a high free energy binding mode in the Tetrahymena ribozyme.</article-title>
+                    <source>Biochemistry</source>
+                    <year>1994</year>
+                    <volume>33</volume>
+                    <fpage>11340</fpage>
+                    <lpage>11348</lpage>
+                    <pub-id pub-id-type="pmid">7727385</pub-id>
+                    <pub-id pub-id-type="doi">10.1021/bi00203a032</pub-id>
+                </citation>
+            </ref>
+            <ref id="B30">
+                <citation citation-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>McConnell</surname>
+                            <given-names>TS</given-names>
+                        </name>
+                        <name>
+                            <surname>Cech</surname>
+                            <given-names>TR</given-names>
+                        </name>
+                        <name>
+                            <surname>Herschlag</surname>
+                            <given-names>D</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Guanosine binding to the Tetrahymena ribozyme: thermodynamic
+                        coupling with oligonucleotide binding.</article-title>
+                    <source>Proc Natl Acad Sci U S A</source>
+                    <year>1993</year>
+                    <volume>90</volume>
+                    <fpage>8362</fpage>
+                    <lpage>8366</lpage>
+                    <pub-id pub-id-type="pmid">8378306</pub-id>
+                </citation>
+            </ref>
+            <ref id="B31">
+                <citation citation-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Kato</surname>
+                            <given-names>Y</given-names>
+                        </name>
+                        <name>
+                            <surname>Kuwabara</surname>
+                            <given-names>T</given-names>
+                        </name>
+                        <name>
+                            <surname>Warashina</surname>
+                            <given-names>M</given-names>
+                        </name>
+                        <name>
+                            <surname>Toda</surname>
+                            <given-names>H</given-names>
+                        </name>
+                        <name>
+                            <surname>Taira</surname>
+                            <given-names>K</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Relationships between the activities in vitro and in vivo of
+                        various kinds of ribozyme and their intracellular localization in mammalian
+                        cells.</article-title>
+                    <source>J Biol Chem</source>
+                    <year>2001</year>
+                    <volume>276</volume>
+                    <fpage>15378</fpage>
+                    <lpage>15385</lpage>
+                    <pub-id pub-id-type="pmid">11278700</pub-id>
+                    <pub-id pub-id-type="doi">10.1074/jbc.M010570200</pub-id>
+                </citation>
+            </ref>
+            <ref id="B32">
+                <citation citation-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Crecy-Lagard</surname>
+                            <given-names>de</given-names>
+                        </name>
+                        <name>
+                            <surname>Bellalou VA</surname>
+                            <given-names>J</given-names>
+                        </name>
+                        <name>
+                            <surname>Mutzel</surname>
+                            <given-names>R</given-names>
+                        </name>
+                        <name>
+                            <surname>Marliere</surname>
+                            <given-names>P</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Long term adaptation of a microbial population to a permanent
+                        metabolic constraint: overcoming thymineless death by experimental evolution
+                        of Escherichia coli.</article-title>
+                    <source>BMC Biotechnol</source>
+                    <year>2001</year>
+                    <volume>1</volume>
+                    <fpage>10</fpage>
+                    <pub-id pub-id-type="pmid">11737878</pub-id>
+                    <pub-id pub-id-type="doi">10.1186/1472-6750-1-10</pub-id>
+                </citation>
+            </ref>
+            <ref id="B33">
+                <citation citation-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Ahmad</surname>
+                            <given-names>SI</given-names>
+                        </name>
+                        <name>
+                            <surname>Kirk</surname>
+                            <given-names>SH</given-names>
+                        </name>
+                        <name>
+                            <surname>Eisenstark</surname>
+                            <given-names>A</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Thymine metabolism and thymineless death in prokaryotes and
+                        eukaryotes.</article-title>
+                    <source>Annu Rev Microbiol</source>
+                    <year>1998</year>
+                    <volume>52</volume>
+                    <fpage>591</fpage>
+                    <lpage>625</lpage>
+                    <pub-id pub-id-type="pmid">9891809</pub-id>
+                    <pub-id pub-id-type="doi">10.1146/annurev.micro.52.1.591</pub-id>
+                </citation>
+            </ref>
+            <ref id="B34">
+                <citation citation-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Soukup</surname>
+                            <given-names>GA</given-names>
+                        </name>
+                        <name>
+                            <surname>Emilsson</surname>
+                            <given-names>GA</given-names>
+                        </name>
+                        <name>
+                            <surname>Breaker</surname>
+                            <given-names>RR</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Altering molecular recognition of RNA aptamers by allosteric
+                        selection.</article-title>
+                    <source>J Mol Biol</source>
+                    <year>2000</year>
+                    <volume>298</volume>
+                    <fpage>623</fpage>
+                    <lpage>632</lpage>
+                    <pub-id pub-id-type="pmid">10788325</pub-id>
+                    <pub-id pub-id-type="doi">10.1006/jmbi.2000.3704</pub-id>
+                </citation>
+            </ref>
+            <ref id="B35">
+                <citation citation-type="book">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Lambowitz</surname>
+                            <given-names>AM</given-names>
+                        </name>
+                        <name>
+                            <surname>Caprara</surname>
+                            <given-names>MG</given-names>
+                        </name>
+                        <name>
+                            <surname>Zimmerly</surname>
+                            <given-names>S</given-names>
+                        </name>
+                        <name>
+                            <surname>Perlman</surname>
+                            <given-names>PS</given-names>
+                        </name>
+                    </person-group>
+                    <person-group person-group-type="editor">
+                        <name>
+                            <surname>Gesteland RF, Atkins JF</surname>
+                        </name>
+                    </person-group>
+                    <article-title>Group I and group II ribozymes as RNPs: clues to the past and
+                        guides to the future.</article-title>
+                    <source>in The RNA World, CTR</source>
+                    <year>1999</year>
+                    <publisher-name>Cold Spring Harbor Laboratory Press: Cold Spring Harbor, NY</publisher-name>
+                    <fpage>451</fpage>
+                    <lpage>485</lpage>
+                </citation>
+            </ref>
+            <ref id="B36">
+                <citation citation-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Atsumi</surname>
+                            <given-names>S</given-names>
+                        </name>
+                        <name>
+                            <surname>Ikawa</surname>
+                            <given-names>Y</given-names>
+                        </name>
+                        <name>
+                            <surname>Shiraishi</surname>
+                            <given-names>H</given-names>
+                        </name>
+                        <name>
+                            <surname>Inoue</surname>
+                            <given-names>T</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Design and development of a catalytic ribonucleoprotein.</article-title>
+                    <source>Embo J</source>
+                    <year>2001</year>
+                    <volume>20</volume>
+                    <fpage>5453</fpage>
+                    <lpage>5460</lpage>
+                    <pub-id pub-id-type="pmid">11574477</pub-id>
+                    <pub-id pub-id-type="doi">10.1093/emboj/20.19.5453</pub-id>
+                </citation>
+            </ref>
+            <ref id="B37">
+                <citation citation-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Watanabe</surname>
+                            <given-names>T</given-names>
+                        </name>
+                        <name>
+                            <surname>Sullenger</surname>
+                            <given-names>BA</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>RNA repair: a novel approach to gene therapy.</article-title>
+                    <source>Adv Drug Deliv Rev</source>
+                    <year>2000</year>
+                    <volume>44</volume>
+                    <fpage>2</fpage>
+                    <lpage>3</lpage>
+                    <pub-id pub-id-type="doi">10.1016/S0169-409X(00)00089-2</pub-id>
+                </citation>
+            </ref>
+            <ref id="B38">
+                <citation citation-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Watanabe</surname>
+                            <given-names>T</given-names>
+                        </name>
+                        <name>
+                            <surname>Sullenger</surname>
+                            <given-names>BA</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Induction of wild-type p53 activity in human cancer cells by
+                        ribozymes that repair mutant p53 transcripts.</article-title>
+                    <source>Proc Natl Acad Sci U S A</source>
+                    <year>2000</year>
+                    <volume>97</volume>
+                    <fpage>8490</fpage>
+                    <lpage>8494</lpage>
+                    <pub-id pub-id-type="pmid">10890910</pub-id>
+                    <pub-id pub-id-type="doi">10.1073/pnas.150104097</pub-id>
+                </citation>
+            </ref>
+            <ref id="B39">
+                <citation citation-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Sullenger</surname>
+                            <given-names>BA</given-names>
+                        </name>
+                        <name>
+                            <surname>Cech</surname>
+                            <given-names>TR</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Ribozyme-mediated repair of defective mRNA by targeted,
+                        trans-splicing.</article-title>
+                    <source>Nature</source>
+                    <year>1994</year>
+                    <volume>371</volume>
+                    <fpage>619</fpage>
+                    <lpage>622</lpage>
+                    <pub-id pub-id-type="pmid">7935797</pub-id>
+                    <pub-id pub-id-type="doi">10.1038/371619a0</pub-id>
+                </citation>
+            </ref>
+            <ref id="B40">
+                <citation citation-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Esteban</surname>
+                            <given-names>JA</given-names>
+                        </name>
+                        <name>
+                            <surname>Walter</surname>
+                            <given-names>NG</given-names>
+                        </name>
+                        <name>
+                            <surname>Kotzorek</surname>
+                            <given-names>G</given-names>
+                        </name>
+                        <name>
+                            <surname>Heckman</surname>
+                            <given-names>JE</given-names>
+                        </name>
+                        <name>
+                            <surname>Burke</surname>
+                            <given-names>JM</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Structural basis for heterogeneous kinetics: reengineering the
+                        hairpin ribozyme.</article-title>
+                    <source>Proc Natl Acad Sci U S A</source>
+                    <year>1998</year>
+                    <volume>95</volume>
+                    <fpage>6091</fpage>
+                    <lpage>6096</lpage>
+                    <pub-id pub-id-type="pmid">9600922</pub-id>
+                    <pub-id pub-id-type="doi">10.1073/pnas.95.11.6091</pub-id>
+                </citation>
+            </ref>
+            <ref id="B41">
+                <citation citation-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Damberger</surname>
+                            <given-names>SH</given-names>
+                        </name>
+                        <name>
+                            <surname>Gutell</surname>
+                            <given-names>RR</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>A Comparative Database of Group I Intron Structures.</article-title>
+                    <source>Nucleic Acids Res</source>
+                    <year>1994</year>
+                    <volume>22</volume>
+                    <fpage>3508</fpage>
+                    <lpage>3510</lpage>
+                    <pub-id pub-id-type="pmid">7937050</pub-id>
+                </citation>
+            </ref>
+            <ref id="B42">
+                <citation citation-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Cech</surname>
+                            <given-names>TR</given-names>
+                        </name>
+                        <name>
+                            <surname>Damberger</surname>
+                            <given-names>SH</given-names>
+                        </name>
+                        <name>
+                            <surname>Gutell</surname>
+                            <given-names>RR</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Representation of the secondary and tertiary structure of group I
+                        introns.</article-title>
+                    <source>Nat Struct Biol</source>
+                    <year>1994</year>
+                    <volume>1</volume>
+                    <fpage>273</fpage>
+                    <lpage>280</lpage>
+                    <pub-id pub-id-type="pmid">7545072</pub-id>
+                    <pub-id pub-id-type="doi">10.1038/nsb0594-273</pub-id>
+                </citation>
+            </ref>
+            <ref id="B43">
+                <citation citation-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Zimmermann</surname>
+                            <given-names>GR</given-names>
+                        </name>
+                        <name>
+                            <surname>Wick</surname>
+                            <given-names>CL</given-names>
+                        </name>
+                        <name>
+                            <surname>Shields</surname>
+                            <given-names>TP</given-names>
+                        </name>
+                        <name>
+                            <surname>Jenison</surname>
+                            <given-names>RD</given-names>
+                        </name>
+                        <name>
+                            <surname>Pardi</surname>
+                            <given-names>A</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Molecular interactions and metal binding in the
+                        theophylline-binding core of an RNA aptamer.</article-title>
+                    <source>Rna</source>
+                    <year>2000</year>
+                    <volume>6</volume>
+                    <fpage>659</fpage>
+                    <lpage>667</lpage>
+                    <pub-id pub-id-type="pmid">10836787</pub-id>
+                    <pub-id pub-id-type="doi">10.1017/S1355838200000169</pub-id>
+                </citation>
+            </ref>
+        </ref-list>
+    </back>
+</article>

@@ -1,0 +1,1143 @@
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML"
+    article-type="research-article">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="nlm-ta">Cancer Imaging</journal-id>
+            <journal-id journal-id-type="publisher-id">CI</journal-id>
+            <journal-title-group>
+                <journal-title>Cancer Imaging</journal-title>
+            </journal-title-group>
+            <issn pub-type="ppub">1740-5025</issn>
+            <issn pub-type="epub">1470-7330</issn>
+            <publisher>
+                <publisher-name>e-MED</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="pmid">18211854</article-id>
+            <article-id pub-id-type="pmc">PMC1434521</article-id>
+            <article-id pub-id-type="other">CI30026</article-id>
+            <article-id pub-id-type="doi">10.1102/1470-7330.2003.0026</article-id>
+            <article-id pub-id-type="other">jCI.v4.i1.pg10</article-id>
+            <article-id pub-id-type="other">ci030026</article-id>
+            <article-categories>
+                <subj-group subj-group-type="heading">
+                    <subject>Article</subject>
+                </subj-group>
+            </article-categories>
+            <title-group>
+                <article-title>Role of CT in the detection and staging of pancreatic adenocarcinoma</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Francis</surname>
+                        <given-names>Isaac R</given-names>
+                    </name>
+                </contrib>
+            </contrib-group>
+            <aff>Department of Radiology, University of Michigan, Ann Arbor, MI, USA</aff>
+            <author-notes>
+                <corresp id="c1">Corresponding address: Isaac R Francis, Department of Radiology,
+                    University of Michigan, Ann Arbor, MI, USA. Email: <email>ifrancis@umich.edu</email></corresp>
+            </author-notes>
+            <pub-date pub-type="collection">
+                <year>2004</year>
+            </pub-date>
+            <pub-date pub-type="epub">
+                <day>1</day>
+                <month>10</month>
+                <year>2003</year>
+            </pub-date>
+            <volume>4</volume>
+            <issue>1</issue>
+            <fpage>10</fpage>
+            <lpage>14</lpage>
+            <history>
+                <date date-type="accepted">
+                    <day>22</day>
+                    <month>9</month>
+                    <year>2003</year>
+                </date>
+            </history>
+            <permissions>
+                <copyright-statement>Copyright &#x000a9; 2003 International Cancer Imaging Society</copyright-statement>
+            </permissions>
+            <abstract>
+                <p>In this review article, the roles of imaging with CT and MRI in the detection and
+                    staging of pancreatic carcinoma will be discussed. The frequently employed
+                    techniques using these modalities, the common imaging appearances of this tumor,
+                    and the limitations of imaging will be addressed. </p>
+            </abstract>
+            <kwd-group kwd-group-type="author">
+                <kwd>Computed tomography</kwd>
+                <kwd>magnetic resonance imaging</kwd>
+                <kwd>pancreas neoplasms</kwd>
+                <kwd>pancreas CT</kwd>
+                <kwd>pancreas MRI</kwd>
+            </kwd-group>
+        </article-meta>
+    </front>
+    <body>
+        <sec sec-type="">
+            <title>Introduction</title>
+            <p>Pancreatic adenocarcinoma is the most common non-endocrine malignancy of the pancreas
+                and is the 4th leading cause of death is the United States. Most tumors arise in the
+                head of the pancreas, and account for between 60 and 70&#x00025; of cases [<xref
+                    ref-type="bibr" rid="b1">1</xref>&#x02013;<xref ref-type="bibr" rid="b4">4</xref>].
+                Despite the recent advances in imaging and treatment, pancreatic adenocarcinoma
+                continues to be a lethal disease. While newer diagnostic techniques have improved
+                the accuracy for detecting these tumors, no significant inroads have been made in
+                finding &#x02018;early&#x02019; cancers. Most tumors are diagnosed late and
+                approximately 85&#x00025; of tumors are unresectable at the time of diagnosis. There
+                are many reasons for this fact, but pancreatic carcinoma is unique in several
+                respects: <list list-type="simple">
+                    <list-item>
+                        <p> (1) Symptoms manifest late </p>
+                    </list-item>
+                    <list-item>
+                        <p> (2) Early extrapancreatic spread of tumor </p>
+                    </list-item>
+                    <list-item>
+                        <p> (3) Rapid downhill course from diagnosis to death.</p>
+                    </list-item>
+                </list>
+            </p>
+        </sec>
+        <sec sec-type="">
+            <title>Role of imaging</title>
+            <p>The role of imaging in patients with suspected pancreatic carcinoma is: <list
+                    list-type="simple">
+                    <list-item>
+                        <p>(1) Confirm and stage tumor <list list-type="simple">
+                                <list-item>
+                                    <p>(a) Determine if tumor is resectable or not </p>
+                                </list-item>
+                                <list-item>
+                                    <p>(b) Exclude pancreatic carcinoma in patients with symptoms
+                suggestive of disease.</p>
+                                </list-item>
+                            </list>
+                        </p>
+                    </list-item>
+                </list>
+            </p>
+        </sec>
+        <sec sec-type="">
+            <title>TNM staging</title>
+            <table-wrap id="T1" position="anchor">
+                <table frame="hsides" rules="groups">
+                    <tr>
+                        <td colspan="1" rowspan="1" align="left">T0</td>
+                        <td colspan="1" rowspan="1" align="left">No tumor</td>
+                    </tr>
+                    <tr>
+                        <td colspan="1" rowspan="1" align="left">T1</td>
+                        <td colspan="1" rowspan="1" align="left">Tumor confined to pancreas</td>
+                    </tr>
+                    <tr>
+                        <td colspan="1" rowspan="1" align="left">T1a</td>
+                        <td colspan="1" rowspan="1" align="left">Tumor &#x0003c;2 cm</td>
+                    </tr>
+                    <tr>
+                        <td colspan="1" rowspan="1" align="left">T1b</td>
+                        <td colspan="1" rowspan="1" align="left">Tumor &#x0003e;2 cm</td>
+                    </tr>
+                    <tr>
+                        <td colspan="1" rowspan="1" align="left">T2</td>
+                        <td colspan="1" rowspan="1" align="left">Tumor extension into duodenum, bile
+                            duct</td>
+                    </tr>
+                    <tr>
+                        <td colspan="1" rowspan="1" align="left" />
+                        <td colspan="1" rowspan="1" align="left">or peripancreatic tissues</td>
+                    </tr>
+                    <tr>
+                        <td colspan="1" rowspan="1" align="left">T3</td>
+                        <td colspan="1" rowspan="1" align="left">Tumor extension into stomach,
+                            colon, or</td>
+                    </tr>
+                    <tr>
+                        <td colspan="1" rowspan="1" align="left" />
+                        <td colspan="1" rowspan="1" align="left">adjacent great vessels</td>
+                    </tr>
+                    <tr>
+                        <td colspan="1" rowspan="1" align="left">N0</td>
+                        <td colspan="1" rowspan="1" align="left">No regional nodal metastases</td>
+                    </tr>
+                    <tr>
+                        <td colspan="1" rowspan="1" align="left">N1</td>
+                        <td colspan="1" rowspan="1" align="left">Regional nodal metastases</td>
+                    </tr>
+                    <tr>
+                        <td colspan="1" rowspan="1" align="left">M0</td>
+                        <td colspan="1" rowspan="1" align="left">No distant metastases</td>
+                    </tr>
+                    <tr>
+                        <td colspan="1" rowspan="1" align="left">M1</td>
+                        <td colspan="1" rowspan="1" align="left">Distal metastases.</td>
+                    </tr>
+                </table>
+            </table-wrap>
+            <p>While the criteria for unresectability vary from center to center, the presence of
+                distant disease (metastases), local tumor extension, documented regional or distant
+                lymph node metastases, and arterial invasion or encasement of major mesenteric
+                arteries (celiac, hepatic, superior mesenteric artery) are generally accepted as
+                criteria of unresectability. Venous involvement of the major mesenteric veins
+                (superior mesenteric vein and portal vein) is not universally accepted as a
+                criterion of unresectability as surgeons are performing en-block venous resection
+                and venous reconstructions. </p>
+        </sec>
+        <sec sec-type="">
+            <title>Computed tomography (CT) techniques</title>
+            <p>CT techniques in assessment of patients with suspected pancreatic carcinoma usually
+                involve the use of thin section dynamic contrast-enhanced helical CT obtained during
+                the rapid bolus injection of large amounts of iodinated urographic contrast.</p>
+            <p>The introduction of multidetector-row scanners has facilitated the acquisition of
+                images during multiple phases of intravenous contrast administration. Utilization of
+                a pancreatic parenchymal phase, using a scan delay of 40 s has resulted in superior
+                pancreatic parenchymal enhancement. In some studies, this has led to superior
+                tumor-to-parenchymal contrast differences, facilitating superior tumor detection,
+                when compared to portal venous or delayed phases of imaging [<xref ref-type="bibr"
+                    rid="b5">5</xref>&#x02013;<xref ref-type="bibr" rid="b9">9</xref>]. The
+                information obtained from these multiphase exams was used to generate 3D images of
+                the arterial, venous and pancreatico-biliary anatomy [<xref ref-type="bibr"
+                    rid="b10">10</xref>&#x02013;<xref ref-type="bibr" rid="b14">14</xref>]. These in
+                select cases are useful for surgical planning (<xref ref-type="fig" rid="F1">Fig. 1</xref>
+                ). <fig id="F1" position="float">
+                    <label>Figure 1</label>
+                    <caption>
+                        <p>Coronal multiplanar reformatted CT image shows pancreatic adenocarcinoma
+                (M) with superior mesenteric vein encasement (arrow). </p>
+                    </caption>
+                    <graphic xlink:href="03001001" />
+                </fig>
+            </p>
+        </sec>
+        <sec sec-type="">
+            <title>CT appearances</title>
+            <p>Most pancreatic adenocarcinomas are of lower attenuation than the normally enhancing
+                pancreatic parenchyma in all phases of contrast enhancement (<xref ref-type="fig"
+                    rid="F2">Fig. 2</xref>). About 10&#x00025; of pancreatic adenocarcinomas can be
+                isoattenuating on CT. Pancreatic and bile duct dilatation are also common findings,
+                as is atrophy proximal to the tumor. Perivascular tumor extension which leads to
+                vascular involvement and arterial or venous encasement are also hallmarks of this
+                tumor. In pancreatitis (either acute or chronic), they are usually streaky
+                ill-defined areas of perivascular infiltration, whereas with pancreatic carcinoma it
+                is usually seen as a &#x02018;cuff&#x02019; of soft tissue encasing the
+                peripancreatic vessels. <fig id="F2" position="float">
+                    <label>Figure 2</label>
+                    <caption>
+                        <p>Pancreatic carcinoma (M) is low density in nature, as compared to
+                enhancing normal pancreas (arrowhead). </p>
+                    </caption>
+                    <graphic xlink:href="03001002" />
+                </fig>
+            </p>
+        </sec>
+        <sec sec-type="">
+            <title>CT: tumor detection and staging</title>
+            <p>While CT is excellent in detecting unresectable tumors (&#x0003e;90&#x00025;
+                accuracy), it frequently understages true tumor extent and even with early helical
+                CT, the accuracy for assessing resectability was only around 70&#x00025; [<xref
+                    ref-type="bibr" rid="b4">4</xref>]. With the use of newer multislice helical CT
+                scanners, tumor detection rates have improved to around 90&#x02013;95&#x00025;.
+                However only small improvements have been seen for determining resectability status.
+                The most recent studies using multislice scanners have shown that positive
+                predictive values for resectability are slightly above 80&#x00025; [<xref
+                    ref-type="bibr" rid="b5">5</xref>, <xref ref-type="bibr" rid="b7">7</xref>, <xref
+                    ref-type="bibr" rid="b8">8</xref>]. Reasons for this include the continued poor
+                sensitivity for the detection of small peritoneal and liver metastases, metastases
+                in normal sized lymph nodes and subtle peripancreatic tumor extension. </p>
+        </sec>
+        <sec sec-type="">
+            <title>Magnetic resonance imaging (MRI) techniques</title>
+            <p>Current MR techniques using phased-array torso coils, thin slices, and dynamic
+                gadolinium-enhanced breath-hold gradient-echo (GRE) sequences are optimal for
+                imaging pancreatic carcinoma, and in some studies have outperformed CT especially in
+                the detection of smaller tumors. The sequences that are most helpful for the
+                detection of pancreatic carcinoma are the T1-weighted fat-suppressed and
+                gadolinium-enhanced GRE sequences. On the T1-weighted fat-suppressed images, the
+                pancreas usually due to its proteinaceous content is of high signal intensity, while
+                the tumor is of low signal intensity. On the gadolinium-enhanced GRE images,
+                pancreatic carcinomas enhance less than the surrounding parenchyma (<xref
+                    ref-type="fig" rid="F3">Fig. 3</xref>) [<xref ref-type="bibr" rid="b15">15</xref>
+                &#x02013;<xref ref-type="bibr" rid="b19">19</xref>]. Mangafodipir trisodium-enhanced
+                MRI has also demonstrated that when compared to contrast-enhanced CT, it was as
+                accurate for the detection and staging of pancreatic adenocarcinoma, and slightly
+                superior to it for the detection of small tumors and metastases [<xref
+                    ref-type="bibr" rid="b20">20</xref>, <xref ref-type="bibr" rid="b21">21</xref>]. <fig
+                    id="F3" position="float">
+                    <label>Figure 3</label>
+                    <caption>
+                        <p>On gadolinium-enhanced breath-held 3D spoiled GRE MR image, pancreatic
+                carcinoma (M) in tail of pancreas does not show any significant enhancement as
+                compared to adjacent normal pancreatic parenchyma (arrow). Note multiple hepatic
+                metastases (arrowheads). </p>
+                    </caption>
+                    <graphic xlink:href="03001003" />
+                </fig></p>
+            <p>The added ability to perform magnetic resonance cholangiopancreatography (<xref
+                    ref-type="fig" rid="F4">Fig. 4</xref>), as well as the ability to assess
+                vascular involvement with use of magnetic resonance angiography, makes MRI an
+                invaluable tool in providing a comprehensive evaluation of patients with pancreatic
+                carcinoma, assessing local tumor extent, peripancreatic vessel involvement,
+                pancreatico-biliary duct anatomy, as well as for distant metastases [<xref
+                    ref-type="bibr" rid="b22">22</xref>, <xref ref-type="bibr" rid="b23">23</xref>]. <fig
+                    id="F4" position="float">
+                    <label>Figure 4</label>
+                    <caption>
+                        <p>Single-shot fast spin-echo coronal MR image demonstrates dilated
+                pancreatic duct (arrowhead) and dilated intrahepatic bile ducts (arrow) due to
+                obstructing pancreatic carcinoma. </p>
+                    </caption>
+                    <graphic xlink:href="03001004" />
+                </fig>
+            </p>
+        </sec>
+        <sec sec-type="">
+            <title>Vascular invasion</title>
+            <sec>
+                <title>Arterial involvement</title>
+                <p>The most common vessels involved are the celiac axis, splenic artery, and
+                    superior mesenteric artery. Major arterial encasement is seen as soft tissue
+                    infiltration along the vessels resulting in a soft tissue &#x02018;cuff&#x02019;
+                    or the appearance of a thickened vessel (<xref ref-type="fig" rid="F5">Fig. 5</xref>).
+                    This finding is not specific for tumor invasion as rarely, pancreatitis may
+                    present with a similar appearance. This vascular encasement and retropancreatic
+                    invasion into the celiac plexus results in the back pain that these patients
+                    often present with. <fig id="F5" position="float">
+                        <label>Figure 5</label>
+                        <caption>
+                            <p>Contrast-enhanced CT shows arterial encasement due to pancreatic
+                    carcinoma seen as soft tissue infiltration around superior mesenteric artery
+                    (arrow). </p>
+                        </caption>
+                        <graphic xlink:href="03001005" />
+                    </fig>
+                </p>
+            </sec>
+            <sec>
+                <title>Venous involvement</title>
+                <p>The most common veins involved are splenic vein, superior mesenteric vein and the
+                    portal vein (<xref ref-type="fig" rid="F6">Fig. 6</xref>). Venous invasion can
+                    be suggested if the vein is attenuated or changes its caliber. The superior
+                    mesenteric vein when attenuated by a tumor assumes a &#x02018;tear-drop&#x02019;
+                    appearance. This sign has a high specificity for unresectability (85&#x00025;) [<xref
+                        ref-type="bibr" rid="b24">24</xref>]. Another indirect sign of venous
+                    involvement is the presence of dilated peripancreatic collaterals. In late
+                    stages, venous occlusion and thrombosis may also be seen. <fig id="F6"
+                        position="float">
+                        <label>Figure 6</label>
+                        <caption>
+                            <p>Pancreatic carcinoma (M) abutting more than <inline-formula>
+                                    <tex-math id="M1">\\documentclass[12pt]{minimal}
+                    \\usepackage{wasysym} \\usepackage[substack]{amsmath}
+                    \\usepackage{amsfonts,amssymb,amsbsy} \\usepackage[mathscr]{eucal}
+                    \\usepackage{mathrsfs} \\DeclareFontFamily{T1}{linotext}{}
+                    \\DeclareFontShape{T1}{linotext}{m}{n}{&#x0003c;-&#x0003e; linotext}{}
+                    \\DeclareSymbolFont{linotext}{T1}{linotext}{m}{n}
+                    \\DeclareSymbolFontAlphabet{\\mathLINOTEXT}{linotext} \\begin{document}
+                    $\\boldsymbol {180^{\\circ }}$ \\end{document}</tex-math>
+                                </inline-formula>
+                    of circumference of superior mesenteric vein (arrow) is seen on
+                    contrast-enhanced CT, indicating high likelihood of encasement, which was
+                    confirmed at surgery. </p>
+                        </caption>
+                        <graphic xlink:href="03001006" />
+                    </fig></p>
+                <p>In the last several years, attention has been focused on the small veins of the
+                    pancreatic arcades. These veins are usually small, and lie dorsal and ventral to
+                    the head and uncinate process of the pancreas. When there is a tumor compressing
+                    the tributaries of the superior mesenteric vein or portal vein, these veins get
+                    dilated. This sign can be an indirect and early sign of an unresectable tumor [<xref
+                        ref-type="bibr" rid="b25">25</xref>]. </p>
+            </sec>
+        </sec>
+        <sec sec-type="">
+            <title>Predicting resectability based on tumor contact with peripancreatic vessels</title>
+            <p>Several CT studies have been performed to determine if the degree of contact of a
+                tumor with the adjacent major peripancreatic arteries and veins could be used to
+                predict if a tumor could be resected or not. These studies have shown that if there
+                is a clear fat plane or normal pancreatic parenchyma interposed between the tumor
+                and these vessels, in almost all instances the tumor is resectable. If there was
+                tumor contact of <inline-formula>
+                    <tex-math id="M2">\\documentclass[12pt]{minimal} \\usepackage{wasysym}
+                \\usepackage[substack]{amsmath} \\usepackage{amsfonts,amssymb,amsbsy}
+                \\usepackage[mathscr]{eucal} \\usepackage{mathrsfs}
+                \\DeclareFontFamily{T1}{linotext}{}
+                \\DeclareFontShape{T1}{linotext}{m}{n}{&#x0003c;-&#x0003e; linotext}{}
+                \\DeclareSymbolFont{linotext}{T1}{linotext}{m}{n}
+                \\DeclareSymbolFontAlphabet{\\mathLINOTEXT}{linotext} \\begin{document} ${\\leqslant
+                }180^{\\circ }$ \\end{document}</tex-math>
+                </inline-formula>, then
+                the likelihood of resectability was high and if the degree of tumor contact was
+                greater than 180<sup>&#x02218;</sup>, it was most likely unresectable [<xref
+                    ref-type="bibr" rid="b26">26</xref>, <xref ref-type="bibr" rid="b27">27</xref>]. </p>
+        </sec>
+        <sec sec-type="">
+            <title>CT vs. MR&#x02014;which modality is superior?</title>
+            <p>Recent studies have tried to compare the two techniques and have come up with
+                divergent results. In some studies MR was superior to CT and in others the reverse
+                was true. Due to the rapid changes in imaging technology, these results are
+                short-lived [<xref ref-type="bibr" rid="b15">15</xref>, <xref ref-type="bibr"
+                    rid="b16">16</xref>]. It remains to be seen if ultra thin-section dynamic
+                contrast-enhanced multislice CT and dynamic breath-held gadolinium-enhanced 3D
+                volume acquisitions will translate into improved tumor detection and staging. </p>
+        </sec>
+        <sec sec-type="">
+            <title>Limitations of imaging methods</title>
+            <p>The most common reasons for understaging by imaging are the inability to detect: <list
+                    list-type="simple">
+                    <list-item>
+                        <p> (1) Metastases to normal sized lymph nodes </p>
+                    </list-item>
+                    <list-item>
+                        <p> (2) Small peritoneal metastases </p>
+                    </list-item>
+                    <list-item>
+                        <p> (3) Small &#x0003c;1 cm hepatic metastases </p>
+                    </list-item>
+                    <list-item>
+                        <p> (4) Subtle peripancreatic tumor extension.</p>
+                    </list-item>
+                </list></p>
+            <p>Most metastatic lymph nodes are &#x0003c;1 cm and this poses a problem for current
+                imaging techniques as size criteria are the only method we currently have to
+                distinguish between benign and malignant nodes. Using ultra-small iron-oxide
+                particles for lymph node imaging with MR may offer a solution in the future.
+                Peritoneal metastases are recognized only when in an advanced stage and small
+                metastatic deposits still go undetected. Similarly the sensitivity for CT and MR in
+                detecting small subcentimeter surface liver metastases is poor. </p>
+        </sec>
+    </body>
+    <back>
+        <ref-list>
+            <ref id="b1">
+                <label>1</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Kalra</surname>
+                            <given-names>MK</given-names>
+                        </name>
+                        <name>
+                            <surname>Maher</surname>
+                            <given-names>MM</given-names>
+                        </name>
+                        <name>
+                            <surname>Sahani</surname>
+                            <given-names>DV</given-names>
+                        </name>
+                        <etal />
+                    </person-group>
+                    <article-title>Current status of imaging in pancreatic diseases</article-title>
+                    <source>J Comput Assist Tomogr</source>
+                    <year>2002</year>
+                    <volume>26</volume>
+                    <fpage>661</fpage>
+                    <lpage>75</lpage>
+                    <pub-id pub-id-type="pmid">12439296</pub-id>
+                </element-citation>
+            </ref>
+            <ref id="b2">
+                <label>2</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Balci</surname>
+                            <given-names>NC</given-names>
+                        </name>
+                        <name>
+                            <surname>Semelka</surname>
+                            <given-names>RC</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Radiologic diagnosis and staging of pancreatic adenocarcinoma</article-title>
+                    <source>Eur J Radiol</source>
+                    <year>2001</year>
+                    <volume>38</volume>
+                    <fpage>105</fpage>
+                    <lpage>12</lpage>
+                    <pub-id pub-id-type="pmid">11335092</pub-id>
+                </element-citation>
+            </ref>
+            <ref id="b3">
+                <label>3</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Tamm</surname>
+                            <given-names>E</given-names>
+                        </name>
+                        <name>
+                            <surname>Charnsangavej</surname>
+                            <given-names>C</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Pancreatic cancer: current concepts in imaging for diagnosis and
+                        staging</article-title>
+                    <source>Cancer J</source>
+                    <year>2001</year>
+                    <volume>7</volume>
+                    <fpage>298</fpage>
+                    <lpage>311</lpage>
+                    <pub-id pub-id-type="pmid">11561606</pub-id>
+                </element-citation>
+            </ref>
+            <ref id="b4">
+                <label>4</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Bluemke</surname>
+                            <given-names>DA</given-names>
+                        </name>
+                        <name>
+                            <surname>Cameron</surname>
+                            <given-names>JL</given-names>
+                        </name>
+                        <name>
+                            <surname>Hruban</surname>
+                            <given-names>RH</given-names>
+                        </name>
+                        <etal />
+                    </person-group>
+                    <article-title>Potentially curable pancreatic adenocarcinoma: spiral CT
+                        assessment with surgical and pathologic correlation</article-title>
+                    <source>Radiology</source>
+                    <year>1995</year>
+                    <volume>197</volume>
+                    <fpage>381</fpage>
+                    <lpage>5</lpage>
+                    <pub-id pub-id-type="pmid">7480681</pub-id>
+                </element-citation>
+            </ref>
+            <ref id="b5">
+                <label>5</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Diehl</surname>
+                            <given-names>SJ</given-names>
+                        </name>
+                        <name>
+                            <surname>Lehmann</surname>
+                            <given-names>KJ</given-names>
+                        </name>
+                        <name>
+                            <surname>Sadick</surname>
+                            <given-names>M</given-names>
+                        </name>
+                        <etal />
+                    </person-group>
+                    <article-title>Pancreatic cancer: value of dual-phase helical CT in assessing
+                        resectability</article-title>
+                    <source>Radiology</source>
+                    <year>1998</year>
+                    <volume>206</volume>
+                    <fpage>373</fpage>
+                    <lpage>8</lpage>
+                    <pub-id pub-id-type="pmid">9457188</pub-id>
+                </element-citation>
+            </ref>
+            <ref id="b6">
+                <label>6</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>O&#x02019;Malley</surname>
+                            <given-names>ME</given-names>
+                        </name>
+                        <name>
+                            <surname>Boland</surname>
+                            <given-names>GW</given-names>
+                        </name>
+                        <name>
+                            <surname>Wood</surname>
+                            <given-names>BL</given-names>
+                        </name>
+                        <etal />
+                    </person-group>
+                    <article-title>Adenocarcinoma of the head of the pancreas: determination of
+                        surgical unresectability with thin-section pancreatic-phase helical CT</article-title>
+                    <source>Am J Roentgenol</source>
+                    <year>1999</year>
+                    <volume>173</volume>
+                    <fpage>1513</fpage>
+                    <lpage>8</lpage>
+                    <pub-id pub-id-type="pmid">10584794</pub-id>
+                </element-citation>
+            </ref>
+            <ref id="b7">
+                <label>7</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Valls</surname>
+                            <given-names>C</given-names>
+                        </name>
+                        <name>
+                            <surname>Sanchez</surname>
+                            <given-names>AE</given-names>
+                        </name>
+                        <name>
+                            <surname>Fabregat</surname>
+                            <given-names>J</given-names>
+                        </name>
+                        <etal />
+                    </person-group>
+                    <article-title>Dual-phase helical CT of pancreatic adenocarcinoma: assessment of
+                        resectability before surgery</article-title>
+                    <source>Am J Roentgenol</source>
+                    <year>2002</year>
+                    <volume>178</volume>
+                    <fpage>821</fpage>
+                    <lpage>6</lpage>
+                    <pub-id pub-id-type="pmid">11906855</pub-id>
+                </element-citation>
+            </ref>
+            <ref id="b8">
+                <label>8</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Laghi</surname>
+                            <given-names>A</given-names>
+                        </name>
+                        <name>
+                            <surname>Iannaccone</surname>
+                            <given-names>R</given-names>
+                        </name>
+                        <name>
+                            <surname>Catalone</surname>
+                            <given-names>C</given-names>
+                        </name>
+                        <etal />
+                    </person-group>
+                    <article-title>Multislice spiral computed tomography in diagnosis and staging of
+                        pancreatic carcinoma: preliminary experience</article-title>
+                    <source>Dig Liv Dis</source>
+                    <year>2002</year>
+                    <volume>34</volume>
+                    <fpage>732</fpage>
+                    <lpage>8</lpage>
+                </element-citation>
+            </ref>
+            <ref id="b9">
+                <label>9</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Prokesch</surname>
+                            <given-names>RW</given-names>
+                        </name>
+                        <name>
+                            <surname>Chow</surname>
+                            <given-names>LC</given-names>
+                        </name>
+                        <name>
+                            <surname>Beaulieu</surname>
+                            <given-names>CF</given-names>
+                        </name>
+                        <etal />
+                    </person-group>
+                    <article-title>Isoattenuating pancreatic adenocarcinoma at multidetector-row CT:
+                        secondary signs</article-title>
+                    <source>Radiology</source>
+                    <year>2002</year>
+                    <volume>224</volume>
+                    <fpage>764</fpage>
+                    <lpage>8</lpage>
+                    <pub-id pub-id-type="pmid">12202711</pub-id>
+                </element-citation>
+            </ref>
+            <ref id="b10">
+                <label>10</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Prokesch</surname>
+                            <given-names>RW</given-names>
+                        </name>
+                        <name>
+                            <surname>Chow</surname>
+                            <given-names>LC</given-names>
+                        </name>
+                        <name>
+                            <surname>Beaulieu</surname>
+                            <given-names>CF</given-names>
+                        </name>
+                        <etal />
+                    </person-group>
+                    <article-title>Local staging of pancreatic carcinoma with multidetector-row CT:
+                        use of curved planar reformations&#x02014;initial experience</article-title>
+                    <source>Radiology</source>
+                    <year>2002</year>
+                    <volume>225</volume>
+                    <fpage>759</fpage>
+                    <lpage>65</lpage>
+                    <pub-id pub-id-type="pmid">12461258</pub-id>
+                </element-citation>
+            </ref>
+            <ref id="b11">
+                <label>11</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Catalano</surname>
+                            <given-names>C</given-names>
+                        </name>
+                        <name>
+                            <surname>Laghi</surname>
+                            <given-names>A</given-names>
+                        </name>
+                        <name>
+                            <surname>Fraioli</surname>
+                            <given-names>F</given-names>
+                        </name>
+                        <etal />
+                    </person-group>
+                    <article-title>Pancreatic carcinoma: the role of high resolution multislice
+                        spiral CT in the diagnosis and assessment of resectability</article-title>
+                    <source>Eur Radiol</source>
+                    <year>2003</year>
+                    <volume>13</volume>
+                    <fpage>149</fpage>
+                    <lpage>56</lpage>
+                    <pub-id pub-id-type="pmid">12541123</pub-id>
+                </element-citation>
+            </ref>
+            <ref id="b12">
+                <label>12</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Horton</surname>
+                            <given-names>KM</given-names>
+                        </name>
+                        <name>
+                            <surname>Fishman</surname>
+                            <given-names>EK</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Multidetector CT angiography of pancreatic carcinoma: part I:
+                        evaluation of arterial involvement</article-title>
+                    <source>Am J Roentgenol</source>
+                    <year>2002</year>
+                    <volume>178</volume>
+                    <fpage>827</fpage>
+                    <lpage>32</lpage>
+                    <pub-id pub-id-type="pmid">11906856</pub-id>
+                </element-citation>
+            </ref>
+            <ref id="b13">
+                <label>13</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Horton</surname>
+                            <given-names>KM</given-names>
+                        </name>
+                        <name>
+                            <surname>Fishman</surname>
+                            <given-names>EK</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Multidetector CT angiography of pancreatic carcinoma: part II:
+                        evaluation of venous involvement</article-title>
+                    <source>Am J Roentgenol</source>
+                    <year>2002</year>
+                    <volume>178</volume>
+                    <fpage>833</fpage>
+                    <lpage>6</lpage>
+                    <pub-id pub-id-type="pmid">11906858</pub-id>
+                </element-citation>
+            </ref>
+            <ref id="b14">
+                <label>14</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Johnson</surname>
+                            <given-names>PT</given-names>
+                        </name>
+                        <name>
+                            <surname>Heath</surname>
+                            <given-names>DG</given-names>
+                        </name>
+                        <name>
+                            <surname>Hofmann</surname>
+                            <given-names>LV</given-names>
+                        </name>
+                        <etal />
+                    </person-group>
+                    <article-title>Multidetector-row computed tomography with three-dimensional
+                        volume rendering of pancreatic cancer: a complete preoperative staging toll
+                        using computed tomography angiography and volume-rendered
+                        cholangiopancreatography</article-title>
+                    <source>J Comput Assist Tomogr</source>
+                    <year>2003</year>
+                    <volume>27</volume>
+                    <fpage>347</fpage>
+                    <lpage>53</lpage>
+                    <pub-id pub-id-type="pmid">12794597</pub-id>
+                </element-citation>
+            </ref>
+            <ref id="b15">
+                <label>15</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Irie</surname>
+                            <given-names>H</given-names>
+                        </name>
+                        <name>
+                            <surname>Honda</surname>
+                            <given-names>H</given-names>
+                        </name>
+                        <name>
+                            <surname>Kaneko</surname>
+                            <given-names>K</given-names>
+                        </name>
+                        <etal />
+                    </person-group>
+                    <article-title>Comparison of helical CT and MR imaging in detecting and staging
+                        small pancreatic adenocarcinoma</article-title>
+                    <source>Abdom Imaging</source>
+                    <year>1997</year>
+                    <volume>22</volume>
+                    <fpage>429</fpage>
+                    <lpage>33</lpage>
+                    <pub-id pub-id-type="pmid">9157866</pub-id>
+                </element-citation>
+            </ref>
+            <ref id="b16">
+                <label>16</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Arslan</surname>
+                            <given-names>A</given-names>
+                        </name>
+                        <name>
+                            <surname>Buanes</surname>
+                            <given-names>T</given-names>
+                        </name>
+                        <name>
+                            <surname>Geitung</surname>
+                            <given-names>JT</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Pancreatic carcinoma: MR, MR angiography, and dynamic helical CT
+                        in the evaluation of vascular invasion</article-title>
+                    <source>Eur J Radiol</source>
+                    <year>2001</year>
+                    <volume>38</volume>
+                    <fpage>151</fpage>
+                    <lpage>9</lpage>
+                    <pub-id pub-id-type="pmid">11335098</pub-id>
+                </element-citation>
+            </ref>
+            <ref id="b17">
+                <label>17</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Obuz</surname>
+                            <given-names>F</given-names>
+                        </name>
+                        <name>
+                            <surname>Dicle</surname>
+                            <given-names>O</given-names>
+                        </name>
+                        <name>
+                            <surname>Coker</surname>
+                            <given-names>A</given-names>
+                        </name>
+                        <etal />
+                    </person-group>
+                    <article-title>Pancreatic adenocarcinoma: detection and staging with dynamic MR
+                        imaging</article-title>
+                    <source>Eur J Radiol</source>
+                    <year>2001</year>
+                    <volume>38</volume>
+                    <fpage>146</fpage>
+                    <lpage>50</lpage>
+                    <pub-id pub-id-type="pmid">11335097</pub-id>
+                </element-citation>
+            </ref>
+            <ref id="b18">
+                <label>18</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Robinson</surname>
+                            <given-names>PA</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>The role of MRI in pancreatic cancer</article-title>
+                    <source>Eur Radiol</source>
+                    <year>2002</year>
+                    <volume>12</volume>
+                    <fpage>267</fpage>
+                    <lpage>9</lpage>
+                    <pub-id pub-id-type="pmid">11870421</pub-id>
+                </element-citation>
+            </ref>
+            <ref id="b19">
+                <label>19</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Fischer</surname>
+                            <given-names>U</given-names>
+                        </name>
+                        <name>
+                            <surname>Vosshenrich</surname>
+                            <given-names>R</given-names>
+                        </name>
+                        <name>
+                            <surname>Horstmann</surname>
+                            <given-names>O</given-names>
+                        </name>
+                        <etal />
+                    </person-group>
+                    <article-title>Preoperative local MRI-staging of patients with a suspected
+                        pancreatic mass</article-title>
+                    <source>Eur Radiol</source>
+                    <year>2002</year>
+                    <volume>12</volume>
+                    <fpage>296</fpage>
+                    <lpage>303</lpage>
+                    <pub-id pub-id-type="pmid">11870425</pub-id>
+                </element-citation>
+            </ref>
+            <ref id="b20">
+                <label>20</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Rieber</surname>
+                            <given-names>A</given-names>
+                        </name>
+                        <name>
+                            <surname>Tomczak</surname>
+                            <given-names>R</given-names>
+                        </name>
+                        <name>
+                            <surname>Nussle</surname>
+                            <given-names>K</given-names>
+                        </name>
+                        <etal />
+                    </person-group>
+                    <article-title>MRI with mangafodipir trisodium in the detection of pancreatic
+                        tumors: comparison with helical CT</article-title>
+                    <source>Br J Radiol</source>
+                    <year>2000</year>
+                    <volume>73</volume>
+                    <fpage>1165</fpage>
+                    <lpage>9</lpage>
+                    <pub-id pub-id-type="pmid">11144793</pub-id>
+                </element-citation>
+            </ref>
+            <ref id="b21">
+                <label>21</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Schima</surname>
+                            <given-names>W</given-names>
+                        </name>
+                        <name>
+                            <surname>Fugger</surname>
+                            <given-names>R</given-names>
+                        </name>
+                        <name>
+                            <surname>Schober</surname>
+                            <given-names>E</given-names>
+                        </name>
+                        <etal />
+                    </person-group>
+                    <article-title>Diagnosis and staging of pancreatic cancer: comparison of
+                        mangafodipir trisodium-enhanced MR imaging and contrast-enhanced helical
+                        hydro-CT</article-title>
+                    <source>Am J Roentgenol</source>
+                    <year>2002</year>
+                    <volume>179</volume>
+                    <fpage>717</fpage>
+                    <lpage>24</lpage>
+                    <pub-id pub-id-type="pmid">12185052</pub-id>
+                </element-citation>
+            </ref>
+            <ref id="b22">
+                <label>22</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Lopez Hanninen</surname>
+                            <given-names>E</given-names>
+                        </name>
+                        <name>
+                            <surname>Amthauer</surname>
+                            <given-names>H</given-names>
+                        </name>
+                        <name>
+                            <surname>Hosten</surname>
+                            <given-names>N</given-names>
+                        </name>
+                        <etal />
+                    </person-group>
+                    <article-title>Prospective evaluation of pancreatic tumors: accuracy of MR
+                        imaging with MR cholangiopancreatography and MR angiography</article-title>
+                    <source>Radiology</source>
+                    <year>2002</year>
+                    <volume>224</volume>
+                    <fpage>34</fpage>
+                    <lpage>41</lpage>
+                    <pub-id pub-id-type="pmid">12091659</pub-id>
+                </element-citation>
+            </ref>
+            <ref id="b23">
+                <label>23</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Schwartz</surname>
+                            <given-names>LH</given-names>
+                        </name>
+                        <name>
+                            <surname>Lefkowitz</surname>
+                            <given-names>RA</given-names>
+                        </name>
+                        <name>
+                            <surname>Panicek</surname>
+                            <given-names>DM</given-names>
+                        </name>
+                        <etal />
+                    </person-group>
+                    <article-title>Breath-hold magnetic resonance cholangiopancreatography in the
+                        evaluation of malignant pancreaticobiliary obstruction</article-title>
+                    <source>J Comput Assist Tomogr</source>
+                    <year>2003</year>
+                    <volume>27</volume>
+                    <fpage>307</fpage>
+                    <lpage>14</lpage>
+                    <pub-id pub-id-type="pmid">12794591</pub-id>
+                </element-citation>
+            </ref>
+            <ref id="b24">
+                <label>24</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Hough</surname>
+                            <given-names>TJ</given-names>
+                        </name>
+                        <name>
+                            <surname>Raptopoulos</surname>
+                            <given-names>V</given-names>
+                        </name>
+                        <name>
+                            <surname>Sewert</surname>
+                            <given-names>B</given-names>
+                        </name>
+                        <etal />
+                    </person-group>
+                    <article-title>Tear-drop superior mesenteric vein: CT sign of unresectable
+                        carcinoma of the pancreas</article-title>
+                    <source>Am J Roentgenol</source>
+                    <year>1999</year>
+                    <volume>173</volume>
+                    <fpage>1509</fpage>
+                    <lpage>12</lpage>
+                    <pub-id pub-id-type="pmid">10584793</pub-id>
+                </element-citation>
+            </ref>
+            <ref id="b25">
+                <label>25</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Yamada</surname>
+                            <given-names>Y</given-names>
+                        </name>
+                        <name>
+                            <surname>Mori</surname>
+                            <given-names>H</given-names>
+                        </name>
+                        <name>
+                            <surname>Kiyosue</surname>
+                            <given-names>H</given-names>
+                        </name>
+                        <etal />
+                    </person-group>
+                    <article-title>CT assessment of the inferior peripancreatic veins: clinical
+                        significance</article-title>
+                    <source>Am J Roentgenol</source>
+                    <year>2000</year>
+                    <volume>174</volume>
+                    <fpage>677</fpage>
+                    <lpage>84</lpage>
+                    <pub-id pub-id-type="pmid">10701608</pub-id>
+                </element-citation>
+            </ref>
+            <ref id="b26">
+                <label>26</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Loyer</surname>
+                            <given-names>EM</given-names>
+                        </name>
+                        <name>
+                            <surname>David</surname>
+                            <given-names>CL</given-names>
+                        </name>
+                        <name>
+                            <surname>Dubrow</surname>
+                            <given-names>RA</given-names>
+                        </name>
+                        <etal />
+                    </person-group>
+                    <article-title>Vascular involvement in pancreatic adenocarcinoma: reassessment
+                        by thin section CT</article-title>
+                    <source>Abdom Imaging</source>
+                    <year>1996</year>
+                    <volume>21</volume>
+                    <fpage>202</fpage>
+                    <lpage>6</lpage>
+                    <pub-id pub-id-type="pmid">8661548</pub-id>
+                </element-citation>
+            </ref>
+            <ref id="b27">
+                <label>27</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Lu</surname>
+                            <given-names>DS</given-names>
+                        </name>
+                        <name>
+                            <surname>Reber</surname>
+                            <given-names>HA</given-names>
+                        </name>
+                        <name>
+                            <surname>Krasny</surname>
+                            <given-names>RM</given-names>
+                        </name>
+                        <etal />
+                    </person-group>
+                    <article-title>Local staging of pancreatic cancer: criteria for unresectability
+                        of major vessels as revealed by pancreatic-phase, thin-section helical CT</article-title>
+                    <source>Am J Roentgenol</source>
+                    <year>1997</year>
+                    <volume>168</volume>
+                    <fpage>1439</fpage>
+                    <lpage>43</lpage>
+                    <pub-id pub-id-type="pmid">9168704</pub-id>
+                </element-citation>
+            </ref>
+        </ref-list>
+    </back>
+</article>

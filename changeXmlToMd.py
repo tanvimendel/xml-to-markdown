@@ -57,6 +57,10 @@ def convert_to_markdown(xml_content):
     abstract = root.find('.//abstract')
     if abstract is not None:
         markdown_content.append("## Abstract\n")
+        for p in abstract.findall('p'):
+            markdown_content.append(f"{extract_text(p)}\n")
+
+        # Handle sections with titles and paragraphs within them
         for sec in abstract.findall('.//sec'):
             section_title = sec.find('title')
             if section_title is not None:
@@ -101,12 +105,16 @@ def convert_to_markdown(xml_content):
     references = root.findall('.//ref-list/ref')
     if references:
         markdown_content.append("## References\n")
-        for ref in references:
-            label = extract_text(ref.find('label'))
-            citation = ref.find('.//mixed-citation') or ref.find('.//element-citation')
+        for idx, ref in enumerate(references, start=1):
+            citation = ref.find('element-citation')
+            if citation is None:
+                citation = ref.find('mixed-citation')
+            if citation is None:
+                citation = ref.find('citation')
+            
             if citation is not None:
                 citation_text = extract_citation(citation)
-                markdown_content.append(f"{label}. {citation_text}")
+                markdown_content.append(f"{idx}. {citation_text}")
         markdown_content.append("")
 
     return "\n".join(markdown_content)
@@ -127,7 +135,7 @@ def process_sections(sections):
     return "\n".join(content)
 
 def extract_citation(citation_element):
-    """Extract and format the citation text from a mixed-citation or element-citation element."""
+    """Extract and format the citation text from a citation, mixed-citation, or element-citation element."""
     person_group = citation_element.find('.//person-group')
     authors = []
     if person_group is not None:
