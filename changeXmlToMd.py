@@ -192,12 +192,16 @@ def extract_citation(citation_element):
         comments = citation_element.findall('comment')
         ext_link = citation_element.find('.//ext-link[@ext-link-type="uri"]')
 
-        for comment in comments:
-            citation_text += f"{extract_text(comment)} "
+        if len(comments) > 0 or ext_link is not None:
+            for comment in comments:
+                citation_text += f"{extract_text(comment)} "
 
-        if ext_link is not None:
-            href = extract_text(ext_link)
-            citation_text += f"{href}. "
+            if ext_link is not None:
+                href = extract_text(ext_link)
+                citation_text += f"{href}. "
+        else:
+            # Handle the citation like a typical journal article citation
+            citation_text = extract_text(citation_element).strip()
 
     else:
         # Construct the citation text for articles
