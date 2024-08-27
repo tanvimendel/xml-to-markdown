@@ -136,12 +136,13 @@ def process_sections(sections):
 
 def extract_citation(citation_element):
     """Extract and format the citation text from a citation, mixed-citation, or element-citation element."""
-    
+
     # Check for <collab> (collaborative group author)
     collab = citation_element.find('.//collab')
     if collab is not None:
         authors = [extract_text(collab)]
     else:
+        # Handling <person-group> and <string-name> for individual authors
         person_group = citation_element.find('.//person-group')
         authors = []
         if person_group is not None:
@@ -149,9 +150,16 @@ def extract_citation(citation_element):
                 surname = extract_text(name.find('surname'))
                 given_names = extract_text(name.find('given-names'))
                 authors.append(f"{surname} {given_names}")
-            if citation_element.find('etal') is not None:
-                authors.append('et al.')
+        else:
+            for string_name in citation_element.findall('.//string-name'):
+                surname = extract_text(string_name.find('surname'))
+                given_names = extract_text(string_name.find('given-names'))
+                authors.append(f"{surname} {given_names}")
 
+        if citation_element.find('etal') is not None:
+            authors.append('et al.')
+
+    # Extract common elements
     article_title = extract_text(citation_element.find('article-title'))
     source = extract_text(citation_element.find('source'))
     year = extract_text(citation_element.find('year'))
@@ -161,12 +169,43 @@ def extract_citation(citation_element):
     doi = extract_text(citation_element.find('.//pub-id[@pub-id-type="doi"]'))
     pmid = extract_text(citation_element.find('.//pub-id[@pub-id-type="pmid"]'))
 
-    # Construct the citation text
-    citation_text = f"{', '.join(authors)}. {article_title}. *{source}*. {year};{volume}:{fpage}-{lpage}."
-    if doi:
-        citation_text += f" DOI: {doi}."
-    if pmid:
-        citation_text += f" PMID: {pmid}."
+    # Handling books specifically, including chapters
+    if citation_element.get('publication-type') == 'book':
+        publisher_loc = extract_text(citation_element.find('publisher-loc'))
+        publisher_name = extract_text(citation_element.find('publisher-name'))
+
+        # If there's an article-title, treat it as a chapter in a book
+        if article_title:
+            citation_text = f"{', '.join(authors)}. {article_title}. In: {source}. {publisher_loc}: {publisher_name}; {year}."
+        else:
+            # Construct the citation text for a whole book
+            citation_text = f"{', '.join(authors)}. {source}. {publisher_loc}: {publisher_name}; {year}."
+
+    # Handling "other" types, e.g., websites, reports, with comments and links
+    elif citation_element.get('publication-type') == 'other':
+        citation_text = ""
+        if collab is not None:
+            # If <collab> is present, this might be an organization or a similar entity
+            citation_text += f"{extract_text(collab)}. "
+
+        # Handle comments and external links, like a website or report citation
+        comments = citation_element.findall('comment')
+        ext_link = citation_element.find('.//ext-link[@ext-link-type="uri"]')
+
+        for comment in comments:
+            citation_text += f"{extract_text(comment)} "
+
+        if ext_link is not None:
+            href = extract_text(ext_link)
+            citation_text += f"{href}. "
+
+    else:
+        # Construct the citation text for articles
+        citation_text = f"{', '.join(authors)}. {article_title}. *{source}*. {year};{volume}:{fpage}-{lpage}."
+        if doi:
+            citation_text += f" DOI: {doi}."
+        if pmid:
+            citation_text += f" PMID: {pmid}."
 
     return citation_text
 
