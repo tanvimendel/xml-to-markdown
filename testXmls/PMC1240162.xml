@@ -1,0 +1,87 @@
+<article xmlns:xlink="http://www.w3.org/1999/xlink" article-type="research-article">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="nlm-ta">Environ Health Perspect</journal-id>
+            <journal-title>Environmental Health Perspectives</journal-title>
+            <issn pub-type="ppub">0091-6765</issn>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="pmid">11102296</article-id>
+            <article-id pub-id-type="pmc">PMC1240162</article-id>
+            <article-id pub-id-type="pii">sc271_5_1835</article-id>
+            <article-categories>
+                <subj-group subj-group-type="heading">
+                    <subject>Research Article</subject>
+                </subj-group>
+            </article-categories>
+            <title-group>
+                <article-title>Particle concentrations in urban microenvironments.</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Levy</surname>
+                        <given-names>J I</given-names>
+                    </name>
+                </contrib>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Houseman</surname>
+                        <given-names>E A</given-names>
+                    </name>
+                </contrib>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Ryan</surname>
+                        <given-names>L</given-names>
+                    </name>
+                </contrib>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Richardson</surname>
+                        <given-names>D</given-names>
+                    </name>
+                </contrib>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Spengler</surname>
+                        <given-names>J D</given-names>
+                    </name>
+                </contrib>
+            </contrib-group>
+            <aff>Department of Environmental Health, Harvard School of Public Health, Boston,
+                Massachusetts 02115, USA. jilevy@hsph.harvard.edu</aff>
+            <pub-date pub-type="ppub">
+                <month>11</month>
+                <year>2000</year>
+            </pub-date>
+            <volume>108</volume>
+            <issue>11</issue>
+            <fpage>1051</fpage>
+            <lpage>1057</lpage>
+            <abstract>
+                <p>Although ambient particulate matter has been associated with a range of health
+                    outcomes, the health risks for individuals depend in part on their daily
+                    activities. Information about particle mass concentrations and size
+                    distributions in indoor and outdoor microenvironments can help identify
+                    high-risk individuals and the significant contributors to personal exposure. To
+                    address these issues in an urban setting, we measured particle count
+                    concentrations in four size ranges and particulate matter (3/4) 10 microm
+                    (PM(10)) concentrations outdoors and in seven indoor microenvironments in
+                    Boston, Massachusetts. Particle counts and PM(10) concentrations were
+                    continuously measured with two light-scattering devices. Because of the
+                    autocorrelation between sequential measurements, we used linear mixed effects
+                    models with an AR-1 autoregressive correlation structure to evaluate whether
+                    differences between microenvironments were statistically significant. In
+                    general, larger particles were elevated in the vicinity of significant human
+                    activity, and smaller particles were elevated in the vicinity of combustion
+                    sources, with indoor PM(10) concentrations significantly higher than the
+                    outdoors on buses and trolleys. Statistical models demonstrated significant
+                    variability among some indoor microenvironments, with greater variability for
+                    smaller particles. These findings imply that personal exposures can depend on
+                    activity patterns and that microenvironmental concentration information can
+                    improve the accuracy of personal exposure estimation.</p>
+            </abstract>
+        </article-meta>
+    </front>
+</article>

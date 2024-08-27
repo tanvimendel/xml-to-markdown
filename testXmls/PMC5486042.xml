@@ -1,0 +1,3165 @@
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML"
+    article-type="review-article">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="nlm-ta">Int J Mol Sci</journal-id>
+            <journal-id journal-id-type="iso-abbrev">Int J Mol Sci</journal-id>
+            <journal-id journal-id-type="publisher-id">ijms</journal-id>
+            <journal-title-group>
+                <journal-title>International Journal of Molecular Sciences</journal-title>
+            </journal-title-group>
+            <issn pub-type="epub">1422-0067</issn>
+            <publisher>
+                <publisher-name>MDPI</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="pmid">28590454</article-id>
+            <article-id pub-id-type="pmc">PMC5486042</article-id>
+            <article-id pub-id-type="doi">10.3390/ijms18061219</article-id>
+            <article-id pub-id-type="publisher-id">ijms-18-01219</article-id>
+            <article-categories>
+                <subj-group subj-group-type="heading">
+                    <subject>Review</subject>
+                </subj-group>
+            </article-categories>
+            <title-group>
+                <article-title>Lignins and Their Derivatives with Beneficial Effects on Human Health</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Vinardell</surname>
+                        <given-names>Maria Pilar</given-names>
+                    </name>
+                    <xref rid="c1-ijms-18-01219" ref-type="corresp">*</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Mitjans</surname>
+                        <given-names>Montserrat</given-names>
+                    </name>
+                </contrib>
+            </contrib-group>
+            <contrib-group>
+                <contrib contrib-type="editor">
+                    <name>
+                        <surname>Garc&#x000ed;a</surname>
+                        <given-names>Araceli</given-names>
+                    </name>
+                    <role>Academic Editor</role>
+                </contrib>
+                <contrib contrib-type="editor">
+                    <name>
+                        <surname>Serrano</surname>
+                        <given-names>Luis</given-names>
+                    </name>
+                    <role>Academic Editor</role>
+                </contrib>
+            </contrib-group>
+            <aff id="af1-ijms-18-01219">Department of Biochemistry and Physiology, Faculty of
+                Pharmacy and Food Sciences, Universitat de Barcelona, Avinguda Joan XXIII 27-31,
+                08028 Barcelona, Spain; <email>montsemitjans@ub.edu</email></aff>
+            <author-notes>
+                <corresp id="c1-ijms-18-01219"><label>*</label>Correspondence: <email>
+                    mpvinardellmh@ub.edu</email>; Tel.: +34-934-024-505</corresp>
+            </author-notes>
+            <pub-date pub-type="epub">
+                <day>07</day>
+                <month>6</month>
+                <year>2017</year>
+            </pub-date>
+            <pub-date pub-type="collection">
+                <month>6</month>
+                <year>2017</year>
+            </pub-date>
+            <volume>18</volume>
+            <issue>6</issue>
+            <elocation-id>1219</elocation-id>
+            <history>
+                <date date-type="received">
+                    <day>02</day>
+                    <month>5</month>
+                    <year>2017</year>
+                </date>
+                <date date-type="accepted">
+                    <day>02</day>
+                    <month>6</month>
+                    <year>2017</year>
+                </date>
+            </history>
+            <permissions>
+                <copyright-statement>&#x000a9; 2017 by the authors.</copyright-statement>
+                <copyright-year>2017</copyright-year>
+                <license license-type="open-access">
+                    <license-p>Licensee MDPI, Basel, Switzerland. This article is an open access
+                        article distributed under the terms and conditions of the Creative Commons
+                        Attribution (CC BY) license (<ext-link ext-link-type="uri"
+                            xlink:href="http://creativecommons.org/licenses/by/4.0/">
+                        http://creativecommons.org/licenses/by/4.0/</ext-link>).</license-p>
+                </license>
+            </permissions>
+            <abstract>
+                <p>A review of the pharmacological applications of lignins provides evidence of
+                    their protective role against the development of different diseases. In many
+                    cases, the effects of lignins could be explained by their antioxidant capacity.
+                    Here, we present a systematic review of the literature from the period
+                    2010&#x02013;2016 which provides information concerning new applications of
+                    lignins derived from recent research. The most promising findings are reported,
+                    including the methodologies employed and results obtained with lignins or their
+                    derivatives which may improve human health. We highlight potential applications
+                    in the treatment of obesity, diabetes, thrombosis, viral infections and cancer.
+                    Moreover, we report both that lignins can be used in the preparation of
+                    nanoparticles to deliver different drugs and also their use in photoprotection.</p>
+            </abstract>
+            <kwd-group>
+                <kwd>lignin</kwd>
+                <kwd>human health</kwd>
+                <kwd>applicability</kwd>
+                <kwd>antioxidant capacity</kwd>
+                <kwd>antiviral effect</kwd>
+            </kwd-group>
+        </article-meta>
+    </front>
+    <body>
+        <sec id="sec1-ijms-18-01219">
+            <title>1. Introduction</title>
+            <p>Lignins are present in significant amounts in plants, accounting for 15&#x02013;25% (<italic>
+                w/w</italic>) of herbaceous biomass. They consequently represent a large amount of
+                the waste generated by different industries that use plant matter.</p>
+            <p>Nowadays, most commercial lignin is obtained as a by-product from lignocellulose
+                treatments performed during pulp and paper processing, in the form of
+                lignosulfonates and kraft lignins. The most common use of these lignins is in energy
+                production, with only a small fraction being used for other commercial applications.
+                This is due, in part, to the dispersing, binding and emulsifying properties of
+                lignins. However, considerable effort is being made to find new applications of
+                lignins, in order to add extra value to them while at the same time potentially
+                diversifying biorefinery practices [<xref rid="B1-ijms-18-01219" ref-type="bibr">1</xref>].
+                Different strategies have thus been developed to valorize lignins, such as
+                ultrafiltration as a fractionation process to separate lignin fractions of different
+                molecular weights [<xref rid="B2-ijms-18-01219" ref-type="bibr">2</xref>].</p>
+            <p>The heterogeneity of the lignin structure makes it difficult to isolate a specific
+                product, and in many cases the result of fractionation is a mixture of products.
+                Furthermore, due to the complexity of the lignin structure and the effects of
+                pretreatments on it, identifying and extracting chemicals from lignin requires
+                extensive characterization to understand its polymeric properties and linkages, as
+                well as the properties of the functional groups connected to the aromatic ring. The
+                components of the lignin macromolecule together with its characterization suggest
+                the predominance of antioxidant monomers [<xref rid="B3-ijms-18-01219"
+                    ref-type="bibr">3</xref>]. A recent study found that low-molecular-weight
+                monomers derived from hydroxycinnamic acids and guaiacyl units are responsible for
+                the antioxidant properties of lignins [<xref rid="B4-ijms-18-01219" ref-type="bibr">
+                4</xref>].</p>
+            <p>The precise chemical structure of lignin is not known, both because of its complex
+                polymeric nature and also due to the degree of random coupling involved in the
+                arrangement of the macromolecule. Considerable work has been done on the detailed
+                structural characterization of these complex natural polymers to gain an
+                understanding of their structure and function. The composition, molecular weight,
+                and amount of lignin differ from plant to plant, with lignin abundance generally
+                decreasing in the order: softwoods &#x0003e; hardwoods &#x0003e; grasses. The
+                components are joined by &#x003b2;-<italic>O</italic>-4, 5&#x02212;5, &#x003b2;-5,
+                4-<italic>O</italic>-5, &#x003b2;-1, dibenzodioxocin, and
+                &#x003b2;&#x02212;&#x003b2; linkages, among others, of which the &#x003b2;-<italic>O</italic>-4
+                linkage is dominant, accounting for more than half of the linkage structures of
+                lignin [<xref rid="B5-ijms-18-01219" ref-type="bibr">5</xref>] as shown in <xref
+                    ref-type="fig" rid="ijms-18-01219-f001">Figure 1</xref>.</p>
+            <p>Lignin is a very good candidate for the development of new materials due to the
+                presence of phenolic and aliphatic hydroxyl groups in its structure. These confer
+                considerable potential for chemical modification [<xref rid="B6-ijms-18-01219"
+                    ref-type="bibr">6</xref>] on the macromolecule.</p>
+            <p>Alkali lignin is currently the largest lignin class to have been produced. It a
+                co-product of biofuel and the paper industry which is separated from fibers by
+                chemical pulping (mainly soda and sulfite) but is of less value than the primary
+                products [<xref rid="B7-ijms-18-01219" ref-type="bibr">7</xref>].</p>
+            <p>Some old studies show that lignins are involved in different biological activities.
+                These include reducing serum cholesterol by binding to bile acids in the intestine [<xref
+                    rid="B8-ijms-18-01219" ref-type="bibr">8</xref>], and preventing tumor
+                development as demonstrated in rats exposed to an intestinal carcinogen
+                3,2-dimethyl-4-ami-nobiphenyl and fed a lignin diet [<xref rid="B9-ijms-18-01219"
+                    ref-type="bibr">9</xref>].</p>
+            <p>We previously reviewed the pharmacological applications of lignins and different
+                products obtained from them; our results were published in 2012 and provide evidence
+                of lignans playing a protective role against the development of different diseases [<xref
+                    rid="B10-ijms-18-01219" ref-type="bibr">10</xref>]. In many cases, the effects
+                of lignins could be explained by their antioxidant capacity.</p>
+            <p>Here, we now report a systematic review of the literature over the period
+                2010&#x02013;2016 which provides information on new applications of lignins derived
+                from recent research. We give details of the most promising findings, describing the
+                methodologies employed and the results obtained with lignins or their derivatives
+                which may improve human health.</p>
+        </sec>
+        <sec id="sec2-ijms-18-01219">
+            <title>2. Pharmacological Activities of Lignins and Their Derivatives</title>
+            <sec id="sec2dot1-ijms-18-01219">
+                <title>2.1. Lignins and Lignosulfonic Acid for the Treatment of Diabetes</title>
+                <p>Lignins can be obtained via different processes. One strategy is to obtain
+                    biomodified alkali lignin extracted from the deciduous plant <italic>Acacia
+                    nilotica</italic>. The extracted alkali lignin can then be subjected to
+                    microbial biotransformation by the ligninolytic fungi <italic>Aspergillus flavus</italic>
+                    and <italic>Emericella nidulans</italic>. The results obtained using this method
+                    demonstrate that the structure and functional modifications of the lignin
+                    significantly affect its antioxidant bioefficacy and reduce its antidiabetic
+                    activities [<xref rid="B11-ijms-18-01219" ref-type="bibr">11</xref>]. However,
+                    the modified alkali lignin showed significant in vitro &#x003b1;-amylase
+                    inhibitory activity [<xref rid="B12-ijms-18-01219" ref-type="bibr">12</xref>],
+                    thereby indicating that it potentially has anti-hyperglycemic properties.
+                    Moreover, the functional and structural modifications of alkali lignin altered
+                    the efficiency of its binding with the glucose molecule. This affected its
+                    movement across the cellular membrane and improved glycemic control by limiting
+                    postprandial glucose absorption. In conclusion, the antioxidant properties,
+                    &#x003b1;-amylase activity and in vitro glucose movement inhibition of <italic>A.
+                    nilotica</italic> lignin may offer a potential therapeutic source for the
+                    treatment of oxidative stress and diabetes [<xref rid="B11-ijms-18-01219"
+                        ref-type="bibr">11</xref>].</p>
+                <p><italic>A. nilotica</italic> is a deciduous tree in the Mimosaseae family which
+                    is predominantly found in central India. Different parts of <italic>A. nilotica</italic>
+                    have been studied in detail and are used as remedies for a variety of diseases
+                    in folk medicine. Among the traditional uses, we find treatment of various
+                    cancers of the mouth, bone and skin [<xref rid="B13-ijms-18-01219"
+                        ref-type="bibr">13</xref>]. The health-promoting properties of this plant
+                    can be attributed to different biologically active compounds presents in it.
+                    Some researchers have studied the possibility of employing
+                    high-pressure-assisted solvent extraction and conventional solvent extraction
+                    methods to concentrate the antioxidant and anticancer constituents of <italic>A.
+                    nilotica</italic> wood and the alkali extract obtained from it. Eleven different
+                    lignin fractions, extracted from the wood of <italic>A. nilotica</italic> were
+                    studied. All the fractions displayed a significant capacity to scavenge nitric
+                    oxide, and hydroxyl and superoxide radicals. The extracted lignin fractions had
+                    high ferric ion reducing capacities and also possessed excellent antioxidant
+                    potential in a hydrophobic system (linoleic acid). Fractions extracted using a
+                    polar solvent had the highest iron (Fe<sup>2+</sup>) chelating activity,
+                    indicating their effect on the redox cycling of iron. Four lignin fractions
+                    showed higher cytotoxic potential towards the breast cancer cell line MCF-7,
+                    while being only slightly toxic to normal primary human hepatic stellate cells
+                    (HHSteCs). These findings suggest that lignin extracts from <italic>A. nilotica</italic>
+                    wood have a remarkable potential to prevent disease caused by the overproduction
+                    of radicals. They are also promising candidates as natural antioxidants and
+                    anti-cancer agents. These results suggest putative applications of lignin
+                    extracted from <italic>A. nilotica</italic> in the cosmetic, pharmaceutical and
+                    food processing industries, among others [<xref rid="B14-ijms-18-01219"
+                        ref-type="bibr">14</xref>].</p>
+                <p>The effect of lignosulfonic acid on intestinal glucose absorption was also
+                    studied recently [<xref rid="B15-ijms-18-01219" ref-type="bibr">15</xref>]. It
+                    was shown that lignosulfonic acid is a reversible and non-competitive inhibitor
+                    of &#x003b1;-glucosidase, indicating that it can bind to both the enzyme and
+                    enzyme-substrate complex. This inhibitory effect on &#x003b1;-glucosidase
+                    activity was enhanced by preincubation of the lignosulfonic acid with the
+                    enzyme, involving slow binding. The administration of glucose and lignosulfonic
+                    acid induced a delay in glucose uptake compared to administration of glucose
+                    alone and a reduction in blood glucose concentration. This suggests inhibition
+                    of glucose transport through the intestine, based also on the results observed
+                    in vitro using Caco-2 cells, where lignosulfonic acid significantly inhibited
+                    the uptake of 2-deoxyglucose. The authors suggested that lignins and
+                    lignosulfonic acid could be used in the treatment of diabetes.</p>
+                <p>Other potentially beneficial effects of lignosulfonic acid have been studied for
+                    the treatment of diabetes. Lignosulfonic acid has been demonstrated to inhibit
+                    mitotic clonal expansion of 3T3-L1 preadipocyte cells in vitro (<xref
+                        ref-type="fig" rid="ijms-18-01219-f002">Figure 2</xref>). Moreover, feeding
+                    lignosulfonic acid to KK-Ay diabetic mice suppressed the increase of serum
+                    glucose levels seen in untreated control animals [<xref rid="B16-ijms-18-01219"
+                        ref-type="bibr">16</xref>].</p>
+            </sec>
+            <sec id="sec2dot2-ijms-18-01219">
+                <title>2.2. Lignophenols in Obesity Control</title>
+                <p>Lignophenols (LPs), which are lignin derivatives, were first isolated many years
+                    ago using a phase-separation system [<xref rid="B17-ijms-18-01219"
+                        ref-type="bibr">17</xref>]. Their chemical structure is similar to that of
+                    natural lignin. Although LPs are known to be highly phenolic and highly stable,
+                    and also to exhibit antioxidant properties in vitro [<xref
+                        rid="B18-ijms-18-01219" ref-type="bibr">18</xref>], their physiological role
+                    remains unclear.</p>
+                <p>LPs derived from bamboo were reported to prevent hydrogen peroxide-induced cell
+                    death in vitro [<xref rid="B19-ijms-18-01219" ref-type="bibr">19</xref>]. LPs
+                    reduced oleate-induced apolipoprotein-B secretion and sterol regulatory element
+                    binding protein-2 in HepG2 cells. Meanwhile, treatment with LPs significantly
+                    decreased oleate-induced apo-B secretion from HepG2 cells in a dose-dependent
+                    manner. At least in part, LPs may attenuate apo-B secretion by decreasing the
+                    rate of exit from the rough endoplasmic reticulum, which is controlled by the
+                    microsomal triglyceride transfer protein. Moreover, LPs reduce the amount of
+                    cholesterol in HepG2 in a dose-dependent manner (<xref ref-type="fig"
+                        rid="ijms-18-01219-f003">Figure 3</xref>) [<xref rid="B20-ijms-18-01219"
+                        ref-type="bibr">20</xref>].</p>
+                <p>Moreover, LPs attenuated the excess oxidative stress, infiltration and activation
+                    of macrophages, as well as glomerular expansion in the kidneys of
+                    streptozotocin-induced diabetic rats [<xref rid="B21-ijms-18-01219"
+                        ref-type="bibr">21</xref>]. However, there is limited information on the
+                    potential beneficial effects of a LP rich diet on diet-induced obesity. In
+                    conclusion, it has been demonstrated that LP treatment suppresses adipose
+                    tissues, plasma triglyceride levels, and hepatic expression of SREBP-1c mRNA in
+                    rats fed a high-fat diet. However, the mechanism underlying the effects of LP
+                    treatment on lipid metabolism in diet-induced obesity should be studied further,
+                    as the results may facilitate the formulation of preventive care strategies for
+                    obesity [<xref rid="B22-ijms-18-01219" ref-type="bibr">22</xref>].</p>
+            </sec>
+            <sec id="sec2dot3-ijms-18-01219">
+                <title>2.3. Lignosulfonic Acid with Antiviral Activity</title>
+                <p>Lignosulfonic acid (LA) is a low-cost lignin-derived polyanionic macromolecule.
+                    It is derived from the sulfite pulping of softwood used in the paper industry
+                    and is also used as a raw material in the production of artificial vanilla
+                    flavor, vanillin [<xref rid="B23-ijms-18-01219" ref-type="bibr">23</xref>].</p>
+                <p>The antiviral activity of lignosulfonic acid has been studied in vivo and in
+                    vitro. Lignosulfonic acid exhibits potent and consistent broad-spectrum anti-HIV
+                    activity in the lower &#x003bc;M range, showing low, if any, cytotoxicity in
+                    replication and co-cultivation assays. The in vivo studies were performed in
+                    infected mice by exposing scarified skin to an HSV-2 G suspension. The
+                    development of lesions and mortality were recorded over 25 days. Primary lesions
+                    developed at the site of inoculation and the severity of the infection was
+                    scored based on the number and size of the lesions [<xref
+                        rid="B24-ijms-18-01219" ref-type="bibr">24</xref>].</p>
+                <p>Different cells were also used such as a human T-cell leukemia cell line (MT-4),
+                    human embryonic kidney cells (HEK293T) and peripheral blood mononuclear cells
+                    (PBMCs) infected with HIV. The in vitro and in vivo results of inhibition of
+                    both HIV (<xref ref-type="fig" rid="ijms-18-01219-f004">Figure 4</xref>) and HSV
+                    transmission and infection by lignosulfonic acid, together with its high
+                    availability and safety profile, make it a very promising antiviral candidate [<xref
+                        rid="B25-ijms-18-01219" ref-type="bibr">25</xref>].</p>
+                <p>Lignosulfonic acid also exhibits potent and broad activity against HIV-1 isolates
+                    of diverse subtypes, including two North America strains and a number of Chinese
+                    clinical isolates. Therapeutic viral reverse transcriptase inhibitor has
+                    successfully been tested in clinical trials and it has been demonstrated to be
+                    safe and effective in preventing sexual transmission of HIV-1 [<xref
+                        rid="B26-ijms-18-01219" ref-type="bibr">26</xref>]. The synergistic effects
+                    of lignosulfonic acid in combination with a number of reverse transcriptase
+                    inhibitors, together with its low toxicity to epithelial cells, make
+                    lignosulfonic acid an interesting candidate as a topical microbicide. Topical
+                    application of lignosulfonic acid, opposed to systemic use, would avoid the low
+                    capacity to penetrate blood barriers and toxicity to lymphocytes [<xref
+                        rid="B27-ijms-18-01219" ref-type="bibr">27</xref>]. Lignosulfonic acid shows
+                    no adverse effect on epithelial integrity and on the tight junction protein
+                    expression. Furthermore, it modulates inflammatory cytokine expression.
+                    Moreover, lignosulfonic acid did not disturb the growth of lactobacillus, an
+                    important component of vaginal microflora. Together, these results suggest that
+                    lignosulfonic acid deserves to be studied further as a topical microbicide
+                    candidate [<xref rid="B28-ijms-18-01219" ref-type="bibr">28</xref>].</p>
+            </sec>
+            <sec id="sec2dot4-ijms-18-01219">
+                <title>2.4. Lignin&#x02013;Carbohydrate Complexes as Antiviral Agents and
+                    Immunomodulators</title>
+                <p>Lignin and carbohydrate molecules can be physically or chemically bonded to each
+                    other, mainly by covalent bonds. In wood, these complexes consist of ester and
+                    ether linkages through sugar hydroxyl to the &#x003b1;-carbanol of phenylpropane
+                    subunits in lignin. Water-soluble lignin&#x02013;carbohydrate complexes (LCCs)
+                    often precipitate during digestion with polysaccharidases, and the residual
+                    sugars are more diverse than the bulk hemicellulose [<xref
+                        rid="B29-ijms-18-01219" ref-type="bibr">29</xref>]. They can be obtained
+                    from different sources, such as sugarcane bagasse [<xref rid="B30-ijms-18-01219"
+                        ref-type="bibr">30</xref>].</p>
+                <p>LCCs have been prepared by sequential alkaline extraction and acid precipitation
+                    from pinecones and pine nut shells, as well as from extracts of <italic>Lentinus
+                    edodes mycelia</italic> and <italic>Sasa senanensis Rehder</italic> leaves. They
+                    show excellent anti-UV activity [<xref rid="B31-ijms-18-01219" ref-type="bibr">
+                    31</xref>,<xref rid="B32-ijms-18-01219" ref-type="bibr">32</xref>] and so they
+                    could be used in cosmetic sun care products [<xref rid="B33-ijms-18-01219"
+                        ref-type="bibr">33</xref>].</p>
+                <p>Pinecone LCC from <italic>Prunella vulgaris</italic> with a molecular weight of
+                    8500 has been reported to show anti-herpes activity, by inhibiting viral binding
+                    and penetration [<xref rid="B34-ijms-18-01219" ref-type="bibr">34</xref>]. More
+                    recent work suggested that LCCs from <italic>P. anisum</italic> show antiviral
+                    activities against the herpes simplex virus, human cytomegalovirus and the
+                    measles virus [<xref rid="B35-ijms-18-01219" ref-type="bibr">35</xref>].</p>
+                <p>LCCs protected cells from the cytopathic effects of HIV infection and UV
+                    irradiation more efficiently than other polyphenols. Limited digestion of LCCs
+                    suggests that the lignin moiety is involved in the prominent anti-HIV activity;
+                    whereas the carbohydrate moiety may function in immunopotentiating activity
+                    through a cell surface receptor [<xref rid="B36-ijms-18-01219" ref-type="bibr">
+                    36</xref>].</p>
+                <p>LCCs prepared from cacao husk and cacao mass also present anti-HIV activity, with
+                    that from cacao husk showing greater activity. Moreover, they synergistically
+                    enhance the superoxide anion and hydroxyl radical-scavenging activity of vitamin
+                    C, and stimulate nitric oxide generation by mouse macrophage-like cells
+                    (RAW264.7) [<xref rid="B37-ijms-18-01219" ref-type="bibr">37</xref>]. In
+                    accordance with these findings, LCCs seem to be a chemical class that shows
+                    biological antiviral activities and immunomodulatory effects.</p>
+                <p>Two carboxylated lignins based on a 4-hydroxy cinnamic acid scaffold were
+                    synthesized using enzymatic oxidative coupling. They have been studied in HeLa
+                    cells infected with herpes simplex virus-1 (HSV-1). The two carboxylated lignins
+                    were found to inhibit HSV-1 entry into mammalian cells and to be more potent
+                    than sulfated lignins [<xref rid="B38-ijms-18-01219" ref-type="bibr">38</xref>].</p>
+            </sec>
+            <sec id="sec2dot5-ijms-18-01219">
+                <title>2.5. Low-Molecular-Weight Lignins as Anticoagulant and Anti-Emphysema Agents</title>
+                <p>An old study demonstrated the anticoagulant activity of sulfonated lignins [<xref
+                        rid="B39-ijms-18-01219" ref-type="bibr">39</xref>]. More recently, in one
+                    approach to designing new anticoagulants with a dual hydrophobic and anionic
+                    nature, sulfated low-molecular-weight variants of lignins were prepared as
+                    functional mimetics of low-molecular-weight heparin [<xref
+                        rid="B40-ijms-18-01219" ref-type="bibr">40</xref>].</p>
+                <p>Sulfated low-molecular-weight lignins (LMWLs) are composed of oligomeric chains
+                    of varying lengths and contain different intermonomeric linkages, such as
+                    &#x003b2;-<italic>O</italic>-4 and &#x003b2;-5.</p>
+                <p>Mechanistically, the sulfated LMWLs were found to act via a novel anticoagulation
+                    mechanism involving exosite II-mediated allosteric inhibition of thrombin [<xref
+                        rid="B41-ijms-18-01219" ref-type="bibr">41</xref>].</p>
+                <p>Overall, the chemo-enzymatic origin of sulfated LMWL, coupled with dual plasmin
+                    and thrombin inhibition properties, presents novel opportunities for designing
+                    new pharmaceutical agents that could regulate complex pathologies in which both
+                    systems are known to play important roles [<xref rid="B42-ijms-18-01219"
+                        ref-type="bibr">42</xref>].</p>
+                <p>Sulfated LMWLs (<xref ref-type="fig" rid="ijms-18-01219-f005">Figure 5</xref>)
+                    represent a totally novel class of anticoagulants, which utilize the heparin
+                    binding domain to induce allosteric inhibition of a variety of serine
+                    coagulation proteases. Although other ligands have been reported to bind to the
+                    heparin binding site of serine coagulation proteases, none has exhibited a
+                    direct anticoagulant effect [<xref rid="B43-ijms-18-01219" ref-type="bibr">43</xref>
+                    ].</p>
+                <p>Sulfated &#x003b2;-<italic>O</italic>-lignins have been recently discovered as
+                    anticoagulants. They simultaneously induce anticoagulation and antiplatelet
+                    actions by targeting exosite 2 of thrombin to reduce fibrinogen cleavage through
+                    allostery and compete with glycoprotein Iba to reduce platelet activation [<xref
+                        rid="B44-ijms-18-01219" ref-type="bibr">44</xref>].</p>
+                <p>Based on the results obtained with LMWLs as anticoagulants with potent inhibitory
+                    effects on blood serine proteases, factor Xa and thrombin, a recent study
+                    propose the use of these lignins in the treatment of emphysema. Emphysema is one
+                    of the major pathological manifestations of chronic obstructive pulmonary
+                    disease, which causes high morbidity and mortality worldwide. Elastolysis,
+                    oxidative stress and inflammation in different lung cells have been suggested as
+                    three major pathogenic mechanisms causing emphysema [<xref
+                        rid="B45-ijms-18-01219" ref-type="bibr">45</xref>]. Another recent study
+                    described novel unsulfated or sulfated LMWLs prepared from three
+                    4-hydroxycinnamic acids, caffeic acid, ferulic acid and sinapic acid. They
+                    possessed potent inhibitory activity against neutrophil elastase, oxidation and
+                    inflammation in vitro [<xref rid="B46-ijms-18-01219" ref-type="bibr">46</xref>].</p>
+            </sec>
+            <sec id="sec2dot6-ijms-18-01219">
+                <title>2.6. Lignin-Based Nanoparticles for Drug Delivery</title>
+                <p>Some years ago, different authors demonstrated the capacity of nanoparticles
+                    (NPs) obtained from lignin for the controlled release of different herbicides
+                    and pesticides [<xref rid="B47-ijms-18-01219" ref-type="bibr">47</xref>,<xref
+                        rid="B48-ijms-18-01219" ref-type="bibr">48</xref>]. This potential can be
+                    extended to the release of different drugs in human medicine.</p>
+                <p>NPs from lignin have the advantage of being non-toxic and biodegradable, and for
+                    this reason they are suitable for drug delivery and, as stabilizers of cosmetic
+                    and pharmaceutical formulations. They can also be used in areas where they may
+                    replace more expensive and potentially toxic nanomaterials [<xref
+                        rid="B49-ijms-18-01219" ref-type="bibr">49</xref>].</p>
+                <p>Recently, water-dispersed lignin NPs have been developed which can be used to
+                    stabilize Pickering emulsions as well as to carry silver ions in antimicrobial
+                    applications. These could also be used in drug delivery applications that may
+                    include cancer treatments [<xref rid="B50-ijms-18-01219" ref-type="bibr">50</xref>
+                    ].</p>
+                <p>Lignin is one of the most abundant biopolymers in nature; it is also naturally
+                    biodegradable, biocompatible and presents very good stability. Together, all
+                    this makes lignin an ideal precursor for the development of environmentally
+                    friendly nanomaterials, in contrast to many other NPs used in anticancer therapy
+                    [<xref rid="B51-ijms-18-01219" ref-type="bibr">51</xref>].</p>
+                <p>In addition to their biocompatibility and very good stability, innovative lignin
+                    NPs exhibit other important features for drug delivery and biomedical
+                    applications (<xref ref-type="fig" rid="ijms-18-01219-f006">Figure 6</xref>).
+                    These include the capacity to carry hydrophobic drugs and sustain their release,
+                    and good cellular interactions. As a result of their surface structure, lignin
+                    NPs can be modified with targeting moieties in order to increase cellular
+                    interaction with specific cells, e.g., for cancer therapy. Also, pH-sensitive
+                    polymers can be added to lignin-based NPs to allow pH-responsive drug release
+                    and possibly loading of hydrophilic drugs. NPs loaded with drugs that are only
+                    poorly water soluble, such as benzazulene and sorafenib, or with a water-soluble
+                    anticancer drug such as capecitabine, showed inhibitory effects on different
+                    cancer cells including MDA-MB-231 and MCF-7 (human breast cancer cell lines),
+                    PC3-MM2 (a prostate cancer cell line), Caco-2 (colorectal adenocarcinoma).
+                    EA.hy926, a non-tumor cell line, was used for comparative purposes [<xref
+                        rid="B52-ijms-18-01219" ref-type="bibr">52</xref>].</p>
+                <p>Another demonstrated application of lignin NPs is sun protection. Lignins were
+                    obtained from <italic>A. tequilana Weber</italic> bagasse by soda and organosolv
+                    pulping, and then two lignin NPs were synthesized.</p>
+                <p>The UV absorption of organosolv-type NPs in combination with a neutral vehicle
+                    shows similar levels of protection (as expressed by the sun protection factor:
+                    SPF) to ZnO NPs; and they were higher than those for soda lignin NPs. The
+                    addition of ZnO NPs together with lignin resulted in an additive enhancement of
+                    SPF in these formulations, especially with lignin from soda pulping (<xref
+                        ref-type="fig" rid="ijms-18-01219-f007">Figure 7</xref>).</p>
+                <p>Bulk lignin absorbs only one-fourth of the UV intensity absorbed by lignin NPs.
+                    This demonstrates the effect of the smaller size on the UV absorption properties
+                    of lignin. Although nanosized lignin formulation still requires optimization,
+                    initial results suggest a viable new option from sustainable resources for use
+                    in photoprotection [<xref rid="B53-ijms-18-01219" ref-type="bibr">53</xref>].</p>
+                <p>Lignin can be coated on silverNPs in order to increase their antibacterial
+                    activity. For this application, silica/lignin hybrid materials were first
+                    obtained. The silica surface, suitably modified using <italic>N</italic>-(2-aminoethyl)-3-aminopropyltrimethoxysilane,
+                    and kraft lignin, activated with a solution of a strong oxidizing agent, were
+                    bound together in a chemically permanent fashion. Next, silver NPs were grafted
+                    onto the surface of the silica/lignin hybrids. Presumably the chemical or ionic
+                    nature of the hybrid-silver nanoparticles (NP) bonds provides the high stability
+                    of silver NPs, as well as extended longevity of the antibacterial activity. The
+                    use of a relatively cheap inorganic material, in combination with lignin, which
+                    is a waste product of the paper industry, thus made it possible to create a
+                    hybrid material which is as biocompatible as pure silica, but even more
+                    cost-efficient. With its surface effectively functionalized with silver NPs, the
+                    hybrid material demonstrated antibacterial activity against all the tested
+                    species of bacteria. The strongest antimicrobial effect was observed in the case
+                    of <italic>P. aeruginosa</italic>, an opportunistic human pathogen [<xref
+                        rid="B54-ijms-18-01219" ref-type="bibr">54</xref>].</p>
+                <p>Chitosan-based delivery systems have been used for the improved delivery and
+                    controlled release of peptides, proteins, oligonucleotides and plasmids, by
+                    protecting the macromolecules from enzymatic degradation [<xref
+                        rid="B55-ijms-18-01219" ref-type="bibr">55</xref>]. For the production of
+                    chitosan NPs, the addition of an anionic compound is the most common technique,
+                    but this is limited by the ionic interaction between chitosan and the anionic
+                    compound. For this reason, the use of sulfonated lignin was proposed as a
+                    counter ion polymer, to increase the stability of chitosan NPs [<xref
+                        rid="B56-ijms-18-01219" ref-type="bibr">56</xref>] and to provide
+                    antimicrobial activity [<xref rid="B57-ijms-18-01219" ref-type="bibr">57</xref>
+                    ].</p>
+                <p>The beneficial effects of lignosulfonate complexes on chitosan NPs were
+                    characterized, showing greater stability to lysozyme degradation,
+                    biocompatibility with human cells and antimicrobial activity against both
+                    Gram-negative and Gram-positive bacteria. The recovery of fibroblasts from
+                    cytotoxic effects has been demonstrated, indicating that these NPs can safely be
+                    applied to human skin [<xref rid="B56-ijms-18-01219" ref-type="bibr">56</xref>].</p>
+            </sec>
+            <sec id="sec2dot7-ijms-18-01219">
+                <title>2.7. Other Lignins in Drug Delivery</title>
+                <p>Lignin from sugarcane has been used to deliver methrotrexate, a drug used in the
+                    treatment of rheumatoid arthritis in a rat model. Lignin was deemed to disperse
+                    into the intercapillary blood vessels, transporting the drug towards
+                    hard-to-target inflamed tissues. In the methrotrexate&#x02013;lignin drug
+                    carrier, the interlayer sheet structure of the lignin matrix, together with the
+                    dispensed angstrom-sized cellulosic crystals over the lignin, result in
+                    methotrexate being released in cells. Moreover, the methrotrexate-lignin drug
+                    delivery system repaired seminiferous tubules [<xref rid="B58-ijms-18-01219"
+                        ref-type="bibr">58</xref>].</p>
+                <p>A xanthan and lignin epoxy-modified resin (LER) mixture was crosslinked using
+                    epichlorohydrin as the crosslinking agent, leading to superabsorbent hydrogels
+                    with a fast swelling rate in aqueous mediums. These hydrogels were tested as
+                    carries by the loading/delivery behavior of bisoprolol fumarate, a drug that
+                    belongs to the group of medicines called beta-blockers that are used in the
+                    treatment of stable chronic heart failure. The amount of drug loaded into the
+                    polymer networks was found to range between 14.4% and 19.2%. Drug release was
+                    retarded and the release mechanism of the active principle was found to depend
+                    on the composition of the matrix [<xref rid="B59-ijms-18-01219" ref-type="bibr">
+                    59</xref>].</p>
+                <p>An interesting review of the research performed on the lignin-based controlled
+                    release of bioactive materials concluded that the transformed lignin materials
+                    may be helpful for studies of water-insoluble drug loading and their release.
+                    This can be considered further potential for future value-adding applications of
+                    lignins in biomedical fields [<xref rid="B60-ijms-18-01219" ref-type="bibr">60</xref>
+                    ].</p>
+            </sec>
+            <sec id="sec2dot8-ijms-18-01219">
+                <title>2.8. Lignin Metabolites in Cancer</title>
+                <p>The chaga mushroom, Inonotus obliquus, has been recognized as a remedy for
+                    cancer, gastritis, ulcers, and tuberculosis of the bones since the 16th century
+                    [<xref rid="B61-ijms-18-01219" ref-type="bibr">61</xref>]. Two homogenous
+                    carbohydrate&#x02013;lignin metabolites from water-soluble fractions were
+                    obtained and their antiproliferative activity was studied.</p>
+                <p>Chemical and spectral characterizations indicated that both were lignin
+                    metabolites in which carbohydrate constituents made hydrophobic lignin highly
+                    water-soluble. Cytotoxicity tests showed that these lignin derivatives induced
+                    cell apoptosis, which was largely cell-cycle independent. In addition, both
+                    carbohydrate-lignin metabolites inhibited the activation of the nuclear
+                    transcription factor NF-&#x003ba;B in cancer cells [<xref
+                        rid="B62-ijms-18-01219" ref-type="bibr">62</xref>].</p>
+            </sec>
+        </sec>
+        <sec id="sec3-ijms-18-01219">
+            <title>3. Conclusions</title>
+            <p>Lignins are obtained from various plants or biomass via a range of processes.
+                However, they are generally obtained as a by-product from the black liquor of
+                chemical pulping processes. Lignins are currently used to produce energy, through
+                great efforts are being made to find new applications of them, since they are
+                relatively cheap. Since these readily available plant-derived materials are
+                biocompatible, research on their potential use in biomedical applications has
+                increased in recent years. In many cases the application of lignins is based on
+                their antioxidant capacity. The applications of lignins studied include their
+                antiviral and antitumor effects. Moreover, the use of lignins in the development of
+                NPs for drug delivery is increasing. <xref ref-type="table" rid="ijms-18-01219-t001">Table
+                1</xref> shows the main pharmacological activities of lignins and their derivatives.</p>
+        </sec>
+    </body>
+    <back>
+        <app-group>
+            <app id="app1-ijms-18-01219">
+                <title>Supplementary Materials</title>
+                <p>Supplementary materials can be found at <uri
+                        xlink:href="www.mdpi.com/1422-0067/18/6/1219/s1">
+                    www.mdpi.com/1422-0067/18/6/1219/s1</uri>.</p>
+                <supplementary-material content-type="local-data" id="ijms-18-01219-s001">
+                    <media xlink:href="ijms-18-01219-s001.zip">
+                        <caption>
+                            <p>Click here for additional data file.</p>
+                        </caption>
+                    </media>
+                </supplementary-material>
+            </app>
+        </app-group>
+        <notes>
+            <title>Author Contributions</title>
+            <p>Maria Pilar Vinardell and Montserrat Mitjans participated in the search of
+                information to write this review and participate in its redaction.</p>
+        </notes>
+        <notes notes-type="COI-statement">
+            <title>Conflicts of Interest</title>
+            <p>The authors declare no conflict of interest.</p>
+        </notes>
+        <ref-list>
+            <title>References</title>
+            <ref id="B1-ijms-18-01219">
+                <label>1.</label>
+                <element-citation publication-type="book">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Garcia</surname>
+                            <given-names>A.</given-names>
+                        </name>
+                        <name>
+                            <surname>Erdocia</surname>
+                            <given-names>X.</given-names>
+                        </name>
+                        <name>
+                            <surname>Gonzalez Alriols</surname>
+                            <given-names>M.</given-names>
+                        </name>
+                        <name>
+                            <surname>Labidi</surname>
+                            <given-names>J.</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Physicochemical Properties and Potential Applications of Lignins
+                        from Various Sources</article-title>
+                    <source>Lignin: Structural Analysis, Applications in Biomaterials and Ecological
+                        Significance</source>
+                    <edition>6th ed.</edition>
+                    <person-group person-group-type="editor">
+                        <name>
+                            <surname>Lu</surname>
+                            <given-names>F.</given-names>
+                        </name>
+                    </person-group>
+                    <publisher-name>NOVA Publisher</publisher-name>
+                    <publisher-loc>New York, NY, USA</publisher-loc>
+                    <year>2014</year>
+                    <fpage>127</fpage>
+                    <lpage>160</lpage>
+                </element-citation>
+            </ref>
+            <ref id="B2-ijms-18-01219">
+                <label>2.</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Toledano</surname>
+                            <given-names>A.</given-names>
+                        </name>
+                        <name>
+                            <surname>Serrano</surname>
+                            <given-names>L.</given-names>
+                        </name>
+                        <name>
+                            <surname>Balu</surname>
+                            <given-names>A.M.</given-names>
+                        </name>
+                        <name>
+                            <surname>Luque</surname>
+                            <given-names>R.</given-names>
+                        </name>
+                        <name>
+                            <surname>Pineda</surname>
+                            <given-names>A.</given-names>
+                        </name>
+                        <name>
+                            <surname>Labidi</surname>
+                            <given-names>J.</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Fractionation of organosolv lignin from olive tree clippings and
+                        its valorization to simple phenolic compounds</article-title>
+                    <source>ChemSusChem</source>
+                    <year>2013</year>
+                    <volume>6</volume>
+                    <fpage>529</fpage>
+                    <lpage>536</lpage>
+                    <pub-id pub-id-type="doi">10.1002/cssc.201200755</pub-id>
+                    <pub-id pub-id-type="pmid">23404837</pub-id>
+                </element-citation>
+            </ref>
+            <ref id="B3-ijms-18-01219">
+                <label>3.</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Pan</surname>
+                            <given-names>X.</given-names>
+                        </name>
+                        <name>
+                            <surname>Kadla</surname>
+                            <given-names>J.F.</given-names>
+                        </name>
+                        <name>
+                            <surname>Ehara</surname>
+                            <given-names>K.</given-names>
+                        </name>
+                        <name>
+                            <surname>Gilkes</surname>
+                            <given-names>N.</given-names>
+                        </name>
+                        <name>
+                            <surname>Saddler</surname>
+                            <given-names>J.N.</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Organosolv ethanol lignin from hybrid poplar as a radical
+                        scavenger: Relationship between lignin structure, extraction conditions, and
+                        antioxidant activity</article-title>
+                    <source>J. Agric. Food Chem.</source>
+                    <year>2006</year>
+                    <pub-id pub-id-type="doi">10.1021/jf0605392</pub-id>
+                    <pub-id pub-id-type="pmid">16881681</pub-id>
+                </element-citation>
+            </ref>
+            <ref id="B4-ijms-18-01219">
+                <label>4.</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Azadfar</surname>
+                            <given-names>M.</given-names>
+                        </name>
+                        <name>
+                            <surname>Gao</surname>
+                            <given-names>A.H.</given-names>
+                        </name>
+                        <name>
+                            <surname>Bule</surname>
+                            <given-names>M.V.</given-names>
+                        </name>
+                        <name>
+                            <surname>Chen</surname>
+                            <given-names>S.</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Structural characterization of lignin: A potential source of
+                        antioxidants guaiacol and 4-vinylguaiacol</article-title>
+                    <source>Int. J. Biol. Macromol.</source>
+                    <year>2015</year>
+                    <volume>75</volume>
+                    <fpage>58</fpage>
+                    <lpage>66</lpage>
+                    <pub-id pub-id-type="doi">10.1016/j.ijbiomac.2014.12.049</pub-id>
+                    <pub-id pub-id-type="pmid">25603142</pub-id>
+                </element-citation>
+            </ref>
+            <ref id="B5-ijms-18-01219">
+                <label>5.</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Zakzeski</surname>
+                            <given-names>J.</given-names>
+                        </name>
+                        <name>
+                            <surname>Bruijnincx</surname>
+                            <given-names>P.C.A.</given-names>
+                        </name>
+                        <name>
+                            <surname>Jongerius</surname>
+                            <given-names>A.L.</given-names>
+                        </name>
+                        <name>
+                            <surname>Weckhuysen</surname>
+                            <given-names>B.M.</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>The Catalytic Valorization of Lignin for the Production of
+                        Renewable Chemicals</article-title>
+                    <source>Chem. Rev.</source>
+                    <year>2010</year>
+                    <volume>110</volume>
+                    <fpage>3552</fpage>
+                    <lpage>3599</lpage>
+                    <pub-id pub-id-type="doi">10.1021/cr900354u</pub-id>
+                    <pub-id pub-id-type="pmid">20218547</pub-id>
+                </element-citation>
+            </ref>
+            <ref id="B6-ijms-18-01219">
+                <label>6.</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Kai</surname>
+                            <given-names>D.</given-names>
+                        </name>
+                        <name>
+                            <surname>Tan</surname>
+                            <given-names>M.J.</given-names>
+                        </name>
+                        <name>
+                            <surname>Chee</surname>
+                            <given-names>P.L.</given-names>
+                        </name>
+                        <name>
+                            <surname>Chua</surname>
+                            <given-names>Y.K.</given-names>
+                        </name>
+                        <name>
+                            <surname>Yap</surname>
+                            <given-names>Y.L.</given-names>
+                        </name>
+                        <name>
+                            <surname>Loh</surname>
+                            <given-names>X.J.</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Towards lignin-based functional materials in a sustainable world</article-title>
+                    <source>Green Chem.</source>
+                    <year>2016</year>
+                    <volume>18</volume>
+                    <fpage>1175</fpage>
+                    <lpage>1200</lpage>
+                    <pub-id pub-id-type="doi">10.1039/C5GC02616D</pub-id>
+                </element-citation>
+            </ref>
+            <ref id="B7-ijms-18-01219">
+                <label>7.</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Ugartondo</surname>
+                            <given-names>V.</given-names>
+                        </name>
+                        <name>
+                            <surname>Mitjans</surname>
+                            <given-names>M.</given-names>
+                        </name>
+                        <name>
+                            <surname>Vinardell</surname>
+                            <given-names>M.P.</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Compartive antioxidant and cytotoxic effects of lignins from
+                        different sources</article-title>
+                    <source>Bioresour. Technol.</source>
+                    <year>2008</year>
+                    <volume>99</volume>
+                    <fpage>6683</fpage>
+                    <lpage>6687</lpage>
+                    <pub-id pub-id-type="doi">10.1016/j.biortech.2007.11.038</pub-id>
+                    <pub-id pub-id-type="pmid">18187323</pub-id>
+                </element-citation>
+            </ref>
+            <ref id="B8-ijms-18-01219">
+                <label>8.</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Banard</surname>
+                            <given-names>D.L.</given-names>
+                        </name>
+                        <name>
+                            <surname>Heaton</surname>
+                            <given-names>K.W.</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Bile acids and vitamin A absorption in man: The effect of two
+                        bile acid-binding agents, chloestyramine and lignin</article-title>
+                    <source>Gut</source>
+                    <year>1973</year>
+                    <volume>14</volume>
+                    <fpage>316</fpage>
+                    <lpage>318</lpage>
+                    <pub-id pub-id-type="doi">10.1136/gut.14.4.316</pub-id>
+                    <pub-id pub-id-type="pmid">4706914</pub-id>
+                </element-citation>
+            </ref>
+            <ref id="B9-ijms-18-01219">
+                <label>9.</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Reddy</surname>
+                            <given-names>B.S.</given-names>
+                        </name>
+                        <name>
+                            <surname>Maeura</surname>
+                            <given-names>Y.</given-names>
+                        </name>
+                        <name>
+                            <surname>Wayman</surname>
+                            <given-names>M.</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Effects of dietary corn bran and autohydrolyzed lignin on
+                        3,2&#x02032;-dimethyl-4-aminobiphenyl-induced intestinal
+                        carcinog&#x000e9;nesis in male F344 rats</article-title>
+                    <source>J. Natl. Cancer Inst.</source>
+                    <year>1983</year>
+                    <volume>71</volume>
+                    <fpage>419</fpage>
+                    <lpage>423</lpage>
+                    <pub-id pub-id-type="pmid">6308324</pub-id>
+                </element-citation>
+            </ref>
+            <ref id="B10-ijms-18-01219">
+                <label>10.</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Martinez</surname>
+                            <given-names>V.</given-names>
+                        </name>
+                        <name>
+                            <surname>Mitjans</surname>
+                            <given-names>M.</given-names>
+                        </name>
+                        <name>
+                            <surname>Vinardell</surname>
+                            <given-names>M.P.</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Pharmacological applications of lignins and lignins related
+                        compounds: An overview</article-title>
+                    <source>Curr. Organ. Chem.</source>
+                    <year>2012</year>
+                    <volume>16</volume>
+                    <fpage>1863</fpage>
+                    <lpage>1870</lpage>
+                    <pub-id pub-id-type="doi">10.2174/138527212802651223</pub-id>
+                </element-citation>
+            </ref>
+            <ref id="B11-ijms-18-01219">
+                <label>11.</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Barapatre</surname>
+                            <given-names>A.</given-names>
+                        </name>
+                        <name>
+                            <surname>Meena</surname>
+                            <given-names>A.S.</given-names>
+                        </name>
+                        <name>
+                            <surname>Mekala</surname>
+                            <given-names>S.</given-names>
+                        </name>
+                        <name>
+                            <surname>Das</surname>
+                            <given-names>A.</given-names>
+                        </name>
+                        <name>
+                            <surname>Jha</surname>
+                            <given-names>H.</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>In vitro evaluation of antioxidant and cytotoxic activities of
+                        lignin fractions extracted from Acacia nilotica</article-title>
+                    <source>Int. J. Biol. Macromol.</source>
+                    <year>2016</year>
+                    <volume>86</volume>
+                    <fpage>443</fpage>
+                    <lpage>453</lpage>
+                    <pub-id pub-id-type="doi">10.1016/j.ijbiomac.2016.01.109</pub-id>
+                    <pub-id pub-id-type="pmid">26836619</pub-id>
+                </element-citation>
+            </ref>
+            <ref id="B12-ijms-18-01219">
+                <label>12.</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Quesille-Villalobos</surname>
+                            <given-names>A.M.</given-names>
+                        </name>
+                        <name>
+                            <surname>Torrico</surname>
+                            <given-names>J.S.</given-names>
+                        </name>
+                        <name>
+                            <surname>Ranilla</surname>
+                            <given-names>L.G.</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Phenolic compounds, antioxidant capacity, and in vitro
+                        &#x003b1;-amylase inhibitory potential of tea infusions (<italic>Camellia
+                        sinensis</italic>) commercialized in Chile</article-title>
+                    <source>CyTA J. Food</source>
+                    <year>2013</year>
+                    <volume>11</volume>
+                    <fpage>60</fpage>
+                    <lpage>67</lpage>
+                    <pub-id pub-id-type="doi">10.1080/19476337.2012.688219</pub-id>
+                </element-citation>
+            </ref>
+            <ref id="B13-ijms-18-01219">
+                <label>13.</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Kalaivani</surname>
+                            <given-names>T.</given-names>
+                        </name>
+                        <name>
+                            <surname>Mathew</surname>
+                            <given-names>L.</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Free radical scavenging activity from leaves of <italic>Acacia
+                        nilotica</italic> (L.) Wild. <italic>ex</italic> Delile, an Indian medicinal
+                        tree</article-title>
+                    <source>Food Chem. Toxicol.</source>
+                    <year>2010</year>
+                    <volume>48</volume>
+                    <fpage>298</fpage>
+                    <lpage>305</lpage>
+                    <pub-id pub-id-type="doi">10.1016/j.fct.2009.10.013</pub-id>
+                    <pub-id pub-id-type="pmid">19837122</pub-id>
+                </element-citation>
+            </ref>
+            <ref id="B14-ijms-18-01219">
+                <label>14.</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Barapatre</surname>
+                            <given-names>A.</given-names>
+                        </name>
+                        <name>
+                            <surname>Aadil</surname>
+                            <given-names>K.R.</given-names>
+                        </name>
+                        <name>
+                            <surname>Tiwary</surname>
+                            <given-names>B.N.</given-names>
+                        </name>
+                        <name>
+                            <surname>Jha</surname>
+                            <given-names>H.</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>In vitro antioxidant and antidiabetic activities of biomodified
+                        ligninfrom Acacia nilotica wood</article-title>
+                    <source>Int. J. Biol. Macromol.</source>
+                    <year>2015</year>
+                    <volume>75</volume>
+                    <fpage>81</fpage>
+                    <lpage>89</lpage>
+                    <pub-id pub-id-type="doi">10.1016/j.ijbiomac.2015.01.012</pub-id>
+                    <pub-id pub-id-type="pmid">25600985</pub-id>
+                </element-citation>
+            </ref>
+            <ref id="B15-ijms-18-01219">
+                <label>15.</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Hasegawa</surname>
+                            <given-names>Y.</given-names>
+                        </name>
+                        <name>
+                            <surname>Kadota</surname>
+                            <given-names>Y.</given-names>
+                        </name>
+                        <name>
+                            <surname>Hasegawa</surname>
+                            <given-names>C.</given-names>
+                        </name>
+                        <name>
+                            <surname>Kawiminami</surname>
+                            <given-names>S.</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Lignosulfonic acid-induced inhibition of intestinal glucose
+                        absorption</article-title>
+                    <source>J. Nutr. Sci. Vitaminol.</source>
+                    <year>2015</year>
+                    <volume>61</volume>
+                    <fpage>449</fpage>
+                    <lpage>454</lpage>
+                    <pub-id pub-id-type="doi">10.3177/jnsv.61.449</pub-id>
+                    <pub-id pub-id-type="pmid">26875485</pub-id>
+                </element-citation>
+            </ref>
+            <ref id="B16-ijms-18-01219">
+                <label>16.</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Hasegawa</surname>
+                            <given-names>Y.</given-names>
+                        </name>
+                        <name>
+                            <surname>Nakagawa</surname>
+                            <given-names>E.</given-names>
+                        </name>
+                        <name>
+                            <surname>Kadota</surname>
+                            <given-names>Y.</given-names>
+                        </name>
+                        <name>
+                            <surname>Kawiminami</surname>
+                            <given-names>S.</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Lignosulfonic acid promotes hypertrophy in 3T3-L1 cells without
+                        increasing lipid content and increases their 2-deoxyglucose uptake</article-title>
+                    <source>Asian-Austalas. J. Anim. Sci.</source>
+                    <year>2017</year>
+                    <volume>30</volume>
+                    <fpage>111</fpage>
+                    <lpage>118</lpage>
+                    <pub-id pub-id-type="doi">10.5713/ajas.16.0253</pub-id>
+                    <pub-id pub-id-type="pmid">27383805</pub-id>
+                </element-citation>
+            </ref>
+            <ref id="B17-ijms-18-01219">
+                <label>17.</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Funaoka</surname>
+                            <given-names>M.</given-names>
+                        </name>
+                        <name>
+                            <surname>Fukatsu</surname>
+                            <given-names>S.</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Characteristics of lignin structural conversion in a
+                        phase-separative reaction system composed of cresol and sulfuric acid</article-title>
+                    <source>Holzforschung</source>
+                    <year>1996</year>
+                    <volume>50</volume>
+                    <fpage>245</fpage>
+                    <lpage>252</lpage>
+                    <pub-id pub-id-type="doi">10.1515/hfsg.1996.50.3.245</pub-id>
+                </element-citation>
+            </ref>
+            <ref id="B18-ijms-18-01219">
+                <label>18.</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Fujita</surname>
+                            <given-names>S.</given-names>
+                        </name>
+                        <name>
+                            <surname>Ohmae</surname>
+                            <given-names>E.</given-names>
+                        </name>
+                        <name>
+                            <surname>Funaoka</surname>
+                            <given-names>M.</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>In Vitro the antioxidant activity of lignophenol from Beech (<italic>Fagus
+                        crenata</italic> Blume) and Hinoki (<italic>Cryptomeria japonica</italic> D
+                        Don)</article-title>
+                    <source>J. Jpn. Assoc. Diet. Fiber Res.</source>
+                    <year>2003</year>
+                    <volume>7</volume>
+                    <fpage>245</fpage>
+                    <lpage>252</lpage>
+                </element-citation>
+            </ref>
+            <ref id="B19-ijms-18-01219">
+                <label>19.</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Akao</surname>
+                            <given-names>Y.</given-names>
+                        </name>
+                        <name>
+                            <surname>Seki</surname>
+                            <given-names>N.</given-names>
+                        </name>
+                        <name>
+                            <surname>Nakagawa</surname>
+                            <given-names>Y.</given-names>
+                        </name>
+                        <name>
+                            <surname>Yi</surname>
+                            <given-names>H.</given-names>
+                        </name>
+                        <name>
+                            <surname>Matsumoto</surname>
+                            <given-names>K.</given-names>
+                        </name>
+                        <name>
+                            <surname>Ito</surname>
+                            <given-names>Y.</given-names>
+                        </name>
+                        <name>
+                            <surname>Ito</surname>
+                            <given-names>K.</given-names>
+                        </name>
+                        <name>
+                            <surname>Funaoka</surname>
+                            <given-names>M.</given-names>
+                        </name>
+                        <name>
+                            <surname>Maruyama</surname>
+                            <given-names>W.</given-names>
+                        </name>
+                        <name>
+                            <surname>Naoi</surname>
+                            <given-names>M.</given-names>
+                        </name>
+                        <etal />
+                    </person-group>
+                    <article-title>A highly bioactive lignophenol derivative from bamboo lignin
+                        exhibits a potent activity to suppress apoptosis induced by oxidative stress
+                        in human neuroblastoma SH-SY5Y cells</article-title>
+                    <source>Bioorgan. Med. Chem.</source>
+                    <year>2004</year>
+                    <volume>12</volume>
+                    <fpage>4791</fpage>
+                    <lpage>4801</lpage>
+                    <pub-id pub-id-type="doi">10.1016/j.bmc.2004.07.022</pub-id>
+                    <pub-id pub-id-type="pmid">15336257</pub-id>
+                </element-citation>
+            </ref>
+            <ref id="B20-ijms-18-01219">
+                <label>20.</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Norikura</surname>
+                            <given-names>T.</given-names>
+                        </name>
+                        <name>
+                            <surname>Mukai</surname>
+                            <given-names>Y.</given-names>
+                        </name>
+                        <name>
+                            <surname>Fujita</surname>
+                            <given-names>S.</given-names>
+                        </name>
+                        <name>
+                            <surname>Mikame</surname>
+                            <given-names>K.</given-names>
+                        </name>
+                        <name>
+                            <surname>Funaoka</surname>
+                            <given-names>M.</given-names>
+                        </name>
+                        <name>
+                            <surname>Sato</surname>
+                            <given-names>S.</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Lignophenols decrease oleate-induced apolipoprotein-B secretion
+                        in HepG2 cells</article-title>
+                    <source>Basic Clin. Pharmacol. Toxicol.</source>
+                    <year>2010</year>
+                    <volume>107</volume>
+                    <fpage>813</fpage>
+                    <lpage>817</lpage>
+                    <pub-id pub-id-type="doi">10.1111/j.1742-7843.2010.00575.x</pub-id>
+                    <pub-id pub-id-type="pmid">20412465</pub-id>
+                </element-citation>
+            </ref>
+            <ref id="B21-ijms-18-01219">
+                <label>21.</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Sato</surname>
+                            <given-names>S.</given-names>
+                        </name>
+                        <name>
+                            <surname>Mukai</surname>
+                            <given-names>Y.</given-names>
+                        </name>
+                        <name>
+                            <surname>Yamate</surname>
+                            <given-names>J.</given-names>
+                        </name>
+                        <name>
+                            <surname>Norikura</surname>
+                            <given-names>T.</given-names>
+                        </name>
+                        <name>
+                            <surname>Morinaga</surname>
+                            <given-names>Y.</given-names>
+                        </name>
+                        <name>
+                            <surname>Mikame</surname>
+                            <given-names>K.</given-names>
+                        </name>
+                        <name>
+                            <surname>Funaoka</surname>
+                            <given-names>M.</given-names>
+                        </name>
+                        <name>
+                            <surname>Fujita</surname>
+                            <given-names>S.</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Lignin-derived lignophenols attenuate oxidative and inflammatory
+                        damage to the kidney in streptozotocin-induced diabetic rats</article-title>
+                    <source>Free Radic. Res.</source>
+                    <year>2009</year>
+                    <volume>43</volume>
+                    <fpage>1205</fpage>
+                    <lpage>1213</lpage>
+                    <pub-id pub-id-type="doi">10.3109/10715760903247264</pub-id>
+                    <pub-id pub-id-type="pmid">19905983</pub-id>
+                </element-citation>
+            </ref>
+            <ref id="B22-ijms-18-01219">
+                <label>22.</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Sato</surname>
+                            <given-names>S.</given-names>
+                        </name>
+                        <name>
+                            <surname>Mukai</surname>
+                            <given-names>Y.</given-names>
+                        </name>
+                        <name>
+                            <surname>Tokuoka</surname>
+                            <given-names>Y.</given-names>
+                        </name>
+                        <name>
+                            <surname>Mikame</surname>
+                            <given-names>K.</given-names>
+                        </name>
+                        <name>
+                            <surname>Funaoka</surname>
+                            <given-names>M.</given-names>
+                        </name>
+                        <name>
+                            <surname>Fujita</surname>
+                            <given-names>S.</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Effect of lignin-derived lignophenols on hepatic lipid metabolism
+                        in rats fed a high-fat diet</article-title>
+                    <source>Environ. Toxicol. Pharmacol.</source>
+                    <year>2012</year>
+                    <volume>34</volume>
+                    <fpage>228</fpage>
+                    <lpage>234</lpage>
+                    <pub-id pub-id-type="doi">10.1016/j.etap.2012.04.005</pub-id>
+                    <pub-id pub-id-type="pmid">22561109</pub-id>
+                </element-citation>
+            </ref>
+            <ref id="B23-ijms-18-01219">
+                <label>23.</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Fargues</surname>
+                            <given-names>C.</given-names>
+                        </name>
+                        <name>
+                            <surname>Mathias</surname>
+                            <given-names>A.</given-names>
+                        </name>
+                        <name>
+                            <surname>Rodrigues</surname>
+                            <given-names>A.</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Kinetics of Vanillin Production from Kraft Lignin Oxidation</article-title>
+                    <source>Ind. Eng. Chem. Res.</source>
+                    <year>1996</year>
+                    <volume>35</volume>
+                    <fpage>28</fpage>
+                    <lpage>36</lpage>
+                    <pub-id pub-id-type="doi">10.1021/ie950267k</pub-id>
+                </element-citation>
+            </ref>
+            <ref id="B24-ijms-18-01219">
+                <label>24.</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Andrei</surname>
+                            <given-names>G.</given-names>
+                        </name>
+                        <name>
+                            <surname>Lisco</surname>
+                            <given-names>A.</given-names>
+                        </name>
+                        <name>
+                            <surname>Vanpouille</surname>
+                            <given-names>C.</given-names>
+                        </name>
+                        <name>
+                            <surname>Introini</surname>
+                            <given-names>A.</given-names>
+                        </name>
+                        <name>
+                            <surname>Balestra</surname>
+                            <given-names>E.</given-names>
+                        </name>
+                        <name>
+                            <surname>van den Oord</surname>
+                            <given-names>J.</given-names>
+                        </name>
+                        <name>
+                            <surname>Cihlar</surname>
+                            <given-names>T.</given-names>
+                        </name>
+                        <name>
+                            <surname>Perno</surname>
+                            <given-names>C.F.</given-names>
+                        </name>
+                        <name>
+                            <surname>Snoeck</surname>
+                            <given-names>R.</given-names>
+                        </name>
+                        <name>
+                            <surname>Margolis</surname>
+                            <given-names>L.</given-names>
+                        </name>
+                        <etal />
+                    </person-group>
+                    <article-title>Topical tenofovir, a microbicide effective against HIV, inhibits
+                        herpes simplex virus-2 replication</article-title>
+                    <source>Cell Host Microbe</source>
+                    <year>2011</year>
+                    <volume>10</volume>
+                    <fpage>379</fpage>
+                    <lpage>389</lpage>
+                    <pub-id pub-id-type="doi">10.1016/j.chom.2011.08.015</pub-id>
+                    <pub-id pub-id-type="pmid">22018238</pub-id>
+                </element-citation>
+            </ref>
+            <ref id="B25-ijms-18-01219">
+                <label>25.</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Gordts</surname>
+                            <given-names>S.C.</given-names>
+                        </name>
+                        <name>
+                            <surname>F&#x000e9;rir</surname>
+                            <given-names>G.</given-names>
+                        </name>
+                        <name>
+                            <surname>D&#x02019;huys</surname>
+                            <given-names>T.</given-names>
+                        </name>
+                        <name>
+                            <surname>Petrova</surname>
+                            <given-names>M.I.</given-names>
+                        </name>
+                        <name>
+                            <surname>Lebeer</surname>
+                            <given-names>S.</given-names>
+                        </name>
+                        <name>
+                            <surname>Snoeck</surname>
+                            <given-names>R.</given-names>
+                        </name>
+                        <name>
+                            <surname>Andrei</surname>
+                            <given-names>G.</given-names>
+                        </name>
+                        <name>
+                            <surname>Schols</surname>
+                            <given-names>D.</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>The Low-Cost Compound Lignosulfonic Acid (LA) Exhibits
+                        Broad-Spectrum Anti-HIV and Anti-HSV Activity and Has Potential for
+                        Microbicidal Applications</article-title>
+                    <source>PLoS ONE</source>
+                    <year>2015</year>
+                    <volume>10</volume>
+                    <elocation-id>e0131219</elocation-id>
+                    <pub-id pub-id-type="doi">10.1371/journal.pone.0131219</pub-id>
+                    <pub-id pub-id-type="pmid">26132818</pub-id>
+                </element-citation>
+            </ref>
+            <ref id="B26-ijms-18-01219">
+                <label>26.</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Karim</surname>
+                            <given-names>Q.A.</given-names>
+                        </name>
+                        <name>
+                            <surname>Karim</surname>
+                            <given-names>S.S.A.</given-names>
+                        </name>
+                        <name>
+                            <surname>Frohlich</surname>
+                            <given-names>J.A.</given-names>
+                        </name>
+                        <name>
+                            <surname>Grobler</surname>
+                            <given-names>A.C.</given-names>
+                        </name>
+                        <name>
+                            <surname>Baxter</surname>
+                            <given-names>C.</given-names>
+                        </name>
+                        <name>
+                            <surname>Mansoor</surname>
+                            <given-names>L.E.</given-names>
+                        </name>
+                        <name>
+                            <surname>Kharsany</surname>
+                            <given-names>A.B.M.</given-names>
+                        </name>
+                        <name>
+                            <surname>Sibeko</surname>
+                            <given-names>S.</given-names>
+                        </name>
+                        <name>
+                            <surname>Mlisana</surname>
+                            <given-names>K.P.</given-names>
+                        </name>
+                        <name>
+                            <surname>Omar</surname>
+                            <given-names>Z.</given-names>
+                        </name>
+                        <etal />
+                    </person-group>
+                    <article-title>Effectiveness and safety of tenofovir gel, an antiretroviral
+                        microbicide for the prevention of HIV infection in women</article-title>
+                    <source>Science</source>
+                    <year>2010</year>
+                    <volume>329</volume>
+                    <fpage>1168</fpage>
+                    <lpage>1174</lpage>
+                    <pub-id pub-id-type="doi">10.1126/science.1193748</pub-id>
+                    <pub-id pub-id-type="pmid">20643915</pub-id>
+                </element-citation>
+            </ref>
+            <ref id="B27-ijms-18-01219">
+                <label>27.</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Tao</surname>
+                            <given-names>W.</given-names>
+                        </name>
+                        <name>
+                            <surname>Richards</surname>
+                            <given-names>C.</given-names>
+                        </name>
+                        <name>
+                            <surname>Hamer</surname>
+                            <given-names>D.</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Enhancement of HIV Infection by Cellulose Sulfate</article-title>
+                    <source>AIDS Res. Hum. Retrovir.</source>
+                    <year>2008</year>
+                    <volume>24</volume>
+                    <fpage>925</fpage>
+                    <lpage>929</lpage>
+                    <pub-id pub-id-type="doi">10.1089/aid.2008.0043</pub-id>
+                    <pub-id pub-id-type="pmid">18627218</pub-id>
+                </element-citation>
+            </ref>
+            <ref id="B28-ijms-18-01219">
+                <label>28.</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Qiu</surname>
+                            <given-names>M.</given-names>
+                        </name>
+                        <name>
+                            <surname>Wang</surname>
+                            <given-names>Q.</given-names>
+                        </name>
+                        <name>
+                            <surname>Chu</surname>
+                            <given-names>Y.</given-names>
+                        </name>
+                        <name>
+                            <surname>Yuan</surname>
+                            <given-names>Z.</given-names>
+                        </name>
+                        <name>
+                            <surname>Song</surname>
+                            <given-names>H.</given-names>
+                        </name>
+                        <name>
+                            <surname>Chen</surname>
+                            <given-names>Z.</given-names>
+                        </name>
+                        <name>
+                            <surname>Wu</surname>
+                            <given-names>Z.</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Lignosulfonic acid exhibits broadly anti-HIV-1 activity-potential
+                        as a microbicide candidate for the prevention of HIV-1 sexual transmission</article-title>
+                    <source>PLoS ONE</source>
+                    <year>2012</year>
+                    <volume>7</volume>
+                    <elocation-id>e35906</elocation-id>
+                    <pub-id pub-id-type="doi">10.1371/journal.pone.0035906</pub-id>
+                    <pub-id pub-id-type="pmid">22558266</pub-id>
+                </element-citation>
+            </ref>
+            <ref id="B29-ijms-18-01219">
+                <label>29.</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Jeffries</surname>
+                            <given-names>T.W.</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Biodegradation of lignin-carbohydrate complexes</article-title>
+                    <source>Biodegradation</source>
+                    <year>1990</year>
+                    <volume>1</volume>
+                    <fpage>163</fpage>
+                    <lpage>176</lpage>
+                    <pub-id pub-id-type="doi">10.1007/BF00058834</pub-id>
+                </element-citation>
+            </ref>
+            <ref id="B30-ijms-18-01219">
+                <label>30.</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Singh</surname>
+                            <given-names>R.</given-names>
+                        </name>
+                        <name>
+                            <surname>Singh</surname>
+                            <given-names>S.</given-names>
+                        </name>
+                        <name>
+                            <surname>Trimukhe</surname>
+                            <given-names>K.D.</given-names>
+                        </name>
+                        <name>
+                            <surname>Pandare</surname>
+                            <given-names>K.V.</given-names>
+                        </name>
+                        <name>
+                            <surname>M Bastawade</surname>
+                            <given-names>K.B.</given-names>
+                        </name>
+                        <name>
+                            <surname>Gokhale</surname>
+                            <given-names>D.V.</given-names>
+                        </name>
+                        <name>
+                            <surname>Varma</surname>
+                            <given-names>A.J.</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Lignin&#x02013;carbohydrate complexes from sugarcane bagasse:
+                        Preparation, purification, and characterization</article-title>
+                    <source>Carbohydr. Polym.</source>
+                    <year>2005</year>
+                    <volume>62</volume>
+                    <fpage>57</fpage>
+                    <lpage>66</lpage>
+                    <pub-id pub-id-type="doi">10.1016/j.carbpol.2005.07.011</pub-id>
+                </element-citation>
+            </ref>
+            <ref id="B31-ijms-18-01219">
+                <label>31.</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Nanbu</surname>
+                            <given-names>T.</given-names>
+                        </name>
+                        <name>
+                            <surname>Shimada</surname>
+                            <given-names>J.</given-names>
+                        </name>
+                        <name>
+                            <surname>Kobayashi</surname>
+                            <given-names>M.</given-names>
+                        </name>
+                        <name>
+                            <surname>Hirano</surname>
+                            <given-names>K.</given-names>
+                        </name>
+                        <name>
+                            <surname>Koh</surname>
+                            <given-names>T.</given-names>
+                        </name>
+                        <name>
+                            <surname>Machino</surname>
+                            <given-names>M.</given-names>
+                        </name>
+                        <name>
+                            <surname>Ohno</surname>
+                            <given-names>H.</given-names>
+                        </name>
+                        <name>
+                            <surname>Yamamoto</surname>
+                            <given-names>M.</given-names>
+                        </name>
+                        <name>
+                            <surname>Sakagami</surname>
+                            <given-names>H.</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Anti-UV activity of lignin-carbohydrate complex and related
+                        compounds</article-title>
+                    <source>In Vivo</source>
+                    <year>2013</year>
+                    <volume>27</volume>
+                    <fpage>133</fpage>
+                    <lpage>139</lpage>
+                    <pub-id pub-id-type="pmid">23239862</pub-id>
+                </element-citation>
+            </ref>
+            <ref id="B32-ijms-18-01219">
+                <label>32.</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Nanbu</surname>
+                            <given-names>T.</given-names>
+                        </name>
+                        <name>
+                            <surname>Matsuta</surname>
+                            <given-names>T.</given-names>
+                        </name>
+                        <name>
+                            <surname>Sakagami</surname>
+                            <given-names>H.</given-names>
+                        </name>
+                        <name>
+                            <surname>Shimada</surname>
+                            <given-names>J.</given-names>
+                        </name>
+                        <name>
+                            <surname>Maki</surname>
+                            <given-names>J.</given-names>
+                        </name>
+                        <name>
+                            <surname>Makino</surname>
+                            <given-names>T.</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Anti-UV activity of Lentinus edodes mycelia extract (LEM)</article-title>
+                    <source>In Vivo</source>
+                    <year>2011</year>
+                    <volume>25</volume>
+                    <fpage>733</fpage>
+                    <lpage>740</lpage>
+                    <pub-id pub-id-type="pmid">21753126</pub-id>
+                </element-citation>
+            </ref>
+            <ref id="B33-ijms-18-01219">
+                <label>33.</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Sakagami</surname>
+                            <given-names>H.</given-names>
+                        </name>
+                        <name>
+                            <surname>Sheng</surname>
+                            <given-names>H.</given-names>
+                        </name>
+                        <name>
+                            <surname>Okudaira</surname>
+                            <given-names>N.</given-names>
+                        </name>
+                        <name>
+                            <surname>Yasui</surname>
+                            <given-names>T.</given-names>
+                        </name>
+                        <name>
+                            <surname>Wakabayashi</surname>
+                            <given-names>H.</given-names>
+                        </name>
+                        <name>
+                            <surname>Jia</surname>
+                            <given-names>J.</given-names>
+                        </name>
+                        <name>
+                            <surname>Natori</surname>
+                            <given-names>T.</given-names>
+                        </name>
+                        <name>
+                            <surname>Suguro-Kitajima</surname>
+                            <given-names>M.</given-names>
+                        </name>
+                        <name>
+                            <surname>Oizumi</surname>
+                            <given-names>H.</given-names>
+                        </name>
+                        <name>
+                            <surname>Oizumi</surname>
+                            <given-names>T.</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Prominent Anti-UV Activity and Possible Cosmetic Potential of
+                        Lignin-carbohydrate Complex</article-title>
+                    <source>In Vivo</source>
+                    <year>2016</year>
+                    <volume>30</volume>
+                    <fpage>331</fpage>
+                    <lpage>339</lpage>
+                    <pub-id pub-id-type="pmid">27381594</pub-id>
+                </element-citation>
+            </ref>
+            <ref id="B34-ijms-18-01219">
+                <label>34.</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Zhang</surname>
+                            <given-names>Y.</given-names>
+                        </name>
+                        <name>
+                            <surname>But</surname>
+                            <given-names>P.P.</given-names>
+                        </name>
+                        <name>
+                            <surname>Ooi</surname>
+                            <given-names>V.E.</given-names>
+                        </name>
+                        <name>
+                            <surname>Xu</surname>
+                            <given-names>H.X.</given-names>
+                        </name>
+                        <name>
+                            <surname>Delaney</surname>
+                            <given-names>G.D.</given-names>
+                        </name>
+                        <name>
+                            <surname>Lee</surname>
+                            <given-names>S.H.</given-names>
+                        </name>
+                        <name>
+                            <surname>Lee</surname>
+                            <given-names>S.F.</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Chemical properties, mode of action, and in vivo anti-herpes
+                        activities of a lignin-carbohydrate complex from <italic>Prunella vulgaris</italic></article-title>
+                    <source>Antivir. Res.</source>
+                    <year>2007</year>
+                    <volume>75</volume>
+                    <fpage>242</fpage>
+                    <lpage>249</lpage>
+                    <pub-id pub-id-type="doi">10.1016/j.antiviral.2007.03.010</pub-id>
+                    <pub-id pub-id-type="pmid">17475343</pub-id>
+                </element-citation>
+            </ref>
+            <ref id="B35-ijms-18-01219">
+                <label>35.</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Lee</surname>
+                            <given-names>J.B.</given-names>
+                        </name>
+                        <name>
+                            <surname>Yamagishi</surname>
+                            <given-names>C.</given-names>
+                        </name>
+                        <name>
+                            <surname>Hayashi</surname>
+                            <given-names>K.</given-names>
+                        </name>
+                        <name>
+                            <surname>Hayashi</surname>
+                            <given-names>T.</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Antiviral and immunostimulating effects of
+                        lignin-carbohydrate-protein complexes from Pimpinella anisum</article-title>
+                    <source>Biosci. Biotechnol. Biochem.</source>
+                    <year>2011</year>
+                    <volume>75</volume>
+                    <fpage>459</fpage>
+                    <lpage>465</lpage>
+                    <pub-id pub-id-type="doi">10.1271/bbb.100645</pub-id>
+                    <pub-id pub-id-type="pmid">21389629</pub-id>
+                </element-citation>
+            </ref>
+            <ref id="B36-ijms-18-01219">
+                <label>36.</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Sakagami</surname>
+                            <given-names>H.</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Biological activities and possible dental application of three
+                        major groups of polyphenols</article-title>
+                    <source>J. Pharmacol. Sci.</source>
+                    <year>2014</year>
+                    <volume>126</volume>
+                    <fpage>92</fpage>
+                    <lpage>106</lpage>
+                    <pub-id pub-id-type="doi">10.1254/jphs.14R04CR</pub-id>
+                    <pub-id pub-id-type="pmid">25263279</pub-id>
+                </element-citation>
+            </ref>
+            <ref id="B37-ijms-18-01219">
+                <label>37.</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Sakagami</surname>
+                            <given-names>H.</given-names>
+                        </name>
+                        <name>
+                            <surname>Kawano</surname>
+                            <given-names>M.</given-names>
+                        </name>
+                        <name>
+                            <surname>Thet</surname>
+                            <given-names>M.M.</given-names>
+                        </name>
+                        <name>
+                            <surname>Hashimoto</surname>
+                            <given-names>K.</given-names>
+                        </name>
+                        <name>
+                            <surname>Satoh</surname>
+                            <given-names>K.</given-names>
+                        </name>
+                        <name>
+                            <surname>Kanamoto</surname>
+                            <given-names>T.</given-names>
+                        </name>
+                        <name>
+                            <surname>Terakubo</surname>
+                            <given-names>S.</given-names>
+                        </name>
+                        <name>
+                            <surname>Nakashima</surname>
+                            <given-names>H.</given-names>
+                        </name>
+                        <name>
+                            <surname>Haishima</surname>
+                            <given-names>Y.</given-names>
+                        </name>
+                        <name>
+                            <surname>Maeda</surname>
+                            <given-names>Y.</given-names>
+                        </name>
+                        <etal />
+                    </person-group>
+                    <article-title>Anti-HIV and immunomodulation activities of cacao lass
+                        lignin-carbohydrate complex</article-title>
+                    <source>In Vivo</source>
+                    <year>2011</year>
+                    <volume>25</volume>
+                    <fpage>229</fpage>
+                    <lpage>236</lpage>
+                    <pub-id pub-id-type="pmid">21471539</pub-id>
+                </element-citation>
+            </ref>
+            <ref id="B38-ijms-18-01219">
+                <label>38.</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Thakkar</surname>
+                            <given-names>J.N.</given-names>
+                        </name>
+                        <name>
+                            <surname>Tiwari</surname>
+                            <given-names>V.</given-names>
+                        </name>
+                        <name>
+                            <surname>Desai</surname>
+                            <given-names>U.R.</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Nonsulfated, Cinnamic Acid-Based Lignins are Potent Antagonists
+                        of HSV-1 Entry into Cells</article-title>
+                    <source>Biomacromolecules</source>
+                    <year>2010</year>
+                    <volume>11</volume>
+                    <fpage>1412</fpage>
+                    <lpage>1416</lpage>
+                    <pub-id pub-id-type="doi">10.1021/bm100161u</pub-id>
+                    <pub-id pub-id-type="pmid">20411926</pub-id>
+                </element-citation>
+            </ref>
+            <ref id="B39-ijms-18-01219">
+                <label>39.</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Loomis</surname>
+                            <given-names>T.A.</given-names>
+                        </name>
+                        <name>
+                            <surname>Beyer</surname>
+                            <given-names>R.E.</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Heparin-like anticoagulant action of sulfonated lignins from
+                        commercial waste sulfite liquour</article-title>
+                    <source>J. Pharmacol. Exp. Ther.</source>
+                    <year>1953</year>
+                    <volume>109</volume>
+                    <fpage>21</fpage>
+                    <lpage>25</lpage>
+                    <pub-id pub-id-type="pmid">13097330</pub-id>
+                </element-citation>
+            </ref>
+            <ref id="B40-ijms-18-01219">
+                <label>40.</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Monien</surname>
+                            <given-names>B.H.</given-names>
+                        </name>
+                        <name>
+                            <surname>Henry</surname>
+                            <given-names>B.L.</given-names>
+                        </name>
+                        <name>
+                            <surname>Raghuraman</surname>
+                            <given-names>A.</given-names>
+                        </name>
+                        <name>
+                            <surname>Hindle</surname>
+                            <given-names>M.</given-names>
+                        </name>
+                        <name>
+                            <surname>Desai</surname>
+                            <given-names>U.R.</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Novel chemo-enzymatic oligomers of cinnamic acids as direct and
+                        indirect inhibitors of coagulation proteinases</article-title>
+                    <source>Bioorgan. Med. Chem.</source>
+                    <year>2006</year>
+                    <volume>14</volume>
+                    <fpage>7988</fpage>
+                    <lpage>7998</lpage>
+                    <pub-id pub-id-type="doi">10.1016/j.bmc.2006.07.066</pub-id>
+                    <pub-id pub-id-type="pmid">16914317</pub-id>
+                </element-citation>
+            </ref>
+            <ref id="B41-ijms-18-01219">
+                <label>41.</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Henry</surname>
+                            <given-names>B.L.</given-names>
+                        </name>
+                        <name>
+                            <surname>Monien</surname>
+                            <given-names>B.H.</given-names>
+                        </name>
+                        <name>
+                            <surname>Bock</surname>
+                            <given-names>P.E.</given-names>
+                        </name>
+                        <name>
+                            <surname>Desai</surname>
+                            <given-names>U.R.</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>A novel allosteric pathway of thrombin inhibition: Exosite II
+                        mediated potent inhibition of thrombin by chemo-enzymatic, sulfated
+                        dehydropolymers of 4-hydroxycinnamic acids</article-title>
+                    <source>J. Biolog. Chem.</source>
+                    <year>2007</year>
+                    <volume>282</volume>
+                    <fpage>31891</fpage>
+                    <lpage>31899</lpage>
+                    <pub-id pub-id-type="doi">10.1074/jbc.M704257200</pub-id>
+                    <pub-id pub-id-type="pmid">17804413</pub-id>
+                </element-citation>
+            </ref>
+            <ref id="B42-ijms-18-01219">
+                <label>42.</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Henry</surname>
+                            <given-names>B.L.</given-names>
+                        </name>
+                        <name>
+                            <surname>Abdel Aziz</surname>
+                            <given-names>M.</given-names>
+                        </name>
+                        <name>
+                            <surname>Zhou</surname>
+                            <given-names>Q.</given-names>
+                        </name>
+                        <name>
+                            <surname>Desai</surname>
+                            <given-names>U.R.</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Sulfated, low-molecular-weight lignins are potent inhibitorsof
+                        plasmin, in addition to thrombin and factor Xa: Novel opportunity for
+                        controlling complex pathologies</article-title>
+                    <source>Thromb. Haemost.</source>
+                    <year>2010</year>
+                    <volume>103</volume>
+                    <fpage>507</fpage>
+                    <lpage>515</lpage>
+                    <pub-id pub-id-type="doi">10.1160/TH09-07-0454</pub-id>
+                    <pub-id pub-id-type="pmid">20024500</pub-id>
+                </element-citation>
+            </ref>
+            <ref id="B43-ijms-18-01219">
+                <label>43.</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Henry</surname>
+                            <given-names>B.L.</given-names>
+                        </name>
+                        <name>
+                            <surname>Desai</surname>
+                            <given-names>U.R.</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Sulfated Low Molecular Weight Lignins, Allosteric Inhibitors of
+                        Coagulation Proteinases via the Heparin Binding Site, Significantly Alter
+                        the Active Site of Thrombin and Factor Xa Compared to Heparin</article-title>
+                    <source>Thromb. Res.</source>
+                    <year>2014</year>
+                    <volume>134</volume>
+                    <fpage>1123</fpage>
+                    <lpage>1129</lpage>
+                    <pub-id pub-id-type="doi">10.1016/j.thromres.2014.08.024</pub-id>
+                    <pub-id pub-id-type="pmid">25242245</pub-id>
+                </element-citation>
+            </ref>
+            <ref id="B44-ijms-18-01219">
+                <label>44.</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Mehta</surname>
+                            <given-names>A.Y.</given-names>
+                        </name>
+                        <name>
+                            <surname>Mohammed</surname>
+                            <given-names>B.M.</given-names>
+                        </name>
+                        <name>
+                            <surname>Martin</surname>
+                            <given-names>E.J.</given-names>
+                        </name>
+                        <name>
+                            <surname>Brophy</surname>
+                            <given-names>D.F.</given-names>
+                        </name>
+                        <name>
+                            <surname>Gailani</surname>
+                            <given-names>D.</given-names>
+                        </name>
+                        <name>
+                            <surname>Desai</surname>
+                            <given-names>U.R.</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Allosterism-based Simultaneous, Dual Anticoagulant and
+                        Antiplatelet Action. Allosteric Inhibitor Targeting the Glycoprotein
+                        Ib&#x003b1; and Heparin-Binding Site of Thrombin</article-title>
+                    <source>J. Thromb. Haemost.</source>
+                    <year>2016</year>
+                    <volume>14</volume>
+                    <fpage>828</fpage>
+                    <lpage>838</lpage>
+                    <pub-id pub-id-type="doi">10.1111/jth.13254</pub-id>
+                    <pub-id pub-id-type="pmid">26748875</pub-id>
+                </element-citation>
+            </ref>
+            <ref id="B45-ijms-18-01219">
+                <label>45.</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Fischer</surname>
+                            <given-names>B.M.</given-names>
+                        </name>
+                        <name>
+                            <surname>Pavlisko</surname>
+                            <given-names>E.</given-names>
+                        </name>
+                        <name>
+                            <surname>Voynow</surname>
+                            <given-names>J.A.</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Pathogenic triad in COPD: Oxidative stress, proteaseantiprotease
+                        imbalance, and inflammation</article-title>
+                    <source>Int. J. Chronic Obs. Pulm. Dis.</source>
+                    <year>2011</year>
+                    <volume>6</volume>
+                    <fpage>413</fpage>
+                    <lpage>421</lpage>
+                    <pub-id pub-id-type="doi">10.2147/COPD.S10770</pub-id>
+                    <pub-id pub-id-type="pmid">21857781</pub-id>
+                </element-citation>
+            </ref>
+            <ref id="B46-ijms-18-01219">
+                <label>46.</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Saluja</surname>
+                            <given-names>B.</given-names>
+                        </name>
+                        <name>
+                            <surname>Thakkar</surname>
+                            <given-names>J.N.</given-names>
+                        </name>
+                        <name>
+                            <surname>Li</surname>
+                            <given-names>H.</given-names>
+                        </name>
+                        <name>
+                            <surname>Desai</surname>
+                            <given-names>U.R.</given-names>
+                        </name>
+                        <name>
+                            <surname>Sakagami</surname>
+                            <given-names>M.</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Novel low molecular weight lignins as potential anti-emphysema
+                        agents: In vitro triple inhibitory activity against elastase, oxidation and
+                        inflammation</article-title>
+                    <source>Pulm. Pharmacol. Ther.</source>
+                    <year>2013</year>
+                    <volume>26</volume>
+                    <fpage>296</fpage>
+                    <lpage>304</lpage>
+                    <pub-id pub-id-type="doi">10.1016/j.pupt.2012.12.009</pub-id>
+                    <pub-id pub-id-type="pmid">23280431</pub-id>
+                </element-citation>
+            </ref>
+            <ref id="B47-ijms-18-01219">
+                <label>47.</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Pereira</surname>
+                            <given-names>F.M.</given-names>
+                        </name>
+                        <name>
+                            <surname>Gon&#x000e7;alves</surname>
+                            <given-names>A.R.</given-names>
+                        </name>
+                        <name>
+                            <surname>Ferraz</surname>
+                            <given-names>A.</given-names>
+                        </name>
+                        <name>
+                            <surname>Silva</surname>
+                            <given-names>F.T.</given-names>
+                        </name>
+                        <name>
+                            <surname>Oliveira</surname>
+                            <given-names>S.C.</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Estimation of solubility effect on the herbicide
+                        controlled-release kinetics from lignin-based formulations</article-title>
+                    <source>Appl. Biochem. Biotechnol.</source>
+                    <year>2003</year>
+                    <volume>108</volume>
+                    <fpage>913</fpage>
+                    <lpage>919</lpage>
+                    <pub-id pub-id-type="doi">10.1385/ABAB:108:1-3:913</pub-id>
+                </element-citation>
+            </ref>
+            <ref id="B48-ijms-18-01219">
+                <label>48.</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Fern&#x000e1;ndez-P&#x000e9;rez</surname>
+                            <given-names>M.</given-names>
+                        </name>
+                        <name>
+                            <surname>Villafranca-S&#x000e1;nchez</surname>
+                            <given-names>M.</given-names>
+                        </name>
+                        <name>
+                            <surname>Flores-C&#x000e9;spedes</surname>
+                            <given-names>F.</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Controlled-release formulations of cyromazine-lignin matrix
+                        coated with ethylcellulose</article-title>
+                    <source>J. Environ. Sci. Health B</source>
+                    <year>2007</year>
+                    <volume>42</volume>
+                    <fpage>863</fpage>
+                    <lpage>868</lpage>
+                    <pub-id pub-id-type="doi">10.1080/03601230701555153</pub-id>
+                    <pub-id pub-id-type="pmid">17763045</pub-id>
+                </element-citation>
+            </ref>
+            <ref id="B49-ijms-18-01219">
+                <label>49.</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Frangville</surname>
+                            <given-names>C.</given-names>
+                        </name>
+                        <name>
+                            <surname>Rutkevi&#x0010d;ius</surname>
+                            <given-names>M.</given-names>
+                        </name>
+                        <name>
+                            <surname>Richter</surname>
+                            <given-names>A.P.</given-names>
+                        </name>
+                        <name>
+                            <surname>Velev</surname>
+                            <given-names>O.D.</given-names>
+                        </name>
+                        <name>
+                            <surname>Stoyanov</surname>
+                            <given-names>S.D.</given-names>
+                        </name>
+                        <name>
+                            <surname>Paunov</surname>
+                            <given-names>V.N.</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Fabrication of environmentally biodegradable lignin nanoparticles</article-title>
+                    <source>ChemPhysChem</source>
+                    <year>2012</year>
+                    <volume>13</volume>
+                    <fpage>4235</fpage>
+                    <lpage>4243</lpage>
+                    <pub-id pub-id-type="doi">10.1002/cphc.201200537</pub-id>
+                    <pub-id pub-id-type="pmid">23047584</pub-id>
+                </element-citation>
+            </ref>
+            <ref id="B50-ijms-18-01219">
+                <label>50.</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Lievonen</surname>
+                            <given-names>M.</given-names>
+                        </name>
+                        <name>
+                            <surname>Valle-Delgado</surname>
+                            <given-names>J.J.</given-names>
+                        </name>
+                        <name>
+                            <surname>Mattinen</surname>
+                            <given-names>M.L.</given-names>
+                        </name>
+                        <name>
+                            <surname>Hult</surname>
+                            <given-names>E.L.</given-names>
+                        </name>
+                        <name>
+                            <surname>Lintinen</surname>
+                            <given-names>K.</given-names>
+                        </name>
+                        <name>
+                            <surname>Kostiainen</surname>
+                            <given-names>M.A.</given-names>
+                        </name>
+                        <name>
+                            <surname>Paananen</surname>
+                            <given-names>A.</given-names>
+                        </name>
+                        <name>
+                            <surname>Szilvay</surname>
+                            <given-names>G.R.</given-names>
+                        </name>
+                        <name>
+                            <surname>Setala</surname>
+                            <given-names>H.</given-names>
+                        </name>
+                        <name>
+                            <surname>Osterberg</surname>
+                            <given-names>M.</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>A simple process for lignin nanoparticle preparation</article-title>
+                    <source>Green Chem.</source>
+                    <year>2016</year>
+                    <volume>18</volume>
+                    <fpage>1416</fpage>
+                    <lpage>1422</lpage>
+                    <pub-id pub-id-type="doi">10.1039/C5GC01436K</pub-id>
+                </element-citation>
+            </ref>
+            <ref id="B51-ijms-18-01219">
+                <label>51.</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Richter</surname>
+                            <given-names>A.P.</given-names>
+                        </name>
+                        <name>
+                            <surname>Bharti</surname>
+                            <given-names>B.</given-names>
+                        </name>
+                        <name>
+                            <surname>Armstrong</surname>
+                            <given-names>H.B.</given-names>
+                        </name>
+                        <name>
+                            <surname>Brown</surname>
+                            <given-names>J.S.</given-names>
+                        </name>
+                        <name>
+                            <surname>Plemmons</surname>
+                            <given-names>D.</given-names>
+                        </name>
+                        <name>
+                            <surname>Paunov</surname>
+                            <given-names>V.N.</given-names>
+                        </name>
+                        <name>
+                            <surname>Stoyanov</surname>
+                            <given-names>S.D.</given-names>
+                        </name>
+                        <name>
+                            <surname>Velev</surname>
+                            <given-names>O.D.</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Synthesis and characterization of biodegradable lignin
+                        nanoparticles with tunable surface properties</article-title>
+                    <source>Langmuir</source>
+                    <year>2016</year>
+                    <volume>32</volume>
+                    <fpage>6468</fpage>
+                    <lpage>6477</lpage>
+                    <pub-id pub-id-type="doi">10.1021/acs.langmuir.6b01088</pub-id>
+                    <pub-id pub-id-type="pmid">27268077</pub-id>
+                </element-citation>
+            </ref>
+            <ref id="B52-ijms-18-01219">
+                <label>52.</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Figueiredo</surname>
+                            <given-names>P.</given-names>
+                        </name>
+                        <name>
+                            <surname>Lintinen</surname>
+                            <given-names>K.</given-names>
+                        </name>
+                        <name>
+                            <surname>Kiriazis</surname>
+                            <given-names>A.</given-names>
+                        </name>
+                        <name>
+                            <surname>Hynninen</surname>
+                            <given-names>V.</given-names>
+                        </name>
+                        <name>
+                            <surname>Liu</surname>
+                            <given-names>Z.</given-names>
+                        </name>
+                        <name>
+                            <surname>Ramos</surname>
+                            <given-names>T.</given-names>
+                        </name>
+                        <name>
+                            <surname>Rahikkala</surname>
+                            <given-names>A.</given-names>
+                        </name>
+                        <name>
+                            <surname>Correia</surname>
+                            <given-names>A.</given-names>
+                        </name>
+                        <name>
+                            <surname>Kohout</surname>
+                            <given-names>T.</given-names>
+                        </name>
+                        <name>
+                            <surname>Sarmento</surname>
+                            <given-names>B.</given-names>
+                        </name>
+                        <etal />
+                    </person-group>
+                    <article-title>In Vitro Evaluation of biodegradable lignin-based nanoparticles
+                        for drug delivery and enhanced antiproliferation effect in cancer cells</article-title>
+                    <source>Biomaterials</source>
+                    <year>2017</year>
+                    <volume>121</volume>
+                    <fpage>97</fpage>
+                    <lpage>108</lpage>
+                    <pub-id pub-id-type="doi">10.1016/j.biomaterials.2016.12.034</pub-id>
+                    <pub-id pub-id-type="pmid">28081462</pub-id>
+                </element-citation>
+            </ref>
+            <ref id="B53-ijms-18-01219">
+                <label>53.</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Guti&#x000e9;rrez-Hern&#x000e1;ndez</surname>
+                            <given-names>J.M.</given-names>
+                        </name>
+                        <name>
+                            <surname>Escalante</surname>
+                            <given-names>A.</given-names>
+                        </name>
+                        <name>
+                            <surname>Murillo-V&#x000e1;zquez</surname>
+                            <given-names>R.N.</given-names>
+                        </name>
+                        <name>
+                            <surname>Delgado</surname>
+                            <given-names>E.</given-names>
+                        </name>
+                        <name>
+                            <surname>Gonz&#x000e1;lez</surname>
+                            <given-names>F.J.</given-names>
+                        </name>
+                        <name>
+                            <surname>Tor&#x000ed;z</surname>
+                            <given-names>G.</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Use of Agave tequilana-lignin and zinc oxide nanoparticles for
+                        skin photoprotection</article-title>
+                    <source>J. Photochem. Photobiol. B Biol.</source>
+                    <year>2016</year>
+                    <volume>163</volume>
+                    <fpage>156</fpage>
+                    <lpage>161</lpage>
+                    <pub-id pub-id-type="doi">10.1016/j.jphotobiol.2016.08.027</pub-id>
+                    <pub-id pub-id-type="pmid">27573548</pub-id>
+                </element-citation>
+            </ref>
+            <ref id="B54-ijms-18-01219">
+                <label>54.</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Klapiszewski</surname>
+                            <given-names>L.</given-names>
+                        </name>
+                        <name>
+                            <surname>Rzemieniecki</surname>
+                            <given-names>T.</given-names>
+                        </name>
+                        <name>
+                            <surname>Krawczyk</surname>
+                            <given-names>M.</given-names>
+                        </name>
+                        <name>
+                            <surname>Malina</surname>
+                            <given-names>D.</given-names>
+                        </name>
+                        <name>
+                            <surname>Norman</surname>
+                            <given-names>M.</given-names>
+                        </name>
+                        <name>
+                            <surname>Zdarta</surname>
+                            <given-names>J.</given-names>
+                        </name>
+                        <name>
+                            <surname>Majchrzak</surname>
+                            <given-names>I.</given-names>
+                        </name>
+                        <name>
+                            <surname>Dobrowolska</surname>
+                            <given-names>A.</given-names>
+                        </name>
+                        <name>
+                            <surname>Czaczyk</surname>
+                            <given-names>K.</given-names>
+                        </name>
+                        <name>
+                            <surname>Jesionowski</surname>
+                            <given-names>T.</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Kraft lignin/silica-AgNPs as a functional material with
+                        antibacterial activity</article-title>
+                    <source>Colloids Surf. B Biointerfaces</source>
+                    <year>2015</year>
+                    <volume>134</volume>
+                    <fpage>220</fpage>
+                    <lpage>228</lpage>
+                    <pub-id pub-id-type="doi">10.1016/j.colsurfb.2015.06.056</pub-id>
+                    <pub-id pub-id-type="pmid">26204502</pub-id>
+                </element-citation>
+            </ref>
+            <ref id="B55-ijms-18-01219">
+                <label>55.</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Nasti</surname>
+                            <given-names>A.</given-names>
+                        </name>
+                        <name>
+                            <surname>Zaki</surname>
+                            <given-names>N.M.</given-names>
+                        </name>
+                        <name>
+                            <surname>de Leonardis</surname>
+                            <given-names>P.</given-names>
+                        </name>
+                        <name>
+                            <surname>Ungphaiboon</surname>
+                            <given-names>S.</given-names>
+                        </name>
+                        <name>
+                            <surname>Sansongsak</surname>
+                            <given-names>P.</given-names>
+                        </name>
+                        <name>
+                            <surname>Rimoli</surname>
+                            <given-names>M.G.</given-names>
+                        </name>
+                        <name>
+                            <surname>Tirelli</surname>
+                            <given-names>N.</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Chitosan/TPP and chitosan/TPP-hyaluronic acid nanoparticles:
+                        Systematic optimisation of the preparative process and preliminary
+                        biological evaluation</article-title>
+                    <source>Pharm. Res.</source>
+                    <year>2009</year>
+                    <volume>26</volume>
+                    <fpage>1918</fpage>
+                    <lpage>1930</lpage>
+                    <pub-id pub-id-type="doi">10.1007/s11095-009-9908-0</pub-id>
+                    <pub-id pub-id-type="pmid">19507009</pub-id>
+                </element-citation>
+            </ref>
+            <ref id="B56-ijms-18-01219">
+                <label>56.</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Kim</surname>
+                            <given-names>S.</given-names>
+                        </name>
+                        <name>
+                            <surname>Fernandes</surname>
+                            <given-names>M.M.</given-names>
+                        </name>
+                        <name>
+                            <surname>Matam&#x000e1;</surname>
+                            <given-names>T.</given-names>
+                        </name>
+                        <name>
+                            <surname>Loureiro</surname>
+                            <given-names>A.</given-names>
+                        </name>
+                        <name>
+                            <surname>Gomes</surname>
+                            <given-names>A.C.</given-names>
+                        </name>
+                        <name>
+                            <surname>Cavaco-Paulo</surname>
+                            <given-names>A.</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Chitosan-lignosulfonates sono-chemically prepared nanoparticles:
+                        Characterisation and potential applications</article-title>
+                    <source>Colloids Surf. B Biointerfaces</source>
+                    <year>2013</year>
+                    <volume>103</volume>
+                    <fpage>1</fpage>
+                    <lpage>8</lpage>
+                    <pub-id pub-id-type="doi">10.1016/j.colsurfb.2012.10.033</pub-id>
+                    <pub-id pub-id-type="pmid">23178385</pub-id>
+                </element-citation>
+            </ref>
+            <ref id="B57-ijms-18-01219">
+                <label>57.</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Faustino</surname>
+                            <given-names>H.</given-names>
+                        </name>
+                        <name>
+                            <surname>Gil</surname>
+                            <given-names>N.</given-names>
+                        </name>
+                        <name>
+                            <surname>Baptista</surname>
+                            <given-names>C.</given-names>
+                        </name>
+                        <name>
+                            <surname>Duarte</surname>
+                            <given-names>A.P.</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Antioxidant Activity of Lignin Phenolic Compounds Extracted from
+                        Kraft and Sulphite Black Liquors</article-title>
+                    <source>Molecules</source>
+                    <year>2010</year>
+                    <volume>15</volume>
+                    <fpage>9308</fpage>
+                    <lpage>9322</lpage>
+                    <pub-id pub-id-type="doi">10.3390/molecules15129308</pub-id>
+                    <pub-id pub-id-type="pmid">21169882</pub-id>
+                </element-citation>
+            </ref>
+            <ref id="B58-ijms-18-01219">
+                <label>58.</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Wahba</surname>
+                            <given-names>S.M.</given-names>
+                        </name>
+                        <name>
+                            <surname>Darwish</surname>
+                            <given-names>A.S.</given-names>
+                        </name>
+                        <name>
+                            <surname>Shehata</surname>
+                            <given-names>I.H.</given-names>
+                        </name>
+                        <name>
+                            <surname>Abd Elhalem</surname>
+                            <given-names>S.S.</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Sugarcane bagasse lignin, and silica gel and magneto-silica as
+                        drug vehicles for development of innocuous methotrexate drug against
+                        rheumatoid arthritis disease in albino rats</article-title>
+                    <source>Mater. Sci. Eng. C Mater. Biol. Appl.</source>
+                    <year>2015</year>
+                    <volume>48</volume>
+                    <fpage>599</fpage>
+                    <lpage>610</lpage>
+                    <pub-id pub-id-type="doi">10.1016/j.msec.2014.12.054</pub-id>
+                    <pub-id pub-id-type="pmid">25579963</pub-id>
+                </element-citation>
+            </ref>
+            <ref id="B59-ijms-18-01219">
+                <label>59.</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>R&#x00103;schip</surname>
+                            <given-names>I.E.</given-names>
+                        </name>
+                        <name>
+                            <surname>Panainte</surname>
+                            <given-names>A.D.</given-names>
+                        </name>
+                        <name>
+                            <surname>Pamfil</surname>
+                            <given-names>D.</given-names>
+                        </name>
+                        <name>
+                            <surname>Profire</surname>
+                            <given-names>L.</given-names>
+                        </name>
+                        <name>
+                            <surname>Vasile</surname>
+                            <given-names>C.</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>In vitro testing of xanthan/lignin hydrogels as carriers for
+                        controlled delivery of bisoprolol fumarare</article-title>
+                    <source>Rev. Med. Chir. Soc. Med. Nat. Iasi</source>
+                    <year>2015</year>
+                    <volume>119</volume>
+                    <fpage>1189</fpage>
+                    <lpage>1194</lpage>
+                    <pub-id pub-id-type="pmid">26793868</pub-id>
+                </element-citation>
+            </ref>
+            <ref id="B60-ijms-18-01219">
+                <label>60.</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Chowdhury</surname>
+                            <given-names>M.A.</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>The controlled release of bioactive compounds from lignin and
+                        lignin-based biopolymer matrices</article-title>
+                    <source>Int. J. Biol. Macromol.</source>
+                    <year>2014</year>
+                    <volume>65</volume>
+                    <fpage>136</fpage>
+                    <lpage>147</lpage>
+                    <pub-id pub-id-type="doi">10.1016/j.ijbiomac.2014.01.012</pub-id>
+                    <pub-id pub-id-type="pmid">24418342</pub-id>
+                </element-citation>
+            </ref>
+            <ref id="B61-ijms-18-01219">
+                <label>61.</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Song</surname>
+                            <given-names>Y.</given-names>
+                        </name>
+                        <name>
+                            <surname>Hui</surname>
+                            <given-names>J.</given-names>
+                        </name>
+                        <name>
+                            <surname>Kou</surname>
+                            <given-names>W.</given-names>
+                        </name>
+                        <name>
+                            <surname>Xin</surname>
+                            <given-names>R.</given-names>
+                        </name>
+                        <name>
+                            <surname>Jia</surname>
+                            <given-names>F.</given-names>
+                        </name>
+                        <name>
+                            <surname>Wang</surname>
+                            <given-names>N.</given-names>
+                        </name>
+                        <name>
+                            <surname>Hu</surname>
+                            <given-names>F.</given-names>
+                        </name>
+                        <name>
+                            <surname>Zhang</surname>
+                            <given-names>H.</given-names>
+                        </name>
+                        <name>
+                            <surname>Liu</surname>
+                            <given-names>H.</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Identification of <italic>Inonotus obliquus</italic> and Analysis
+                        of Antioxidation and Antitumor Activities of Polysaccharides</article-title>
+                    <source>Curr. Microbiol.</source>
+                    <year>2008</year>
+                    <volume>57</volume>
+                    <fpage>454</fpage>
+                    <lpage>462</lpage>
+                    <pub-id pub-id-type="doi">10.1007/s00284-008-9233-6</pub-id>
+                    <pub-id pub-id-type="pmid">18795365</pub-id>
+                </element-citation>
+            </ref>
+            <ref id="B62-ijms-18-01219">
+                <label>62.</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Wang</surname>
+                            <given-names>Q.</given-names>
+                        </name>
+                        <name>
+                            <surname>Mu</surname>
+                            <given-names>H.</given-names>
+                        </name>
+                        <name>
+                            <surname>Zhang</surname>
+                            <given-names>L.</given-names>
+                        </name>
+                        <name>
+                            <surname>Dong</surname>
+                            <given-names>D.</given-names>
+                        </name>
+                        <name>
+                            <surname>Zhang</surname>
+                            <given-names>W.</given-names>
+                        </name>
+                        <name>
+                            <surname>Duan</surname>
+                            <given-names>J.</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Characterization of two water-soluble lignin metabolites with
+                        antiproliferative activities from Inonotus obliquus</article-title>
+                    <source>Int. J. Biol. Macromol.</source>
+                    <year>2015</year>
+                    <volume>74</volume>
+                    <fpage>507</fpage>
+                    <lpage>514</lpage>
+                    <pub-id pub-id-type="doi">10.1016/j.ijbiomac.2014.12.044</pub-id>
+                    <pub-id pub-id-type="pmid">25583019</pub-id>
+                </element-citation>
+            </ref>
+        </ref-list>
+    </back>
+    <floats-group>
+        <fig id="ijms-18-01219-f001" orientation="portrait" position="float">
+            <label>Figure 1</label>
+            <caption>
+                <p>Schematic representation of a softwood lignin structure showing the different
+                    linkages. (Reprinted with permission from [<xref rid="B5-ijms-18-01219"
+                        ref-type="bibr">5</xref>]).</p>
+            </caption>
+            <graphic xlink:href="ijms-18-01219-g001" />
+        </fig>
+        <fig id="ijms-18-01219-f002" orientation="portrait" position="float">
+            <label>Figure 2</label>
+            <caption>
+                <p>Effect of lignosulfonic acid on preadipocyte proliferation. (<bold>a</bold>)
+                    Lignosulfonic acid was added to 3T3-L1 preadipocyte cells at concentrations of
+                    1.0 mg/mL and 2.0 mg/mL compared to control in the absence of lignosulfonic
+                    acid; (<bold>b</bold>) effect of lignosulfonic acid on the expression of
+                    C/EBP-&#x003b2;; (<bold>c</bold>) LDH content released into culture medium.
+                    Statistical significance was evaluated by Student&#x02019;s <italic>t</italic>-test
+                    (* <italic>p</italic> &#x0003c; 0.05). (Reprinted with permission from [<xref
+                        rid="B16-ijms-18-01219" ref-type="bibr">16</xref>]).</p>
+            </caption>
+            <graphic xlink:href="ijms-18-01219-g002" />
+        </fig>
+        <fig id="ijms-18-01219-f003" orientation="portrait" position="float">
+            <label>Figure 3</label>
+            <caption>
+                <p>Effect of Lignophenols (LPs) on the amount of cellular total cholesterol in HepG2
+                    cells incubated for 48 h in serum-free media containing different concentrations
+                    of LPS. The differences between means were significant at ** <italic>p</italic>
+                    &#x0003c; 0.01, compared with oleate-treated cultures (Reprinted with permission
+                    from [<xref rid="B20-ijms-18-01219" ref-type="bibr">20</xref>]).</p>
+            </caption>
+            <graphic xlink:href="ijms-18-01219-g003" />
+        </fig>
+        <fig id="ijms-18-01219-f004" orientation="portrait" position="float">
+            <label>Figure 4</label>
+            <caption>
+                <p>Cytotoxicity of Lignosulfonic acid (LA) on human T-cell leukemia cell line (MT-4)
+                    cells, human embryonic kidney cells (HEK293T) and peripheral blood mononuclear
+                    cells (PBMCs). (<bold>A</bold>) Dose dependent anti-HIV activity of LA in the
+                    CD4+ T-lymphoma cell line MT-4 against 3 laboratory HIV-1 strains (NL4.3, IIIB
+                    and HE) and 1 HIV-2 strain (ROD); (<bold>B</bold>) Evaluation of the IC50s of LA
+                    against various clinical isolates representing different of HIV-1 primary cells;
+                    (<bold>C</bold>) Dose-dependent effect of LA on the giant cell (syncytia)
+                    formation between persistently HIV-1 IIIB-infected T cells (HUT-78/IIIB) and
+                    non-infected CD4+ target SupT1 T cells; (<bold>D</bold>) Dashed lines correspond
+                    to 50%, (Reprinted with permission from [<xref rid="B25-ijms-18-01219"
+                        ref-type="bibr">25</xref>]).</p>
+            </caption>
+            <graphic xlink:href="ijms-18-01219-g004" />
+        </fig>
+        <fig id="ijms-18-01219-f005" orientation="portrait" position="float">
+            <label>Figure 5</label>
+            <caption>
+                <p>Sulfated low molecular weight lignins are complex three-dimensional oligomers
+                    obtained from enzymatic condensation of 4-hydroxycinnamic acid monomers using
+                    horseradish peroxidase followed by chemical sulfation using sulfur trioxide. The
+                    oligomers primarily contain &#x003b2;-<italic>O</italic>-4, &#x003b2;-5 and
+                    &#x003b2;&#x02013;&#x003b2; inter-residue linkages (shown shaded). (Reprinted
+                    with permission from [<xref rid="B43-ijms-18-01219" ref-type="bibr">43</xref>]).</p>
+            </caption>
+            <graphic xlink:href="ijms-18-01219-g005" />
+        </fig>
+        <fig id="ijms-18-01219-f006" orientation="portrait" position="float">
+            <label>Figure 6</label>
+            <caption>
+                <p>Schematic representation of the three types of lignin nanoparticles (LNPs) (<bold>
+                    A</bold>), and TEM images of (<bold>B</bold>) pLNPs, (<bold>C</bold>) Fe-LNPs
+                    and (<bold>D</bold>) Fe<sub>3</sub>O<sub>4</sub>-LNPs and magnification of the
+                    Fe<sub>3</sub>O<sub>4</sub> NPs inside the LNPs. (Reprinted with permission from
+                    [<xref rid="B52-ijms-18-01219" ref-type="bibr">52</xref>]).</p>
+            </caption>
+            <graphic xlink:href="ijms-18-01219-g006" />
+        </fig>
+        <fig id="ijms-18-01219-f007" orientation="portrait" position="float">
+            <label>Figure 7</label>
+            <caption>
+                <p>Scanning electron microcopy (SEM) images of (<bold>a</bold>) Zinc oxide
+                    nanoparticles (<bold>b</bold>) ligninnanoparticles organosolv and (<bold>c</bold>)
+                    lignin nanoparticles soda. (Reprinted with permission from [<xref
+                        rid="B53-ijms-18-01219" ref-type="bibr">53</xref>].</p>
+            </caption>
+            <graphic xlink:href="ijms-18-01219-g007" />
+        </fig>
+        <table-wrap id="ijms-18-01219-t001" orientation="portrait" position="float">
+            <object-id pub-id-type="pii">ijms-18-01219-t001_Table 1</object-id>
+            <label>Table 1</label>
+            <caption>
+                <p>Main pharmacological activities of lignins and their derivatives.</p>
+            </caption>
+            <table frame="hsides" rules="groups">
+                <thead>
+                    <tr>
+                        <th align="center" valign="middle"
+                            style="border-top:solid thin;border-bottom:solid thin" rowspan="1"
+                            colspan="1">Compound</th>
+                        <th align="center" valign="middle"
+                            style="border-top:solid thin;border-bottom:solid thin" rowspan="1"
+                            colspan="1">Effect</th>
+                        <th align="center" valign="middle"
+                            style="border-top:solid thin;border-bottom:solid thin" rowspan="1"
+                            colspan="1">Mechanism</th>
+                        <th align="center" valign="middle"
+                            style="border-top:solid thin;border-bottom:solid thin" rowspan="1"
+                            colspan="1">Experimental Model</th>
+                        <th align="center" valign="middle"
+                            style="border-top:solid thin;border-bottom:solid thin" rowspan="1"
+                            colspan="1">Reference</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td align="center" valign="middle" style="border-bottom:solid thin"
+                            rowspan="1" colspan="1">Alkali lignin</td>
+                        <td align="center" valign="middle" style="border-bottom:solid thin"
+                            rowspan="1" colspan="1">Antidiabetic</td>
+                        <td align="center" valign="middle" style="border-bottom:solid thin"
+                            rowspan="1" colspan="1">&#x003b1;-amylase inhibition In vitro decreased
+                            glucose diffusion</td>
+                        <td align="center" valign="middle" style="border-bottom:solid thin"
+                            rowspan="1" colspan="1">In vitro glucose movement</td>
+                        <td align="center" valign="middle" style="border-bottom:solid thin"
+                            rowspan="1" colspan="1">[<xref rid="B14-ijms-18-01219" ref-type="bibr">
+                            14</xref>]</td>
+                    </tr>
+                    <tr>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">Lignosulfonic
+                            acid</td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">Antidiabetic</td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">Inhibitor of
+                            &#x003b1;-glucosidase Decrease blood glycemia</td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">In vitro
+                            inhibitor of &#x003b1;-glucosidase Rat in vivo</td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">[<xref
+                                rid="B15-ijms-18-01219" ref-type="bibr">15</xref>]</td>
+                    </tr>
+                    <tr>
+                        <td align="center" valign="middle"
+                            style="border-top:solid thin;border-bottom:solid thin" rowspan="1"
+                            colspan="1">Lignophenols</td>
+                        <td align="center" valign="middle"
+                            style="border-top:solid thin;border-bottom:solid thin" rowspan="1"
+                            colspan="1">Obesity control</td>
+                        <td align="center" valign="middle"
+                            style="border-top:solid thin;border-bottom:solid thin" rowspan="1"
+                            colspan="1">Decrease oleate-induced apo-B secretion</td>
+                        <td align="center" valign="middle"
+                            style="border-top:solid thin;border-bottom:solid thin" rowspan="1"
+                            colspan="1">HepG2 in vitro</td>
+                        <td align="center" valign="middle"
+                            style="border-top:solid thin;border-bottom:solid thin" rowspan="1"
+                            colspan="1">[<xref rid="B20-ijms-18-01219" ref-type="bibr">20</xref>]</td>
+                    </tr>
+                    <tr>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">Lignophenols</td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">Obesity control</td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">Decrease plasma
+                            triglyceride levels</td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">Rats fed a
+                            high-fat diet</td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">[<xref
+                                rid="B21-ijms-18-01219" ref-type="bibr">21</xref>]</td>
+                    </tr>
+                    <tr>
+                        <td align="center" valign="middle"
+                            style="border-top:solid thin;border-bottom:solid thin" rowspan="1"
+                            colspan="1">Lignosulfonic acid</td>
+                        <td align="center" valign="middle"
+                            style="border-top:solid thin;border-bottom:solid thin" rowspan="1"
+                            colspan="1">Antiviral activity</td>
+                        <td align="center" valign="middle"
+                            style="border-top:solid thin;border-bottom:solid thin" rowspan="1"
+                            colspan="1">Inhibition of the replication of herpes simplex virus (HSV)</td>
+                        <td align="center" valign="middle"
+                            style="border-top:solid thin;border-bottom:solid thin" rowspan="1"
+                            colspan="1">Infected mice by exposing scarified skin to an HSV-2 G</td>
+                        <td align="center" valign="middle"
+                            style="border-top:solid thin;border-bottom:solid thin" rowspan="1"
+                            colspan="1">[<xref rid="B24-ijms-18-01219" ref-type="bibr">24</xref>]</td>
+                    </tr>
+                    <tr>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">Lignosulfonic
+                            acid (LA)</td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">Antiviral
+                            activity</td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">LA mainly binds
+                            to the HIV-1 envelope glycoproteins</td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">In vitro cells:
+                            T-lymphoma cell lines, HEK293T, HUT-78, Monocyte-derived dendritic cells</td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">[<xref
+                                rid="B25-ijms-18-01219" ref-type="bibr">25</xref>]</td>
+                    </tr>
+                    <tr>
+                        <td align="center" valign="middle"
+                            style="border-top:solid thin;border-bottom:solid thin" rowspan="1"
+                            colspan="1">Lignin&#x02013;carbohydrate complexes</td>
+                        <td align="center" valign="middle"
+                            style="border-top:solid thin;border-bottom:solid thin" rowspan="1"
+                            colspan="1">Antiviral activity</td>
+                        <td align="center" valign="middle"
+                            style="border-top:solid thin;border-bottom:solid thin" rowspan="1"
+                            colspan="1">Inhibiting viral binding and penetration</td>
+                        <td align="center" valign="middle"
+                            style="border-top:solid thin;border-bottom:solid thin" rowspan="1"
+                            colspan="1">Vero cells infected with herpes simplex virus</td>
+                        <td align="center" valign="middle"
+                            style="border-top:solid thin;border-bottom:solid thin" rowspan="1"
+                            colspan="1">[<xref rid="B35-ijms-18-01219" ref-type="bibr">35</xref>]</td>
+                    </tr>
+                    <tr>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">Lignin&#x02013;carbohydrate
+                            complexes</td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">Antiviral
+                            activity</td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">Inhibiting viral
+                            binding and penetration</td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">HeLa cells
+                            infected with herpes simplex virus</td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">[<xref
+                                rid="B38-ijms-18-01219" ref-type="bibr">38</xref>]</td>
+                    </tr>
+                    <tr>
+                        <td align="center" valign="middle"
+                            style="border-top:solid thin;border-bottom:solid thin" rowspan="1"
+                            colspan="1">Sulfated low-molecular-weight lignins</td>
+                        <td align="center" valign="middle"
+                            style="border-top:solid thin;border-bottom:solid thin" rowspan="1"
+                            colspan="1">Anticoagulant</td>
+                        <td align="center" valign="middle"
+                            style="border-top:solid thin;border-bottom:solid thin" rowspan="1"
+                            colspan="1">Inhibition of thrombin</td>
+                        <td align="center" valign="middle"
+                            style="border-top:solid thin;border-bottom:solid thin" rowspan="1"
+                            colspan="1">Binding to thrombin</td>
+                        <td align="center" valign="middle"
+                            style="border-top:solid thin;border-bottom:solid thin" rowspan="1"
+                            colspan="1">[<xref rid="B43-ijms-18-01219" ref-type="bibr">43</xref>]</td>
+                    </tr>
+                    <tr>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">Sulfated
+                            low-molecular-weight lignins</td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">Anticoagulant</td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">Allosteric
+                            inhibition of thrombin</td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">Whole blood
+                            thromboelastography, hemostasis analysis and mouse arterial thrombosis
+                            models</td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">[<xref
+                                rid="B44-ijms-18-01219" ref-type="bibr">44</xref>]</td>
+                    </tr>
+                    <tr>
+                        <td align="center" valign="middle"
+                            style="border-top:solid thin;border-bottom:solid thin" rowspan="1"
+                            colspan="1">Sulfated low-molecular-weight lignins</td>
+                        <td align="center" valign="middle"
+                            style="border-top:solid thin;border-bottom:solid thin" rowspan="1"
+                            colspan="1">Antiemphysema</td>
+                        <td align="center" valign="middle"
+                            style="border-top:solid thin;border-bottom:solid thin" rowspan="1"
+                            colspan="1">Elastase, oxidation and inflammation inhibition</td>
+                        <td align="center" valign="middle"
+                            style="border-top:solid thin;border-bottom:solid thin" rowspan="1"
+                            colspan="1">In vitro human alveolar A549 and bronchial Calu-3 epithelial
+                            cells</td>
+                        <td align="center" valign="middle"
+                            style="border-top:solid thin;border-bottom:solid thin" rowspan="1"
+                            colspan="1">[<xref rid="B46-ijms-18-01219" ref-type="bibr">46</xref>]</td>
+                    </tr>
+                </tbody>
+            </table>
+        </table-wrap>
+    </floats-group>
+</article>

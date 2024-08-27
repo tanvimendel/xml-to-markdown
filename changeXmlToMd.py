@@ -174,14 +174,14 @@ def read_xml_file(file_path):
     with open(file_path, 'r', encoding='utf-8') as file:
         return file.read()
 
-def save_markdown_file(markdown_text, filename="outputMds/PMC11207375.md"):
+def save_markdown_file(markdown_text, filename="outputMds/PMC5486042.md"):
     """Save the generated markdown text to a file."""
     with open(filename, "w") as file:
         file.write(markdown_text)
 
 if __name__ == "__main__":
     # Read the XML content from a file
-    xml_content = read_xml_file("testXmls/PMC11207375.xml")
+    xml_content = read_xml_file("testXmls/PMC5486042.xml")
 
     # Convert XML to Markdown
     markdown_text = convert_to_markdown(xml_content)
